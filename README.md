@@ -1,4 +1,4 @@
-# carbon Energy Card
+# Carbon Energy Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 ![Version](https://img.shields.io/badge/version-3.3.5-blue.svg)
@@ -17,9 +17,9 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 [![Open your Home Assistant instance and add this repository to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)][install]
 
-![carbon Energy Card](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/Images/screen.jpg)
+![Carbon Energy Card](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/Images/screen.jpg)
 
-*carbon Energy Card – main view with energy flows, PV, battery, grid, and house*
+*Carbon Energy Card – main view with energy flows, PV, battery, grid, and house*
 
 ---
 
@@ -27,18 +27,7 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 ### Overview
 
-carbon Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and **version 3.3.5** enhancements.
-
-### What's new in 3.3.5
-
-- **Bug fixes:** Fixed [#275](https://github.com/PROGNET-SK/carbon-energy-card/issues/275), [#273](https://github.com/PROGNET-SK/carbon-energy-card/issues/273), [#272](https://github.com/PROGNET-SK/carbon-energy-card/issues/272).
-- **Text colors:** You can now change the color **individually** for each auto-related text (PV, battery, grid, etc.), and change the color of the **house absorption** text from the editor.
-- **4 independent batteries with SVG logo and fill:** You can now use **up to 4 batteries**, each with its own **SVG logo** and **fill level** (SOC-based), all independent. Configure each battery’s sensors, position, and style in the editor.
-- **Day/Night background:** You can set a **night background image** that switches **automatically** from day to night. The card uses the sun entity (e.g. `sun.sun`) to detect sunrise/sunset; you can also force “night view” with a toggle.  
-  **Where to upload the night image:** Place your image file (**`night.jpg`** or **`night.png`**) in your Home Assistant www folder for the card, for example:
-  - **`/config/www/community/carbon-energy-card/`** (if you use `config`), or  
-  - **`/homeassistant/www/community/carbon-energy-card/`** (e.g. in some installs).  
-  Then use the URL **`/local/community/carbon-energy-card/night.jpg`** (or **`night.png`**) in the editor under **Day/Night Background**. After uploading, **reload the frontend** (or the integration) and refresh the page so the image is served correctly.
+Carbon Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and recent enhancements.
 
 ### What's new in 3.3.3
 
@@ -72,7 +61,7 @@ carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 - **Home temperature sensor:** A **house temperature sensor** can be displayed on the card (e.g. living room temperature).
 - **Digital clock:** An **optional digital clock** shows the current time on the card (style and position configurable).
 - **All texts drag-and-drop:** **Every text label** on the card (PV, battery, grid, load, etc.) is **draggable** in the editor preview so you can place them exactly where you want.
-- **Russian and Portuguese:** The card and editor are fully translated into **Russian** and **Portuguese** (in addition to EN, IT, DE, FR, NL).
+- **Russian and Portuguese:** The card and editor are fully translated into **Russian** and **Portuguese** (in addition to EN, IT, DE, FR, NL, SK).
 - **Fix #188 (GitHub):** Resolved the issue reported in [GitHub #188](https://github.com/PROGNET-SK/carbon-energy-card/issues/188).
 
 ### Performance note (important for Raspberry Pi / low-power kiosks)
@@ -87,12 +76,12 @@ carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 
 **One-click install (HACS):**  
 [![Open your Home Assistant instance and add this repository to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)][install]  
-Click the badge → your Home Assistant opens → the repo is added to HACS. Then go to **HACS → Frontend**, search **carbon Energy Card**, and install. Finally: **Dashboard → Edit → Add card → carbon Energy Card**.
+Click the badge → your Home Assistant opens → the repo is added to HACS. Then go to **HACS → Frontend**, search **Carbon Energy Card**, and install. Finally: **Dashboard → Edit → Add card → Carbon Energy Card**.
 
 **HACS (manual):**
 1. HACS → Frontend → Custom repositories → Add `https://github.com/PROGNET-SK/carbon-energy-card` (category: Dashboard).
-2. Search **carbon Energy Card**, install it.
-3. Dashboard → Edit → Add card → **carbon Energy Card**.
+2. Search **Carbon Energy Card**, install it.
+3. Dashboard → Edit → Add card → **Carbon Energy Card**.
 
 **Manual (no HACS):** Place `carbon-energy-card.js` and `lumina_background.png` in `/config/www/community/carbon-energy-card/`, add the Lovelace resource, restart Home Assistant.
 
@@ -272,7 +261,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 | Gallery | Editor → **Gallery** | Share your template to the gallery; browse and apply templates from others; Top & 30-day winner |
 | Solar forecast | **PRO** section | Estimated solar production + holographic sun (icon always visible) |
 | PRO (motion, overlay, etc.) | **PRO** section + **`pro_password`** | Motion-based text, overlay images, custom flows/text |
-| Languages | **Language** (editor) | EN, IT, DE, FR, NL, **RU**, **PT** |
+| Languages | **Language** (editor) | EN, IT, DE, FR, NL, **RU**, **PT**, **SK** |
 
 ---
 
@@ -286,81 +275,59 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 
 ---
 
-## Italiano
+## Slovenčina
 
-### Panoramica
+### Prehľad
 
-carbon Energy Card è una scheda Lovelace personalizzata per Home Assistant che mostra flussi energetici animati (PV, batteria, rete, carico, pompa di calore, EV), aggrega stringhe FV e batterie e supporta metriche opzionali per EV e pompa di calore. Include **Gestione casa** (telecamere, luci, temperatura, umidità, keypad sicurezza), **popup interattivi** con toggle, pulsanti rotondi (Echo Alive, Toggle testi, HOME), funzioni **PRO** (visibilità testi con sensore movimento, overlay, flussi personalizzati), **Import & Export** per il backup della configurazione e le **novità 3.3.5**.
+Carbon Energy Card je vlastná karta Lovelace pre Home Assistant, ktorá zobrazuje animované toky energie (PV, batéria, sieť, záťaž, tepelné čerpadlo, EV), agreguje PV stringy a batérie a podporuje voliteľné metriky nabíjania EV a tepelného čerpadla. Obsahuje **Správu domácnosti** (kamery, svetlá, teplota, vlhkosť, bezpečnostná klávesnica), **interaktívne vyskakovacie okná** s prepínačmi, okrúhle tlačidlá (Echo Alive, Prepínač textu, DOMOV), **PRO** funkcie (viditeľnosť textového zobrazenia na základe pohybu, obrázky prekrytia, vlastné toky), **Import a export** pre zálohu konfigurácie a najnovšie vylepšenia.
 
-### Novità in 3.3.5
+### Čo je nové vo verzii 3.3.3
 
-- **Correzioni bug:** Risolti [#275](https://github.com/PROGNET-SK/carbon-energy-card/issues/275), [#273](https://github.com/PROGNET-SK/carbon-energy-card/issues/273), [#272](https://github.com/PROGNET-SK/carbon-energy-card/issues/272).
-- **Colori testi:** Puoi ora cambiare il colore **singolarmente** per ogni testo (PV, batteria, rete, ecc.) e il colore del testo **assorbimento casa** dall’editor.
-- **4 batterie indipendenti con logo SVG e riempimento:** Puoi usare **fino a 4 batterie**, ciascuna con **logo SVG** e **livello di riempimento** (basato sul SOC), tutte indipendenti. Configura sensori, posizione e stile per ogni batteria dall’editor.
-- **Sfondo giorno/notte:** Puoi impostare un’**immagine di sfondo notturna** che viene **alternata automaticamente** tra giorno e notte. La card usa l’entità sole (es. `sun.sun`) per rilevare alba/tramonto; puoi anche forzare la “vista notte” con un toggle.  
-  **Dove caricare l’immagine notturna:** Metti il file (**`night.jpg`** o **`night.png`**) nella cartella www di Home Assistant della card, ad esempio:
-  - **`/config/www/community/carbon-energy-card/`** (se usi `config`), oppure  
-  - **`/homeassistant/www/community/carbon-energy-card/`** (in alcune installazioni).  
-  Poi usa l’URL **`/local/community/carbon-energy-card/night.jpg`** (o **`night.png`**) nell’editor nella sezione **Sfondo giorno/notte**. Dopo il caricamento **ricarica il frontend** (o l’integrazione) e aggiorna la pagina perché l’immagine venga servita correttamente.
+- **Galéria:** Zdieľajte svoje šablóny dashboardov s komunitou a prehliadajte si tie od iných. Z editora použite **"Share to gallery"** na odoslanie šablóny (názov, popis, autor, email, pravidlá). Jedno zdieľanie na používateľa mesačne. **"Top"** ukazuje najobľúbenejšie šablóny; 30-dňový časovač sa resetuje a upozorní víťaza.
+- **Oprava chyby – Textové tlačidlo:** Prepínač textu už nezmizne, keď je tlačidlo DOMOV vypnuté.
+- **Farba hodín:** Teraz môžete zmeniť farbu digitálnych hodín priamo v editore.
+- **Oprava chyby – Tok Menič ↔ Dom:** Opravené zobrazenie toku energie medzi meničom a domom.
+- **Oprava chyby – SVG solárna predpoveď:** Ikona solárnej predpovede (slnko/dážď) je teraz vždy viditeľná, keď je solárna predpoveď povolená, aj keď je zapnuté "Skryť texty".
+- **PV Box a Grid Box:** Boxy pre fotovoltiku a sieť môžete teraz zakázať priamo z ich príslušných sekcií v editore.
 
-### Novità in 3.3.3
+### Čo je nové vo verzii 3.1.2
 
-- **Galleria:** Condividi i template della tua dashboard con la community e sfoglia i template condivisi da altri. Dall’editor usa **"Condividi in galleria"** per inviare un template (nome, descrizione, autore, email, regole). Un invio per utente al mese. La **"Top"** mostra i template più popolari; un timer di 30 giorni si resetta e notifica il vincitore.
-- **Correzione – Pulsante Testo:** Il pulsante toggle testi non scompare più quando il pulsante HOME è disattivato.
-- **Colore orologio:** Ora puoi cambiare il colore dell’orologio digitale dall’editor.
-- **Correzione – Flusso inverter ↔ casa:** Corretto il flusso energetico tra inverter e casa.
-- **Correzione – SVG previsione solare:** L’icona della previsione solare (sole/pioggia) è ora sempre visibile quando la previsione è attiva, anche con "Nascondi testi" attivo.
+- **🛡️ Už nikdy nestratíte svoju konfiguráciu:** Tlačidlá Import a Export vám umožnia lokálne uložiť vašu zostavu a okamžite ju obnoviť. Vaše dáta sú konečne v bezpečí.
+- **Rozšírená podpora stringov:** Až 9 stringov pre komplexné inštalácie.
+- **Inteligentná viditeľnosť toku:** Línia toku automaticky zmizne, keď výkon klesne pod nastavenú hranicu, čím udržuje dashboard čistý.
+- **Rozhranie Drag & Drop:** Sekcie PV Box a Grid Box sú teraz plne ovládateľné pomocou "potiahni a pusť" — presuňte a usporiadajte ich presne tam, kam chcete.
+- **Prispôsobiteľný Array 2:** Teraz môžete upraviť text v rámci Array 2.
+- **Opravy chýb:** Opravené #212, #208.
 
-- **PV Box e Grid Box:** Ora puoi disattivare PV Box e Grid Box direttamente dalle rispettive sezioni nell'editor.
+### Čo je nové vo verzii 3.0
 
-### Novità in 3.1.2
+- **Bezpečnostná klávesnica (PIN):** V Správa domácnosti → Bezpečnosť môžete priradiť entitu **keypad**. Klávesnica zobrazuje číselník PIN s **farbami, ktoré sa menia podľa stavu** (napr. zapnuté, vypnuté, čakajúce).
+- **Kamera na celú obrazovku pri pohybe:** Keď je detegovaný pohyb (napr. pomocou pohybového senzora), **vyskakovacie okno kamery sa môže roztiahnuť na celú obrazovku**, aby ste jasne videli záznam.
+- **Vlastné prahové hodnoty:** V kategórii farieb tokov môžete nastaviť **prah viditeľnosti toku**, **prah animácie PV** a **prah animácie siete**.
+- **Animácia počítadla: dom alebo menič:** Môžete si vybrať, či **animované počítadlo** zobrazuje **spotrebu domu** alebo **meniča** (napr. celkové PV).
+- **10 vlastných slotov pre toky:** PRO sekcia teraz podporuje **10 vlastných energetických tokov** (predtým 5).
+- **Prekrytia a toky v PRO a Náhľade:** **Prekrývajúce obrázky** a **vlastné toky** je možné upravovať v sekcii PRO aj pomocou potiahnutia v náhľade.
+- **Vlastné pozadie:** Môžete použiť **vlastné pozadie** pomocou URL alebo nahratia obrázka.
+- **Upraviteľný text array:** **Text zobrazený vedľa každého PV/array** je možné **prispôsobiť**.
+- **Ruština a Portugalčina:** Karta a editor sú preložené do ďalších jazykov.
 
-- **🛡️ Mai più perdere la configurazione:** I pulsanti Import e Export ti permettono di salvare la configurazione in locale e ripristinarla all'istante. I tuoi dati sono al sicuro.
-- **Supporto stringhe espanso:** Fino a 9 stringhe per configurazioni complesse.
-- **Visibilità flussi intelligente:** La linea del flusso scompare automaticamente quando la potenza scende sotto la soglia, mantenendo la dashboard pulita.
-- **Interfaccia Drag & Drop:** Le sezioni PV Box e Grid Box sono ora completamente trascinabili — posizionale dove preferisci.
-- **Array 2 personalizzabile:** Puoi ora modificare il testo nell'Array 2.
-- **Correzioni bug:** Risolti #212, #208.
+### Poznámka k výkonu (dôležité pre Raspberry Pi / slabšie zariadenia)
 
-### Novità in 3.0
+- **Kde sa meria výkon**: karta beží v **prehliadači** (frontend).
+- **`performance_mode: low`**: niektoré náročné štýly animácií sú **automaticky zjednodušené**, aby bola zachovaná odozva UI (napríklad prechod z `shimmer` na `dots`).
+- **`performance_mode: auto`**: predvolený vyvážený režim. Automaticky sa podtaktuje pri slabšom výkone klienta.
 
-- **Keypad sicurezza (PIN):** In Gestione casa → Sicurezza puoi assegnare un’entità **keypad**. Il keypad mostra una tastierina PIN con **colori che cambiano in base allo stato** (es. armato, disarmato, in attesa).
-- **Telecamera a tutto schermo al movimento:** Al **rilevamento di movimento** (es. tramite sensore movimento), il popup della **telecamera può espandersi a tutto schermo** per vedere il flusso a schermo intero.
-- **Soglie personalizzabili:** In **Colori Flussi** puoi impostare **soglia visibilità flussi**, **soglia animazione FV** (disattiva l’animazione fotovoltaico sotto una certa potenza in W) e **soglia animazione rete**.
-- **Animazione contatore: casa o inverter:** Puoi scegliere se il **contatore animato** mostra il **consumo casa** o l’**inverter** (es. PV totale) — configurabile nell’editor.
-- **10 slot per flussi custom:** La sezione PRO supporta ora **10 flussi energetici personalizzati** (prima 5), ciascuno con sensore, percorso, colore, direzione e soglia.
-- **Overlay e flussi in PRO e Preview:** **Overlay** e **flussi personalizzati** sono modificabili sia nella sezione **PRO** sia nella **Preview carbon (drag)** — trascina per posizionare overlay e flussi nella preview.
-- **Sfondo personalizzato:** Puoi usare un **tuo sfondo** **caricando un’immagine** (URL o path locale) o **generandone uno con IA** tramite token (PRO). Non sei più limitato agli sfondi inclusi.
-- **Testo array modificabile:** Il **testo accanto a ogni stringa/array FV** può essere **personalizzato** (es. “Stringa 1”, “Array 2”) dall’editor.
-- **Box Grid e Box PV – scegli cosa mostrare:** **Box rete** e **Box PV** permettono ora di **scegliere cosa visualizzare** (es. potenza, giornaliero o sensori custom) in base alle tue esigenze.
-- **Sensore temperatura casa:** Un **sensore temperatura casa** può essere mostrato sulla card (es. temperatura soggiorno).
-- **Orologio digitale:** Un **orologio digitale** opzionale mostra l’ora corrente sulla card (stile e posizione configurabili).
-- **Tutti i testi drag-and-drop:** **Ogni etichetta di testo** sulla card (PV, batteria, rete, carico, ecc.) è **trascinabile** nella preview dell’editor per posizionarla dove vuoi.
-- **Russo e portoghese:** Card e editor sono tradotti in **russo** e **portoghese** (oltre a EN, IT, DE, FR, NL).
-- **Fix #188 (GitHub):** Risolto il problema segnalato in [GitHub #188](https://github.com/PROGNET-SK/carbon-energy-card/issues/188).
+### Inštalácia
 
-### Nota prestazioni (importante per Raspberry Pi / kiosk)
+**Inštalácia jedným kliknutím (HACS):**  
+Vo vašom Home Assistant inštalácií prejdite do HACS, pridajte repozitár a nainštalujte **Carbon Energy Card**. Pridajte kartu na Dashboard.
 
-- **Dove si misurano le prestazioni**: la card gira nel **browser** (frontend). Se usi un Raspberry Pi come kiosk (Chromium), CPU/RAM/INP dipendono dal browser sul Pi.
-- **`performance_mode: low`**: alcuni stili “pesanti” vengono **semplificati automaticamente** per mantenere la UI reattiva (INP migliore).  
-  In particolare, **`shimmer` / `arrows` / `fluid_flow`** vengono convertiti in **`dots`** in modalità low.
-- **`performance_mode: auto`**: di default è “bilanciato”, ma su device poco potenti può **scendere automaticamente a low** per reattività.
-- **Vuoi usare tutti gli stili comunque?** Imposta **`performance_mode: high`** (più CPU/GPU).
+**HACS (manuálne):**
+1. HACS → Frontend → Vlastné repozitáre → Pridať `https://github.com/PROGNET-SK/carbon-energy-card` (kategória: Dashboard).
+2. Vyhľadajte **Carbon Energy Card** a nainštalujte ju.
+3. Dashboard → Upraviť → Pridať kartu → **Carbon Energy Card**.
 
-### Installazione
-
-**Installa direttamente (HACS, un clic):**  
-[![Apri Home Assistant e aggiungi questo repository a HACS](https://my.home-assistant.io/badges/hacs_repository.svg)][install]  
-Clicca il badge → si apre la tua istanza Home Assistant → il repository viene aggiunto a HACS. Poi vai in **HACS → Frontend**, cerca **carbon Energy Card** e installala. Infine: **Dashboard → Modifica → Aggiungi scheda → carbon Energy Card**.
-
-**HACS (manuale):**
-1. HACS → Frontend → Custom repositories → Aggiungi `https://github.com/PROGNET-SK/carbon-energy-card` (categoria: Dashboard).
-2. Cerca **carbon Energy Card**, installala.
-3. Dashboard → Modifica → Aggiungi scheda → **carbon Energy Card**.
-
-**Manuale (senza HACS):** Copia `carbon-energy-card.js` e `lumina_background.png` in `/config/www/community/carbon-energy-card/`, aggiungi la risorsa Lovelace e riavvia Home Assistant.
-
-### Configurazione minima
+### Minimálna konfigurácia
 
 ```yaml
 type: custom:carbon-energy-card
@@ -373,176 +340,66 @@ sensor_grid_power: sensor.grid_power
 background_image: /local/community/carbon-energy-card/lumina_background.png
 ```
 
-Usa l’**editor visivo** della scheda (Modifica → carbon) per configurare entità, colori e opzioni.
+Použite vizuálny editor karty (Úprava → carbon) pre konfiguráciu entít, farieb a možností.
 
 ---
 
-### Ultime novità – come usarle
+### Najnovšie funkcie – ako ich používať
 
-#### 1. Gestione casa (telecamere, luci, temperatura, umidità)
+#### 1. Správa domácnosti (kamery, svetlá, teplota, vlhkosť)
 
-- **Pulsante HOME:** Sulla card compare un pulsante rotondo **HOME** (insieme a Echo Alive e Toggle testi, se abilitati). Cliccandolo si apre un **pannello laterale** a destra con **5 icone**: Telecamera, Luci, Temperatura, Sicurezza, Umidità.
-- **Assegnare le entità:** Nell’editor apri la sezione **“Gestione casa”**. Puoi configurare fino a **6 entità per icona**:
-  - **`house_camera_1` … `house_camera_6`:** Entità telecamera. Clic sull’icona **Telecamera** → popup con griglia delle telecamere.
-  - **`house_lights_1` … `house_lights_6`:** Luci o interruttori. Clic su **Luci** → elenco con pulsanti **ON** / **OFF**.
-  - **`house_temperature_1` … `house_temperature_6`:** Sensori temperatura. Clic su **Temperatura** → elenco con nomi e valori (°C).
-  - **`house_humidity_1` … `house_humidity_6`:** Sensori umidità. Clic su **Umidità** → elenco con nomi e valori (%).
-  - **`house_security_1` … `house_security_6`:** Keypad sicurezza (PIN). Clic su **Sicurezza** → tastierina PIN; i **colori cambiano in base allo stato** (armato, disarmato, in attesa, ecc.).
+- **Tlačidlo DOMOV:** Na karte sa zobrazí okrúhle tlačidlo **HOME**. Po kliknutí naň sa otvorí bočný panel obsahujúci **5 ikon**: Kamera, Svetlá, Teplota, Bezpečnosť, Vlhkosť.
+- **Priradenie entít:** V editore otvorte sekciu **"Správa domácnosti"**. Nakonfigurujte až **6 entít na ikonu**.
+- **Vyskakovacie okno kamier:** Každá kamera má tlačidlo štart a stop. Prehrávanie nezačína automaticky.
+- **Vyskakovacie okno svetiel:** Každé svetlo zobrazuje stav a ovládacie prvky ZAPNUTÉ / VYPNUTÉ.
 
-**Popup telecamere:**
-- Ogni telecamera ha **▶ Avvia** e **■ Stop**. Gli stream **non** partono da soli: clicca **▶ Avvia** per avviare.
-- Se la telecamera lo supporta, la card usa lo **streaming live** (`ha-camera-stream`). Altrimenti mostra **istantanee** aggiornate periodicamente.
-- Chiudi il popup con **×** o cliccando sull’overlay scuro. È bene cliccare **■ Stop** prima di chiudere; in alternativa la card interrompe gli stream automaticamente alla chiusura.
+#### 2. Interaktívne vyskakovacie okná (PV, Batéria, Sieť, Dom, Invertor)
 
-**Popup luci:**
-- Ogni luce/interruttore mostra lo stato (On/Off) e i pulsanti **ON** / **OFF**. La card chiama `light.turn_on` / `light.turn_off` o `switch.turn_on` / `switch.turn_off` in automatico.
-
----
-
-#### 2. Popup interattivi (PV, Batteria, Rete, Casa, Inverter)
-
-- **Aree cliccabili:** Clicca su **PV** (badge giornaliero / pannelli), **Batteria**, **Rete**, **Casa** o **Inverter** per aprire il rispettivo popup.
-- **Fino a 6 righe per popup:** Nell’editor usa `sensor_popup_pv_1` … `sensor_popup_pv_6` (e analoghi per `house`, `bat`, `grid`, `inverter`). Puoi impostare nomi personalizzati (`sensor_popup_pv_1_name`, ecc.) e colori.
-- **Toggle nei popup:** Se assegni **entità attive** (es. luci, interruttori), nel popup compaiono **toggle** per accenderle/spegnerle direttamente, senza usare altre schede.
-- **Chiusura:** Clicca sullo **sfondo del popup** (il rettangolo semi‑trasparente), non sul contenuto, per chiudere. Così si evita di chiudere per sbaglio mentre si usano i toggle.
-
----
+- **Klikateľné oblasti:** Kliknutím na tieto časti otvoríte príslušné okno.
+- **Prepínače v oknách:** Umožňujú priame aktívne prepínanie spínačov alebo svetiel, bez otvárania ďalšej karty.
 
 #### 3. Echo Alive (Echo Show / Alexa)
 
-- **Scopo:** Mantiene la dashboard attiva sugli **Echo Show**. Il browser Silk tende a sospendere o chiudere la pagina; Echo Alive lo contrasta.
-- **Uso:** Abilita **`enable_echo_alive`** nell’editor (Pulsanti e visibilità testi). Compare un **pulsante rotondo** come primo a sinistra. Su Echo Show, tieni la dashboard aperta su una vista con carbon e Echo Alive attivo; la card “sveglia” la pagina per evitare la sospensione.
+- **Účel:** Udržuje dashboard aktívny na zariadeniach **Echo Show**. Prehliadač Silk má tendenciu pozastaviť alebo zavrieť stránku; Echo Alive tomu zabraňuje.
+
+#### 4. Prepínač textu a "Čistý režim"
+
+- **Prepínač textu:** Povolí zobraziť/skryť všetky textové popisy, čím dosiahnete len grafické zobrazenie.
+
+#### 5. Batéria: režim toku vs režim nabíjania/vybíjania
+
+- Zvoľte, či používate **jeden senzor s formátom plus/mínus**, alebo **dva oddelené senzory** na nabíjanie a vybíjanie.
+
+#### 6. Štýl animácie a výkon
+
+- Vyberte z viacerých štýlov animácie tokov energie a upravte rýchlosť, alebo dolaďte celkový výkon ovládača.
+
+#### 7. Solárna predpoveď (PRO)
+
+- Zobrazte **odhadovanú solárnu produkciu** s farebným ikonickým slnkom a meničom slnečnej aktivity.
+
+#### 8. Galéria a šablóny
+
+- Vy a celá komunita môžete zdieľať zozbierané šablóny kariet priamo z editora. Nájdete tu zoznam inšpirácií vrátane odmien za najobľúbenejšie verzie.
+
+#### 9. PRO sekcia
+
+- PRO funkcie poskytujú pokročilé prvky ako detekciu pohybu (na tabletových inštaláciách), kde viditeľnosť textu zostáva na obmedzený čas aktívna, či až 10 vlastných prekrytí a energetických tokov. Vyžaduje PRO heslo.
 
 ---
 
-#### 4. Toggle testi e “modalità pulita”
+### Riešenie problémov
 
-- **Toggle testi:** Abilita **`enable_text_toggle_button`** per mostrare il pulsante rotondo **Testo**. Cliccandolo **mostri o nascondi** tutte le etichette (PV, batteria, rete, ecc.) e usi la card in **modalità pulita**, solo grafica.
-- **Stato iniziale:** Puoi nascondere i testi di default e mostrarli solo quando serve tramite il toggle.
-
----
-
-#### 5. Batteria: modalità flow e carica/scarica
-
-- **`battery_power_mode`** nell’editor:
-  - **`flow`** (predefinito): Un solo sensore **con segno** (`sensor_battery_flow`). **Positivo** = carica (flusso verso batteria), **negativo** = scarica (flusso verso inverter).
-  - **`charge_discharge`**: Due sensori separati, `sensor_battery_charge` e `sensor_battery_discharge`. Carica → flusso verso batteria, scarica → flusso verso inverter.
+- **Karta sa nezobrazuje:** Skontrolujte správnosť Lovelace a vyčistite medzipamäť prehliadača.
+- **Hodnoty sú nulové:** Overte ID entít a či vaše senzory reálne existujú.
+- **Chyba kamery 403:** Kamery musia podporovať `access_token`. Pred zatvorením vždy použite **Stop**.
+- **Prehliadač reaguje pomaly:** Zvýšte `update_interval` v editore karty.
 
 ---
 
-#### 5b. Griglia SOC batteria (barra a 6 segmenti) + toggle
+### Licencia a podpora
 
-- **Cos’è:** una barra SOC a 6 segmenti sulla batteria (sembra una “griglia” sulla batteria).
-- **Toggle:** abilita/disabilita dall’editor con **`battery_overlay_enabled`** (attiva anche l’immagine overlay batteria).
-- **Posizione/dimensione:** `battery_overlay_x`, `battery_overlay_y`, `battery_overlay_width`, `battery_overlay_height`, `battery_overlay_opacity`.
+- **Licencia:** MIT. Úplné znenie - [LICENSE](LICENSE).
+- **Hlásenia a požiadavky:** [GitHub](https://github.com/PROGNET-SK/carbon-energy-card).
 
----
-
-#### 6. Stile animazioni (shimmer, tratteggi, punti, frecce)
-
-- **`animation_style`** (in **Colori flussi** o **Stili animazioni**):  
-  **`shimmer`** (predefinito), **`dashes`**, **`dots`**, **`arrows`**.
-- **`animation_speed_factor`:** Regola la velocità (es. `1` = normale, `2` = più veloce). Con `0` le animazioni sono in pausa.
-
----
-
-#### 6b. Prestazioni (Impostazioni generali)
-
-- Nella sezione **Impostazioni generali** puoi scegliere il profilo prestazioni con **`performance_mode`**:
-  - `auto` (predefinito): bilanciato
-  - `low`: riduce l’uso CPU (animazioni più leggere)
-  - `high`: animazioni più fluide (più CPU)
-
----
-
-#### 7. Previsione solare (PRO)
-
-- **Scopo:** Mostra la **produzione solare stimata** con un **sole olografico ciano** e testo stato (tanto/moderato/poco sole).
-- **Attivazione:** Nell’editor, apri la sezione **PRO** e imposta:
-  - `solar_forecast_enabled: true`
-  - `sensor_solar_forecast: sensor.xxx` (il tuo sensore)
-  - `solar_forecast_max_power` (es. 10000 W)
-- **Posizione & stile:** Regola `solar_forecast_x`, `solar_forecast_y`, `solar_forecast_color` (default **#00FFFF**) e `solar_forecast_size`.
-- **Nota:** Se non compare, verifica che il sensore abbia un valore numerico e che il **Toggle testi** non stia nascondendo i testi.
-
----
-
-#### 8. Sezione PRO (funzionalità extra)
-
-Le funzioni PRO richiedono la **password PRO** (`pro_password`), sbloccabile dalla sezione PRO dell’editor (supporto PayPal).
-
-- **Sensore movimento visibilità testi (`text_visibility_sensor`):**  
-  Imposta un’entità **movimento** (es. `binary_sensor.corridoio_motion`). Al **movimento** i **testi compaiono** e restano visibili per **60 secondi** dopo l’ultimo movimento. Ideale per **tablet a muro con telecamera**: i testi si vedono solo quando qualcuno è davanti al dispositivo.  
-  Se usi il **Toggle testi** per mostrare i testi, la visibilità dipende solo dal pulsante (nessun timeout da movimento).
-
-- **Overlay immagini:**  
-  Fino a **10 PNG trasparenti** sopra lo sfondo principale (es. seconda auto, piscina, pala eolica). Configura **`overlay_image`** … **`overlay_image_10`**, posizione, dimensione e opacità nella sezione PRO. Overlay e flussi custom si modificano anche nella **Preview carbon (drag)**.
-
----
-
-#### Editor visivo: Drag & Drop (overlay immagini + sfondo)
-
-- Attiva la preview carbon: abilita **“Preview carbon (drag)”** nell’editor.
-- **Overlay immagini (PRO):** trascina nella preview per aggiornare X/Y (`overlay_image_x`, `overlay_image_y` e immagini 2–5).
-- **Sfondo:** trascina nella preview per aggiornare `background_image_x` / `background_image_y`.
-
-- **Flussi personalizzati:**  
-  Fino a **10 flussi energetici** custom con sensore, percorso, colore e direzione propri. Usa **`custom_flow_1_enabled`** … **`custom_flow_10_enabled`**, **`custom_flow_1_sensor`** … **`custom_flow_10_sensor`**, percorso (o preset), colore, soglia. Modificabili in PRO e nella **Preview carbon (drag)**.
-
-- **Testi personalizzati:**  
-  Fino a **5 etichette** custom con eventuale valore da sensore, posizione, colore e dimensione font.
-
-- **Previsione solare:**  
-  Abilita **`solar_forecast_enabled`**, imposta **`sensor_solar_forecast`** e regola **`solar_forecast_max_power`**, posizione e colore (**default #00FFFF**).
-
----
-
-### Riferimento rapido
-
-| Funzione | Dove configurarla | Cosa fa |
-|----------|-------------------|---------|
-| Gestione casa | Editor → **Gestione casa** | Telecamere, luci, temperatura, umidità, keypad sicurezza (PIN) dal pannello HOME |
-| Keypad sicurezza (PIN) | **Gestione casa** → Sicurezza | Tastierina PIN; colori in base allo stato (armato/disarmato/in attesa) |
-| Telecamera fullscreen al movimento | **PRO** / sensore movimento | Popup telecamera si espande a tutto schermo al movimento |
-| Soglie personalizzabili | **Colori Flussi** | Soglie animazione FV / flussi / rete (W) |
-| Contatore: casa o inverter | Editor | Contatore animato mostra consumo casa o inverter (PV) |
-| 10 flussi custom | Sezione **PRO** | Fino a 10 flussi energetici; modificabili in PRO e Preview |
-| Overlay (10 immagini) | **PRO** + **Preview carbon (drag)** | Fino a 10 overlay; trascina per posizionare nella preview |
-| Sfondo personalizzato | Editor / **PRO** | Carica la tua immagine o genera con IA (token) |
-| Sfondo giorno/notte | Editor → **Giorno/Notte** | URL immagine notte; switch automatico con sole; carica in `www/community/carbon-energy-card/` |
-| 4 batterie (SVG + riempimento) | Editor → **Batterie** | Fino a 4 batterie indipendenti con logo SVG e riempimento SOC |
-| Colori testi (auto, casa) | Editor | Colori singoli per testi PV/batteria/rete; colore testo assorbimento casa |
-| Testo array | Editor | Personalizza il testo accanto a ogni stringa/array FV |
-| Contenuto Box Grid / Box PV | **Grid Box** / **PV Box** | Scegli cosa mostrare (potenza, giornaliero, sensori custom) |
-| Temperatura casa | Editor | Mostra sensore temperatura casa sulla card |
-| Orologio digitale | Editor | Orologio digitale opzionale sulla card |
-| Tutti i testi drag-and-drop | **Preview carbon (drag)** | Ogni etichetta trascinabile nella preview dell’editor |
-| Popup interattivi | Opzioni **Popup** (`sensor_popup_*`) | Popup PV, Batteria, Rete, Casa, Inverter con toggle |
-| Echo Alive | **`enable_echo_alive`** | Mantiene la dashboard attiva su Echo Show |
-| Toggle testi | **`enable_text_toggle_button`** | Mostra/nascondi tutti i testi (modalità pulita) |
-| Prestazioni | **Impostazioni generali** → **`performance_mode`** | Scegli profilo `auto` / `low` / `high` |
-| Modalità batteria | **`battery_power_mode`** | `flow` o `charge_discharge` |
-| Griglia SOC batteria | **`battery_overlay_enabled`** | Toggle overlay batteria + griglia SOC a 6 segmenti |
-| Stile animazioni | **`animation_style`** | `shimmer`, `dashes`, `dots`, `arrows` |
-| Previsione solare | Sezione **PRO** | Produzione stimata + sole olografico |
-| PRO (movimento, overlay, ecc.) | Sezione **PRO** + **`pro_password`** | Testi su movimento, overlay, flussi/testi custom |
-| Lingue | **Lingua** (editor) | EN, IT, DE, FR, NL, **RU**, **PT** |
-
----
-
-### Risoluzione problemi
-
-- **La scheda non compare:** Verifica che la risorsa Lovelace sia aggiunta e svuota la cache del browser.
-- **Valori a zero:** Controlla gli entity ID e che le entità esistano e siano disponibili.
-- **Telecamere 403 / non caricano:** Le telecamere devono esporre `access_token` (la maggior parte delle integrazioni HA lo fa). Usa **■ Stop** prima di chiudere il popup telecamere.
-- **Editor lento:** Aumenta **`update_interval`** o riduci la frequenza di aggiornamento della dashboard.
-- **Immagini non scaricate con HACS:** HACS installa solo il file JavaScript (`.js`). Per usare gli sfondi predefiniti, scarica le immagini dalla cartella [**dist**](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (es. `lumina_background.png`, `lumina_background1.png`), mettile in `/config/www/community/carbon-energy-card/` e ricarica la dashboard. Link diretti: [lumina_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background1.png).
-
----
-
-### Licenza e supporto
-
-- **Licenza:** MIT. Vedi [LICENSE](LICENSE).
-- **Segnalazioni e richieste:** [GitHub](https://github.com/PROGNET-SK/carbon-energy-card).
-
-© 2025 PROGNET-SK e contributors.
+© 2026 PROGNET-SK a prispievatelia.
