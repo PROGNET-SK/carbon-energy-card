@@ -22096,7 +22096,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     const sections = localeStrings.sections;
     return [
 
-      { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
+
       { id: 'language', title: sections.language.title, helper: sections.language.helper, schema: schemaDefs.language, defaultOpen: true },
       { id: 'installation_type', title: sections.installation_type.title, helper: sections.installation_type.helper, renderContent: () => this._createInstallationTypeSection(), defaultOpen: true },
       { id: 'performance_mode', title: (sections.performance_mode && sections.performance_mode.title) || 'Performance Mode', helper: (sections.performance_mode && sections.performance_mode.helper) || 'Choose how heavy the animations are. Low keeps the UI responsive by simplifying heavy styles (shimmer/arrows/fluid_flow -> dots).', schema: schemaDefs.performance_mode, defaultOpen: true },
