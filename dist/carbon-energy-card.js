@@ -8577,7 +8577,7 @@ class CarbonEnergyCard extends HTMLElement {
 
           <polygon data-role="house-clickable-area" points="300,200 300,150 350,100 450,75 500,150 500,200 395,250" fill="transparent" style="cursor:pointer; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'none' : 'all'};" />
 
-          <g data-role="house-temperature-group" transform="translate(${400 + (Number(config.house_temperature_offset_x) || 0)}, ${137 + (Number(config.house_temperature_offset_y) || 0)}) rotate(${Number(config.house_temperature_rotation) || 0})" style="display:none;">
+          <g data-role="house-temperature-group" transform="translate(${520 + (Number(config.house_temperature_offset_x) || 0)}, ${137 + (Number(config.house_temperature_offset_y) || 0)}) rotate(${Number(config.house_temperature_rotation) || 0})" style="display:none;">
             <text data-role="house-temp-text" x="0" y="0" fill="${viewState.houseTemperature && viewState.houseTemperature.fill ? viewState.houseTemperature.fill : '#00f9f9'}" font-size="${viewState.houseTemperature && viewState.houseTemperature.fontSize != null ? viewState.houseTemperature.fontSize : 12}" font-family="Orbitron, sans-serif" text-anchor="middle" dominant-baseline="middle">--</text>
           </g>
 
@@ -11516,8 +11516,8 @@ class CarbonEnergyCard extends HTMLElement {
       'custom-text-9': { xKey: 'custom_text_9_x', yKey: 'custom_text_9_y' },
       'custom-text-10': { xKey: 'custom_text_10_x', yKey: 'custom_text_10_y' },
       'custom-text-solar_forecast': { xKey: 'solar_forecast_x', yKey: 'solar_forecast_y' },
-      'house-temp-text': { xKey: 'house_temperature_offset_x', yKey: 'house_temperature_offset_y', offset: { x: 400, y: 137 } },
-      'house-temperature-group': { xKey: 'house_temperature_offset_x', yKey: 'house_temperature_offset_y', offset: { x: 400, y: 137 } },
+      'house-temp-text': { xKey: 'house_temperature_offset_x', yKey: 'house_temperature_offset_y', offset: { x: 520, y: 137 } },
+      'house-temperature-group': { xKey: 'house_temperature_offset_x', yKey: 'house_temperature_offset_y', offset: { x: 520, y: 137 } },
       'holographic-clock': { xKey: 'dev_clock_x', yKey: 'dev_clock_y' },
       'holographic-clock-text': { xKey: 'dev_clock_x', yKey: 'dev_clock_y' },
       'title-text': { xKey: 'dev_title_x', yKey: 'dev_title_y' },
