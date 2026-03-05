@@ -22095,18 +22095,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
   _createSectionDefs(localeStrings, schemaDefs) {
     const sections = localeStrings.sections;
     return [
-      {
-        id: 'carbon_pro', title: sections.carbon_pro.title, helper: sections.carbon_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
-          try {
-            const proSchema = Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : [];
-            const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
-            const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
-            return this._createCarbonProSection([...customFields, ...proSchema]);
-          } catch (e) {
-            return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : []);
-          }
-        }
-      },
+
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
       { id: 'language', title: sections.language.title, helper: sections.language.helper, schema: schemaDefs.language, defaultOpen: true },
       { id: 'installation_type', title: sections.installation_type.title, helper: sections.installation_type.helper, renderContent: () => this._createInstallationTypeSection(), defaultOpen: true },
