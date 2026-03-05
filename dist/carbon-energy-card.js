@@ -20946,7 +20946,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           housePopup: { title: 'Popup Dom', helper: 'Nastavte popup pre dom.' },
           batteryPopup: { title: 'Popup Batéria', helper: 'Nastavte popup pre batériu.' },
           gridPopup: { title: 'Popup Sieť', helper: 'Nastavte popup pre sieť.' },
-          inverterPopup: { title: 'Popup Invertór', helper: 'Nastavte popup pre invertór.' },
+          inverterPopup: { title: 'Popup Invertor', helper: 'Nastavte popup pre invertor.' },
           flow_path: { title: 'Cesty tokov (SVG)', helper: 'Nastavte SVG cesty pre hlavné toky energie.' },
           flow_path_custom: { title: 'Vlastné toky', helper: 'Až 5 ďalejších tokov energie.' },
           custom_text: { title: 'Vlastný text', helper: 'Až 5 textových blokov. Možno zobraziť: len statický text (ponechajte Senzór prázdny), len hodnotu entity (ponechajte Popis prázdny, nastavte Senzór), alebo obe (popis + hodnota). Nastavte pozíciu (X/Y), farbu, veľkosť písma.' },
