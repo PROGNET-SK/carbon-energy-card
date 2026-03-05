@@ -1,4 +1,4 @@
-function _0x3ff6(_0x466405,_0x3a51bd){_0x466405=_0x466405-0x17d;const _0x43e626=_0x43e6();let _0x3ff61a=_0x43e626[_0x466405];if(_0x3ff6['UxuGsj']===undefined){var _0x215501=function(_0x478595){const _0x29dc2c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2329d5='',_0x5646b7='';for(let _0x27b7aa=0x0,_0x3d7be0,_0x5c5890,_0xa22d36=0x0;_0x5c5890=_0x478595['charAt'](_0xa22d36++);~_0x5c5890&&(_0x3d7be0=_0x27b7aa%0x4?_0x3d7be0*0x40+_0x5c5890:_0x5c5890,_0x27b7aa++%0x4)?_0x2329d5+=String['fromCharCode'](0xff&_0x3d7be0>>(-0x2*_0x27b7aa&0x6)):0x0){_0x5c5890=_0x29dc2c['indexOf'](_0x5c5890);}for(let _0x33342c=0x0,_0x308f67=_0x2329d5['length'];_0x33342c<_0x308f67;_0x33342c++){_0x5646b7+='%'+('00'+_0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5646b7);};_0x3ff6['fwkZWt']=_0x215501,_0x3ff6['LwuXOL']={},_0x3ff6['UxuGsj']=!![];}const _0x52447e=_0x43e626[0x0],_0x15534f=_0x466405+_0x52447e,_0x42816b=_0x3ff6['LwuXOL'][_0x15534f];return!_0x42816b?(_0x3ff61a=_0x3ff6['fwkZWt'](_0x3ff61a),_0x3ff6['LwuXOL'][_0x15534f]=_0x3ff61a):_0x3ff61a=_0x42816b,_0x3ff61a;}const _0x3e9f0c=_0x3ff6;(function(_0x576f66,_0x5de548){const _0x4166b4=_0x3ff6,_0x1ce152=_0x576f66();while(!![]){try{const _0x49ae49=-parseInt(_0x4166b4(0x1af))/0x1*(-parseInt(_0x4166b4(0x19f))/0x2)+parseInt(_0x4166b4(0x182))/0x3+parseInt(_0x4166b4(0x1db))/0x4*(parseInt(_0x4166b4(0x191))/0x5)+parseInt(_0x4166b4(0x1bd))/0x6*(parseInt(_0x4166b4(0x1f7))/0x7)+-parseInt(_0x4166b4(0x19c))/0x8*(-parseInt(_0x4166b4(0x1a0))/0x9)+-parseInt(_0x4166b4(0x189))/0xa*(parseInt(_0x4166b4(0x1e4))/0xb)+parseInt(_0x4166b4(0x1ed))/0xc*(-parseInt(_0x4166b4(0x1fb))/0xd);if(_0x49ae49===_0x5de548)break;else _0x1ce152['push'](_0x1ce152['shift']());}catch(_0x440ffd){_0x1ce152['push'](_0x1ce152['shift']());}}}(_0x43e6,0x386c9));function _0x43e6(){const _0x41a43c=['u2nYAxb0igW','zw1LBNq','CMvHC29U','t0rzmKWYrM0','ohHyBMjjrW','zM9YrwfJAa','tNPnD01hvMO','odqWnZu4EKXYqKPy','nJq2nZqWy01iDK14','CMfUzg9T','yvC5EvOYBhy','q29Kzq','C2nYAxb0','z2v0sxrLBq','AxngAw5PDgu','BhvTAw5HlwW','thK5BMfytJa','Dg9mB3DLCKm','wdjwDvPysM4','yM9VBgvHBG','C3rYAw5N','odLHyMnKzwy','ztq0yZLMzti','mvLgq2zTtq','Aef0','lMrLDG','BgfZDenVDw4','BgfZDevYCG','AxnbCNjHEq','m2u1ngjHzwi','BgvUz3rO','yJi1mfPxnta','BhvTAw5Hx2q','yM9KEq','zg9JDw1LBNq','tevdlq','mJbLzdfIyJy','ndiWnZi2uKjoy0je','DhjPBq','C29UCf8','y3jLyxrLrwW','wdnwCfPbpt0','BwvZC2fNzq','B2jQzwn0','BNvTyMvY','Ahr0Chm6lY8','yuHsmgnitty','zvy5ALLysMS','zee9pq','Aw5KzxHpzG','BhvTAw5Hx2O','ww5wELPysMO','BwfW','mwq4mdaWzgm','ChvZAa','wM1nmLPQstu','wLy5mK13pt0','yLDSBMnTrJa','zgqWmMrKmgu','BgfZDezLDgm','jNq9','wKrKA1KYrMO','yxbWzw5Kq2G','C3bSAxq','zfCXCgjTrMy','CMLUDdG2mty','C3rYAw5NAwy','mte3odbMtxzfDeW','Bwf0y2G','wti5A1Prpt0','yvC5Dq','txPNEe56ute','BM93','zMXVB3i','tg1KCgrhAde','tdnkAgr5oxm','mJC1DffHq1zR','CgfYzw50tM8','y21wEgrxvNO','zNvUy3rPB24','zNjVBunOyxi','C3rHCNrZv2K','B2fKigvYCM8','mgrMotGWoty','zw5Zzq','mtq0sNz5tKvv','p3q9','C3rHDhvZ','zwj1z191Cgq','C3jJ','tvrjnu1etMG','y2fSBgjHy2S','zwj1z19SAwm','AwnLBNnLlxa','zfHcA1LyuMW','n0LPuMXOvG','yvC1Bwj3pt0','CMvWBgfJzq','Dgv4Da','oti2mZGWBNrvDgTN','rwXLBwvUDa','C2XPy2u','y2HHCKf0','Aw5JBhvKzxm','CM94Es4Zzha','vgLTzw91Da','ote0ota0CePQtg1H','mJe3yJi2yMi','lNDVCMTLCNm','zM9Yy2u','yxnL','Dg9vChbLCKm','tg1oDMjtouG','ndy3mZbHuvvkCwi','y2HHCKnVzgu','AwXK','yxrL','yJy0owjKmJi','B25LCNjVCG','BgfZDfn0yxq','mdeYmZq1nJC','ntCWBwHuB1L1','zgvSzxrLtM8','Dg9tDhjPBMC','CMvTB3zLq2G','C2v0sxrLBq','yKHwDgfxnwG','BgfZDe9Rqxq'];_0x43e6=function(){return _0x41a43c;};return _0x43e6();}const CARBON_SHA256=_0x2329d5=>{const _0x4ee1ac=_0x3ff6,_0x5646b7=(_0x1b7ac1,_0x500829)=>{const _0xa91838=(0xffff&_0x1b7ac1)+(0xffff&_0x500829);return(_0x1b7ac1>>0x10)+(_0x500829>>0x10)+(_0xa91838>>0x10)<<0x10|0xffff&_0xa91838;},_0x27b7aa=(_0x492e98,_0x5af8a1)=>_0x492e98>>>_0x5af8a1|_0x492e98<<0x20-_0x5af8a1,_0x3d7be0=(_0x241535,_0x4ea8aa)=>_0x241535>>>_0x4ea8aa,_0x5c5890=(_0x199205,_0x2de4e0,_0x229222)=>_0x199205&_0x2de4e0^~_0x199205&_0x229222,_0xa22d36=(_0x2806c6,_0x251267,_0x48a6a2)=>_0x2806c6&_0x251267^_0x2806c6&_0x48a6a2^_0x251267&_0x48a6a2,_0x33342c=_0x2d3fb9=>_0x27b7aa(_0x2d3fb9,0x2)^_0x27b7aa(_0x2d3fb9,0xd)^_0x27b7aa(_0x2d3fb9,0x16),_0x308f67=_0x5ba148=>_0x27b7aa(_0x5ba148,0x6)^_0x27b7aa(_0x5ba148,0xb)^_0x27b7aa(_0x5ba148,0x19),_0x5d2d9b=_0x3b1ffd=>_0x27b7aa(_0x3b1ffd,0x7)^_0x27b7aa(_0x3b1ffd,0x12)^_0x3d7be0(_0x3b1ffd,0x3),_0x20f8d8=_0x50b736=>_0x27b7aa(_0x50b736,0x11)^_0x27b7aa(_0x50b736,0x13)^_0x3d7be0(_0x50b736,0xa),_0x1a00d7=(_0x353995=>{const _0x5a18ee=_0x3ff6;_0x353995=_0x353995[_0x5a18ee(0x1f9)](/\r\n/g,'\x0a');let _0x2c3128='';for(let _0x127dd2=0x0;_0x127dd2<_0x353995[_0x5a18ee(0x1b6)];_0x127dd2++){const _0x262237=_0x353995[_0x5a18ee(0x18a)+'At'](_0x127dd2);_0x262237<0x80?_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237):_0x262237>0x7f&&_0x262237<0x800?(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6|0xc0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80)):(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0xc|0xe0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6&0x3f|0x80),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80));}return _0x2c3128;})(_0x2329d5);return(_0x330f5e=>{const _0xdf4e43=_0x3ff6;let _0x57885c='';for(let _0x1d9e85=0x0;_0x1d9e85<0x4*_0x330f5e[_0xdf4e43(0x1b6)];_0x1d9e85++)_0x57885c+=(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)+0x4&0xf)+(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)&0xf);return _0x57885c;})(((_0x10c921,_0x5b870f)=>{const _0x1d2e8c=_0x3ff6,_0x2faf33=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x65c1ad=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x4077fa=new Array(0x40);let _0x5091c4,_0x2d47bb,_0x5df66e,_0x592961,_0x389325,_0x2124fb,_0x146ff4,_0x3ac10c,_0x459f37,_0x257abe,_0xf3f096,_0x495a70;for(_0x10c921[_0x5b870f>>0x5]|=0x80<<0x18-_0x5b870f%0x20,_0x10c921[0xf+(_0x5b870f+0x40>>0x9<<0x4)]=_0x5b870f,_0x459f37=0x0;_0x459f37<_0x10c921[_0x1d2e8c(0x1b6)];_0x459f37+=0x10){for(_0x5091c4=_0x65c1ad[0x0],_0x2d47bb=_0x65c1ad[0x1],_0x5df66e=_0x65c1ad[0x2],_0x592961=_0x65c1ad[0x3],_0x389325=_0x65c1ad[0x4],_0x2124fb=_0x65c1ad[0x5],_0x146ff4=_0x65c1ad[0x6],_0x3ac10c=_0x65c1ad[0x7],_0x257abe=0x0;_0x257abe<0x40;_0x257abe++)_0x4077fa[_0x257abe]=_0x257abe<0x10?_0x10c921[_0x257abe+_0x459f37]:_0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe-0x2]),_0x4077fa[_0x257abe-0x7]),_0x5d2d9b(_0x4077fa[_0x257abe-0xf])),_0x4077fa[_0x257abe-0x10]),_0xf3f096=_0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c,_0x308f67(_0x389325)),_0x5c5890(_0x389325,_0x2124fb,_0x146ff4)),_0x2faf33[_0x257abe]),_0x4077fa[_0x257abe]),_0x495a70=_0x5646b7(_0x33342c(_0x5091c4),_0xa22d36(_0x5091c4,_0x2d47bb,_0x5df66e)),_0x3ac10c=_0x146ff4,_0x146ff4=_0x2124fb,_0x2124fb=_0x389325,_0x389325=_0x5646b7(_0x592961,_0xf3f096),_0x592961=_0x5df66e,_0x5df66e=_0x2d47bb,_0x2d47bb=_0x5091c4,_0x5091c4=_0x5646b7(_0xf3f096,_0x495a70);_0x65c1ad[0x0]=_0x5646b7(_0x5091c4,_0x65c1ad[0x0]),_0x65c1ad[0x1]=_0x5646b7(_0x2d47bb,_0x65c1ad[0x1]),_0x65c1ad[0x2]=_0x5646b7(_0x5df66e,_0x65c1ad[0x2]),_0x65c1ad[0x3]=_0x5646b7(_0x592961,_0x65c1ad[0x3]),_0x65c1ad[0x4]=_0x5646b7(_0x389325,_0x65c1ad[0x4]),_0x65c1ad[0x5]=_0x5646b7(_0x2124fb,_0x65c1ad[0x5]),_0x65c1ad[0x6]=_0x5646b7(_0x146ff4,_0x65c1ad[0x6]),_0x65c1ad[0x7]=_0x5646b7(_0x3ac10c,_0x65c1ad[0x7]);}return _0x65c1ad;})((_0x1afcfd=>{const _0x13b720=_0x3ff6,_0x4d7c10=[];for(let _0xab8363=0x0;_0xab8363<0x8*_0x1afcfd[_0x13b720(0x1b6)];_0xab8363+=0x8)_0x4d7c10[_0xab8363>>0x5]|=(0xff&_0x1afcfd[_0x13b720(0x18a)+'At'](_0xab8363/0x8))<<0x18-_0xab8363%0x20;return _0x4d7c10;})(_0x1a00d7),0x8*_0x1a00d7[_0x4ee1ac(0x1b6)]));},CARBON_REMOTE_URL=atob(_0x3e9f0c(0x1c6)+_0x3e9f0c(0x1a8)+_0x3e9f0c(0x1e2)+_0x3e9f0c(0x1cb)+_0x3e9f0c(0x1b7)+_0x3e9f0c(0x188)+_0x3e9f0c(0x1a2)+_0x3e9f0c(0x19b)+_0x3e9f0c(0x1cf)+_0x3e9f0c(0x1d5)+_0x3e9f0c(0x1df)+_0x3e9f0c(0x1f2)+_0x3e9f0c(0x19e)+_0x3e9f0c(0x1e3)+_0x3e9f0c(0x1d8)+_0x3e9f0c(0x1dd));let CARBON_AUTH_LIST_V1=null,CARBON_AUTH_LIST_V2=null,CARBON_AUTH_LIST_V3=null,CARBON_FETCHING=!0x1,CARBON_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const CARBON_UNLOCK_V1_IDS=[_0x3e9f0c(0x1ae)+_0x3e9f0c(0x1d2)+_0x3e9f0c(0x1b5)+_0x3e9f0c(0x1eb)+_0x3e9f0c(0x18d)+_0x3e9f0c(0x183)+_0x3e9f0c(0x1bc11ce82c52fa74544c39275c35f139ed20846057fee5df51f2538caf1d45b6d08)+_0x3e9f0c(0x1cd),''],CARBON_UNLOCK_V3_IDS=[],CARBON_DEBUG_LICENSE=((()=>{const _0x2b8df3=_0x3e9f0c;try{return'1'===localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8)+_0x2b8df3(0x1f4)+_0x2b8df3(0x1ec));}catch(_0x168e0f){return!0x1;}})()),CARBON_UID_KEY=atob(_0x3e9f0c(0x196)+_0x3e9f0c(0x1aa)+_0x3e9f0c(0x1c7)+_0x3e9f0c(0x1c1)),getCarbonUID=()=>{const _0x14462e=_0x3e9f0c;try{const _0x58f772=localStorage[_0x14462e(0x1a5)](CARBON_UID_KEY);if(_0x58f772&&_0x14462e(0x1ac)==typeof _0x58f772&&_0x58f772[_0x14462e(0x1e9)+'th'](_0x14462e(0x1bb)))return _0x58f772;const _0xa7361f=(Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2)+Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187)+_0x14462e(0x186)](),_0x344187=_0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0xa7361f[_0x14462e(0x17d)](0x0,0x10);return localStorage[_0x14462e(0x195)](CARBON_UID_KEY,_0x344187),_0x344187;}catch(_0x975837){const _0x1e4830=Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2,0xa)[_0x14462e(0x187)+_0x14462e(0x186)]();return _0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0x1e4830;}},CARBON_LICENSE_ENDPOINT=_0x3e9f0c(0x1c5)+_0x3e9f0c(0x1a7)+_0x3e9f0c(0x1f5)+_0x3e9f0c(0x180)+_0x3e9f0c(0x1d9)+_0x3e9f0c(0x184)+_0x3e9f0c(0x1b1),CARBON_ACT_REQ=atob(_0x3e9f0c(0x1e6)+_0x3e9f0c(0x1c8)),CARBON_ACT_MIG=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1de)),CARBON_ACT_UPDATEINFO=atob(_0x3e9f0c(0x1f6)+_0x3e9f0c(0x1f8)),CARBON_ACT_MIGRATE_V3=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1d0)),CARBON_DEBUG_UPDATE=((()=>{const _0x30882d=_0x3e9f0c;try{return'1'===localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8)+_0x30882d(0x1f0)+_0x30882d(0x18c));}catch(_0x523e5b){return!0x1;}})()),CARBON_JSONP=(_0x378b52,_0x286958=0x3a98)=>new Promise((_0x4d81af,_0x55a97b)=>{const _0x47ef16=_0x3e9f0c;try{const _0x2f4fdd=_0x47ef16(0x1ca)+_0x47ef16(0x1bf)+Date[_0x47ef16(0x1e0)]()+'_'+Math[_0x47ef16(0x1e1)](0x3b9aca00*Math[_0x47ef16(0x1a1)]()),_0x2901f1=document[_0x47ef16(0x1c0)+_0x47ef16(0x199)](_0x47ef16(0x1a4));let _0x3f40c8=!0x1;const _0x318fb4=_0x458dfe=>{const _0xd5e569=_0x47ef16;if(!_0x3f40c8){if(_0x3f40c8=!0x0,_0x458dfe&&_0x458dfe[_0xd5e569(0x192)+'w'])try{delete window[_0x2f4fdd];}catch(_0x295bb3){try{window[_0x2f4fdd]=void 0x0;}catch(_0x51ce4d){}}else{try{window[_0x2f4fdd]=()=>{};}catch(_0xbf63a9){}try{setTimeout(()=>{try{delete window[_0x2f4fdd];}catch(_0xc35372){}},0x1d4c0);}catch(_0x2f0972){}}try{_0x2901f1&&_0x2901f1[_0xd5e569(0x1e5)+'de']&&_0x2901f1[_0xd5e569(0x1e5)+'de'][_0xd5e569(0x194)+_0xd5e569(0x18b)](_0x2901f1);}catch(_0xebe0ff){}}},_0x15812d=setTimeout(()=>{const _0x563f64=_0x47ef16;_0x318fb4({'deleteNow':!0x1}),_0x55a97b(new Error(_0x563f64(0x181)));},_0x286958);window[_0x2f4fdd]=_0x233cff=>{clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x4d81af(_0x233cff);},_0x2901f1[_0x47ef16(0x18e)]=()=>{const _0x4aaacd=_0x47ef16;clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x55a97b(new Error(_0x4aaacd(0x198)+_0x4aaacd(0x1ea)+'r'));},_0x2901f1[_0x47ef16(0x1f1)]=_0x378b52+(_0x378b52[_0x47ef16(0x1c9)]('?')>=0x0?'&':'?')+(_0x47ef16(0x1f3)+'=')+_0x2f4fdd+_0x47ef16(0x1d4)+Date[_0x47ef16(0x1e0)](),(document[_0x47ef16(0x1b9)]||document[_0x47ef16(0x1ba)+_0x47ef16(0x1fc)])[_0x47ef16(0x1d6)+_0x47ef16(0x18b)](_0x2901f1);}catch(_0x15b782){_0x55a97b(_0x15b782);}}),CARBON_PACK=_0x236507=>{const _0x5592ba=_0x3e9f0c;try{const _0x269bee=JSON[_0x5592ba(0x1da)+'y'](_0x236507||{});return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g,'-')[_0x5592ba(0x1f9)](/\//g,'_')[_0x5592ba(0x1f9)](/=+$/g,'');}catch(_0x2a1fcc){return'';}},CARBON_VERSION_CMP=(_0x435c11,_0x33032a)=>{const _0x3ad0b1=_0x3e9f0c,_0x2d951=String(_0x435c11||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470=>parseInt(_0x176470,0xa)),_0x5c17b5=String(_0x33032a||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145=>parseInt(_0x5d4145,0xa));for(let _0x1feeba=0x0;_0x1feeba<0x3;_0x1feeba++){const _0x33b552=Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba])?_0x2d951[_0x1feeba]:0x0,_0x5bca8f=Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba])?_0x5c17b5[_0x1feeba]:0x0;if(_0x33b552<_0x5bca8f)return-0x1;if(_0x33b552>_0x5bca8f)return 0x1;}return 0x0;},CARBON_REFRESH_AUTH=async _0x289813=>{const _0x12d4ea=_0x3e9f0c;let _0x184478=null,_0x43a88a=!0x1,_0x37661f='';if(_0x12d4ea(0x1e7)==typeof _0x289813?_0x184478=_0x289813:_0x12d4ea(0x1ab)==typeof _0x289813?_0x43a88a=_0x289813:_0x289813&&_0x12d4ea(0x1c3)==typeof _0x289813&&(_0x184478=_0x12d4ea(0x1e7)==typeof _0x289813[_0x12d4ea(0x1f3)]?_0x289813[_0x12d4ea(0x1f3)]:null,_0x43a88a=!!_0x289813[_0x12d4ea(0x185)],_0x289813[_0x12d4ea(0x19a)]?String(_0x289813[_0x12d4ea(0x19a)]):''),!_0x43a88a&&null!==CARBON_AUTH_LIST_V1&&null!==CARBON_AUTH_LIST_V2&&null!==CARBON_AUTH_LIST_V3)return CARBON_AUTH_LIST_V1;if(CARBON_FETCHING)return null;CARBON_FETCHING=!0x0,CARBON_AUTH_META[_0x12d4ea(0x1d3)+_0x12d4ea(0x1b0)]=Date[_0x12d4ea(0x1e0)](),CARBON_AUTH_META[_0x12d4ea(0x1b3)]='';try{const _0x18f471=CARBON_REMOTE_URL+_0x12d4ea(0x1ee)+Date[_0x12d4ea(0x1e0)](),_0x7a65c6=await fetch(_0x18f471);try{CARBON_AUTH_META[_0x12d4ea(0x18f)+'us']=_0x7a65c6&&_0x12d4ea(0x1c4)==typeof _0x7a65c6[_0x12d4ea(0x1ef)]?_0x7a65c6[_0x12d4ea(0x1ef)]:0x0;}catch(_0x4635f0){CARBON_AUTH_META[_0x12d4ea(0x18f)+'us']=0x0;}const _0x44c726=(await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/);CARBON_AUTH_LIST_V1=[],CARBON_AUTH_LIST_V2=[],CARBON_AUTH_LIST_V3=[];for(let _0x570264=0x0;_0x570264<_0x44c726[_0x12d4ea(0x1b6)];_0x570264++){const _0x186db5=_0x44c726[_0x570264][_0x12d4ea(0x1be)](),_0x7ac088=_0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/);_0x7ac088&&_0x7ac088[0x1]&&CARBON_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x25d3c7=_0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/);_0x25d3c7&&_0x25d3c7[0x1]&&CARBON_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x518d5c=_0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/);_0x518d5c&&_0x518d5c[0x1]&&CARBON_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());}Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS)&&CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb=>{const _0x13f0ac=_0x12d4ea;if(_0x2e98cb&&_0x13f0ac(0x1ac)==typeof _0x2e98cb&&0x40===_0x2e98cb[_0x13f0ac(0x1b6)]){const _0x24d746=_0x2e98cb[_0x13f0ac(0x1a9)+_0x13f0ac(0x186)]();CARBON_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746)||CARBON_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746);}}),Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS)&&CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d=>{const _0x13e08b=_0x12d4ea;if(_0x2f030d&&_0x13e08b(0x1ac)==typeof _0x2f030d&&0x40===_0x2f030d[_0x13e08b(0x1b6)]){const _0x21c23f=_0x2f030d[_0x13e08b(0x1a9)+_0x13e08b(0x186)]();CARBON_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f)||CARBON_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f);}}),CARBON_AUTH_META[_0x12d4ea(0x197)]=Date[_0x12d4ea(0x1e0)]();const _0x3bdbe7=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V1)?CARBON_AUTH_LIST_V1[_0x12d4ea(0x1b6)]:0x0,_0x465ea1=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V2)?CARBON_AUTH_LIST_V2[_0x12d4ea(0x1b6)]:0x0,_0x3c8215=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V3)?CARBON_AUTH_LIST_V3[_0x12d4ea(0x1b6)]:0x0;CARBON_AUTH_META[_0x12d4ea(0x1b2)+'t']=_0x3bdbe7+_0x465ea1+_0x3c8215,_0x184478&&_0x184478();}catch(_0x40103b){CARBON_AUTH_META[_0x12d4ea(0x1b3)]=_0x40103b&&_0x40103b[_0x12d4ea(0x1c2)]?String(_0x40103b[_0x12d4ea(0x1c2)]):String(_0x40103b),CARBON_AUTH_LIST_V1=[],CARBON_AUTH_LIST_V2=[],CARBON_AUTH_LIST_V3=[],Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS)&&CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4=>{const _0x4d6420=_0x12d4ea;if(_0x38bab4&&_0x4d6420(0x1ac)==typeof _0x38bab4&&0x40===_0x38bab4[_0x4d6420(0x1b6)]){const _0x5ac55d=_0x38bab4[_0x4d6420(0x1a9)+_0x4d6420(0x186)]();CARBON_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d)||CARBON_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d);}}),Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS)&&CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80=>{const _0x43ac38=_0x12d4ea;if(_0x4d2b80&&_0x43ac38(0x1ac)==typeof _0x4d2b80&&0x40===_0x4d2b80[_0x43ac38(0x1b6)]){const _0x5473d8=_0x4d2b80[_0x43ac38(0x1a9)+_0x43ac38(0x186)]();CARBON_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8)||CARBON_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8);}}),_0x184478&&_0x184478();}finally{CARBON_FETCHING=!0x1;}return CARBON_AUTH_LIST_V1;};const __s = (...a) => a.join('');
+function _0x3ff6(_0x466405,_0x3a51bd){_0x466405=_0x466405-0x17d;const _0x43e626=_0x43e6();let _0x3ff61a=_0x43e626[_0x466405];if(_0x3ff6['UxuGsj']===undefined){var _0x215501=function(_0x478595){const _0x29dc2c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2329d5='',_0x5646b7='';for(let _0x27b7aa=0x0,_0x3d7be0,_0x5c5890,_0xa22d36=0x0;_0x5c5890=_0x478595['charAt'](_0xa22d36++);~_0x5c5890&&(_0x3d7be0=_0x27b7aa%0x4?_0x3d7be0*0x40+_0x5c5890:_0x5c5890,_0x27b7aa++%0x4)?_0x2329d5+=String['fromCharCode'](0xff&_0x3d7be0>>(-0x2*_0x27b7aa&0x6)):0x0){_0x5c5890=_0x29dc2c['indexOf'](_0x5c5890);}for(let _0x33342c=0x0,_0x308f67=_0x2329d5['length'];_0x33342c<_0x308f67;_0x33342c++){_0x5646b7+='%'+('00'+_0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5646b7);};_0x3ff6['fwkZWt']=_0x215501,_0x3ff6['LwuXOL']={},_0x3ff6['UxuGsj']=!![];}const _0x52447e=_0x43e626[0x0],_0x15534f=_0x466405+_0x52447e,_0x42816b=_0x3ff6['LwuXOL'][_0x15534f];return!_0x42816b?(_0x3ff61a=_0x3ff6['fwkZWt'](_0x3ff61a),_0x3ff6['LwuXOL'][_0x15534f]=_0x3ff61a):_0x3ff61a=_0x42816b,_0x3ff61a;}const _0x3e9f0c=_0x3ff6;(function(_0x576f66,_0x5de548){const _0x4166b4=_0x3ff6,_0x1ce152=_0x576f66();while(!![]){try{const _0x49ae49=-parseInt(_0x4166b4(0x1af))/0x1*(-parseInt(_0x4166b4(0x19f))/0x2)+parseInt(_0x4166b4(0x182))/0x3+parseInt(_0x4166b4(0x1db))/0x4*(parseInt(_0x4166b4(0x191))/0x5)+parseInt(_0x4166b4(0x1bd))/0x6*(parseInt(_0x4166b4(0x1f7))/0x7)+-parseInt(_0x4166b4(0x19c))/0x8*(-parseInt(_0x4166b4(0x1a0))/0x9)+-parseInt(_0x4166b4(0x189))/0xa*(parseInt(_0x4166b4(0x1e4))/0xb)+parseInt(_0x4166b4(0x1ed))/0xc*(-parseInt(_0x4166b4(0x1fb))/0xd);if(_0x49ae49===_0x5de548)break;else _0x1ce152['push'](_0x1ce152['shift']());}catch(_0x440ffd){_0x1ce152['push'](_0x1ce152['shift']());}}}(_0x43e6,0x386c9));function _0x43e6(){const _0x41a43c=['u2nYAxb0igW','zw1LBNq','CMvHC29U','t0rzmKWYrM0','ohHyBMjjrW','zM9YrwfJAa','tNPnD01hvMO','odqWnZu4EKXYqKPy','nJq2nZqWy01iDK14','CMfUzg9T','yvC5EvOYBhy','q29Kzq','C2nYAxb0','z2v0sxrLBq','AxngAw5PDgu','BhvTAw5HlwW','thK5BMfytJa','Dg9mB3DLCKm','wdjwDvPysM4','yM9VBgvHBG','C3rYAw5N','odLHyMnKzwy','ztq0yZLMzti','mvLgq2zTtq','Aef0','lMrLDG','BgfZDenVDw4','BgfZDevYCG','AxnbCNjHEq','m2u1ngjHzwi','BgvUz3rO','yJi1mfPxnta','BhvTAw5Hx2q','yM9KEq','zg9JDw1LBNq','tevdlq','mJbLzdfIyJy','ndiWnZi2uKjoy0je','DhjPBq','C29UCf8','y3jLyxrLrwW','wdnwCfPbpt0','BwvZC2fNzq','B2jQzwn0','BNvTyMvY','Ahr0Chm6lY8','yuHsmgnitty','zvy5ALLysMS','zee9pq','Aw5KzxHpzG','BhvTAw5Hx2O','ww5wELPysMO','BwfW','mwq4mdaWzgm','ChvZAa','wM1nmLPQstu','wLy5mK13pt0','yLDSBMnTrJa','zgqWmMrKmgu','BgfZDezLDgm','jNq9','wKrKA1KYrMO','yxbWzw5Kq2G','C3bSAxq','zfCXCgjTrMy','CMLUDdG2mty','C3rYAw5NAwy','mte3odbMtxzfDeW','Bwf0y2G','wti5A1Prpt0','yvC5Dq','txPNEe56ute','BM93','zMXVB3i','tg1KCgrhAde','tdnkAgr5oxm','mJC1DffHq1zR','CgfYzw50tM8','y21wEgrxvNO','zNvUy3rPB24','zNjVBunOyxi','C3rHCNrZv2K','B2fKigvYCM8','mgrMotGWoty','zw5Zzq','mtq0sNz5tKvv','p3q9','C3rHDhvZ','zwj1z191Cgq','C3jJ','tvrjnu1etMG','y2fSBgjHy2S','zwj1z19SAwm','AwnLBNnLlxa','zfHcA1LyuMW','n0LPuMXOvG','yvC1Bwj3pt0','CMvWBgfJzq','Dgv4Da','oti2mZGWBNrvDgTN','rwXLBwvUDa','C2XPy2u','y2HHCKf0','Aw5JBhvKzxm','CM94Es4Zzha','vgLTzw91Da','ote0ota0CePQtg1H','mJe3yJi2yMi','lNDVCMTLCNm','zM9Yy2u','yxnL','Dg9vChbLCKm','tg1oDMjtouG','ndy3mZbHuvvkCwi','y2HHCKnVzgu','AwXK','yxrL','yJy0owjKmJi','B25LCNjVCG','BgfZDfn0yxq','mdeYmZq1nJC','ntCWBwHuB1L1','zgvSzxrLtM8','Dg9tDhjPBMC','CMvTB3zLq2G','C2v0sxrLBq','yKHwDgfxnwG','BgfZDe9Rqxq'];_0x43e6=function(){return _0x41a43c;};return _0x43e6();}const LUMINA_SHA256=_0x2329d5=>{const _0x4ee1ac=_0x3ff6,_0x5646b7=(_0x1b7ac1,_0x500829)=>{const _0xa91838=(0xffff&_0x1b7ac1)+(0xffff&_0x500829);return(_0x1b7ac1>>0x10)+(_0x500829>>0x10)+(_0xa91838>>0x10)<<0x10|0xffff&_0xa91838;},_0x27b7aa=(_0x492e98,_0x5af8a1)=>_0x492e98>>>_0x5af8a1|_0x492e98<<0x20-_0x5af8a1,_0x3d7be0=(_0x241535,_0x4ea8aa)=>_0x241535>>>_0x4ea8aa,_0x5c5890=(_0x199205,_0x2de4e0,_0x229222)=>_0x199205&_0x2de4e0^~_0x199205&_0x229222,_0xa22d36=(_0x2806c6,_0x251267,_0x48a6a2)=>_0x2806c6&_0x251267^_0x2806c6&_0x48a6a2^_0x251267&_0x48a6a2,_0x33342c=_0x2d3fb9=>_0x27b7aa(_0x2d3fb9,0x2)^_0x27b7aa(_0x2d3fb9,0xd)^_0x27b7aa(_0x2d3fb9,0x16),_0x308f67=_0x5ba148=>_0x27b7aa(_0x5ba148,0x6)^_0x27b7aa(_0x5ba148,0xb)^_0x27b7aa(_0x5ba148,0x19),_0x5d2d9b=_0x3b1ffd=>_0x27b7aa(_0x3b1ffd,0x7)^_0x27b7aa(_0x3b1ffd,0x12)^_0x3d7be0(_0x3b1ffd,0x3),_0x20f8d8=_0x50b736=>_0x27b7aa(_0x50b736,0x11)^_0x27b7aa(_0x50b736,0x13)^_0x3d7be0(_0x50b736,0xa),_0x1a00d7=(_0x353995=>{const _0x5a18ee=_0x3ff6;_0x353995=_0x353995[_0x5a18ee(0x1f9)](/\r\n/g,'\x0a');let _0x2c3128='';for(let _0x127dd2=0x0;_0x127dd2<_0x353995[_0x5a18ee(0x1b6)];_0x127dd2++){const _0x262237=_0x353995[_0x5a18ee(0x18a)+'At'](_0x127dd2);_0x262237<0x80?_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237):_0x262237>0x7f&&_0x262237<0x800?(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6|0xc0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80)):(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0xc|0xe0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6&0x3f|0x80),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80));}return _0x2c3128;})(_0x2329d5);return(_0x330f5e=>{const _0xdf4e43=_0x3ff6;let _0x57885c='';for(let _0x1d9e85=0x0;_0x1d9e85<0x4*_0x330f5e[_0xdf4e43(0x1b6)];_0x1d9e85++)_0x57885c+=(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)+0x4&0xf)+(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)&0xf);return _0x57885c;})(((_0x10c921,_0x5b870f)=>{const _0x1d2e8c=_0x3ff6,_0x2faf33=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x65c1ad=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x4077fa=new Array(0x40);let _0x5091c4,_0x2d47bb,_0x5df66e,_0x592961,_0x389325,_0x2124fb,_0x146ff4,_0x3ac10c,_0x459f37,_0x257abe,_0xf3f096,_0x495a70;for(_0x10c921[_0x5b870f>>0x5]|=0x80<<0x18-_0x5b870f%0x20,_0x10c921[0xf+(_0x5b870f+0x40>>0x9<<0x4)]=_0x5b870f,_0x459f37=0x0;_0x459f37<_0x10c921[_0x1d2e8c(0x1b6)];_0x459f37+=0x10){for(_0x5091c4=_0x65c1ad[0x0],_0x2d47bb=_0x65c1ad[0x1],_0x5df66e=_0x65c1ad[0x2],_0x592961=_0x65c1ad[0x3],_0x389325=_0x65c1ad[0x4],_0x2124fb=_0x65c1ad[0x5],_0x146ff4=_0x65c1ad[0x6],_0x3ac10c=_0x65c1ad[0x7],_0x257abe=0x0;_0x257abe<0x40;_0x257abe++)_0x4077fa[_0x257abe]=_0x257abe<0x10?_0x10c921[_0x257abe+_0x459f37]:_0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe-0x2]),_0x4077fa[_0x257abe-0x7]),_0x5d2d9b(_0x4077fa[_0x257abe-0xf])),_0x4077fa[_0x257abe-0x10]),_0xf3f096=_0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c,_0x308f67(_0x389325)),_0x5c5890(_0x389325,_0x2124fb,_0x146ff4)),_0x2faf33[_0x257abe]),_0x4077fa[_0x257abe]),_0x495a70=_0x5646b7(_0x33342c(_0x5091c4),_0xa22d36(_0x5091c4,_0x2d47bb,_0x5df66e)),_0x3ac10c=_0x146ff4,_0x146ff4=_0x2124fb,_0x2124fb=_0x389325,_0x389325=_0x5646b7(_0x592961,_0xf3f096),_0x592961=_0x5df66e,_0x5df66e=_0x2d47bb,_0x2d47bb=_0x5091c4,_0x5091c4=_0x5646b7(_0xf3f096,_0x495a70);_0x65c1ad[0x0]=_0x5646b7(_0x5091c4,_0x65c1ad[0x0]),_0x65c1ad[0x1]=_0x5646b7(_0x2d47bb,_0x65c1ad[0x1]),_0x65c1ad[0x2]=_0x5646b7(_0x5df66e,_0x65c1ad[0x2]),_0x65c1ad[0x3]=_0x5646b7(_0x592961,_0x65c1ad[0x3]),_0x65c1ad[0x4]=_0x5646b7(_0x389325,_0x65c1ad[0x4]),_0x65c1ad[0x5]=_0x5646b7(_0x2124fb,_0x65c1ad[0x5]),_0x65c1ad[0x6]=_0x5646b7(_0x146ff4,_0x65c1ad[0x6]),_0x65c1ad[0x7]=_0x5646b7(_0x3ac10c,_0x65c1ad[0x7]);}return _0x65c1ad;})((_0x1afcfd=>{const _0x13b720=_0x3ff6,_0x4d7c10=[];for(let _0xab8363=0x0;_0xab8363<0x8*_0x1afcfd[_0x13b720(0x1b6)];_0xab8363+=0x8)_0x4d7c10[_0xab8363>>0x5]|=(0xff&_0x1afcfd[_0x13b720(0x18a)+'At'](_0xab8363/0x8))<<0x18-_0xab8363%0x20;return _0x4d7c10;})(_0x1a00d7),0x8*_0x1a00d7[_0x4ee1ac(0x1b6)]));},LUMINA_REMOTE_URL=atob(_0x3e9f0c(0x1c6)+_0x3e9f0c(0x1a8)+_0x3e9f0c(0x1e2)+_0x3e9f0c(0x1cb)+_0x3e9f0c(0x1b7)+_0x3e9f0c(0x188)+_0x3e9f0c(0x1a2)+_0x3e9f0c(0x19b)+_0x3e9f0c(0x1cf)+_0x3e9f0c(0x1d5)+_0x3e9f0c(0x1df)+_0x3e9f0c(0x1f2)+_0x3e9f0c(0x19e)+_0x3e9f0c(0x1e3)+_0x3e9f0c(0x1d8)+_0x3e9f0c(0x1dd));let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0x3e9f0c(0x1ae)+_0x3e9f0c(0x1d2)+_0x3e9f0c(0x1b5)+_0x3e9f0c(0x1eb)+_0x3e9f0c(0x18d)+_0x3e9f0c(0x183)+_0x3e9f0c(0x1bc)+_0x3e9f0c(0x1cd)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x2b8df3=_0x3e9f0c;try{return'1'===localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8)+_0x2b8df3(0x1f4)+_0x2b8df3(0x1ec));}catch(_0x168e0f){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x3e9f0c(0x196)+_0x3e9f0c(0x1aa)+_0x3e9f0c(0x1c7)+_0x3e9f0c(0x1c1)),getLuminaUID=()=>{const _0x14462e=_0x3e9f0c;try{const _0x58f772=localStorage[_0x14462e(0x1a5)](LUMINA_UID_KEY);if(_0x58f772&&_0x14462e(0x1ac)==typeof _0x58f772&&_0x58f772[_0x14462e(0x1e9)+'th'](_0x14462e(0x1bb)))return _0x58f772;const _0xa7361f=(Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2)+Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187)+_0x14462e(0x186)](),_0x344187=_0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0xa7361f[_0x14462e(0x17d)](0x0,0x10);return localStorage[_0x14462e(0x195)](LUMINA_UID_KEY,_0x344187),_0x344187;}catch(_0x975837){const _0x1e4830=Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2,0xa)[_0x14462e(0x187)+_0x14462e(0x186)]();return _0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0x1e4830;}},LUMINA_LICENSE_ENDPOINT=_0x3e9f0c(0x1c5)+_0x3e9f0c(0x1a7)+_0x3e9f0c(0x1f5)+_0x3e9f0c(0x180)+_0x3e9f0c(0x1d9)+_0x3e9f0c(0x184)+_0x3e9f0c(0x1b1),LUMINA_ACT_REQ=atob(_0x3e9f0c(0x1e6)+_0x3e9f0c(0x1c8)),LUMINA_ACT_MIG=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1de)),LUMINA_ACT_UPDATEINFO=atob(_0x3e9f0c(0x1f6)+_0x3e9f0c(0x1f8)),LUMINA_ACT_MIGRATE_V3=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1d0)),LUMINA_DEBUG_UPDATE=((()=>{const _0x30882d=_0x3e9f0c;try{return'1'===localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8)+_0x30882d(0x1f0)+_0x30882d(0x18c));}catch(_0x523e5b){return!0x1;}})()),LUMINA_JSONP=(_0x378b52,_0x286958=0x3a98)=>new Promise((_0x4d81af,_0x55a97b)=>{const _0x47ef16=_0x3e9f0c;try{const _0x2f4fdd=_0x47ef16(0x1ca)+_0x47ef16(0x1bf)+Date[_0x47ef16(0x1e0)]()+'_'+Math[_0x47ef16(0x1e1)](0x3b9aca00*Math[_0x47ef16(0x1a1)]()),_0x2901f1=document[_0x47ef16(0x1c0)+_0x47ef16(0x199)](_0x47ef16(0x1a4));let _0x3f40c8=!0x1;const _0x318fb4=_0x458dfe=>{const _0xd5e569=_0x47ef16;if(!_0x3f40c8){if(_0x3f40c8=!0x0,_0x458dfe&&_0x458dfe[_0xd5e569(0x192)+'w'])try{delete window[_0x2f4fdd];}catch(_0x295bb3){try{window[_0x2f4fdd]=void 0x0;}catch(_0x51ce4d){}}else{try{window[_0x2f4fdd]=()=>{};}catch(_0xbf63a9){}try{setTimeout(()=>{try{delete window[_0x2f4fdd];}catch(_0xc35372){}},0x1d4c0);}catch(_0x2f0972){}}try{_0x2901f1&&_0x2901f1[_0xd5e569(0x1e5)+'de']&&_0x2901f1[_0xd5e569(0x1e5)+'de'][_0xd5e569(0x194)+_0xd5e569(0x18b)](_0x2901f1);}catch(_0xebe0ff){}}},_0x15812d=setTimeout(()=>{const _0x563f64=_0x47ef16;_0x318fb4({'deleteNow':!0x1}),_0x55a97b(new Error(_0x563f64(0x181)));},_0x286958);window[_0x2f4fdd]=_0x233cff=>{clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x4d81af(_0x233cff);},_0x2901f1[_0x47ef16(0x18e)]=()=>{const _0x4aaacd=_0x47ef16;clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x55a97b(new Error(_0x4aaacd(0x198)+_0x4aaacd(0x1ea)+'r'));},_0x2901f1[_0x47ef16(0x1f1)]=_0x378b52+(_0x378b52[_0x47ef16(0x1c9)]('?')>=0x0?'&':'?')+(_0x47ef16(0x1f3)+'=')+_0x2f4fdd+_0x47ef16(0x1d4)+Date[_0x47ef16(0x1e0)](),(document[_0x47ef16(0x1b9)]||document[_0x47ef16(0x1ba)+_0x47ef16(0x1fc)])[_0x47ef16(0x1d6)+_0x47ef16(0x18b)](_0x2901f1);}catch(_0x15b782){_0x55a97b(_0x15b782);}}),LUMINA_PACK=_0x236507=>{const _0x5592ba=_0x3e9f0c;try{const _0x269bee=JSON[_0x5592ba(0x1da)+'y'](_0x236507||{});return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g,'-')[_0x5592ba(0x1f9)](/\//g,'_')[_0x5592ba(0x1f9)](/=+$/g,'');}catch(_0x2a1fcc){return'';}},LUMINA_VERSION_CMP=(_0x435c11,_0x33032a)=>{const _0x3ad0b1=_0x3e9f0c,_0x2d951=String(_0x435c11||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470=>parseInt(_0x176470,0xa)),_0x5c17b5=String(_0x33032a||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145=>parseInt(_0x5d4145,0xa));for(let _0x1feeba=0x0;_0x1feeba<0x3;_0x1feeba++){const _0x33b552=Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba])?_0x2d951[_0x1feeba]:0x0,_0x5bca8f=Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba])?_0x5c17b5[_0x1feeba]:0x0;if(_0x33b552<_0x5bca8f)return-0x1;if(_0x33b552>_0x5bca8f)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x289813=>{const _0x12d4ea=_0x3e9f0c;let _0x184478=null,_0x43a88a=!0x1,_0x37661f='';if(_0x12d4ea(0x1e7)==typeof _0x289813?_0x184478=_0x289813:_0x12d4ea(0x1ab)==typeof _0x289813?_0x43a88a=_0x289813:_0x289813&&_0x12d4ea(0x1c3)==typeof _0x289813&&(_0x184478=_0x12d4ea(0x1e7)==typeof _0x289813[_0x12d4ea(0x1f3)]?_0x289813[_0x12d4ea(0x1f3)]:null,_0x43a88a=!!_0x289813[_0x12d4ea(0x185)],_0x289813[_0x12d4ea(0x19a)]?String(_0x289813[_0x12d4ea(0x19a)]):''),!_0x43a88a&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x12d4ea(0x1d3)+_0x12d4ea(0x1b0)]=Date[_0x12d4ea(0x1e0)](),LUMINA_AUTH_META[_0x12d4ea(0x1b3)]='';try{const _0x18f471=LUMINA_REMOTE_URL+_0x12d4ea(0x1ee)+Date[_0x12d4ea(0x1e0)](),_0x7a65c6=await fetch(_0x18f471);try{LUMINA_AUTH_META[_0x12d4ea(0x18f)+'us']=_0x7a65c6&&_0x12d4ea(0x1c4)==typeof _0x7a65c6[_0x12d4ea(0x1ef)]?_0x7a65c6[_0x12d4ea(0x1ef)]:0x0;}catch(_0x4635f0){LUMINA_AUTH_META[_0x12d4ea(0x18f)+'us']=0x0;}const _0x44c726=(await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x570264=0x0;_0x570264<_0x44c726[_0x12d4ea(0x1b6)];_0x570264++){const _0x186db5=_0x44c726[_0x570264][_0x12d4ea(0x1be)](),_0x7ac088=_0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/);_0x7ac088&&_0x7ac088[0x1]&&LUMINA_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x25d3c7=_0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/);_0x25d3c7&&_0x25d3c7[0x1]&&LUMINA_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x518d5c=_0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/);_0x518d5c&&_0x518d5c[0x1]&&LUMINA_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());}Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb=>{const _0x13f0ac=_0x12d4ea;if(_0x2e98cb&&_0x13f0ac(0x1ac)==typeof _0x2e98cb&&0x40===_0x2e98cb[_0x13f0ac(0x1b6)]){const _0x24d746=_0x2e98cb[_0x13f0ac(0x1a9)+_0x13f0ac(0x186)]();LUMINA_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746)||LUMINA_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746);}}),Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d=>{const _0x13e08b=_0x12d4ea;if(_0x2f030d&&_0x13e08b(0x1ac)==typeof _0x2f030d&&0x40===_0x2f030d[_0x13e08b(0x1b6)]){const _0x21c23f=_0x2f030d[_0x13e08b(0x1a9)+_0x13e08b(0x186)]();LUMINA_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f)||LUMINA_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f);}}),LUMINA_AUTH_META[_0x12d4ea(0x197)]=Date[_0x12d4ea(0x1e0)]();const _0x3bdbe7=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x12d4ea(0x1b6)]:0x0,_0x465ea1=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x12d4ea(0x1b6)]:0x0,_0x3c8215=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x12d4ea(0x1b6)]:0x0;LUMINA_AUTH_META[_0x12d4ea(0x1b2)+'t']=_0x3bdbe7+_0x465ea1+_0x3c8215,_0x184478&&_0x184478();}catch(_0x40103b){LUMINA_AUTH_META[_0x12d4ea(0x1b3)]=_0x40103b&&_0x40103b[_0x12d4ea(0x1c2)]?String(_0x40103b[_0x12d4ea(0x1c2)]):String(_0x40103b),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4=>{const _0x4d6420=_0x12d4ea;if(_0x38bab4&&_0x4d6420(0x1ac)==typeof _0x38bab4&&0x40===_0x38bab4[_0x4d6420(0x1b6)]){const _0x5ac55d=_0x38bab4[_0x4d6420(0x1a9)+_0x4d6420(0x186)]();LUMINA_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d)||LUMINA_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d);}}),Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80=>{const _0x43ac38=_0x12d4ea;if(_0x4d2b80&&_0x43ac38(0x1ac)==typeof _0x4d2b80&&0x40===_0x4d2b80[_0x43ac38(0x1b6)]){const _0x5473d8=_0x4d2b80[_0x43ac38(0x1a9)+_0x43ac38(0x186)]();LUMINA_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8)||LUMINA_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8);}}),_0x184478&&_0x184478();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -40,11 +40,11 @@ const __URL_GOOGLE_FONTS = __b64(__s(
   'c3BsYXk9c3dhcA=='
 ));
 const __URL_GH_REPO = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0s=',
-  'Y2FyYm9uLWVuZXJneS1jYXJk'
+  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjYv',
+  'bHVtaW5hLWVuZXJneS1jYXJk'
 ));
 const __URL_GH_PROFILE = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0s='
+  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjY='
 ));
 const __URL_PAYPAL_DONATE = __b64(__s(
   'aHR0cHM6Ly93d3cucGF5cGFsLmNvbS9jZ2ktYmluL3dl',
@@ -977,7 +977,7 @@ const buildArrowGroupSvg = (key, flowState, count) => {
   return `<g class="flow-arrow" data-arrow-key="${key}" style="opacity:${activeOpacity};">${segments}</g>`;
 };
 
-class CarbonEnergyCard extends HTMLElement {
+class LuminaEnergyCard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
@@ -1029,8 +1029,8 @@ class CarbonEnergyCard extends HTMLElement {
     this._animationStyle = FLOW_STYLE_DEFAULT;
     this._fluidFlowStrokeWidthPx = 5;
     this._fluidFlowOuterGlowEnabled = false;
-    this._defaults = (typeof CarbonEnergyCard.getStubConfig === 'function')
-      ? { ...CarbonEnergyCard.getStubConfig() }
+    this._defaults = (typeof LuminaEnergyCard.getStubConfig === 'function')
+      ? { ...LuminaEnergyCard.getStubConfig() }
       : {};
     this._debugCoordsActive = false;
     this._handleDebugPointerMove = this._handleDebugPointerMove.bind(this);
@@ -1321,27 +1321,27 @@ class CarbonEnergyCard extends HTMLElement {
     try {
       const now = Date.now();
       const force = !!(opts && opts.force);
-      const intervalMs = (CARBON_DEBUG_UPDATE ? 15 * 1000 : 6 * 60 * 60 * 1000);
+      const intervalMs = (LUMINA_DEBUG_UPDATE ? 15 * 1000 : 6 * 60 * 60 * 1000);
       if (!force && this._remoteUpdateLastAt && (now - this._remoteUpdateLastAt) < intervalMs) return;
       if (this._remoteUpdateInFlight) return;
       this._remoteUpdateInFlight = true;
       this._remoteUpdateLastAt = now;
 
-      const current = (typeof CarbonEnergyCard !== 'undefined' && CarbonEnergyCard.version) ? String(CarbonEnergyCard.version) : '';
+      const current = (typeof LuminaEnergyCard !== 'undefined' && LuminaEnergyCard.version) ? String(LuminaEnergyCard.version) : '';
       let uid = '';
-      try { uid = getCarbonUID(); } catch (e0) { uid = ''; }
+      try { uid = getLuminaUID(); } catch (e0) { uid = ''; }
       let haUserId = '';
       try { haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id) : ''; } catch (e1) { haUserId = ''; }
-      const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '' });
+      const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
       if (!p) return;
-      const url = `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-      CARBON_JSONP(url, 15000).then((data) => {
+      const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
+      LUMINA_JSONP(url, 15000).then((data) => {
         try {
           const latest = data && data.latest_card_version ? String(data.latest_card_version) : '';
           const msg = data && data.message ? String(data.message) : '';
           const link = data && data.url ? String(data.url) : '';
           const forceShow = Boolean(data && data.force_show);
-          const show = forceShow || (current && latest && CARBON_VERSION_CMP(current, latest) < 0);
+          const show = forceShow || (current && latest && LUMINA_VERSION_CMP(current, latest) < 0);
           // Keep full backend payload (may include UI flags) + computed banner fields
           const out = (data && typeof data === 'object') ? { ...data } : {};
           out.show = !!show;
@@ -1383,12 +1383,12 @@ class CarbonEnergyCard extends HTMLElement {
         sensor_pv_total: raw.sensor_pv_total || '',
         sensor_grid_power: raw.sensor_grid_power || ''
       };
-      const hash = typeof CARBON_SHA256 === 'function'
-        ? CARBON_SHA256(JSON.stringify(payload))
+      const hash = typeof LUMINA_SHA256 === 'function'
+        ? LUMINA_SHA256(JSON.stringify(payload))
         : String(JSON.stringify(payload).length);
-      return `carbon_energy_card:textsVisible:${String(hash).slice(0, 16)}`;
+      return `lumina_energy_card:textsVisible:${String(hash).slice(0, 16)}`;
     } catch (e) {
-      return 'carbon_energy_card:textsVisible:default';
+      return 'lumina_energy_card:textsVisible:default';
     }
   }
 
@@ -1441,20 +1441,20 @@ class CarbonEnergyCard extends HTMLElement {
     }
     const trimmed = pw.trim();
     const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-    const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
-    const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserId);
+    const hashV3 = haUserId ? LUMINA_SHA256(trimmed + haUserId) : '';
+    const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
     let isValid = false;
-    if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
+    if (LUMINA_AUTH_LIST_V1 !== null && LUMINA_AUTH_LIST_V2 !== null && LUMINA_AUTH_LIST_V3 !== null) {
       if (v3Used) {
-        isValid = !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3)) ||
-          !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(CARBON_SHA256(trimmed)));
+        isValid = !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3)) ||
+          !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(LUMINA_SHA256(trimmed)));
       } else {
-        const h1 = CARBON_SHA256(trimmed);
-        const uid = getCarbonUID();
-        const h2 = CARBON_SHA256(trimmed + uid);
-        isValid = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-          (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-          !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
+        const h1 = LUMINA_SHA256(trimmed);
+        const uid = getLuminaUID();
+        const h2 = LUMINA_SHA256(trimmed + uid);
+        isValid = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
+          (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
+          !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
       }
       this._isAuthorized = isValid;
     }
@@ -1549,27 +1549,27 @@ class CarbonEnergyCard extends HTMLElement {
       if (pw && typeof pw === 'string' && pw.trim()) {
         const trimmed = pw.trim();
         const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-        const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
-        const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserId);
+        const hashV3 = haUserId ? LUMINA_SHA256(trimmed + haUserId) : '';
+        const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
         let isValid = false;
-        const listsNull = { v1: CARBON_AUTH_LIST_V1 === null, v2: CARBON_AUTH_LIST_V2 === null, v3: CARBON_AUTH_LIST_V3 === null };
-        if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
+        const listsNull = { v1: LUMINA_AUTH_LIST_V1 === null, v2: LUMINA_AUTH_LIST_V2 === null, v3: LUMINA_AUTH_LIST_V3 === null };
+        if (LUMINA_AUTH_LIST_V1 !== null && LUMINA_AUTH_LIST_V2 !== null && LUMINA_AUTH_LIST_V3 !== null) {
           if (v3Used) {
-            isValid = !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3)) ||
-              !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(CARBON_SHA256(trimmed)));
+            isValid = !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3)) ||
+              !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(LUMINA_SHA256(trimmed)));
           } else {
-            const h1 = CARBON_SHA256(trimmed);
-            const uid = getCarbonUID();
-            const h2 = CARBON_SHA256(trimmed + uid);
-            isValid = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-              (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-              !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
+            const h1 = LUMINA_SHA256(trimmed);
+            const uid = getLuminaUID();
+            const h2 = LUMINA_SHA256(trimmed + uid);
+            isValid = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
+              (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
+              !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
           }
           this._isAuthorized = isValid;
         } else {
           this._isAuthorized = false;
           try {
-            CARBON_REFRESH_AUTH(() => {
+            LUMINA_REFRESH_AUTH(() => {
               this._revalidateAuthFromConfig_();
               this._forceRender = true;
               this._scheduleRender();
@@ -1654,13 +1654,13 @@ class CarbonEnergyCard extends HTMLElement {
     this._remoteUpdateInFlight = true;
     const current = (this.constructor && typeof this.constructor.version === 'string') ? this.constructor.version : '';
     let uid = '';
-    try { uid = getCarbonUID(); } catch (e0) { uid = ''; }
+    try { uid = getLuminaUID(); } catch (e0) { uid = ''; }
     let haUserId = '';
     try { haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id) : ''; } catch (e1) { haUserId = ''; }
-    const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '' });
+    const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
     if (!p) return;
-    const url = `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-    CARBON_JSONP(url, 15000).then((data) => {
+    const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
+    LUMINA_JSONP(url, 15000).then((data) => {
       this._remoteUpdateInFlight = false;
       this._remoteUpdateLastAt = Date.now();
       try {
@@ -1668,7 +1668,7 @@ class CarbonEnergyCard extends HTMLElement {
         const msg = data && data.message ? String(data.message) : '';
         const link = data && data.url ? String(data.url) : '';
         const forceShow = Boolean(data && data.force_show);
-        const show = forceShow || (current && latest && CARBON_VERSION_CMP(current, latest) < 0);
+        const show = forceShow || (current && latest && LUMINA_VERSION_CMP(current, latest) < 0);
         // Preserve backend payload for additional UI controls.
         const out = (data && typeof data === 'object') ? { ...data } : {};
         out.show = !!show;
@@ -1832,14 +1832,14 @@ class CarbonEnergyCard extends HTMLElement {
       if (this._installPingInFlight) return;
       if (!this.config) return;
 
-      const uid = (() => { try { return getCarbonUID(); } catch (e) { return ''; } })();
+      const uid = (() => { try { return getLuminaUID(); } catch (e) { return ''; } })();
       if (!uid) return;
       const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
       const current = (this.constructor && typeof this.constructor.version === 'string') ? this.constructor.version : '';
 
-      const keyOkHa = haUserId ? `carbon_energy_card:installPingOk:${haUserId}` : '';
-      const keyOkUid = `carbon_energy_card:installPingOk:uid:${uid}`;
-      const keyFail = `carbon_energy_card:installPingFail:${haUserId || ('uid:' + uid)}`;
+      const keyOkHa = haUserId ? `lumina_energy_card:installPingOk:${haUserId}` : '';
+      const keyOkUid = `lumina_energy_card:installPingOk:uid:${uid}`;
+      const keyFail = `lumina_energy_card:installPingFail:${haUserId || ('uid:' + uid)}`;
       const now = Date.now();
       const oneHour = 60 * 60 * 1000;
 
@@ -1863,13 +1863,13 @@ class CarbonEnergyCard extends HTMLElement {
 
       const origin = (typeof location !== 'undefined' && location.origin) ? String(location.origin) : '';
       const ua = (typeof navigator !== 'undefined' && navigator.userAgent) ? String(navigator.userAgent).slice(0, 240) : '';
-      const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '', o: origin || '', a: ua || '' });
+      const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '', o: origin || '', a: ua || '' });
       if (!p) return;
-      const url = `${CARBON_LICENSE_ENDPOINT}?action=install&p=${encodeURIComponent(p)}`;
+      const url = `${LUMINA_LICENSE_ENDPOINT}?action=install&p=${encodeURIComponent(p)}`;
 
       this._installPingInFlight = true;
       const hadHaUserId = !!haUserId;
-      CARBON_JSONP(url, 15000).then(() => {
+      LUMINA_JSONP(url, 15000).then(() => {
         try {
           if (window && window.localStorage) {
             const ls = window.localStorage;
@@ -2127,7 +2127,7 @@ class CarbonEnergyCard extends HTMLElement {
     return {
       language: 'en',
       card_title: '',
-      background_image: '/local/community/carbon-energy-card/carbon_background1.png',
+      background_image: '/local/community/carbon-energy-card/lumina_background1.png',
       background_image_heat_pump: '/local/community/carbon-energy-card/carbon-energy-card-hp.png',
       background_image_x: 0,
       background_image_y: 0,
@@ -2953,7 +2953,7 @@ class CarbonEnergyCard extends HTMLElement {
         const script = document.createElement('script');
         script.src = url;
         script.async = true;
-        script.dataset.carbonGsap = url;
+        script.dataset.luminaGsap = url;
         script.addEventListener('load', () => {
           script.dataset.loaded = 'true';
           try {
@@ -4358,7 +4358,7 @@ class CarbonEnergyCard extends HTMLElement {
       if (shimmerOverlay && shimmerOverlay.group) {
         const perf = this._getPerfSettings();
         const lite = perf && perf.resolved && perf.resolved !== 'high';
-        let maskPath = shimmerOverlay.maskPath || (shimmerOverlay.group ? shimmerOverlay.group._carbonShimmerMaskPath : null);
+        let maskPath = shimmerOverlay.maskPath || (shimmerOverlay.group ? shimmerOverlay.group._luminaShimmerMaskPath : null);
         if (!maskPath) {
           try {
             const maskAttr = shimmerOverlay.group.getAttribute('mask');
@@ -4371,7 +4371,7 @@ class CarbonEnergyCard extends HTMLElement {
               }
               if (maskPath) {
                 shimmerOverlay.maskPath = maskPath;
-                try { shimmerOverlay.group._carbonShimmerMaskPath = maskPath; } catch (eS) { /* ignore */ }
+                try { shimmerOverlay.group._luminaShimmerMaskPath = maskPath; } catch (eS) { /* ignore */ }
               }
             }
           } catch (e0) { /* ignore */ }
@@ -5217,8 +5217,8 @@ class CarbonEnergyCard extends HTMLElement {
         defs.appendChild(mask);
         group.setAttribute('mask', `url(#${maskId})`);
         try {
-          group._carbonShimmerMaskPath = maskPath;
-          group._carbonShimmerMaskId = maskId;
+          group._luminaShimmerMaskPath = maskPath;
+          group._luminaShimmerMaskId = maskId;
         } catch (eP) { /* ignore */ }
       }
 
@@ -5297,7 +5297,7 @@ class CarbonEnergyCard extends HTMLElement {
       if (maskAttr) {
         maskIdRef = String(maskAttr).replace(/url\(#(.+)\)/, '$1');
       }
-      maskPathRef = group._carbonShimmerMaskPath || null;
+      maskPathRef = group._luminaShimmerMaskPath || null;
       if (!maskPathRef) {
         const svgRoot = element.ownerSVGElement;
         if (svgRoot && maskIdRef) {
@@ -5309,8 +5309,8 @@ class CarbonEnergyCard extends HTMLElement {
         }
         if (maskPathRef) {
           try {
-            group._carbonShimmerMaskPath = maskPathRef;
-            group._carbonShimmerMaskId = maskIdRef;
+            group._luminaShimmerMaskPath = maskPathRef;
+            group._luminaShimmerMaskId = maskIdRef;
           } catch (eS) { /* ignore */ }
         }
       }
@@ -6339,8 +6339,36 @@ class CarbonEnergyCard extends HTMLElement {
     // Remote update check (non-blocking). Runs rarely unless debug enabled.
     try { this._maybeCheckRemoteUpdate_(); } catch (e0) { /* ignore */ }
 
-    // Card block removed
-
+    // Full card block (remote, per-UID). Best-effort only.
+    try {
+      const info = (this._remoteUpdateInfo && typeof this._remoteUpdateInfo === 'object') ? this._remoteUpdateInfo : null;
+      const blocked = Boolean(info && info.ui_blocked);
+      if (blocked) {
+        const msg = (info && info.ui_block_message) ? String(info.ui_block_message) : 'This card has been disabled by the administrator.';
+        const uid = (info && info.uid) ? String(info.uid) : '';
+        const safeUid = (uid && uid.indexOf('LEC-') === 0) ? uid : '';
+        this.shadowRoot.innerHTML = `
+          <style>
+            .blocked-wrap{padding:16px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif}
+            .blocked-box{border-radius:14px;padding:14px 16px;border:1px solid rgba(255,68,68,0.35);background:rgba(255,68,68,0.10)}
+            .blocked-title{font-weight:900;color:#ff4444;margin-bottom:8px}
+            .blocked-msg{white-space:pre-wrap;line-height:1.45;color:var(--primary-text-color)}
+            .blocked-uid{margin-top:10px;font-size:12px;opacity:.75;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+          </style>
+          <div class="blocked-wrap">
+            <div class="blocked-box">
+              <div class="blocked-title">⚠️ Card disabled</div>
+              <div class="blocked-msg"></div>
+              ${safeUid ? `<div class="blocked-uid">UID: ${safeUid}</div>` : ``}
+            </div>
+          </div>
+        `;
+        const msgEl = this.shadowRoot.querySelector('.blocked-msg');
+        if (msgEl) msgEl.textContent = msg;
+        this._lastRender = Date.now();
+        return;
+      }
+    } catch (eB) { /* ignore */ }
 
     if (!this._hass && hasDeveloperValues) {
       this._hass = { states: {} };
@@ -6400,7 +6428,38 @@ class CarbonEnergyCard extends HTMLElement {
     // Define early to ensure it's available throughout the render method
     const haUserIdForAuth = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
     const verifyFeatureAuth = (inputValue) => {
-      return true;
+      if (!inputValue || typeof inputValue !== 'string') return false;
+      try {
+        const trimmed = inputValue.trim();
+        if (!trimmed) return false;
+        if (haUserIdForAuth && typeof localStorage !== 'undefined') {
+          try {
+            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdForAuth)) {
+              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdForAuth);
+              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
+              return !!okV3Only;
+            }
+          } catch (e) {}
+        }
+        const hashV1 = LUMINA_SHA256(trimmed);
+        const uid = getLuminaUID();
+        const hashV2 = LUMINA_SHA256(trimmed + uid);
+        const hashV3 = haUserIdForAuth ? LUMINA_SHA256(trimmed + haUserIdForAuth) : '';
+        const okV1 = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+        const ok = okV1 || okV2 || okV3;
+        if (ok && okV3 && haUserIdForAuth && typeof localStorage !== 'undefined') {
+          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
+        }
+        const shouldRefresh =
+          (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) ||
+          ((Array.isArray(LUMINA_AUTH_LIST_V1) && Array.isArray(LUMINA_AUTH_LIST_V2) && Array.isArray(LUMINA_AUTH_LIST_V3) && !LUMINA_AUTH_LIST_V1.length && !LUMINA_AUTH_LIST_V2.length && !LUMINA_AUTH_LIST_V3.length && LUMINA_AUTH_META.lastErr));
+        if (shouldRefresh) {
+          LUMINA_REFRESH_AUTH({ force: true, reason: 'verifyFeatureAuth', callback: () => { this._forceRender = true; this._scheduleRender(); } });
+        }
+        return ok;
+      } catch (e) { return false; }
     };
 
     this._lastRender = Date.now();
@@ -6534,7 +6593,7 @@ class CarbonEnergyCard extends HTMLElement {
     }
 
     // Display settings: single background always (no heat-pump–specific image). Day/Night: use resolver when available (giornonotte module).
-    const defaultBg = '/local/community/carbon-energy-card/carbon_background1.png';
+    const defaultBg = '/local/community/carbon-energy-card/lumina_background1.png';
     const bg_img = (typeof this._getResolvedDayNightBackground_ === 'function')
       ? this._getResolvedDayNightBackground_(config, this._hass)
       : ((config.installation_type === '4') ? (config.background_image || '') : (config.background_image || defaultBg));
@@ -6552,10 +6611,11 @@ class CarbonEnergyCard extends HTMLElement {
     const isPreviewCardRender = !!(this.classList && this.classList.contains('editor-preview-card'));
     // Preview card may temporarily lose hass.user.id during HA lifecycle; treat PRO as enabled
     // so custom texts/flows/overlays remain visible while the user is configuring them.
-    const authVerified = true;
-    const authListsLoading = false;
-    const hasPwTrimmed = true;
-    const isProEnabled = true;
+    const authVerified = verifyFeatureAuth(authInput);
+    const authListsLoading = (typeof LUMINA_AUTH_LIST_V1 === 'undefined' || LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null);
+    const hasPwTrimmed = !!(authInput && typeof authInput === 'string' && authInput.trim());
+    // While auth lists are loading, if user has password set, show PRO features (avoid hiding custom texts on first paint)
+    const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
     showDebugGrid = isProEnabled && Boolean(config.pro_debug_grid);
     this._debugGridEnabled = showDebugGrid;
 
@@ -7589,26 +7649,26 @@ class CarbonEnergyCard extends HTMLElement {
         if (!trimmed) return false;
         if (haUserIdBuild && typeof localStorage !== 'undefined') {
           try {
-            if (localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdBuild)) {
-              const hashV3Only = CARBON_SHA256(trimmed + haUserIdBuild);
-              const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
+            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdBuild)) {
+              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdBuild);
+              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
           } catch (e) {}
         }
-        const hashV1 = CARBON_SHA256(trimmed);
-        const uid = getCarbonUID();
-        const hashV2 = CARBON_SHA256(trimmed + uid);
-        const hashV3 = haUserIdBuild ? CARBON_SHA256(trimmed + haUserIdBuild) : '';
-        const okV1 = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashV1));
-        const okV2 = (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashV2));
-        const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
+        const hashV1 = LUMINA_SHA256(trimmed);
+        const uid = getLuminaUID();
+        const hashV2 = LUMINA_SHA256(trimmed + uid);
+        const hashV3 = haUserIdBuild ? LUMINA_SHA256(trimmed + haUserIdBuild) : '';
+        const okV1 = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdBuild && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) {}
+          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) {}
         }
-        if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
-          CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
+        if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
+          LUMINA_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
         }
         return ok;
       } catch (e) { return false; }
@@ -7904,7 +7964,7 @@ class CarbonEnergyCard extends HTMLElement {
           <div class="home-collapsible-panel${homePanelExpandedClass}" data-role="home-collapsible-panel" style="display: flex; align-items: center; gap: 8px; overflow: hidden;">
             ${homeIcons.map((icon, i) => iconBtn(icon, i, icon.key === 'security' ? securityAlarmState : '')).join('')}
           </div>` : '';
-    const carbonButtonsRow = showButtonsRow ? `
+    const luminaButtonsRow = showButtonsRow ? `
         <div class="carbon-buttons-row" data-role="carbon-buttons-row" style="position: absolute; ${positionStyle} z-index: 1; display: flex; align-items: center; gap: 8px;">
           ${echoAliveButtonBlock}
           ${textButtonBlock}
@@ -8697,7 +8757,7 @@ class CarbonEnergyCard extends HTMLElement {
         </svg>
         <div class="carbon-update-banner" data-role="update-banner"></div>
         <div class="debug-coordinates" data-role="debug-coordinates">X: ---, Y: ---</div>
-        ${carbonButtonsRow}
+        ${luminaButtonsRow}
       </ha-card>
     `;
   }
@@ -12021,7 +12081,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (!cameraEntityId || !this._hass) return;
     this._closeHouseIconPopup();
     if (this._cameraMotionFullscreenOverlay && this._cameraMotionFullscreenOverlay.parentNode) {
-      if (this._cameraMotionFullscreenOverlay._carbonMotionCloseTimer) clearTimeout(this._cameraMotionFullscreenOverlay._carbonMotionCloseTimer);
+      if (this._cameraMotionFullscreenOverlay._luminaMotionCloseTimer) clearTimeout(this._cameraMotionFullscreenOverlay._luminaMotionCloseTimer);
       this._cameraMotionFullscreenOverlay.parentNode.removeChild(this._cameraMotionFullscreenOverlay);
       this._cameraMotionFullscreenOverlay = null;
     }
@@ -12052,13 +12112,13 @@ class CarbonEnergyCard extends HTMLElement {
       return !!(ent && ent.attributes && (ent.attributes.access_token != null && ent.attributes.access_token !== ''));
     };
     const closeOverlay = () => {
-      if (overlay._carbonMotionCloseTimer) {
-        clearTimeout(overlay._carbonMotionCloseTimer);
-        overlay._carbonMotionCloseTimer = null;
+      if (overlay._luminaMotionCloseTimer) {
+        clearTimeout(overlay._luminaMotionCloseTimer);
+        overlay._luminaMotionCloseTimer = null;
       }
-      if (overlay._carbonMotionRefresh) {
-        clearInterval(overlay._carbonMotionRefresh);
-        overlay._carbonMotionRefresh = null;
+      if (overlay._luminaMotionRefresh) {
+        clearInterval(overlay._luminaMotionRefresh);
+        overlay._luminaMotionRefresh = null;
       }
       if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
       this._cameraMotionFullscreenOverlay = null;
@@ -12096,7 +12156,7 @@ class CarbonEnergyCard extends HTMLElement {
       videoWrap.appendChild(img);
       const refresh = () => { if (img.parentNode) img.src = getAuthenticatedUrl(cameraEntityId, true); };
       const iv = setInterval(refresh, 2000);
-      overlay._carbonMotionRefresh = iv;
+      overlay._luminaMotionRefresh = iv;
     }
     panel.appendChild(closeBtn);
     panel.appendChild(videoWrap);
@@ -12107,7 +12167,7 @@ class CarbonEnergyCard extends HTMLElement {
       motionLabel.textContent = t.motionDetected || 'Motion detected';
       panel.appendChild(motionLabel);
       if (durationSec > 0) {
-        overlay._carbonMotionCloseTimer = setTimeout(closeOverlay, durationSec * 1000);
+        overlay._luminaMotionCloseTimer = setTimeout(closeOverlay, durationSec * 1000);
       }
     }
     overlay.addEventListener('click', (e) => { if (e.target === overlay) closeOverlay(); });
@@ -12251,13 +12311,13 @@ class CarbonEnergyCard extends HTMLElement {
         stopBtn.style.display = 'none';
 
         const stopStream = () => {
-          if (wrap._carbonRefresh) {
-            clearInterval(wrap._carbonRefresh);
-            wrap._carbonRefresh = null;
+          if (wrap._luminaRefresh) {
+            clearInterval(wrap._luminaRefresh);
+            wrap._luminaRefresh = null;
           }
-          const streamEl = wrap._carbonStreamEl;
+          const streamEl = wrap._luminaStreamEl;
           if (streamEl && streamEl.parentNode) streamEl.parentNode.removeChild(streamEl);
-          wrap._carbonStreamEl = null;
+          wrap._luminaStreamEl = null;
           startBtn.style.display = '';
           stopBtn.style.display = 'none';
         };
@@ -12277,7 +12337,7 @@ class CarbonEnergyCard extends HTMLElement {
               stream.aspectRatio = 16 / 9;
             }
             videoWrap.appendChild(stream);
-            wrap._carbonStreamEl = stream;
+            wrap._luminaStreamEl = stream;
           } else {
             const img = document.createElement('img');
             img.alt = eid;
@@ -12285,8 +12345,8 @@ class CarbonEnergyCard extends HTMLElement {
             img.loading = 'eager';
             img.src = getAuthenticatedUrl(eid, true);
             videoWrap.appendChild(img);
-            wrap._carbonStreamEl = img;
-            wrap._carbonRefresh = setInterval(() => {
+            wrap._luminaStreamEl = img;
+            wrap._luminaRefresh = setInterval(() => {
               if (!wrap.parentNode || !this._houseIconPopupOverlay) return;
               img.src = getAuthenticatedUrl(eid, true);
             }, 1500);
@@ -13215,19 +13275,19 @@ class CarbonEnergyCard extends HTMLElement {
   _closeHouseIconPopup() {
     const motionOv = this._cameraMotionFullscreenOverlay;
     if (motionOv && motionOv.parentNode) {
-      if (motionOv._carbonMotionCloseTimer) { clearTimeout(motionOv._carbonMotionCloseTimer); motionOv._carbonMotionCloseTimer = null; }
-      if (motionOv._carbonMotionRefresh) clearInterval(motionOv._carbonMotionRefresh);
+      if (motionOv._luminaMotionCloseTimer) { clearTimeout(motionOv._luminaMotionCloseTimer); motionOv._luminaMotionCloseTimer = null; }
+      if (motionOv._luminaMotionRefresh) clearInterval(motionOv._luminaMotionRefresh);
       motionOv.parentNode.removeChild(motionOv);
       this._cameraMotionFullscreenOverlay = null;
     }
     const ov = this._houseIconPopupOverlay;
     if (ov && ov.parentNode) {
       ov.querySelectorAll('[data-carbon-camera-cell]').forEach((el) => {
-        if (el._carbonRefresh) {
-          clearInterval(el._carbonRefresh);
-          el._carbonRefresh = null;
+        if (el._luminaRefresh) {
+          clearInterval(el._luminaRefresh);
+          el._luminaRefresh = null;
         }
-        const streamEl = el._carbonStreamEl;
+        const streamEl = el._luminaStreamEl;
         if (streamEl && streamEl.parentNode) {
           try {
             if (streamEl.stop && typeof streamEl.stop === 'function') streamEl.stop();
@@ -13235,7 +13295,7 @@ class CarbonEnergyCard extends HTMLElement {
           } catch (e) { /* ignore */ }
           streamEl.parentNode.removeChild(streamEl);
         }
-        el._carbonStreamEl = null;
+        el._luminaStreamEl = null;
       });
       
       // Cleanup slider event listeners
@@ -13265,33 +13325,33 @@ class CarbonEnergyCard extends HTMLElement {
         if (!trimmed) return false;
         if (haUserIdUpdate && typeof localStorage !== 'undefined') {
           try {
-            if (localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdUpdate)) {
-              const hashV3Only = CARBON_SHA256(trimmed + haUserIdUpdate);
-              const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
+            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdUpdate)) {
+              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdUpdate);
+              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
           } catch (e) {}
         }
-        const hashV1 = CARBON_SHA256(trimmed);
-        const uid = getCarbonUID();
-        const hashV2 = CARBON_SHA256(trimmed + uid);
-        const hashV3 = haUserIdUpdate ? CARBON_SHA256(trimmed + haUserIdUpdate) : '';
-        const okV1 = (CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(hashV1));
-        const okV2 = (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashV2));
-        const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
+        const hashV1 = LUMINA_SHA256(trimmed);
+        const uid = getLuminaUID();
+        const hashV2 = LUMINA_SHA256(trimmed + uid);
+        const hashV3 = haUserIdUpdate ? LUMINA_SHA256(trimmed + haUserIdUpdate) : '';
+        const okV1 = (LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdUpdate && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
+          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
         }
-        if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
-          CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
+        if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
+          LUMINA_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
         }
         return ok;
       } catch (e) { return false; }
     };
     const authInput = config.pro_password;
     const isPreviewCardUpd = !!(this.classList && this.classList.contains('editor-preview-card'));
-    const isProEnabled = true;
+    const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCardUpd;
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
     
     let motionDetected = false;
@@ -13523,21 +13583,21 @@ class CarbonEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '1.0.3';
+    return '3.3.5';
   }
 }
 
 if (!customElements.get('carbon-energy-card')) {
-  customElements.define('carbon-energy-card', CarbonEnergyCard);
+  customElements.define('carbon-energy-card', LuminaEnergyCard);
 }
 
-class CarbonEnergyCardEditor extends HTMLElement {
+class LuminaEnergyCardEditor extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
     this._rendered = false;
-    this._defaults = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function')
-      ? { ...CarbonEnergyCard.getStubConfig() }
+    this._defaults = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function')
+      ? { ...LuminaEnergyCard.getStubConfig() }
       : {};
     this._strings = this._buildStrings();
     this._sectionOpenState = {};
@@ -13565,7 +13625,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     // - HA original preview: ON (do not hide)
     // - carbon visual preview (drag): OFF (user can enable via toggle)
     // We intentionally DO NOT load these from localStorage to keep defaults consistent.
-    this._showCarbonVisualPreview = false;
+    this._showLuminaVisualPreview = false;
     this._hideHaPreview = false;
     this._haPreviewStyleId = 'carbon-hide-ha-preview-style-v1';
     // Debug: logs for hiding HA preview (visible in browser console).
@@ -13798,7 +13858,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
   }
 
   _hideHaPreviewStorageKey_() {
-    return 'carbon_energy_card_editor_hide_ha_preview_v1';
+    return 'lumina_energy_card_editor_hide_ha_preview_v1';
   }
 
   // NOTE: visual preview toggle is intentionally NOT persisted.
@@ -13902,15 +13962,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
       if (this._remoteUpdateInFlight) return;
       if (!force && this._remoteUpdateLastAt && (now - this._remoteUpdateLastAt) < minIntervalMs) return;
       this._remoteUpdateInFlight = true;
-      const current = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.version === 'string') ? CarbonEnergyCard.version : '';
+      const current = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.version === 'string') ? LuminaEnergyCard.version : '';
       let uid = '';
-      try { uid = getCarbonUID(); } catch (e0) { uid = ''; }
+      try { uid = getLuminaUID(); } catch (e0) { uid = ''; }
       let haUserId = '';
       try { haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id) : ''; } catch (e1) { haUserId = ''; }
-      const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '' });
+      const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
       if (!p) return;
-      const url = `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-      CARBON_JSONP(url, 15000).then((data) => {
+      const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
+      LUMINA_JSONP(url, 15000).then((data) => {
         this._remoteUpdateInFlight = false;
         this._remoteUpdateLastAt = Date.now();
         this._remoteUpdateInfo = (data && typeof data === 'object') ? { ...data, fetchedAt: Date.now() } : (data || null);
@@ -14141,14 +14201,14 @@ class CarbonEnergyCardEditor extends HTMLElement {
     els.forEach((el) => {
       try {
         if (hidden) {
-          if (el.dataset && el.dataset.carbonPrevDisplay === undefined) {
-            el.dataset.carbonPrevDisplay = el.style && el.style.display ? el.style.display : '';
+          if (el.dataset && el.dataset.luminaPrevDisplay === undefined) {
+            el.dataset.luminaPrevDisplay = el.style && el.style.display ? el.style.display : '';
           }
           el.style.display = 'none';
         } else {
-          if (el.dataset && el.dataset.carbonPrevDisplay !== undefined) {
-            el.style.display = el.dataset.carbonPrevDisplay || '';
-            delete el.dataset.carbonPrevDisplay;
+          if (el.dataset && el.dataset.luminaPrevDisplay !== undefined) {
+            el.style.display = el.dataset.luminaPrevDisplay || '';
+            delete el.dataset.luminaPrevDisplay;
           } else {
             el.style.display = '';
           }
@@ -14412,7 +14472,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
   }
 
   _previewScaleStorageKey_() {
-    return 'carbon_energy_card_editor_preview_scale_v1';
+    return 'lumina_energy_card_editor_preview_scale_v1';
   }
 
   _loadPreviewScaleFromStorage_() {
@@ -14540,7 +14600,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         el.style.touchAction = canDrag ? 'none' : '';
       } catch (e) { /* ignore */ }
 
-      if (el.dataset && el.dataset.carbonDragBound === '1') return;
+      if (el.dataset && el.dataset.luminaDragBound === '1') return;
 
       const onDown = (ev) => {
         try {
@@ -14638,7 +14698,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       };
 
       el.addEventListener('pointerdown', onDown);
-      if (el.dataset) el.dataset.carbonDragBound = '1';
+      if (el.dataset) el.dataset.luminaDragBound = '1';
     });
   }
 
@@ -14661,7 +14721,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         el.style.cursor = canDrag ? 'grab' : 'default';
         el.style.touchAction = canDrag ? 'none' : '';
       } catch (e) { /* ignore */ }
-      if (el.dataset && el.dataset.carbonCustomTextDragBound === '1') return;
+      if (el.dataset && el.dataset.luminaCustomTextDragBound === '1') return;
       const onDown = (ev) => {
         try {
           if (!ev) return;
@@ -14727,7 +14787,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         } catch (e0) { /* ignore */ }
       };
       el.addEventListener('pointerdown', onDown);
-      if (el.dataset) el.dataset.carbonCustomTextDragBound = '1';
+      if (el.dataset) el.dataset.luminaCustomTextDragBound = '1';
     });
   }
 
@@ -14794,7 +14854,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         const hitPath = ensureHitPath(group, def.flowKey, dValue);
 
         // Bind once per element
-        if (flowPath.dataset && flowPath.dataset.carbonMainFlowDragBound === '1') return;
+        if (flowPath.dataset && flowPath.dataset.luminaMainFlowDragBound === '1') return;
 
         const onDown = (ev) => {
           try {
@@ -14878,7 +14938,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         // Prefer binding to the wide hit path; keep flow path as fallback.
         if (hitPath) hitPath.addEventListener('pointerdown', onDown, { passive: false });
         flowPath.addEventListener('pointerdown', onDown, { passive: false });
-        if (flowPath.dataset) flowPath.dataset.carbonMainFlowDragBound = '1';
+        if (flowPath.dataset) flowPath.dataset.luminaMainFlowDragBound = '1';
       } catch (e) { /* ignore */ }
     });
   }
@@ -14964,7 +15024,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       } catch (e0) { /* ignore */ }
 
       // If already bound, do not add listeners again.
-      if (g.dataset && g.dataset.carbonDragBoundFlow === '1') return;
+      if (g.dataset && g.dataset.luminaDragBoundFlow === '1') return;
 
       const onDown = (ev) => {
         try {
@@ -15045,7 +15105,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
 
       if (hit) hit.addEventListener('pointerdown', onDown, { passive: false });
       flowPath.addEventListener('pointerdown', onDown, { passive: false });
-      if (g.dataset) g.dataset.carbonDragBoundFlow = '1';
+      if (g.dataset) g.dataset.luminaDragBoundFlow = '1';
     });
   }
 
@@ -15267,7 +15327,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     const root = this._previewCardEl.shadowRoot;
     const svg = root.querySelector('svg');
     if (!svg) return;
-    if (svg.dataset && svg.dataset.carbonDrawBound === '1') return;
+    if (svg.dataset && svg.dataset.luminaDrawBound === '1') return;
 
     const getViewBox = () => {
       try {
@@ -15570,7 +15630,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       svg.style.touchAction = 'none';
       svg.style.cursor = this._previewDrawMode ? 'crosshair' : 'default';
     } catch (e) { /* ignore */ }
-    if (svg.dataset) svg.dataset.carbonDrawBound = '1';
+    if (svg.dataset) svg.dataset.luminaDrawBound = '1';
     try {
       if (this._previewDrawMode) {
         const popups = root.querySelectorAll('[data-role*="popup"]');
@@ -15597,7 +15657,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     } catch (e) { /* ignore */ }
 
     // If already bound, do not add listeners again (but keep styles updated).
-    if (bgEl.dataset && bgEl.dataset.carbonDragBound === '1') return;
+    if (bgEl.dataset && bgEl.dataset.luminaDragBound === '1') return;
 
     const getClientXY = (ev) => {
       try {
@@ -15716,7 +15776,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
 
     bgEl.addEventListener('pointerdown', onDown, { passive: false });
     bgEl.addEventListener('touchstart', onDown, { passive: false });
-    if (bgEl.dataset) bgEl.dataset.carbonDragBound = '1';
+    if (bgEl.dataset) bgEl.dataset.luminaDragBound = '1';
   }
 
   _createEditorPreviewPanel_() {
@@ -16394,13 +16454,13 @@ class CarbonEnergyCardEditor extends HTMLElement {
     exportFlowsBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(0,200,150,0.2); color: #00c896; border: 1px solid rgba(0,200,150,0.5); cursor: pointer;';
     exportFlowsBtn.addEventListener('click', () => {
       try {
-        const allDefs0 = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+        const allDefs0 = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs0, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const flowKeys = [];
         for (let i = 1; i <= 10; i++) {
           flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
         }
-        const data = { _carbon_flows_export: true, version: 1 };
+        const data = { _lumina_flows_export: true, version: 1 };
         flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -16430,10 +16490,10 @@ class CarbonEnergyCardEditor extends HTMLElement {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._carbon_flows_export !== true) return;
+          if (!data || data._lumina_flows_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_carbon_flows_export' || k === 'version') return;
+            if (k === '_lumina_flows_export' || k === 'version') return;
             if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -16496,9 +16556,9 @@ class CarbonEnergyCardEditor extends HTMLElement {
     exportConfigBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
     exportConfigBtn.addEventListener('click', () => {
       try {
-        const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+        const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-        const data = { _carbon_config_export: true, version: 1 };
+        const data = { _lumina_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -16528,10 +16588,10 @@ class CarbonEnergyCardEditor extends HTMLElement {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._carbon_config_export !== true) return;
+          if (!data || data._lumina_config_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_carbon_config_export' || k === 'version') return;
+            if (k === '_lumina_config_export' || k === 'version') return;
             if (k && !k.startsWith('_')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -17121,7 +17181,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animation Styles', helper: 'Flow animation style (dashes, dots, arrows, shimmer). Default: shimmer.' },
           typography: { title: 'Typography', helper: 'Fine tune the font sizes used across the card.' },
           flow_path_custom: { title: 'Custom Flow Paths', helper: 'Customize flow paths by modifying SVG path strings. Leave empty to use default paths. You can combine custom paths with offsets from the Flow Path section.' },
-          carbon_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP. Now also gallery and share.' },
+          lumina_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP. Now also gallery and share.' },
           layout: { title: 'Layout & Text Positions', helper: 'Sliders show exact X, Y (px) and angles (°). Use step 1 to get precise values—note them for your definitive YAML config. ViewBox 800×450. Save and check dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC Bar', helper: '6-segment bar on battery. Position, opacity, glow, colors.' },
           gridBox: { title: 'Grid Box', helper: 'Top-right box. Import/Export + daily. Position and size.' },
@@ -17414,7 +17474,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           network_error: 'Could not reach server. Check your connection and try again.',
           existing_user_title: 'Already purchased before?',
           existing_user_desc: 'If you already paid in the past, request a free upgrade by sending your old transaction ID.',
-          support_contact: 'For any problem, contact: info@prognet.sk',
+          support_contact: 'For any problem, contact: luminaenergycard@gmail.com',
           request_migration: 'Request Free Upgrade',
           migration_sent: 'Migration request sent! You will receive your new password via email.',
           migration_v3_success_refresh: 'New v3 password generated and set in PRO field. Click "Save", then <b>refresh the page (F5)</b> to load the new license.',
@@ -17438,7 +17498,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Update available',
           update_open: 'Open',
           editor_preview_title: 'Preview carbon (drag)',
-          editor_toggle_show_carbon_preview: 'Preview carbon (drag) under HA preview',
+          editor_toggle_show_lumina_preview: 'Preview carbon (drag) under HA preview',
           editor_toggle_hide_ha_preview: 'Hide HA preview',
           editor_preview_requires_pro: 'Activate the PRO section with password first.',
           editor_personal_requires_pro: 'Activate PRO to use Personal (custom background).',
@@ -17561,19 +17621,19 @@ class CarbonEnergyCardEditor extends HTMLElement {
           house_humidity_5: { label: 'Humidity 5', helper: '' },
           house_humidity_6: { label: 'Humidity 6', helper: '' },
           pro_license_title: '💰 PRO License',
-          pro_license_line1: 'Option 1: Send <b>5€ as DONATION</b> to PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Option 1: Send <b>5€ as DONATION</b> to PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Option 2: Sponsor via <b>GitHub Sponsors</b> (same amount).',
           pro_license_line3: 'After payment, fill the form below and choose <b>PayPal</b> (payment email + name/surname) or <b>GitHub Sponsors</b> (GitHub username).',
           pro_license_auto_note: 'Automatic system: if no match is found, the password will NOT be sent.',
-          pro_license_line4: 'Donations: <b>10€</b> = contributors names in the card; <b>50€</b> = priority for personal features. Always contact <b>info@prognet.sk</b> or via Telegram group. Also check your <b>SPAM</b> folder.',
+          pro_license_line4: 'Donations: <b>10€</b> = contributors names in the card; <b>50€</b> = priority for personal features. Always contact <b>luminaenergycard@gmail.com</b> or via Telegram group. Also check your <b>SPAM</b> folder.',
           pro_license_line_red: 'Send as DONATION, NOT as Goods & Services. Payment will be refunded if request is denied.',
           payment_method_colletta: 'Pool 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram Group',
           tiktok_button: 'TikTok Channel',
           fundraiser_title: 'Support',
-          support_email: 'info@prognet.sk',
-          custom_paid_note: 'For substantial changes or customizations you can contact info@prognet.sk. This is a paid service.',
+          support_email: 'luminaenergycard@gmail.com',
+          custom_paid_note: 'For substantial changes or customizations you can contact luminaenergycard@gmail.com. This is a paid service.',
           overlay_image_enabled: { label: 'Enable Overlay Image', helper: 'Enable or disable the custom overlay image (requires PRO authorization).' },
           heat_pump_flow_color: { label: 'Heat Pump Flow Color', helper: 'Color applied to the heat pump flow animation.' },
           heat_pump_text_color: { label: 'Heat Pump Text Color', helper: 'Color applied to the heat pump power text.' },
@@ -17784,7 +17844,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Stili Animazioni', helper: 'Stile animazione flussi (tratteggi, punti, frecce, shimmer). Predefinito: shimmer.' },
           typography: { title: 'Tipografia', helper: 'Regola le dimensioni dei caratteri utilizzate nella scheda.' },
           flow_path_custom: { title: 'Percorsi Flussi Personalizzati', helper: 'Personalizza i percorsi dei flussi modificando le stringhe SVG. Lascia vuoto per usare i percorsi predefiniti. Puoi combinare percorsi personalizzati con gli offset della sezione Percorso Flussi.' },
-          carbon_pro: { title: 'carbon PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP. Ora anche galleria e condivisione.' },
+          lumina_pro: { title: 'carbon PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP. Ora anche galleria e condivisione.' },
           layout: { title: 'Layout & Posizioni Testi', helper: 'I cursori mostrano X, Y in pixel esatti e angoli (°). Step 1 per valori precisi—annotali per la YAML definitiva. ViewBox 800×450. Salva e controlla la dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barra SOC', helper: 'Barra a 6 segmenti sulla batteria. Posizione, opacità, alone, colori.' },
           gridBox: { title: 'Riquadro Rete', helper: 'Riquadro in alto a destra: Import/Export rete + totali giornalieri. Posizione e dimensioni.' },
@@ -18077,7 +18137,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           network_error: 'Impossibile contattare il server. Controlla la connessione e riprova.',
           existing_user_title: 'Hai già acquistato in passato?',
           existing_user_desc: 'Se hai già pagato in passato, richiedi l’upgrade gratuito inserendo il tuo vecchio ID transazione.',
-          support_contact: 'Per qualsiasi problema scrivi a: info@prognet.sk',
+          support_contact: 'Per qualsiasi problema scrivi a: luminaenergycard@gmail.com',
           request_migration: 'Richiedi upgrade gratuito',
           migration_sent: 'Richiesta upgrade inviata! Riceverai la nuova password via email.',
           migration_v3_success_refresh: 'Nuova password v3 generata e inserita nel campo PRO. Clicca "Salva", poi <b>fai refresh alla pagina (F5)</b> per caricare la nuova licenza.',
@@ -18101,7 +18161,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Aggiornamento disponibile',
           update_open: 'Apri',
           editor_preview_title: 'Anteprima carbon (drag)',
-          editor_toggle_show_carbon_preview: 'Anteprima carbon (drag) sotto preview HA',
+          editor_toggle_show_lumina_preview: 'Anteprima carbon (drag) sotto preview HA',
           editor_toggle_hide_ha_preview: 'Nascondi preview HA',
           editor_preview_requires_pro: 'Attiva prima la sezione PRO con password.',
           editor_personal_requires_pro: 'Attiva PRO per usare Personale (sfondo personalizzato).',
@@ -18224,19 +18284,19 @@ class CarbonEnergyCardEditor extends HTMLElement {
           house_humidity_5: { label: 'Umidità 5', helper: '' },
           house_humidity_6: { label: 'Umidità 6', helper: '' },
           pro_license_title: '💰 Licenza PRO',
-          pro_license_line1: 'Opzione 1: invia <b>5€ come DONAZIONE</b> su PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Opzione 1: invia <b>5€ come DONAZIONE</b> su PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Opzione 2: sponsor su <b>GitHub Sponsors</b> (stesso importo).',
           pro_license_line3: 'Dopo il pagamento, compila il form sotto e scegli <b>PayPal</b> (email pagamento + nome/cognome) oppure <b>GitHub Sponsors</b> (username GitHub).',
           pro_license_auto_note: 'Sistema automatico: se non viene trovata corrispondenza, la password NON verrà inviata.',
-          pro_license_line4: 'Donazioni: <b>10€</b> = nomi dei contributori nella card; <b>50€</b> = priorità per funzionalità personali. Contattare sempre <b>info@prognet.sk</b> o tramite gruppo Telegram. Controlla anche lo <b>SPAM</b>.',
+          pro_license_line4: 'Donazioni: <b>10€</b> = nomi dei contributori nella card; <b>50€</b> = priorità per funzionalità personali. Contattare sempre <b>luminaenergycard@gmail.com</b> o tramite gruppo Telegram. Controlla anche lo <b>SPAM</b>.',
           pro_license_line_red: 'Inviare come DONAZIONE, NON come beni e servizi. Il pagamento verrà rimborsato in caso negativo.',
           payment_method_colletta: 'Colletta 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Gruppo Telegram',
           tiktok_button: 'Canale TikTok',
           fundraiser_title: 'Supporto',
-          support_email: 'info@prognet.sk',
-          custom_paid_note: 'Per modifiche sostanziali o personalizzazioni puoi contattare info@prognet.sk. Il servizio è a pagamento.',
+          support_email: 'luminaenergycard@gmail.com',
+          custom_paid_note: 'Per modifiche sostanziali o personalizzazioni puoi contattare luminaenergycard@gmail.com. Il servizio è a pagamento.',
           overlay_image_enabled: { label: 'Abilita immagine overlay', helper: 'Abilita o disabilita l immagine overlay personalizzata (richiede autorizzazione PRO).' },
           heat_pump_flow_color: { label: 'Colore flusso pompa di calore', helper: 'Colore applicato all animazione del flusso della pompa di calore.' },
           heat_pump_text_color: { label: 'Colore testo pompa di calore', helper: 'Colore applicato al testo della potenza della pompa di calore.' },
@@ -18387,8 +18447,8 @@ class CarbonEnergyCardEditor extends HTMLElement {
           dev_soc_bar_skew_y: { label: 'Barra SOC Skew Y (°)', helper: 'Angolo di inclinazione verticale in gradi.' },
           soc_bar_opacity: { label: 'Barra SOC Opacità', helper: 'Trasparenza 0,05–1.' },
           soc_bar_glow: { label: 'Barra SOC Alone (px)', helper: 'Sfocatura drop-shadow sui segmenti accesi. 0 = off.' },
-          soc_bar_color_on: { label: 'Barra SOC Colore (acceso)', helper: 'Colore del segmento quando ilcarbonto dal SOC.' },
-          soc_bar_color_off: { label: 'Barra SOC Colore (spento)', helper: 'Colore del segmento quando non ilcarbonto.' },
+          soc_bar_color_on: { label: 'Barra SOC Colore (acceso)', helper: 'Colore del segmento quando illuminato dal SOC.' },
+          soc_bar_color_off: { label: 'Barra SOC Colore (spento)', helper: 'Colore del segmento quando non illuminato.' },
           show_grid_box: { label: 'Mostra riquadro Rete', helper: 'Mostra o nasconde il riquadro Rete indipendentemente dal tasto testo.' },
           show_pv_box: { label: 'Mostra riquadro PV', helper: 'Mostra o nasconde il riquadro PV indipendentemente dal tasto testo.' },
           dev_grid_box_x: { label: 'Riquadro Rete X (px)', helper: 'Riquadro in alto a destra. Import/Export + giornalieri.' },
@@ -18472,7 +18532,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animationsstile', helper: 'Fluss-Animationsstil (Striche, Punkte, Pfeile, Shimmer). Standard: Shimmer.' },
           typography: { title: 'Typografie', helper: 'Schriftgroessen der Karte feinjustieren.' },
           flow_path_custom: { title: 'Benutzerdefinierte Flusspfade', helper: 'Passen Sie die Flusspfade an, indem Sie SVG-Pfadzeichenfolgen ändern. Leer lassen, um Standardpfade zu verwenden. Sie können benutzerdefinierte Pfade mit Offsets aus dem Fluss-Pfad-Bereich kombinieren.' },
-          carbon_pro: { title: 'carbon PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP. Jetzt auch Galerie und Teilen.' },
+          lumina_pro: { title: 'carbon PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP. Jetzt auch Galerie und Teilen.' },
           layout: { title: 'Layout & Textpositionen', helper: 'Schieberegler zeigen exakte X, Y (px) und Winkel (°). Step 1 für präzise Werte—notieren für definitive YAML. ViewBox 800×450. Speichern und Dashboard prüfen. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-Balken', helper: '6-Segment-Balken an der Batterie. Position, Deckkraft, Leuchten, Farben.' },
           gridBox: { title: 'Netz-Box', helper: 'Box oben rechts: Import/Export + Tageswerte. Position und Größe.' },
@@ -18489,7 +18549,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           editor_updates_empty: 'Keine Updates.',
           editor_updates_open: 'Öffnen',
           editor_preview_title: 'carbon-Vorschau (Drag)',
-          editor_toggle_show_carbon_preview: 'carbon-Vorschau (Drag) unter HA-Vorschau',
+          editor_toggle_show_lumina_preview: 'carbon-Vorschau (Drag) unter HA-Vorschau',
           editor_toggle_hide_ha_preview: 'HA-Vorschau ausblenden',
           editor_preview_requires_pro: 'Bitte zuerst den PRO-Bereich mit Passwort aktivieren.',
           editor_personal_requires_pro: 'Aktiviere PRO um Personal (benutzerdefinierter Hintergrund) zu nutzen.',
@@ -18867,7 +18927,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Fehler beim Senden. Bitte erneut versuchen.',
           existing_user_title: 'Schon früher gekauft?',
           existing_user_desc: 'Wenn du früher schon bezahlt hast, fordere ein kostenloses Upgrade mit deiner alten Transaktions-ID an.',
-          support_contact: 'Bei Problemen: info@prognet.sk',
+          support_contact: 'Bei Problemen: luminaenergycard@gmail.com',
           request_migration: 'Kostenloses Upgrade anfordern',
           migration_sent: 'Upgrade-Anfrage gesendet! Du erhältst dein neues Passwort per E-Mail.',
           migration_v3_success_refresh: 'Neues v3-Passwort erzeugt und im PRO-Feld gesetzt. Klicke auf "Speichern", dann <b>Seite aktualisieren (F5)</b>, um die neue Lizenz zu laden.',
@@ -18888,19 +18948,19 @@ class CarbonEnergyCardEditor extends HTMLElement {
           password_ok: '✓ Passwort akzeptiert. PRO ist aktiv.',
           password_bad: '❌ Ungültiges Passwort. Bitte prüfen und erneut versuchen.',
           pro_license_title: '💰 PRO-Lizenz',
-          pro_license_line1: 'Option 1: Sende <b>5€ als SPENDE</b> an PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Option 1: Sende <b>5€ als SPENDE</b> an PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Option 2: Unterstütze über <b>GitHub Sponsors</b> (gleicher Betrag).',
           pro_license_line3: 'Nach der Zahlung fülle das Formular unten aus und wähle <b>PayPal</b> (Zahlungs-E-Mail + Vorname/Nachname) oder <b>GitHub Sponsors</b> (GitHub Benutzername).',
           pro_license_auto_note: 'Automatisches System: Wenn keine Übereinstimmung gefunden wird, wird das Passwort NICHT gesendet.',
-          pro_license_line4: 'Spenden: <b>10€</b> = Namen der Unterstützer in der Card; <b>50€</b> = Priorität für persönliche Funktionen. Immer kontaktieren: <b>info@prognet.sk</b> oder per Telegram-Gruppe. Bitte auch den <b>SPAM</b>-Ordner prüfen.',
+          pro_license_line4: 'Spenden: <b>10€</b> = Namen der Unterstützer in der Card; <b>50€</b> = Priorität für persönliche Funktionen. Immer kontaktieren: <b>luminaenergycard@gmail.com</b> oder per Telegram-Gruppe. Bitte auch den <b>SPAM</b>-Ordner prüfen.',
           pro_license_line_red: 'Als SPENDE senden, NICHT als Waren & Dienstleistungen. Zahlung wird bei Ablehnung erstattet.',
           payment_method_colletta: 'Kollekte 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram-Gruppe',
           tiktok_button: 'TikTok-Kanal',
           fundraiser_title: 'Unterstützen',
-          support_email: 'info@prognet.sk',
-          custom_paid_note: 'Für größere Änderungen oder Anpassungen kannst du info@prognet.sk kontaktieren. Dieser Service ist kostenpflichtig.',
+          support_email: 'luminaenergycard@gmail.com',
+          custom_paid_note: 'Für größere Änderungen oder Anpassungen kannst du luminaenergycard@gmail.com kontaktieren. Dieser Service ist kostenpflichtig.',
           overlay_image_enabled: { label: 'Overlay-Bild aktivieren', helper: 'Aktivieren oder deaktivieren Sie das benutzerdefinierte Overlay-Bild (erfordert PRO-Autorisierung).' },
           heat_pump_flow_color: { label: 'Waermepumpenfluss Farbe', helper: 'Farbe fuer die Waermepumpenfluss Animation.' },
           heat_pump_text_color: { label: 'Waermepumpentext Farbe', helper: 'Farbe fuer den Waermepumpenleistungstext.' },
@@ -19136,7 +19196,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Styles d Animation', helper: 'Style d animation des flux (tirets, points, flèches, scintillement). Par défaut: scintillement.' },
           typography: { title: 'Typographie', helper: 'Ajustez les tailles de police utilisées dans la carte.' },
           flow_path_custom: { title: 'Chemins de Flux Personnalisés', helper: 'Personnalisez les chemins de flux en modifiant les chaînes de chemin SVG. Laissez vide pour utiliser les chemins par défaut. Vous pouvez combiner des chemins personnalisés avec les décalages de la section Chemin de Flux.' },
-          carbon_pro: { title: 'carbon PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER. Désormais aussi galerie et partage.' },
+          lumina_pro: { title: 'carbon PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER. Désormais aussi galerie et partage.' },
           layout: { title: 'Mise en Page & Positions des Textes', helper: 'Curseurs : X, Y en pixels exacts et angles (°). Step 1 pour valeurs précises—notez-les pour votre YAML définitive. Zone 800×450. Enregistrez et vérifiez le tableau de bord. YAML : dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barre SOC', helper: 'Barre à 6 segments sur la batterie. Position, opacité, lueur, couleurs.' },
           gridBox: { title: 'Boîte Réseau', helper: 'Boîte en haut à droite : Import/Export + totaux journaliers. Position et dimensions.' },
@@ -19153,7 +19213,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           editor_updates_empty: 'Aucune mise à jour.',
           editor_updates_open: 'Ouvrir',
           editor_preview_title: 'Aperçu carbon (glisser)',
-          editor_toggle_show_carbon_preview: 'Aperçu carbon (glisser) sous l’aperçu HA',
+          editor_toggle_show_lumina_preview: 'Aperçu carbon (glisser) sous l’aperçu HA',
           editor_toggle_hide_ha_preview: 'Masquer l’aperçu HA',
           editor_preview_requires_pro: 'Activez d\'abord la section PRO avec le mot de passe.',
           editor_personal_requires_pro: 'Activez PRO pour utiliser Personnel (fond personnalisé).',
@@ -19526,7 +19586,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Erreur lors de l’envoi. Veuillez réessayer.',
           existing_user_title: 'Déjà acheté auparavant ?',
           existing_user_desc: 'Si vous avez déjà payé par le passé, demandez une mise à niveau gratuite en indiquant votre ancien ID de transaction.',
-          support_contact: 'Pour tout problème : info@prognet.sk',
+          support_contact: 'Pour tout problème : luminaenergycard@gmail.com',
           request_migration: 'Demander une mise à niveau gratuite',
           migration_sent: 'Demande envoyée ! Vous recevrez votre nouveau mot de passe par e-mail.',
           migration_v3_success_refresh: 'Nouveau mot de passe v3 généré et défini. Cliquez sur "Enregistrer", puis <b>actualisez la page (F5)</b> pour charger la nouvelle licence.',
@@ -19547,19 +19607,19 @@ class CarbonEnergyCardEditor extends HTMLElement {
           password_ok: '✓ Mot de passe accepté. PRO est actif.',
           password_bad: '❌ Mot de passe invalide. Veuillez vérifier et réessayer.',
           pro_license_title: '💰 Licence PRO',
-          pro_license_line1: 'Option 1 : Envoyez <b>5€ en DON</b> sur PayPal : <b>info@prognet.sk</b>',
+          pro_license_line1: 'Option 1 : Envoyez <b>5€ en DON</b> sur PayPal : <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Option 2 : Sponsorisez via <b>GitHub Sponsors</b> (même montant).',
           pro_license_line3: 'Après le paiement, remplissez le formulaire ci-dessous et choisissez <b>PayPal</b> (e-mail de paiement + prénom/nom) ou <b>GitHub Sponsors</b> (nom d’utilisateur GitHub).',
           pro_license_auto_note: 'Système automatique : si aucune correspondance n’est trouvée, le mot de passe ne sera PAS envoyé.',
-          pro_license_line4: 'Dons : <b>10€</b> = noms des contributeurs dans la carte ; <b>50€</b> = priorité pour des fonctionnalités personnelles. Contactez toujours <b>info@prognet.sk</b> ou via le groupe Telegram. Vérifiez aussi le dossier <b>SPAM</b>.',
+          pro_license_line4: 'Dons : <b>10€</b> = noms des contributeurs dans la carte ; <b>50€</b> = priorité pour des fonctionnalités personnelles. Contactez toujours <b>luminaenergycard@gmail.com</b> ou via le groupe Telegram. Vérifiez aussi le dossier <b>SPAM</b>.',
           pro_license_line_red: 'Envoyer en DON, pas en Biens et services. Le paiement sera remboursé en cas de refus.',
           payment_method_colletta: 'Cagnotte 5€ PayPal',
           follow_title: 'Communauté',
           telegram_button: 'Groupe Telegram',
           tiktok_button: 'Chaîne TikTok',
           fundraiser_title: 'Soutien',
-          support_email: 'info@prognet.sk',
-          custom_paid_note: 'Pour des modifications importantes ou des personnalisations, contactez info@prognet.sk. Le service est payant.',
+          support_email: 'luminaenergycard@gmail.com',
+          custom_paid_note: 'Pour des modifications importantes ou des personnalisations, contactez luminaenergycard@gmail.com. Le service est payant.',
           overlay_image_enabled: { label: 'Activer l image de superposition', helper: 'Activer ou désactiver l image de superposition personnalisée (nécessite une autorisation PRO).' },
           heat_pump_flow_color: { label: 'Couleur flux pompe à chaleur', helper: 'Couleur appliquée à l animation du flux de la pompe à chaleur.' },
           heat_pump_text_color: { label: 'Couleur texte pompe à chaleur', helper: 'Couleur appliquée au texte de puissance de la pompe à chaleur.' },
@@ -19799,7 +19859,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animatietijlen', helper: 'Stroom animatiestijl (strepen, stippen, pijlen, glinsteren). Standaard: glinsteren.' },
           typography: { title: 'Typografie', helper: 'Pas de lettergrootte aan gebruikt in de kaart.' },
           flow_path_custom: { title: 'Aangepaste Stroompaden', helper: 'Pas stroompaden aan door SVG-padstrings te wijzigen. Laat leeg om standaardpaden te gebruiken. U kunt aangepaste paden combineren met offsets uit de Stroompad-sectie.' },
-          carbon_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN. Nu ook galerij en delen.' },
+          lumina_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN. Nu ook galerij en delen.' },
           layout: { title: 'Layout & Tekstposities', helper: 'Schuifregelaars tonen exacte X, Y (px) en hoeken (°). Step 1 voor precise waarden—noteer voor uw definitieve YAML. ViewBox 800×450. Opslaan en dashboard controleren. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-balk', helper: '6-segmenten balk op de batterij. Positie, dekking, gloed, kleuren.' },
           gridBox: { title: 'Netwerkbox', helper: 'Box rechtsboven: Import/Export + dagtotalen. Positie en grootte.' },
@@ -19816,7 +19876,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           editor_updates_empty: 'Geen updates.',
           editor_updates_open: 'Openen',
           editor_preview_title: 'carbon-voorbeeld (slepen)',
-          editor_toggle_show_carbon_preview: 'carbon-voorbeeld (slepen) onder HA-voorbeeld',
+          editor_toggle_show_lumina_preview: 'carbon-voorbeeld (slepen) onder HA-voorbeeld',
           editor_toggle_hide_ha_preview: 'HA-voorbeeld verbergen',
           editor_preview_requires_pro: 'Activeer eerst de PRO-sectie met wachtwoord.',
           editor_personal_requires_pro: 'Activeer PRO om Persoonlijk (aangepaste achtergrond) te gebruiken.',
@@ -20189,7 +20249,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Fout bij verzenden. Probeer opnieuw.',
           existing_user_title: 'Al eerder gekocht?',
           existing_user_desc: 'Als je in het verleden al hebt betaald, vraag dan een gratis upgrade aan met je oude transactie-ID.',
-          support_contact: 'Bij problemen: info@prognet.sk',
+          support_contact: 'Bij problemen: luminaenergycard@gmail.com',
           request_migration: 'Gratis upgrade aanvragen',
           migration_sent: 'Upgrade-verzoek verzonden! Je ontvangt je nieuwe wachtwoord per e-mail.',
           migration_v3_success_refresh: 'Nieuw v3-wachtwoord gegenereerd en ingesteld. Klik op "Opslaan", vervolgens <b>vernieuw de pagina (F5)</b> om de nieuwe licentie te laden.',
@@ -20210,19 +20270,19 @@ class CarbonEnergyCardEditor extends HTMLElement {
           password_ok: '✓ Wachtwoord geaccepteerd. PRO is actief.',
           password_bad: '❌ Ongeldig wachtwoord. Controleer en probeer opnieuw.',
           pro_license_title: '💰 PRO-licentie',
-          pro_license_line1: 'Optie 1: Stuur <b>5€ als DONATIE</b> naar PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Optie 1: Stuur <b>5€ als DONATIE</b> naar PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Optie 2: Sponsor via <b>GitHub Sponsors</b> (zelfde bedrag).',
           pro_license_line3: 'Na betaling vul je het formulier hieronder in en kies je <b>PayPal</b> (betaal-e-mail + voornaam/achternaam) of <b>GitHub Sponsors</b> (GitHub gebruikersnaam).',
           pro_license_auto_note: 'Automatisch systeem: als er geen match wordt gevonden, wordt het wachtwoord NIET verstuurd.',
-          pro_license_line4: 'Donaties: <b>10€</b> = namen van bijdragers in de kaart; <b>50€</b> = prioriteit voor persoonlijke functies. Neem altijd contact op met <b>info@prognet.sk</b> of via de Telegram-groep. Controleer ook je <b>SPAM</b>.',
+          pro_license_line4: 'Donaties: <b>10€</b> = namen van bijdragers in de kaart; <b>50€</b> = prioriteit voor persoonlijke functies. Neem altijd contact op met <b>luminaenergycard@gmail.com</b> of via de Telegram-groep. Controleer ook je <b>SPAM</b>.',
           pro_license_line_red: 'Verstuur als DONATIE, niet als Goederen en diensten. Betaling wordt terugbetaald bij weigering.',
           payment_method_colletta: 'Inzameling 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram-groep',
           tiktok_button: 'TikTok-kanaal',
           fundraiser_title: 'Steun',
-          support_email: 'info@prognet.sk',
-          custom_paid_note: 'Voor grote wijzigingen of maatwerk kun je contact opnemen via info@prognet.sk. Deze service is betaald.',
+          support_email: 'luminaenergycard@gmail.com',
+          custom_paid_note: 'Voor grote wijzigingen of maatwerk kun je contact opnemen via luminaenergycard@gmail.com. Deze service is betaald.',
           overlay_image_enabled: { label: 'Overlay-afbeelding inschakelen', helper: 'Schakel de aangepaste overlay-afbeelding in of uit (vereist PRO-autorisatie).' },
           heat_pump_flow_color: { label: 'Warmtepomp stroom kleur', helper: 'Kleur toegepast op de warmtepomp stroom animatie.' },
           heat_pump_text_color: { label: 'Warmtepomp tekst kleur', helper: 'Kleur toegepast op de warmtepomp vermogen tekst.' },
@@ -20474,7 +20534,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Доступно обновление',
           update_open: 'Открыть',
           editor_preview_title: 'Предпросмотр carbon (перетаскивание)',
-          editor_toggle_show_carbon_preview: 'Предпросмотр carbon (перетаскивание) под предпросмотром HA',
+          editor_toggle_show_lumina_preview: 'Предпросмотр carbon (перетаскивание) под предпросмотром HA',
           editor_toggle_hide_ha_preview: 'Скрыть предпросмотр HA',
           editor_preview_requires_pro: 'Сначала активируйте раздел PRO с паролем.',
           editor_personal_requires_pro: 'Активируйте PRO для использования Персонального (свой фон).',
@@ -20582,7 +20642,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Ошибка отправки запроса. Попробуйте ещё раз.',
           existing_user_title: 'Уже покупали раньше?',
           existing_user_desc: 'Если вы уже платили ранее, запросите бесплатное обновление, указав старый ID транзакции.',
-          support_contact: 'По любым вопросам: info@prognet.sk',
+          support_contact: 'По любым вопросам: luminaenergycard@gmail.com',
           request_migration: 'Запросить бесплатное обновление',
           migration_sent: 'Запрос на обновление отправлен! Вы получите новый пароль по e-mail.',
           migration_v3_success_refresh: 'Новый пароль v3 создан и установлен. Нажмите «Сохранить», затем <b>обновите страницу (F5)</b> для загрузки новой лицензии.',
@@ -20602,7 +20662,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           password_ok: '✓ Пароль принят. PRO активен.',
           password_bad: '❌ Неверный пароль. Проверьте и попробуйте снова.',
           pro_license_title: '💰 PRO лицензия',
-          pro_license_line1: 'Вариант 1: отправьте <b>5€ как пожертвование</b> в PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Вариант 1: отправьте <b>5€ как пожертвование</b> в PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Вариант 2: оплатите через <b>GitHub Sponsors</b> (та же сумма).',
           pro_license_line3: 'После оплаты заполните форму ниже и выберите <b>PayPal</b> (e-mail оплаты + имя/фамилия) или <b>GitHub Sponsors</b> (GitHub username).',
           pro_license_auto_note: 'Система автоматическая: если соответствие платежа не найдено, пароль НЕ будет отправлен.',
@@ -20685,7 +20745,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Atualização disponível',
           update_open: 'Abrir',
           editor_preview_title: 'Pré-visualização carbon (arrastar)',
-          editor_toggle_show_carbon_preview: 'Pré-visualização carbon (arrastar) abaixo do preview HA',
+          editor_toggle_show_lumina_preview: 'Pré-visualização carbon (arrastar) abaixo do preview HA',
           editor_toggle_hide_ha_preview: 'Ocultar preview HA',
           editor_preview_requires_pro: 'Ative primeiro a secção PRO com palavra-passe.',
           editor_personal_requires_pro: 'Ative PRO para usar Personal (fundo personalizado).',
@@ -20793,7 +20853,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Erro ao enviar. Tente novamente.',
           existing_user_title: 'Já comprou antes?',
           existing_user_desc: 'Se já pagou no passado, peça um upgrade gratuito indicando o seu antigo ID de transação.',
-          support_contact: 'Para qualquer problema: info@prognet.sk',
+          support_contact: 'Para qualquer problema: luminaenergycard@gmail.com',
           request_migration: 'Pedir upgrade gratuito',
           migration_sent: 'Pedido de upgrade enviado! Vai receber a nova palavra-passe por e-mail.',
           migration_v3_success_refresh: 'Nova palavra-passe v3 gerada e definida. Clique em "Guardar", depois <b>actualize a página (F5)</b> para carregar a nova licença.',
@@ -20813,7 +20873,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           password_ok: '✓ Palavra-passe aceite. PRO ativo.',
           password_bad: '❌ Palavra-passe inválida. Verifique e tente novamente.',
           pro_license_title: '💰 Licença PRO',
-          pro_license_line1: 'Opção 1: envie <b>5€ como DOAÇÃO</b> no PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Opção 1: envie <b>5€ como DOAÇÃO</b> no PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Opção 2: patrocine via <b>GitHub Sponsors</b> (mesmo valor).',
           pro_license_line3: 'Após o pagamento, preencha o formulário abaixo e escolha <b>PayPal</b> (e-mail de pagamento + nome/apelido) ou <b>GitHub Sponsors</b> (utilizador GitHub).',
           pro_license_auto_note: 'Sistema automático: se não for encontrada correspondência, a palavra-passe NÃO será enviada.',
@@ -20896,7 +20956,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Dostupná aktualizácia',
           update_open: 'Otvoriť',
           editor_preview_title: 'Náhľad carbon (presúvanie)',
-          editor_toggle_show_carbon_preview: 'Náhľad carbon (presúvanie) pod náhľadom HA',
+          editor_toggle_show_lumina_preview: 'Náhľad carbon (presúvanie) pod náhľadom HA',
           editor_toggle_hide_ha_preview: 'Skryť náhľad HA',
           editor_preview_requires_pro: 'Najprv aktivujte sekciu PRO heslom.',
           editor_personal_requires_pro: 'Aktivujte PRO pre použitie vlastného pozadia.',
@@ -21004,7 +21064,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Chyba pri odosielaní. Skúste znova.',
           existing_user_title: 'Už ste kupovali?',
           existing_user_desc: 'Ak ste už platili, požiadajte o bezplatnú migráciu s uvedením starého ID transakcie.',
-          support_contact: 'Ak máte akékoľvek problémy: info@prognet.sk',
+          support_contact: 'Ak máte akékoľvek problémy: luminaenergycard@gmail.com',
           request_migration: 'Požiadať o bezplatnú migráciu',
           migration_sent: 'Žiadosť o migráciu zaslaná! Nové heslo dostanete e-mailom.',
           migration_v3_success_refresh: 'Nové heslo v3 vygenerované a nastavené. Kliknite „Uložiť“, potom <b>obnovťte stránku (F5)</b> pre načítanie novej licencie.',
@@ -21024,7 +21084,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           password_ok: '✓ Heslo prijané. PRO aktivé.',
           password_bad: '❌ Nesprávne heslo. Skontrolujte a skúste znova.',
           pro_license_title: '💰 PRO licencia',
-          pro_license_line1: 'Možnosť 1: pošlite <b>5€ ako darovanie</b> na PayPal: <b>info@prognet.sk</b>',
+          pro_license_line1: 'Možnosť 1: pošlite <b>5€ ako darovanie</b> na PayPal: <b>3dprint8616@gmail.com</b>',
           pro_license_line2: 'Možnosť 2: zaplazte cez <b>GitHub Sponsors</b> (rovnaká suma).',
           pro_license_line3: 'Po platbe vyplnte formulár nižšie a vyberte <b>PayPal</b> (e-mail platby + meno/priezvisko) alebo <b>GitHub Sponsors</b> (GitHub používateľské meno).',
           pro_license_auto_note: 'Systém je automatický: ak sa nenajde zhoda platby, heslo NEBUDE zaslané.',
@@ -21591,7 +21651,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'linea_box_1_path', label: 'Linea Box 1 (SVG)', helper: 'Linea statica sempre visibile (1px, #00f9f9). Path SVG per la prima linea box.', selector: { text: { multiline: true, placeholder: 'M 664,130 730,95 V 82' } }, default: 'M 664,130 730,95 V 82' },
         { name: 'linea_box_2_path', label: 'Linea Box 2 (SVG)', helper: 'Linea statica sempre visibile (1px, #00f9f9). Path SVG per la seconda linea box.', selector: { text: { multiline: true, placeholder: 'M 17,200 8.9,190 9.2,83 89,76' } }, default: 'M 17,200 8.9,190 9.2,83 89,76' },
       ]),
-      carbon_pro: define([
+      lumina_pro: define([
         { name: 'custom_flow_1_enabled', label: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.label) || 'Custom Flow 1: Enabled', helper: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.helper) || 'Enable custom flow 1.', selector: { boolean: {} } },
         { name: 'custom_flow_1_sensor', label: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.label) || 'Custom Flow 1: Sensor', helper: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
         { name: 'custom_flow_1_path_preset', label: 'Custom Flow 1: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
@@ -21781,7 +21841,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'show_pv_box_line_0', label: 'Show PV Total', helper: 'Show PV Total line in PV box.', selector: { boolean: {} }, default: true },
         { name: 'show_pv_box_line_1', label: 'Show Daily production', helper: 'Show daily production line in PV box.', selector: { boolean: {} }, default: true }
       ]),
-      carbon_pro: define([
+      lumina_pro: define([
       { name: 'text_visibility_sensor', label: fields.text_visibility_sensor.label, helper: fields.text_visibility_sensor.helper, selector: motionSensorSelector },
       { name: 'pro_debug_grid', label: (fields.pro_debug_grid && fields.pro_debug_grid.label) || 'Enable Positioning Grid (PRO)', helper: (fields.pro_debug_grid && fields.pro_debug_grid.helper) || 'Show an on-screen grid + coordinates to position texts more precisely (PRO tool).', selector: { boolean: {} }, default: false },
 
@@ -22075,14 +22135,14 @@ _createUpdatesContent_() {
 _createSectionDefs(localeStrings, schemaDefs) {
     const sections = localeStrings.sections;
     return [
-      { id: 'carbon_pro', title: sections.carbon_pro.title, helper: sections.carbon_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
+      { id: 'lumina_pro', title: sections.lumina_pro.title, helper: sections.lumina_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
         try {
-          const proSchema = Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : [];
+          const proSchema = Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : [];
           const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
           const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
-          return this._createCarbonProSection([...customFields, ...proSchema]);
+          return this._createLuminaProSection([...customFields, ...proSchema]);
         } catch (e) {
-          return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : []);
+          return this._createLuminaProSection(Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : []);
         }
       } },
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
@@ -22235,7 +22295,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const { id, title, helper, schema, defaultOpen, renderContent } = sectionDef;
     const section = document.createElement('details');
     section.className = 'section';
-    if (id === 'carbon_pro') {
+    if (id === 'lumina_pro') {
       section.classList.add('carbon-pro-section');
     }
     const storedState = id && Object.prototype.hasOwnProperty.call(this._sectionOpenState, id)
@@ -22258,7 +22318,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const helperEl = document.createElement('div');
       helperEl.className = 'section-helper';
       const plainText = (helper.replace(/<[^>]+>/g, '')).trim() || helper;
-      if (id === 'carbon_pro') {
+      if (id === 'lumina_pro') {
         helperEl.innerHTML = '<strong style="font-weight:bold;color:#ffffff !important;">' + String(plainText).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</strong>';
       } else {
         helperEl.textContent = plainText;
@@ -22280,7 +22340,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
       content.appendChild(this._createForm(filteredSchema));
       // Export/Import flows in carbon PRO section: always visible (also with predefined background) so user can load flows
-      if (id === 'carbon_pro') {
+      if (id === 'lumina_pro') {
         const localeStrings = this._getLocaleStrings();
         const exportLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows) || 'Export flows';
         const importLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows) || 'Import flows';
@@ -22298,7 +22358,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
             for (let i = 1; i <= 10; i++) {
               flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
             }
-            const data = { _carbon_flows_export: true, version: 1 };
+            const data = { _lumina_flows_export: true, version: 1 };
             flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
             const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
             const a = document.createElement('a');
@@ -22327,10 +22387,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
               const raw = reader.result;
               if (typeof raw !== 'string') return;
               const data = JSON.parse(raw);
-              if (!data || data._carbon_flows_export !== true) return;
+              if (!data || data._lumina_flows_export !== true) return;
               const newConfig = { ...(this._config || {}) };
               Object.keys(data).forEach((k) => {
-                if (k === '_carbon_flows_export' || k === 'version') return;
+                if (k === '_lumina_flows_export' || k === 'version') return;
                 if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
               });
               this._config = newConfig;
@@ -22391,9 +22451,9 @@ _createSectionDefs(localeStrings, schemaDefs) {
         exportConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
         exportConfigBtnPro.addEventListener('click', () => {
           try {
-            const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+            const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
             const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-            const data = { _carbon_config_export: true, version: 1 };
+            const data = { _lumina_config_export: true, version: 1 };
             Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
             const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
             const a = document.createElement('a');
@@ -22422,10 +22482,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
               const raw = reader.result;
               if (typeof raw !== 'string') return;
               const data = JSON.parse(raw);
-              if (!data || data._carbon_config_export !== true) return;
+              if (!data || data._lumina_config_export !== true) return;
               const newConfig = { ...(this._config || {}) };
               Object.keys(data).forEach((k) => {
-                if (k === '_carbon_config_export' || k === 'version') return;
+                if (k === '_lumina_config_export' || k === 'version') return;
                 if (k && !k.startsWith('_')) newConfig[k] = data[k];
               });
               this._config = newConfig;
@@ -22482,7 +22542,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
   }
 
   /* ─── carbon Gallery helpers ─── */
-  /* Gallery methods (_createCarbonOverlay_, _sensorKeyToLabel_, _openGalleryModal_,
+  /* Gallery methods (_createLuminaOverlay_, _sensorKeyToLabel_, _openGalleryModal_,
      _openSensorWizard_, _applyGalleryConfig_, _captureGalleryPreview_, _shareToGallery_)
      are defined in carbon-energy-card.gallery.js and added to the prototype at build time. */
 
@@ -22560,7 +22620,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (!tokenTrimmed) throw new Error('Hugging Face token is required');
     const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
     if (!promptTrimmed) throw new Error('Prompt is required');
-    const base = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? CARBON_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
+    const base = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? LUMINA_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
     const proxyUrl = base ? base + '/hf' : '';
     if (!proxyUrl) throw new Error('Hugging Face richiede il proxy Worker: imposta l\'endpoint licenza all\'URL del Worker (es. https://....workers.dev)');
     const res = await fetch(proxyUrl, {
@@ -22657,9 +22717,9 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const real = imageStyle === 'real';
     const sfx = real ? '_real.png' : '.png';
     let bgName;
-    if (installationType === '1') bgName = real ? 'carbon_background' + sfx : 'carbon_background1' + sfx;
-    else if (installationType === '2') bgName = 'carbon_background_nocar' + sfx;
-    else bgName = 'carbon_background_nosolarnocar' + sfx;
+    if (installationType === '1') bgName = real ? 'lumina_background' + sfx : 'lumina_background1' + sfx;
+    else if (installationType === '2') bgName = 'lumina_background_nocar' + sfx;
+    else bgName = 'lumina_background_nosolarnocar' + sfx;
     const hpName = 'carbon-energy-card-hp' + sfx;
     return {
       background_image: base + bgName,
@@ -22827,19 +22887,19 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const currentProvider = (config.ai_provider === 'gemini') ? 'gemini' : (config.ai_provider === 'openai') ? 'openai' : 'huggingface';
       const aiProviderHuggingFaceRadio = document.createElement('input');
       aiProviderHuggingFaceRadio.type = 'radio';
-      aiProviderHuggingFaceRadio.name = 'carbon_ai_provider';
+      aiProviderHuggingFaceRadio.name = 'lumina_ai_provider';
       aiProviderHuggingFaceRadio.value = 'huggingface';
       aiProviderHuggingFaceRadio.checked = currentProvider === 'huggingface';
       aiProviderHuggingFaceRadio.style.marginRight = '6px';
       const aiProviderOpenAiRadio = document.createElement('input');
       aiProviderOpenAiRadio.type = 'radio';
-      aiProviderOpenAiRadio.name = 'carbon_ai_provider';
+      aiProviderOpenAiRadio.name = 'lumina_ai_provider';
       aiProviderOpenAiRadio.value = 'openai';
       aiProviderOpenAiRadio.checked = currentProvider === 'openai';
       aiProviderOpenAiRadio.style.marginRight = '6px';
       const aiProviderGeminiRadio = document.createElement('input');
       aiProviderGeminiRadio.type = 'radio';
-      aiProviderGeminiRadio.name = 'carbon_ai_provider';
+      aiProviderGeminiRadio.name = 'lumina_ai_provider';
       aiProviderGeminiRadio.value = 'gemini';
       aiProviderGeminiRadio.checked = currentProvider === 'gemini';
       aiProviderGeminiRadio.style.marginRight = '6px';
@@ -22864,13 +22924,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
       aiWrap.appendChild(aiProviderRow);
       const aiModeGenerateRadio = document.createElement('input');
       aiModeGenerateRadio.type = 'radio';
-      aiModeGenerateRadio.name = 'carbon_ai_mode';
+      aiModeGenerateRadio.name = 'lumina_ai_mode';
       aiModeGenerateRadio.value = 'generate';
       aiModeGenerateRadio.checked = true;
       aiModeGenerateRadio.style.marginRight = '6px';
       const aiModeEditRadio = document.createElement('input');
       aiModeEditRadio.type = 'radio';
-      aiModeEditRadio.name = 'carbon_ai_mode';
+      aiModeEditRadio.name = 'lumina_ai_mode';
       aiModeEditRadio.value = 'edit';
       aiModeEditRadio.style.marginRight = '6px';
       const aiModeLabelGen = document.createElement('label');
@@ -23246,7 +23306,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
     const version = document.createElement('div');
     version.className = 'about-version';
-    version.textContent = `Version ${typeof CarbonEnergyCard !== 'undefined' && CarbonEnergyCard.version ? CarbonEnergyCard.version : 'Unknown'}`;
+    version.textContent = `Version ${typeof LuminaEnergyCard !== 'undefined' && LuminaEnergyCard.version ? LuminaEnergyCard.version : 'Unknown'}`;
     container.appendChild(version);
 
     const links = document.createElement('div');
@@ -23276,7 +23336,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     saliernLink.href = __URL_GH_PROFILE;
     saliernLink.target = '_blank';
     saliernLink.rel = 'noopener noreferrer';
-    saliernLink.textContent = 'PROGNET';
+    saliernLink.textContent = 'Saliern Giorgio';
 
     devs.appendChild(saliernLink);
 
@@ -23307,32 +23367,32 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (pw && typeof pw === 'string' && pw.trim()) {
       const trimmedPw = pw.trim();
       const haUserIdEd = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-      const v3UsedEd = haUserIdEd && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdEd);
+      const v3UsedEd = haUserIdEd && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdEd);
       if (v3UsedEd) {
-        const h3 = CARBON_SHA256(trimmedPw + haUserIdEd);
-        const h1 = CARBON_SHA256(trimmedPw);
-        const v3Match = !!(h3 && CARBON_AUTH_LIST_V3 && CARBON_AUTH_LIST_V3.includes(h3));
-        const v1Match = !!(CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(h1));
+        const h3 = LUMINA_SHA256(trimmedPw + haUserIdEd);
+        const h1 = LUMINA_SHA256(trimmedPw);
+        const v3Match = !!(h3 && LUMINA_AUTH_LIST_V3 && LUMINA_AUTH_LIST_V3.includes(h3));
+        const v1Match = !!(LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(h1));
         if (v3Match || v1Match) {
           isAuthorized = true;
-          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
+          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
       } else {
-        const h1 = CARBON_SHA256(trimmedPw);
-        const uidEd = getCarbonUID();
-        const h2 = CARBON_SHA256(trimmedPw + uidEd);
-        const h3 = haUserIdEd ? CARBON_SHA256(trimmedPw + haUserIdEd) : '';
-        if (CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(h1)) isAuthorized = true;
-        if (!isAuthorized && CARBON_AUTH_LIST_V2 && h2 && CARBON_AUTH_LIST_V2.includes(h2)) isAuthorized = true;
-        if (!isAuthorized && h3 && CARBON_AUTH_LIST_V3 && CARBON_AUTH_LIST_V3.includes(h3)) {
+        const h1 = LUMINA_SHA256(trimmedPw);
+        const uidEd = getLuminaUID();
+        const h2 = LUMINA_SHA256(trimmedPw + uidEd);
+        const h3 = haUserIdEd ? LUMINA_SHA256(trimmedPw + haUserIdEd) : '';
+        if (LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(h1)) isAuthorized = true;
+        if (!isAuthorized && LUMINA_AUTH_LIST_V2 && h2 && LUMINA_AUTH_LIST_V2.includes(h2)) isAuthorized = true;
+        if (!isAuthorized && h3 && LUMINA_AUTH_LIST_V3 && LUMINA_AUTH_LIST_V3.includes(h3)) {
           isAuthorized = true;
-          if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
+          if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
       }
     }
     if (isAuthorized) wrapper.classList.add('authorized');
 
-    const PAYPAL_EMAIL = 'info@prognet.sk';
+    const PAYPAL_EMAIL = '3dprint8616@gmail.com';
     const paypalUrl =
       __URL_PAYPAL_DONATE +
       '&business=' + encodeURIComponent(PAYPAL_EMAIL) +
@@ -23398,7 +23458,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     return wrapper;
   }
 
-  _createCarbonProSection(schema) {
+  _createLuminaProSection(schema) {
     const container = document.createElement('div');
     container.className = 'carbon-pro-content';
     container.style.cssText = 'padding: 8px 0;';
@@ -23410,8 +23470,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const isPaypalDisabled = !!(ui && ui.disable_paypal);
     const isCollettaDisabled = !!(ui && ui.disable_colletta);
 
-    const PAYPAL_EMAIL = 'info@prognet.sk';
-    const SUPPORT_EMAIL = 'info@prognet.sk';
+    const PAYPAL_EMAIL = '3dprint8616@gmail.com';
+    const SUPPORT_EMAIL = 'luminaenergycard@gmail.com';
     const PAYPAL_DONATE_URL =
       __URL_PAYPAL_DONATE +
       '&business=' + encodeURIComponent(PAYPAL_EMAIL) +
@@ -23496,7 +23556,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       return container;
     }
 
-    const uid = getCarbonUID();
+    const uid = getLuminaUID();
     const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
 
     // Determine license status (supports v1 + v2 + v3; v3 lock: once v3 used on this device, only v3 accepted)
@@ -23505,33 +23565,33 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const proPassword = config.pro_password;
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmedPw = proPassword.trim();
-      const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdPro);
+      const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
       if (v3UsedPro) {
-        const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
-        if (h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3)) {
+        const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
+        if (h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3)) {
           isLicenseActive = true;
           isAlreadyV3 = true;
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
+          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
         }
       } else {
-        const h1 = CARBON_SHA256(trimmedPw);
-        const uid = getCarbonUID();
-        const h2 = CARBON_SHA256(trimmedPw + uid);
-        const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
-        const isV3Match = !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
-        if ((Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-            (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
+        const h1 = LUMINA_SHA256(trimmedPw);
+        const uid = getLuminaUID();
+        const h2 = LUMINA_SHA256(trimmedPw + uid);
+        const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
+        const isV3Match = !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
+        if ((Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
+            (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
             isV3Match) {
           isLicenseActive = true;
           if (isV3Match) isAlreadyV3 = true;
           if (isV3Match && haUserIdPro && typeof localStorage !== 'undefined') {
-            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
+            try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
           }
         }
       }
     }
-    if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
-      CARBON_REFRESH_AUTH(() => { this._rendered = false; this.render(); });
+    if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
+      LUMINA_REFRESH_AUTH(() => { this._rendered = false; this.render(); });
     }
 
     // Status banner
@@ -23591,8 +23651,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const pwMsg = document.createElement('div');
     pwMsg.style.cssText = 'margin-top: 10px; padding: 10px; border-radius: 8px; display: none; font-size: 12px; line-height: 1.4;';
     if (activationState === 'error') {
-      const cnt = Array.isArray(CARBON_AUTH_LIST_V1) ? CARBON_AUTH_LIST_V1.length : (CARBON_AUTH_LIST_V1 === null ? 'null' : 0);
-      const extra = CARBON_DEBUG_LICENSE ? ` [authCount=${cnt} status=${CARBON_AUTH_META.lastStatus || ''} err=${CARBON_AUTH_META.lastErr || ''}]` : '';
+      const cnt = Array.isArray(LUMINA_AUTH_LIST_V1) ? LUMINA_AUTH_LIST_V1.length : (LUMINA_AUTH_LIST_V1 === null ? 'null' : 0);
+      const extra = LUMINA_DEBUG_LICENSE ? ` [authCount=${cnt} status=${LUMINA_AUTH_META.lastStatus || ''} err=${LUMINA_AUTH_META.lastErr || ''}]` : '';
       pwMsg.textContent = labels.password_bad + extra;
       pwMsg.style.cssText += 'display:block; background: rgba(255,68,68,0.16); color: #ff4444; border: 1px solid rgba(255,68,68,0.28);';
     } else if (activationState === 'success' || isLicenseActive) {
@@ -23624,37 +23684,37 @@ _createSectionDefs(localeStrings, schemaDefs) {
       try {
         // Always refresh authorization list on activation attempt.
         // This avoids "password doesn't work" right after approval if the card cached an old list.
-        await CARBON_REFRESH_AUTH({ force: true, reason: 'doActivate' });
+        await LUMINA_REFRESH_AUTH({ force: true, reason: 'doActivate' });
         if (entered) {
-          uidAct = getCarbonUID();
+          uidAct = getLuminaUID();
           haUserIdAct = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
           haUserNameAct = (this._hass && this._hass.user && this._hass.user.name) ? String(this._hass.user.name || '').trim() : '';
-          pwHaHash = haUserIdAct ? CARBON_SHA256(entered + haUserIdAct) : '';
-          const v3UsedAct = haUserIdAct && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdAct);
+          pwHaHash = haUserIdAct ? LUMINA_SHA256(entered + haUserIdAct) : '';
+          const v3UsedAct = haUserIdAct && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdAct);
           if (v3UsedAct) {
-            ok = !!(pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash));
+            ok = !!(pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash));
             if (ok) matchType = 'v3';
           } else {
-            pwOnlyHash = CARBON_SHA256(entered);
-            pwUidHash = CARBON_SHA256(entered + uidAct);
+            pwOnlyHash = LUMINA_SHA256(entered);
+            pwUidHash = LUMINA_SHA256(entered + uidAct);
             ok =
-              (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(pwOnlyHash)) ||
-              (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(pwUidHash)) ||
-              (pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash));
+              (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(pwOnlyHash)) ||
+              (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash)) ||
+              (pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash));
             if (ok) {
-              if (pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash)) matchType = 'v3';
-              else if (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(pwUidHash)) matchType = 'v2';
+              if (pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash)) matchType = 'v3';
+              else if (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash)) matchType = 'v2';
               else matchType = 'v1';
             }
           }
-          if (ok && pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
-            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
+          if (ok && pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
+            try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
           }
         }
         if (!ok) {
         } else {
-          const urlProVerify = `${CARBON_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
-          CARBON_JSONP(urlProVerify, 8000).catch(() => {});
+          const urlProVerify = `${LUMINA_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
+          LUMINA_JSONP(urlProVerify, 8000).catch(() => {});
         }
       } catch (e) {
         ok = false;
@@ -23708,12 +23768,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
         migrateMsg.textContent = labels.migrate_v3_requesting;
         migrateMsg.style.display = 'block';
         migrateMsg.style.color = '#888';
-        const uidMig = getCarbonUID();
-        const v1Hash = CARBON_SHA256(currentPw);
-        const v2Hash = CARBON_SHA256(currentPw + uidMig);
-        const pMig = CARBON_PACK({ h: haUserIdPro, v1: v1Hash, v2: v2Hash });
-        const cbName = 'carbon_migrate_' + Date.now() + '_' + Math.floor(Math.random() * 1e9);
-        const urlMig = `${CARBON_LICENSE_ENDPOINT}?action=migrate_v3&p=${encodeURIComponent(pMig)}&callback=${encodeURIComponent(cbName)}&t=${Date.now()}`;
+        const uidMig = getLuminaUID();
+        const v1Hash = LUMINA_SHA256(currentPw);
+        const v2Hash = LUMINA_SHA256(currentPw + uidMig);
+        const pMig = LUMINA_PACK({ h: haUserIdPro, v1: v1Hash, v2: v2Hash });
+        const cbName = 'lumina_migrate_' + Date.now() + '_' + Math.floor(Math.random() * 1e9);
+        const urlMig = `${LUMINA_LICENSE_ENDPOINT}?action=migrate_v3&p=${encodeURIComponent(pMig)}&callback=${encodeURIComponent(cbName)}&t=${Date.now()}`;
         window[cbName] = (data) => {
           try {
             migrateBtn.disabled = false;
@@ -23875,11 +23935,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
       licenseContent.appendChild(makeField(labels.github_username, githubUserInput));
       licenseContent.appendChild(statusMsg);
 
-      const CARBON_PRIVACY_URL = 'https://PROGNET-SK.github.io/carbonprivacy/';
+      const LUMINA_PRIVACY_URL = 'https://PROGNET-SK.github.io/luminaprivacy/';
       const privacyRow = document.createElement('div');
       privacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
       const privacyLink = document.createElement('a');
-      privacyLink.href = CARBON_PRIVACY_URL;
+      privacyLink.href = LUMINA_PRIVACY_URL;
       privacyLink.target = '_blank';
       privacyLink.rel = 'noopener noreferrer';
       privacyLink.textContent = 'Privacy Policy';
@@ -23892,7 +23952,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       privacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
       privacyLabel.appendChild(privacyCheckbox);
       const privacyText = document.createElement('span');
-      privacyText.innerHTML = 'Ho letto e accetto la <a href="' + CARBON_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
+      privacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
       privacyLabel.appendChild(privacyText);
       privacyRow.appendChild(privacyLabel);
       licenseContent.appendChild(privacyRow);
@@ -23974,12 +24034,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
         sendBtn.textContent = labels.sending_request || 'Invio in corso…';
         await new Promise(r => requestAnimationFrame(r));
         try {
-          const p = CARBON_PACK({ u: uid, h: haUserId || '' });
+          const p = LUMINA_PACK({ u: uid, h: haUserId || '' });
           if (!p) throw new Error('pack_failed');
           const privacyTs = String(Date.now());
           const url = (method === 'github')
-            ? `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_REQ)}&payment_method=github&email=${encodeURIComponent(email)}&github_user=${encodeURIComponent(ghUser)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`
-            : `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_REQ)}&payment_method=paypal&email=${encodeURIComponent(email)}&payment_email=${encodeURIComponent(payEmail)}&paypal_first_name=${encodeURIComponent(firstName)}&paypal_last_name=${encodeURIComponent(lastName)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`;
+            ? `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_REQ)}&payment_method=github&email=${encodeURIComponent(email)}&github_user=${encodeURIComponent(ghUser)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`
+            : `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_REQ)}&payment_method=paypal&email=${encodeURIComponent(email)}&payment_email=${encodeURIComponent(payEmail)}&paypal_first_name=${encodeURIComponent(firstName)}&paypal_last_name=${encodeURIComponent(lastName)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`;
           const data = await jsonp(url, 35000);
           if (!data || !data.success) {
             let msg = (data && data.message) ? data.message : ((data && data.error) ? data.error : 'Request failed');
@@ -24035,7 +24095,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     migrationBox.appendChild(makeField(labels.your_email, migEmailInput));
     migrationBox.appendChild(makeField(labels.paypal_payment_email, migPaymentEmailInput));
     migrationBox.appendChild(makeField(labels.paypal_transaction_id, migTxnInput));
-    const CARBON_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/carbonprivacy/';
+    const LUMINA_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/luminaprivacy/';
     const migPrivacyRow = document.createElement('div');
     migPrivacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
     const migPrivacyLabel = document.createElement('label');
@@ -24046,7 +24106,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     migPrivacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
     migPrivacyLabel.appendChild(migPrivacyCheckbox);
     const migPrivacyText = document.createElement('span');
-    migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + CARBON_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
+    migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
     migPrivacyLabel.appendChild(migPrivacyText);
     migPrivacyRow.appendChild(migPrivacyLabel);
     migrationBox.appendChild(migPrivacyRow);
@@ -24082,11 +24142,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
       migBtn.textContent = labels.sending_request || 'Invio in corso…';
       await new Promise(r => requestAnimationFrame(r));
       try {
-        const p = CARBON_PACK({ u: uid, h: migHaUserId || '' });
+        const p = LUMINA_PACK({ u: uid, h: migHaUserId || '' });
         if (!p) throw new Error('pack_failed');
         const migPrivacyTs = String(Date.now());
         const url =
-          `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_MIG)}` +
+          `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_MIG)}` +
           `&email=${encodeURIComponent(email)}` +
           `&payment_email=${encodeURIComponent(payEmail)}` +
           `&p=${encodeURIComponent(p)}` +
@@ -24180,7 +24240,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     bottomWrap.appendChild(fundraiserWrap);
 
     const customNote = document.createElement('div');
-    customNote.textContent = labels.custom_paid_note || ('For substantial changes/customizations contact ' + (labels.support_email || 'info@prognet.sk') + ' (paid service).');
+    customNote.textContent = labels.custom_paid_note || ('For substantial changes/customizations contact ' + (labels.support_email || 'luminaenergycard@gmail.com') + ' (paid service).');
     customNote.style.cssText = 'text-align:center; font-size: 12px; color: var(--secondary-text-color, #ccc); line-height: 1.5; max-width: 520px;';
     bottomWrap.appendChild(customNote);
 
@@ -24538,33 +24598,33 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmed = proPassword.trim();
       const haUserIdOv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-      const hashHexV3 = haUserIdOv ? CARBON_SHA256(trimmed + haUserIdOv) : '';
-      const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdOv);
+      const hashHexV3 = haUserIdOv ? LUMINA_SHA256(trimmed + haUserIdOv) : '';
+      const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdOv);
       
       // Use remote list for verification (v3 lock: once v3 used on this device, only v3 accepted)
       let isValid = false;
-      if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
+      if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
         // If list is still loading, try to refresh and re-render
-        CARBON_REFRESH_AUTH(() => {
+        LUMINA_REFRESH_AUTH(() => {
           this._rendered = false;
           this.render();
         });
       } else {
         if (v3UsedOv) {
-          const v3Match = !!(hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
-          const hashHexV1 = CARBON_SHA256(trimmed);
-          const v1Match = !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashHexV1));
+          const v3Match = !!(hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3));
+          const hashHexV1 = LUMINA_SHA256(trimmed);
+          const v1Match = !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashHexV1));
           isValid = v3Match || v1Match;
         } else {
-          const hashHexV1 = CARBON_SHA256(trimmed);
-          const uidOv = getCarbonUID();
-          const hashHexV2 = CARBON_SHA256(trimmed + uidOv);
-          isValid = (CARBON_AUTH_LIST_V1.includes(hashHexV1)) ||
-            (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashHexV2)) ||
-            (hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
+          const hashHexV1 = LUMINA_SHA256(trimmed);
+          const uidOv = getLuminaUID();
+          const hashHexV2 = LUMINA_SHA256(trimmed + uidOv);
+          isValid = (LUMINA_AUTH_LIST_V1.includes(hashHexV1)) ||
+            (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashHexV2)) ||
+            (hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3));
         }
-        if (isValid && hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) {}
+        if (isValid && hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
+          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) {}
         }
         // Force re-render if authorization state just changed to update PayPal button size
         const wasAuthorized = this._isAuthorized;
@@ -24576,7 +24636,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         }
       }
       
-      if (!isValid && CARBON_AUTH_LIST_V1 !== null) {
+      if (!isValid && LUMINA_AUTH_LIST_V1 !== null) {
         // Disable overlay if password is not valid (and list is loaded)
         if (newConfig.overlay_image_enabled) {
           newConfig.overlay_image_enabled = false;
@@ -24656,7 +24716,21 @@ _createSectionDefs(localeStrings, schemaDefs) {
   }
 
   _editorIsProActive_(config) {
-    return true;
+    if (!config || !config.pro_password || typeof config.pro_password !== 'string' || !config.pro_password.trim()) return false;
+    const trimmedPw = config.pro_password.trim();
+    const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
+    const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
+    if (v3UsedPro) {
+      const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
+      return !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
+    }
+    const h1 = LUMINA_SHA256(trimmedPw);
+    const uid = getLuminaUID();
+    const h2 = LUMINA_SHA256(trimmedPw + uid);
+    const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
+    return (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
+      (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
+      !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
   }
 
   _buildConfigContent() {
@@ -24700,15 +24774,15 @@ _createSectionDefs(localeStrings, schemaDefs) {
     };
 
     // Preview carbon (drag) – only clickable when PRO is active; if not PRO, show message on click
-    const previewCarbonWrap = document.createElement('label');
-    previewCarbonWrap.className = 'editor-toggle';
-    const previewCarbonCb = document.createElement('input');
-    previewCarbonCb.type = 'checkbox';
-    previewCarbonCb.checked = Boolean(this._showCarbonVisualPreview);
-    previewCarbonCb.disabled = !isProForPreview;
-    previewCarbonCb.addEventListener('change', (ev) => {
+    const previewLuminaWrap = document.createElement('label');
+    previewLuminaWrap.className = 'editor-toggle';
+    const previewLuminaCb = document.createElement('input');
+    previewLuminaCb.type = 'checkbox';
+    previewLuminaCb.checked = Boolean(this._showLuminaVisualPreview);
+    previewLuminaCb.disabled = !isProForPreview;
+    previewLuminaCb.addEventListener('change', (ev) => {
       const on = Boolean(ev && ev.target && ev.target.checked);
-      this._showCarbonVisualPreview = on;
+      this._showLuminaVisualPreview = on;
       if (on) {
         this._hideHaPreview = true;
         this._applyHaPreviewVisibility_();
@@ -24716,11 +24790,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
       this._rendered = false;
       this.render();
     });
-    const previewCarbonSpan = document.createElement('span');
-    previewCarbonSpan.textContent = fieldText('editor_toggle_show_carbon_preview', 'Preview carbon (drag) sotto preview HA');
-    previewCarbonWrap.appendChild(previewCarbonCb);
-    previewCarbonWrap.appendChild(previewCarbonSpan);
-    previewCarbonWrap.addEventListener('click', (ev) => {
+    const previewLuminaSpan = document.createElement('span');
+    previewLuminaSpan.textContent = fieldText('editor_toggle_show_lumina_preview', 'Preview carbon (drag) sotto preview HA');
+    previewLuminaWrap.appendChild(previewLuminaCb);
+    previewLuminaWrap.appendChild(previewLuminaSpan);
+    previewLuminaWrap.addEventListener('click', (ev) => {
       if (!this._editorIsProActive_(this._configWithDefaults())) {
         ev.preventDefault();
         ev.stopPropagation();
@@ -24729,7 +24803,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         if (typeof alert === 'function') alert(msg);
       }
     });
-    toggleRow.appendChild(previewCarbonWrap);
+    toggleRow.appendChild(previewLuminaWrap);
 
     container.appendChild(toggleRow);
 
@@ -24748,9 +24822,9 @@ _createSectionDefs(localeStrings, schemaDefs) {
     exportConfigBtn2.addEventListener('mouseleave', () => { exportConfigBtn2.style.background = 'rgba(180,200,100,0.15)'; });
     exportConfigBtn2.addEventListener('click', () => {
       try {
-        const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+        const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-        const data = { _carbon_config_export: true, version: 1 };
+        const data = { _lumina_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -24781,10 +24855,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._carbon_config_export !== true) return;
+          if (!data || data._lumina_config_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_carbon_config_export' || k === 'version') return;
+            if (k === '_lumina_config_export' || k === 'version') return;
             if (k && !k.startsWith('_')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -24878,13 +24952,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
     exportFlowsBtn.addEventListener('mouseleave', () => { exportFlowsBtn.style.background = 'rgba(0,200,150,0.15)'; });
     exportFlowsBtn.addEventListener('click', () => {
       try {
-        const allDefs1 = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+        const allDefs1 = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs1, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const flowKeys = [];
         for (let i = 1; i <= 10; i++) {
           flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
         }
-        const data = { _carbon_flows_export: true, version: 1 };
+        const data = { _lumina_flows_export: true, version: 1 };
         flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -24910,10 +24984,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._carbon_flows_export !== true) return;
+          if (!data || data._lumina_flows_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_carbon_flows_export' || k === 'version') return;
+            if (k === '_lumina_flows_export' || k === 'version') return;
             if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -25049,7 +25123,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     container.appendChild(ultraCard);
 
     // Pannello Preview carbon (drag) quando abilitato
-    if (this._showCarbonVisualPreview) {
+    if (this._showLuminaVisualPreview) {
       try {
         container.appendChild(this._createEditorPreviewPanel_());
       } catch (e) {
@@ -26184,13 +26258,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
 }
 
 if (!customElements.get('carbon-energy-card-editor')) {
-  customElements.define('carbon-energy-card-editor', CarbonEnergyCardEditor);
+  customElements.define('carbon-energy-card-editor', LuminaEnergyCardEditor);
 }
 
 window.customCards = window.customCards || [];
 window.customCards.push({
   type: 'carbon-energy-card',
-  name: 'CARBON Energy Card',
+  name: 'carbon Energy Card',
   description: 'Advanced energy flow visualization card with support for multiple PV strings and batteries',
   preview: true,
   documentationURL: __URL_GH_REPO
@@ -26198,13 +26272,13 @@ window.customCards.push({
 
 /* ─── carbon Gallery Module ───
  * Gallery browse, sensor wizard, apply, share, preview capture.
- * These methods are added to CarbonEnergyCardEditor.prototype
+ * These methods are added to LuminaEnergyCardEditor.prototype
  * so they work as regular class methods via `this`.
  * Build order: sec + main + gallery
  */
 
 /** Create an overlay panel inside this editor's shadowRoot (works in HA shadow DOM) */
-CarbonEnergyCardEditor.prototype._createCarbonOverlay_ = function(panelCss) {
+LuminaEnergyCardEditor.prototype._createLuminaOverlay_ = function(panelCss) {
   const root = this.shadowRoot || this;
   /* Remove any previous overlay */
   const prev = root.querySelector('[data-carbon-overlay]');
@@ -26227,7 +26301,7 @@ CarbonEnergyCardEditor.prototype._createCarbonOverlay_ = function(panelCss) {
 };
 
 /** Get sensor label from i18n fields or generate a readable label from the key */
-CarbonEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
+LuminaEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
   if (fields && fields[key]) {
     const f = fields[key];
     return (typeof f === 'string') ? f : (f.label || key);
@@ -26235,10 +26309,10 @@ CarbonEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
   return key.replace(/^sensor_/, '').replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 };
 
-CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
+LuminaEnergyCardEditor.prototype._openGalleryModal_ = function() {
   const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
   const fields = (localeStrings && localeStrings.fields) || {};
-  const galleryBase = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? String(CARBON_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
+  const galleryBase = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? String(LUMINA_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
   const L = {
     title: fields.editor_gallery_title || 'Gallery',
     useThis: fields.editor_use_this_template || 'Use this',
@@ -26263,7 +26337,7 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
   };
   if (!galleryBase) { alert(L.noEndpoint); return; }
 
-  const ov = this._createCarbonOverlay_('width:min(720px,100%);min-width:0;');
+  const ov = this._createLuminaOverlay_('width:min(720px,100%);min-width:0;');
   const panel = ov._panel;
   const closeOverlay = ov._close;
 
@@ -26464,8 +26538,8 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
   const ROTATION_DAYS = 30;
   const ROTATION_MS = ROTATION_DAYS * 24 * 60 * 60 * 1000;
   const CONGRATS_MS = 24 * 60 * 60 * 1000;
-  const STORAGE_KEY = 'carbon_gallery_rotation';
-  const WINNERS_STORAGE_KEY = 'carbon_gallery_winners';
+  const STORAGE_KEY = 'lumina_gallery_rotation';
+  const WINNERS_STORAGE_KEY = 'lumina_gallery_winners';
 
   fetch(galleryBase + '/gallery').then((r) => r.ok ? r.json() : Promise.reject(new Error(r.statusText))).then((list) => {
     listEl.innerHTML = '';
@@ -26599,7 +26673,7 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
 };
 
 /** Sensor mapping wizard shown after selecting a gallery template */
-CarbonEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L, fields) {
+LuminaEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L, fields) {
   const sensorKeys = Object.keys(importedConfig).filter((k) => k.startsWith('sensor_') && importedConfig[k] && typeof importedConfig[k] === 'string' && importedConfig[k].trim());
   const cfKeys = Object.keys(importedConfig).filter((k) => /^custom_flow_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
   const ctKeys = Object.keys(importedConfig).filter((k) => /^custom_text_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
@@ -26613,7 +26687,7 @@ CarbonEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L
     return;
   }
 
-  const ov = this._createCarbonOverlay_('width:min(560px,92vw);');
+  const ov = this._createLuminaOverlay_('width:min(560px,92vw);');
   const panel = ov._panel;
   const closeOverlay = ov._close;
 
@@ -26728,8 +26802,8 @@ CarbonEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L
 };
 
 /** Apply a gallery config to the editor */
-CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig) {
-  const allDefaults = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+LuminaEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig) {
+  const allDefaults = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
   const currentConfig = this._config || {};
   const newConfig = { ...currentConfig };
 
@@ -26786,7 +26860,7 @@ CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig)
 };
 
 /** Get preview image base64 from config's background_image (full resolution) */
-CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
+LuminaEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
   return new Promise((resolve) => {
     try {
       const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
@@ -26838,10 +26912,10 @@ CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
   });
 };
 
-CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
+LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
   const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
   const fields = (localeStrings && localeStrings.fields) || {};
-  const galleryBase = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? String(CARBON_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
+  const galleryBase = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? String(LUMINA_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
   const L = {
     noEndpoint: fields.editor_gallery_no_endpoint || 'Set license Worker URL to use gallery',
     shareSuccess: fields.editor_gallery_share_success || 'Shared successfully',
@@ -26863,7 +26937,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
   };
   if (!galleryBase) { alert(L.noEndpoint); return; }
 
-  const ov = this._createCarbonOverlay_('width:min(440px,90vw);min-height:min(400px,60vh);');
+  const ov = this._createLuminaOverlay_('width:min(440px,90vw);min-height:min(400px,60vh);');
   const panel = ov._panel;
   const closeOverlay = ov._close;
 
@@ -27155,7 +27229,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
 (function() {
   'use strict';
 
-  const DEFAULT_DAY_BG = '/local/community/carbon-energy-card/carbon_background1.png';
+  const DEFAULT_DAY_BG = '/local/community/carbon-energy-card/lumina_background1.png';
 
   /**
    * Resolve which background image to show: day (default) or night.
@@ -27164,7 +27238,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
    * @param {Object} hass - Home Assistant object
    * @returns {string} URL for background image
    */
-  CarbonEnergyCard.prototype._getResolvedDayNightBackground_ = function(config, hass) {
+  LuminaEnergyCard.prototype._getResolvedDayNightBackground_ = function(config, hass) {
     var enabled = config && config.night_mode_enabled === true;
     var overrideNight = config && config.night_mode_override === true;
     var nightUrl = (config && config.background_image_night && String(config.background_image_night).trim()) || '';
@@ -27189,7 +27263,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
   /**
    * Base day background URL (same logic as main.js before day/night).
    */
-  CarbonEnergyCard.prototype._getDayBackgroundUrl_ = function(config) {
+  LuminaEnergyCard.prototype._getDayBackgroundUrl_ = function(config) {
     var defaultBg = DEFAULT_DAY_BG;
     if (config && config.installation_type === '4') {
       return (config.background_image && String(config.background_image).trim()) || '';
