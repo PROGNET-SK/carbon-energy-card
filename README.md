@@ -3,7 +3,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 ![Version](https://img.shields.io/badge/version-3.3.5-blue.svg)
 
-Repository: [https://github.com/PROGNET-SK/prognet-energy-card](https://github.com/PROGNET-SK/prognet-energy-card)
+Repository: [https://github.com/PROGNET-SK/carbon-energy-card](https://github.com/PROGNET-SK/carbon-energy-card)
 
 ## License
 
@@ -13,11 +13,11 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 **[Install directly (HACS)][install]** · Support: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/giorgiosalierno) · [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-PROGNET-SK-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/PROGNET-SK)  
 *Send as donation; other payment methods will be refunded.*
 
-[install]: https://my.home-assistant.io/redirect/hacs_repository/?owner=PROGNET-SK&repository=prognet-energy-card&category=frontend
+[install]: https://my.home-assistant.io/redirect/hacs_repository/?owner=PROGNET-SK&repository=carbon-energy-card&category=frontend
 
 [![Open your Home Assistant instance and add this repository to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)][install]
 
-![carbon Energy Card](https://raw.githubusercontent.com/PROGNET-SK/prognet-energy-card/main/Images/screen.jpg)
+![carbon Energy Card](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/Images/screen.jpg)
 
 *carbon Energy Card – main view with energy flows, PV, battery, grid, and house*
 
@@ -31,14 +31,14 @@ carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 
 ### What's new in 3.3.5
 
-- **Bug fixes:** Fixed [#275](https://github.com/PROGNET-SK/prognet-energy-card/issues/275), [#273](https://github.com/PROGNET-SK/prognet-energy-card/issues/273), [#272](https://github.com/PROGNET-SK/prognet-energy-card/issues/272).
+- **Bug fixes:** Fixed [#275](https://github.com/PROGNET-SK/carbon-energy-card/issues/275), [#273](https://github.com/PROGNET-SK/carbon-energy-card/issues/273), [#272](https://github.com/PROGNET-SK/carbon-energy-card/issues/272).
 - **Text colors:** You can now change the color **individually** for each auto-related text (PV, battery, grid, etc.), and change the color of the **house absorption** text from the editor.
 - **4 independent batteries with SVG logo and fill:** You can now use **up to 4 batteries**, each with its own **SVG logo** and **fill level** (SOC-based), all independent. Configure each battery’s sensors, position, and style in the editor.
 - **Day/Night background:** You can set a **night background image** that switches **automatically** from day to night. The card uses the sun entity (e.g. `sun.sun`) to detect sunrise/sunset; you can also force “night view” with a toggle.  
   **Where to upload the night image:** Place your image file (**`night.jpg`** or **`night.png`**) in your Home Assistant www folder for the card, for example:
-  - **`/config/www/community/prognet-energy-card/`** (if you use `config`), or  
-  - **`/homeassistant/www/community/prognet-energy-card/`** (e.g. in some installs).  
-  Then use the URL **`/local/community/prognet-energy-card/night.jpg`** (or **`night.png`**) in the editor under **Day/Night Background**. After uploading, **reload the frontend** (or the integration) and refresh the page so the image is served correctly.
+  - **`/config/www/community/carbon-energy-card/`** (if you use `config`), or  
+  - **`/homeassistant/www/community/carbon-energy-card/`** (e.g. in some installs).  
+  Then use the URL **`/local/community/carbon-energy-card/night.jpg`** (or **`night.png`**) in the editor under **Day/Night Background**. After uploading, **reload the frontend** (or the integration) and refresh the page so the image is served correctly.
 
 ### What's new in 3.3.3
 
@@ -73,7 +73,7 @@ carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 - **Digital clock:** An **optional digital clock** shows the current time on the card (style and position configurable).
 - **All texts drag-and-drop:** **Every text label** on the card (PV, battery, grid, load, etc.) is **draggable** in the editor preview so you can place them exactly where you want.
 - **Russian and Portuguese:** The card and editor are fully translated into **Russian** and **Portuguese** (in addition to EN, IT, DE, FR, NL).
-- **Fix #188 (GitHub):** Resolved the issue reported in [GitHub #188](https://github.com/PROGNET-SK/prognet-energy-card/issues/188).
+- **Fix #188 (GitHub):** Resolved the issue reported in [GitHub #188](https://github.com/PROGNET-SK/carbon-energy-card/issues/188).
 
 ### Performance note (important for Raspberry Pi / low-power kiosks)
 
@@ -90,23 +90,23 @@ carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 Click the badge → your Home Assistant opens → the repo is added to HACS. Then go to **HACS → Frontend**, search **carbon Energy Card**, and install. Finally: **Dashboard → Edit → Add card → carbon Energy Card**.
 
 **HACS (manual):**
-1. HACS → Frontend → Custom repositories → Add `https://github.com/PROGNET-SK/prognet-energy-card` (category: Dashboard).
+1. HACS → Frontend → Custom repositories → Add `https://github.com/PROGNET-SK/carbon-energy-card` (category: Dashboard).
 2. Search **carbon Energy Card**, install it.
 3. Dashboard → Edit → Add card → **carbon Energy Card**.
 
-**Manual (no HACS):** Place `prognet-energy-card.js` and `lumina_background.png` in `/config/www/community/prognet-energy-card/`, add the Lovelace resource, restart Home Assistant.
+**Manual (no HACS):** Place `carbon-energy-card.js` and `lumina_background.png` in `/config/www/community/carbon-energy-card/`, add the Lovelace resource, restart Home Assistant.
 
 ### Minimal configuration
 
 ```yaml
-type: custom:prognet-energy-card
+type: custom:carbon-energy-card
 sensor_pv1: sensor.solar_production
 sensor_daily: sensor.daily_production
 sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: /local/community/prognet-energy-card/lumina_background.png
+background_image: /local/community/carbon-energy-card/lumina_background.png
 ```
 
 Use the card’s visual editor (Edit → carbon) to configure entities, colors, and options.
@@ -254,7 +254,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 | 10 custom flows | **PRO** section | Up to 10 custom energy flows; editable in PRO and Preview |
 | Overlay (10 images) | **PRO** + **Preview carbon (drag)** | Up to 10 overlay images; drag to position in preview |
 | Custom background | Editor / **PRO** | Upload your image or generate with IA (tokens) |
-| Day/Night background | Editor → **Day/Night** | Night image URL; auto switch by sun; upload to `www/community/prognet-energy-card/` |
+| Day/Night background | Editor → **Day/Night** | Night image URL; auto switch by sun; upload to `www/community/carbon-energy-card/` |
 | 4 batteries (SVG + fill) | Editor → **Batteries** | Up to 4 independent batteries with SVG logo and SOC fill |
 | Text colors (auto, house) | Editor | Individual colors for PV/battery/grid texts; house absorption text color |
 | Array text | Editor | Customize text next to each PV/array |
@@ -282,7 +282,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 - **Values at zero:** Check entity IDs and that entities exist and are available.
 - **Cameras 403 / not loading:** Cameras must expose `access_token` (most HA camera integrations do). Use **■ Stop** before closing the camera popup.
 - **Editor slow:** Increase **`update_interval`** or reduce dashboard refresh frequency.
-- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/prognet-energy-card/tree/main/dist) (e.g. `lumina_background.png`, `lumina_background1.png`), place them in `/config/www/community/prognet-energy-card/`, then reload the dashboard. Links: [lumina_background.png](https://github.com/PROGNET-SK/prognet-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/prognet-energy-card/raw/main/dist/lumina_background1.png).
+- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (e.g. `lumina_background.png`, `lumina_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [lumina_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background1.png).
 
 ---
 
@@ -294,14 +294,14 @@ carbon Energy Card è una scheda Lovelace personalizzata per Home Assistant che 
 
 ### Novità in 3.3.5
 
-- **Correzioni bug:** Risolti [#275](https://github.com/PROGNET-SK/prognet-energy-card/issues/275), [#273](https://github.com/PROGNET-SK/prognet-energy-card/issues/273), [#272](https://github.com/PROGNET-SK/prognet-energy-card/issues/272).
+- **Correzioni bug:** Risolti [#275](https://github.com/PROGNET-SK/carbon-energy-card/issues/275), [#273](https://github.com/PROGNET-SK/carbon-energy-card/issues/273), [#272](https://github.com/PROGNET-SK/carbon-energy-card/issues/272).
 - **Colori testi:** Puoi ora cambiare il colore **singolarmente** per ogni testo (PV, batteria, rete, ecc.) e il colore del testo **assorbimento casa** dall’editor.
 - **4 batterie indipendenti con logo SVG e riempimento:** Puoi usare **fino a 4 batterie**, ciascuna con **logo SVG** e **livello di riempimento** (basato sul SOC), tutte indipendenti. Configura sensori, posizione e stile per ogni batteria dall’editor.
 - **Sfondo giorno/notte:** Puoi impostare un’**immagine di sfondo notturna** che viene **alternata automaticamente** tra giorno e notte. La card usa l’entità sole (es. `sun.sun`) per rilevare alba/tramonto; puoi anche forzare la “vista notte” con un toggle.  
   **Dove caricare l’immagine notturna:** Metti il file (**`night.jpg`** o **`night.png`**) nella cartella www di Home Assistant della card, ad esempio:
-  - **`/config/www/community/prognet-energy-card/`** (se usi `config`), oppure  
-  - **`/homeassistant/www/community/prognet-energy-card/`** (in alcune installazioni).  
-  Poi usa l’URL **`/local/community/prognet-energy-card/night.jpg`** (o **`night.png`**) nell’editor nella sezione **Sfondo giorno/notte**. Dopo il caricamento **ricarica il frontend** (o l’integrazione) e aggiorna la pagina perché l’immagine venga servita correttamente.
+  - **`/config/www/community/carbon-energy-card/`** (se usi `config`), oppure  
+  - **`/homeassistant/www/community/carbon-energy-card/`** (in alcune installazioni).  
+  Poi usa l’URL **`/local/community/carbon-energy-card/night.jpg`** (o **`night.png`**) nell’editor nella sezione **Sfondo giorno/notte**. Dopo il caricamento **ricarica il frontend** (o l’integrazione) e aggiorna la pagina perché l’immagine venga servita correttamente.
 
 ### Novità in 3.3.3
 
@@ -337,7 +337,7 @@ carbon Energy Card è una scheda Lovelace personalizzata per Home Assistant che 
 - **Orologio digitale:** Un **orologio digitale** opzionale mostra l’ora corrente sulla card (stile e posizione configurabili).
 - **Tutti i testi drag-and-drop:** **Ogni etichetta di testo** sulla card (PV, batteria, rete, carico, ecc.) è **trascinabile** nella preview dell’editor per posizionarla dove vuoi.
 - **Russo e portoghese:** Card e editor sono tradotti in **russo** e **portoghese** (oltre a EN, IT, DE, FR, NL).
-- **Fix #188 (GitHub):** Risolto il problema segnalato in [GitHub #188](https://github.com/PROGNET-SK/prognet-energy-card/issues/188).
+- **Fix #188 (GitHub):** Risolto il problema segnalato in [GitHub #188](https://github.com/PROGNET-SK/carbon-energy-card/issues/188).
 
 ### Nota prestazioni (importante per Raspberry Pi / kiosk)
 
@@ -354,23 +354,23 @@ carbon Energy Card è una scheda Lovelace personalizzata per Home Assistant che 
 Clicca il badge → si apre la tua istanza Home Assistant → il repository viene aggiunto a HACS. Poi vai in **HACS → Frontend**, cerca **carbon Energy Card** e installala. Infine: **Dashboard → Modifica → Aggiungi scheda → carbon Energy Card**.
 
 **HACS (manuale):**
-1. HACS → Frontend → Custom repositories → Aggiungi `https://github.com/PROGNET-SK/prognet-energy-card` (categoria: Dashboard).
+1. HACS → Frontend → Custom repositories → Aggiungi `https://github.com/PROGNET-SK/carbon-energy-card` (categoria: Dashboard).
 2. Cerca **carbon Energy Card**, installala.
 3. Dashboard → Modifica → Aggiungi scheda → **carbon Energy Card**.
 
-**Manuale (senza HACS):** Copia `prognet-energy-card.js` e `lumina_background.png` in `/config/www/community/prognet-energy-card/`, aggiungi la risorsa Lovelace e riavvia Home Assistant.
+**Manuale (senza HACS):** Copia `carbon-energy-card.js` e `lumina_background.png` in `/config/www/community/carbon-energy-card/`, aggiungi la risorsa Lovelace e riavvia Home Assistant.
 
 ### Configurazione minima
 
 ```yaml
-type: custom:prognet-energy-card
+type: custom:carbon-energy-card
 sensor_pv1: sensor.solar_production
 sensor_daily: sensor.daily_production
 sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: /local/community/prognet-energy-card/lumina_background.png
+background_image: /local/community/carbon-energy-card/lumina_background.png
 ```
 
 Usa l’**editor visivo** della scheda (Modifica → carbon) per configurare entità, colori e opzioni.
@@ -509,7 +509,7 @@ Le funzioni PRO richiedono la **password PRO** (`pro_password`), sbloccabile dal
 | 10 flussi custom | Sezione **PRO** | Fino a 10 flussi energetici; modificabili in PRO e Preview |
 | Overlay (10 immagini) | **PRO** + **Preview carbon (drag)** | Fino a 10 overlay; trascina per posizionare nella preview |
 | Sfondo personalizzato | Editor / **PRO** | Carica la tua immagine o genera con IA (token) |
-| Sfondo giorno/notte | Editor → **Giorno/Notte** | URL immagine notte; switch automatico con sole; carica in `www/community/prognet-energy-card/` |
+| Sfondo giorno/notte | Editor → **Giorno/Notte** | URL immagine notte; switch automatico con sole; carica in `www/community/carbon-energy-card/` |
 | 4 batterie (SVG + riempimento) | Editor → **Batterie** | Fino a 4 batterie indipendenti con logo SVG e riempimento SOC |
 | Colori testi (auto, casa) | Editor | Colori singoli per testi PV/batteria/rete; colore testo assorbimento casa |
 | Testo array | Editor | Personalizza il testo accanto a ogni stringa/array FV |
@@ -536,13 +536,13 @@ Le funzioni PRO richiedono la **password PRO** (`pro_password`), sbloccabile dal
 - **Valori a zero:** Controlla gli entity ID e che le entità esistano e siano disponibili.
 - **Telecamere 403 / non caricano:** Le telecamere devono esporre `access_token` (la maggior parte delle integrazioni HA lo fa). Usa **■ Stop** prima di chiudere il popup telecamere.
 - **Editor lento:** Aumenta **`update_interval`** o riduci la frequenza di aggiornamento della dashboard.
-- **Immagini non scaricate con HACS:** HACS installa solo il file JavaScript (`.js`). Per usare gli sfondi predefiniti, scarica le immagini dalla cartella [**dist**](https://github.com/PROGNET-SK/prognet-energy-card/tree/main/dist) (es. `lumina_background.png`, `lumina_background1.png`), mettile in `/config/www/community/prognet-energy-card/` e ricarica la dashboard. Link diretti: [lumina_background.png](https://github.com/PROGNET-SK/prognet-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/prognet-energy-card/raw/main/dist/lumina_background1.png).
+- **Immagini non scaricate con HACS:** HACS installa solo il file JavaScript (`.js`). Per usare gli sfondi predefiniti, scarica le immagini dalla cartella [**dist**](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (es. `lumina_background.png`, `lumina_background1.png`), mettile in `/config/www/community/carbon-energy-card/` e ricarica la dashboard. Link diretti: [lumina_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background1.png).
 
 ---
 
 ### Licenza e supporto
 
 - **Licenza:** MIT. Vedi [LICENSE](LICENSE).
-- **Segnalazioni e richieste:** [GitHub](https://github.com/PROGNET-SK/prognet-energy-card).
+- **Segnalazioni e richieste:** [GitHub](https://github.com/PROGNET-SK/carbon-energy-card).
 
 © 2025 PROGNET-SK e contributors.
