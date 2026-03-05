@@ -54,7 +54,7 @@ sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: /local/community/carbon-energy-card/lumina_background.png
+background_image: /local/community/carbon-energy-card/carbon_background.png
 ```
 
 Use the card’s visual editor (Edit → carbon) to configure entities, colors, and options.
@@ -230,7 +230,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 - **Values at zero:** Check entity IDs and that entities exist and are available.
 - **Cameras 403 / not loading:** Cameras must expose `access_token` (most HA camera integrations do). Use **■ Stop** before closing the camera popup.
 - **Editor slow:** Increase **`update_interval`** or reduce dashboard refresh frequency.
-- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (e.g. `lumina_background.png`, `lumina_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [lumina_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background1.png).
+- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (e.g. `carbon_background.png`, `carbon_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [carbon_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/carbon_background.png), [carbon_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/carbon_background1.png).
 
 ---
 
@@ -280,7 +280,7 @@ sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: /local/community/carbon-energy-card/lumina_background.png
+background_image: /local/community/carbon-energy-card/carbon_background.png
 ```
 
 Použite vizuálny editor karty (Úprava → carbon) pre konfiguráciu entít, farieb a možností.

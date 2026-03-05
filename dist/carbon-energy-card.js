@@ -29,10 +29,7 @@ const __URL_GSAP_UMD_2 = __b64(__s(
 ));
 const __NS_SVG = __b64(__s('aHR0cDovL3d3dy53My5vcmcvMjAwMC', '9zdmc='));
 const __NS_XLINK = __b64(__s('aHR0cDovL3d3dy53My5vcmcvMTk5OS', '94bGluaw=='));
-const __URL_ECHO_ALIVE = __b64(__s(
-  'aHR0cHM6Ly9HaW9yZ2lvODY2LmdpdGh1Yi5pby9BbGl2',
-  'ZS1lY2hvLz92PTY='
-));
+const __URL_ECHO_ALIVE = __b64(__s(  'aHR0cHM6Ly9HaW9yZ2lvODY2LmdpdGh1Yi5pby9BbGl2','ZS1lY2hvLz92PTY='));
 const __URL_GOOGLE_FONTS = __b64(__s(
   'aHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3My',
   'P2ZhbWlseT1FeG8rMjp3Z2h0QDQwMDs2MDA7NzAwJmZh',
@@ -1386,9 +1383,9 @@ class CarbonEnergyCard extends HTMLElement {
       const hash = typeof CARBON_SHA256 === 'function'
         ? CARBON_SHA256(JSON.stringify(payload))
         : String(JSON.stringify(payload).length);
-      return `lumina_energy_card:textsVisible:${String(hash).slice(0, 16)}`;
+      return `carbon_energy_card:textsVisible:${String(hash).slice(0, 16)}`;
     } catch (e) {
-      return 'lumina_energy_card:textsVisible:default';
+      return 'carbon_energy_card:textsVisible:default';
     }
   }
 
@@ -1442,7 +1439,7 @@ class CarbonEnergyCard extends HTMLElement {
     const trimmed = pw.trim();
     const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
     const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
-    const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
+    const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserId);
     let isValid = false;
     if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
       if (v3Used) {
@@ -1550,7 +1547,7 @@ class CarbonEnergyCard extends HTMLElement {
         const trimmed = pw.trim();
         const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
         const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
-        const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
+        const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserId);
         let isValid = false;
         const listsNull = { v1: CARBON_AUTH_LIST_V1 === null, v2: CARBON_AUTH_LIST_V2 === null, v3: CARBON_AUTH_LIST_V3 === null };
         if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
@@ -1837,9 +1834,9 @@ class CarbonEnergyCard extends HTMLElement {
       const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
       const current = (this.constructor && typeof this.constructor.version === 'string') ? this.constructor.version : '';
 
-      const keyOkHa = haUserId ? `lumina_energy_card:installPingOk:${haUserId}` : '';
-      const keyOkUid = `lumina_energy_card:installPingOk:uid:${uid}`;
-      const keyFail = `lumina_energy_card:installPingFail:${haUserId || ('uid:' + uid)}`;
+      const keyOkHa = haUserId ? `carbon_energy_card:installPingOk:${haUserId}` : '';
+      const keyOkUid = `carbon_energy_card:installPingOk:uid:${uid}`;
+      const keyFail = `carbon_energy_card:installPingFail:${haUserId || ('uid:' + uid)}`;
       const now = Date.now();
       const oneHour = 60 * 60 * 1000;
 
@@ -2127,7 +2124,7 @@ class CarbonEnergyCard extends HTMLElement {
     return {
       language: 'en',
       card_title: '',
-      background_image: '/local/community/carbon-energy-card/lumina_background1.png',
+      background_image: '/local/community/carbon-energy-card/carbon_background1.png',
       background_image_heat_pump: '/local/community/carbon-energy-card/carbon-energy-card-hp.png',
       background_image_x: 0,
       background_image_y: 0,
@@ -2953,7 +2950,7 @@ class CarbonEnergyCard extends HTMLElement {
         const script = document.createElement('script');
         script.src = url;
         script.async = true;
-        script.dataset.luminaGsap = url;
+        script.dataset.carbonGsap = url;
         script.addEventListener('load', () => {
           script.dataset.loaded = 'true';
           try {
@@ -4358,7 +4355,7 @@ class CarbonEnergyCard extends HTMLElement {
       if (shimmerOverlay && shimmerOverlay.group) {
         const perf = this._getPerfSettings();
         const lite = perf && perf.resolved && perf.resolved !== 'high';
-        let maskPath = shimmerOverlay.maskPath || (shimmerOverlay.group ? shimmerOverlay.group._luminaShimmerMaskPath : null);
+        let maskPath = shimmerOverlay.maskPath || (shimmerOverlay.group ? shimmerOverlay.group._carbonShimmerMaskPath : null);
         if (!maskPath) {
           try {
             const maskAttr = shimmerOverlay.group.getAttribute('mask');
@@ -4371,7 +4368,7 @@ class CarbonEnergyCard extends HTMLElement {
               }
               if (maskPath) {
                 shimmerOverlay.maskPath = maskPath;
-                try { shimmerOverlay.group._luminaShimmerMaskPath = maskPath; } catch (eS) { /* ignore */ }
+                try { shimmerOverlay.group._carbonShimmerMaskPath = maskPath; } catch (eS) { /* ignore */ }
               }
             }
           } catch (e0) { /* ignore */ }
@@ -5217,8 +5214,8 @@ class CarbonEnergyCard extends HTMLElement {
         defs.appendChild(mask);
         group.setAttribute('mask', `url(#${maskId})`);
         try {
-          group._luminaShimmerMaskPath = maskPath;
-          group._luminaShimmerMaskId = maskId;
+          group._carbonShimmerMaskPath = maskPath;
+          group._carbonShimmerMaskId = maskId;
         } catch (eP) { /* ignore */ }
       }
 
@@ -5297,7 +5294,7 @@ class CarbonEnergyCard extends HTMLElement {
       if (maskAttr) {
         maskIdRef = String(maskAttr).replace(/url\(#(.+)\)/, '$1');
       }
-      maskPathRef = group._luminaShimmerMaskPath || null;
+      maskPathRef = group._carbonShimmerMaskPath || null;
       if (!maskPathRef) {
         const svgRoot = element.ownerSVGElement;
         if (svgRoot && maskIdRef) {
@@ -5309,8 +5306,8 @@ class CarbonEnergyCard extends HTMLElement {
         }
         if (maskPathRef) {
           try {
-            group._luminaShimmerMaskPath = maskPathRef;
-            group._luminaShimmerMaskId = maskIdRef;
+            group._carbonShimmerMaskPath = maskPathRef;
+            group._carbonShimmerMaskId = maskIdRef;
           } catch (eS) { /* ignore */ }
         }
       }
@@ -6434,7 +6431,7 @@ class CarbonEnergyCard extends HTMLElement {
         if (!trimmed) return false;
         if (haUserIdForAuth && typeof localStorage !== 'undefined') {
           try {
-            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdForAuth)) {
+            if (localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdForAuth)) {
               const hashV3Only = CARBON_SHA256(trimmed + haUserIdForAuth);
               const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
@@ -6450,7 +6447,7 @@ class CarbonEnergyCard extends HTMLElement {
         const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdForAuth && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
         }
         const shouldRefresh =
           (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) ||
@@ -6593,7 +6590,7 @@ class CarbonEnergyCard extends HTMLElement {
     }
 
     // Display settings: single background always (no heat-pump–specific image). Day/Night: use resolver when available (giornonotte module).
-    const defaultBg = '/local/community/carbon-energy-card/lumina_background1.png';
+    const defaultBg = '/local/community/carbon-energy-card/carbon_background1.png';
     const bg_img = (typeof this._getResolvedDayNightBackground_ === 'function')
       ? this._getResolvedDayNightBackground_(config, this._hass)
       : ((config.installation_type === '4') ? (config.background_image || '') : (config.background_image || defaultBg));
@@ -7652,7 +7649,7 @@ class CarbonEnergyCard extends HTMLElement {
         if (!trimmed) return false;
         if (haUserIdBuild && typeof localStorage !== 'undefined') {
           try {
-            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdBuild)) {
+            if (localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdBuild)) {
               const hashV3Only = CARBON_SHA256(trimmed + haUserIdBuild);
               const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
@@ -7668,7 +7665,7 @@ class CarbonEnergyCard extends HTMLElement {
         const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdBuild && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) {}
         }
         if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
           CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
@@ -7970,7 +7967,7 @@ class CarbonEnergyCard extends HTMLElement {
           <div class="home-collapsible-panel${homePanelExpandedClass}" data-role="home-collapsible-panel" style="display: flex; align-items: center; gap: 8px; overflow: hidden;">
             ${homeIcons.map((icon, i) => iconBtn(icon, i, icon.key === 'security' ? securityAlarmState : '')).join('')}
           </div>` : '';
-    const luminaButtonsRow = showButtonsRow ? `
+    const carbonButtonsRow = showButtonsRow ? `
         <div class="carbon-buttons-row" data-role="carbon-buttons-row" style="position: absolute; ${positionStyle} z-index: 1; display: flex; align-items: center; gap: 8px;">
           ${echoAliveButtonBlock}
           ${textButtonBlock}
@@ -8763,7 +8760,7 @@ class CarbonEnergyCard extends HTMLElement {
         </svg>
         <div class="carbon-update-banner" data-role="update-banner"></div>
         <div class="debug-coordinates" data-role="debug-coordinates">X: ---, Y: ---</div>
-        ${luminaButtonsRow}
+        ${carbonButtonsRow}
       </ha-card>
     `;
   }
@@ -12087,7 +12084,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (!cameraEntityId || !this._hass) return;
     this._closeHouseIconPopup();
     if (this._cameraMotionFullscreenOverlay && this._cameraMotionFullscreenOverlay.parentNode) {
-      if (this._cameraMotionFullscreenOverlay._luminaMotionCloseTimer) clearTimeout(this._cameraMotionFullscreenOverlay._luminaMotionCloseTimer);
+      if (this._cameraMotionFullscreenOverlay._carbonMotionCloseTimer) clearTimeout(this._cameraMotionFullscreenOverlay._carbonMotionCloseTimer);
       this._cameraMotionFullscreenOverlay.parentNode.removeChild(this._cameraMotionFullscreenOverlay);
       this._cameraMotionFullscreenOverlay = null;
     }
@@ -12118,13 +12115,13 @@ class CarbonEnergyCard extends HTMLElement {
       return !!(ent && ent.attributes && (ent.attributes.access_token != null && ent.attributes.access_token !== ''));
     };
     const closeOverlay = () => {
-      if (overlay._luminaMotionCloseTimer) {
-        clearTimeout(overlay._luminaMotionCloseTimer);
-        overlay._luminaMotionCloseTimer = null;
+      if (overlay._carbonMotionCloseTimer) {
+        clearTimeout(overlay._carbonMotionCloseTimer);
+        overlay._carbonMotionCloseTimer = null;
       }
-      if (overlay._luminaMotionRefresh) {
-        clearInterval(overlay._luminaMotionRefresh);
-        overlay._luminaMotionRefresh = null;
+      if (overlay._carbonMotionRefresh) {
+        clearInterval(overlay._carbonMotionRefresh);
+        overlay._carbonMotionRefresh = null;
       }
       if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
       this._cameraMotionFullscreenOverlay = null;
@@ -12162,7 +12159,7 @@ class CarbonEnergyCard extends HTMLElement {
       videoWrap.appendChild(img);
       const refresh = () => { if (img.parentNode) img.src = getAuthenticatedUrl(cameraEntityId, true); };
       const iv = setInterval(refresh, 2000);
-      overlay._luminaMotionRefresh = iv;
+      overlay._carbonMotionRefresh = iv;
     }
     panel.appendChild(closeBtn);
     panel.appendChild(videoWrap);
@@ -12173,7 +12170,7 @@ class CarbonEnergyCard extends HTMLElement {
       motionLabel.textContent = t.motionDetected || 'Motion detected';
       panel.appendChild(motionLabel);
       if (durationSec > 0) {
-        overlay._luminaMotionCloseTimer = setTimeout(closeOverlay, durationSec * 1000);
+        overlay._carbonMotionCloseTimer = setTimeout(closeOverlay, durationSec * 1000);
       }
     }
     overlay.addEventListener('click', (e) => { if (e.target === overlay) closeOverlay(); });
@@ -12317,13 +12314,13 @@ class CarbonEnergyCard extends HTMLElement {
         stopBtn.style.display = 'none';
 
         const stopStream = () => {
-          if (wrap._luminaRefresh) {
-            clearInterval(wrap._luminaRefresh);
-            wrap._luminaRefresh = null;
+          if (wrap._carbonRefresh) {
+            clearInterval(wrap._carbonRefresh);
+            wrap._carbonRefresh = null;
           }
-          const streamEl = wrap._luminaStreamEl;
+          const streamEl = wrap._carbonStreamEl;
           if (streamEl && streamEl.parentNode) streamEl.parentNode.removeChild(streamEl);
-          wrap._luminaStreamEl = null;
+          wrap._carbonStreamEl = null;
           startBtn.style.display = '';
           stopBtn.style.display = 'none';
         };
@@ -12343,7 +12340,7 @@ class CarbonEnergyCard extends HTMLElement {
               stream.aspectRatio = 16 / 9;
             }
             videoWrap.appendChild(stream);
-            wrap._luminaStreamEl = stream;
+            wrap._carbonStreamEl = stream;
           } else {
             const img = document.createElement('img');
             img.alt = eid;
@@ -12351,8 +12348,8 @@ class CarbonEnergyCard extends HTMLElement {
             img.loading = 'eager';
             img.src = getAuthenticatedUrl(eid, true);
             videoWrap.appendChild(img);
-            wrap._luminaStreamEl = img;
-            wrap._luminaRefresh = setInterval(() => {
+            wrap._carbonStreamEl = img;
+            wrap._carbonRefresh = setInterval(() => {
               if (!wrap.parentNode || !this._houseIconPopupOverlay) return;
               img.src = getAuthenticatedUrl(eid, true);
             }, 1500);
@@ -13281,19 +13278,19 @@ class CarbonEnergyCard extends HTMLElement {
   _closeHouseIconPopup() {
     const motionOv = this._cameraMotionFullscreenOverlay;
     if (motionOv && motionOv.parentNode) {
-      if (motionOv._luminaMotionCloseTimer) { clearTimeout(motionOv._luminaMotionCloseTimer); motionOv._luminaMotionCloseTimer = null; }
-      if (motionOv._luminaMotionRefresh) clearInterval(motionOv._luminaMotionRefresh);
+      if (motionOv._carbonMotionCloseTimer) { clearTimeout(motionOv._carbonMotionCloseTimer); motionOv._carbonMotionCloseTimer = null; }
+      if (motionOv._carbonMotionRefresh) clearInterval(motionOv._carbonMotionRefresh);
       motionOv.parentNode.removeChild(motionOv);
       this._cameraMotionFullscreenOverlay = null;
     }
     const ov = this._houseIconPopupOverlay;
     if (ov && ov.parentNode) {
       ov.querySelectorAll('[data-carbon-camera-cell]').forEach((el) => {
-        if (el._luminaRefresh) {
-          clearInterval(el._luminaRefresh);
-          el._luminaRefresh = null;
+        if (el._carbonRefresh) {
+          clearInterval(el._carbonRefresh);
+          el._carbonRefresh = null;
         }
-        const streamEl = el._luminaStreamEl;
+        const streamEl = el._carbonStreamEl;
         if (streamEl && streamEl.parentNode) {
           try {
             if (streamEl.stop && typeof streamEl.stop === 'function') streamEl.stop();
@@ -13301,7 +13298,7 @@ class CarbonEnergyCard extends HTMLElement {
           } catch (e) { /* ignore */ }
           streamEl.parentNode.removeChild(streamEl);
         }
-        el._luminaStreamEl = null;
+        el._carbonStreamEl = null;
       });
       
       // Cleanup slider event listeners
@@ -13331,7 +13328,7 @@ class CarbonEnergyCard extends HTMLElement {
         if (!trimmed) return false;
         if (haUserIdUpdate && typeof localStorage !== 'undefined') {
           try {
-            if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdUpdate)) {
+            if (localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdUpdate)) {
               const hashV3Only = CARBON_SHA256(trimmed + haUserIdUpdate);
               const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
@@ -13347,7 +13344,7 @@ class CarbonEnergyCard extends HTMLElement {
         const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdUpdate && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
         }
         if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
           CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
@@ -13866,7 +13863,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
   }
 
   _hideHaPreviewStorageKey_() {
-    return 'lumina_energy_card_editor_hide_ha_preview_v1';
+    return 'carbon_energy_card_editor_hide_ha_preview_v1';
   }
 
   // NOTE: visual preview toggle is intentionally NOT persisted.
@@ -14209,14 +14206,14 @@ class CarbonEnergyCardEditor extends HTMLElement {
     els.forEach((el) => {
       try {
         if (hidden) {
-          if (el.dataset && el.dataset.luminaPrevDisplay === undefined) {
-            el.dataset.luminaPrevDisplay = el.style && el.style.display ? el.style.display : '';
+          if (el.dataset && el.dataset.carbonPrevDisplay === undefined) {
+            el.dataset.carbonPrevDisplay = el.style && el.style.display ? el.style.display : '';
           }
           el.style.display = 'none';
         } else {
-          if (el.dataset && el.dataset.luminaPrevDisplay !== undefined) {
-            el.style.display = el.dataset.luminaPrevDisplay || '';
-            delete el.dataset.luminaPrevDisplay;
+          if (el.dataset && el.dataset.carbonPrevDisplay !== undefined) {
+            el.style.display = el.dataset.carbonPrevDisplay || '';
+            delete el.dataset.carbonPrevDisplay;
           } else {
             el.style.display = '';
           }
@@ -14480,7 +14477,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
   }
 
   _previewScaleStorageKey_() {
-    return 'lumina_energy_card_editor_preview_scale_v1';
+    return 'carbon_energy_card_editor_preview_scale_v1';
   }
 
   _loadPreviewScaleFromStorage_() {
@@ -14608,7 +14605,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         el.style.touchAction = canDrag ? 'none' : '';
       } catch (e) { /* ignore */ }
 
-      if (el.dataset && el.dataset.luminaDragBound === '1') return;
+      if (el.dataset && el.dataset.carbonDragBound === '1') return;
 
       const onDown = (ev) => {
         try {
@@ -14706,7 +14703,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       };
 
       el.addEventListener('pointerdown', onDown);
-      if (el.dataset) el.dataset.luminaDragBound = '1';
+      if (el.dataset) el.dataset.carbonDragBound = '1';
     });
   }
 
@@ -14729,7 +14726,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         el.style.cursor = canDrag ? 'grab' : 'default';
         el.style.touchAction = canDrag ? 'none' : '';
       } catch (e) { /* ignore */ }
-      if (el.dataset && el.dataset.luminaCustomTextDragBound === '1') return;
+      if (el.dataset && el.dataset.carbonCustomTextDragBound === '1') return;
       const onDown = (ev) => {
         try {
           if (!ev) return;
@@ -14795,7 +14792,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         } catch (e0) { /* ignore */ }
       };
       el.addEventListener('pointerdown', onDown);
-      if (el.dataset) el.dataset.luminaCustomTextDragBound = '1';
+      if (el.dataset) el.dataset.carbonCustomTextDragBound = '1';
     });
   }
 
@@ -14862,7 +14859,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         const hitPath = ensureHitPath(group, def.flowKey, dValue);
 
         // Bind once per element
-        if (flowPath.dataset && flowPath.dataset.luminaMainFlowDragBound === '1') return;
+        if (flowPath.dataset && flowPath.dataset.carbonMainFlowDragBound === '1') return;
 
         const onDown = (ev) => {
           try {
@@ -14946,7 +14943,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         // Prefer binding to the wide hit path; keep flow path as fallback.
         if (hitPath) hitPath.addEventListener('pointerdown', onDown, { passive: false });
         flowPath.addEventListener('pointerdown', onDown, { passive: false });
-        if (flowPath.dataset) flowPath.dataset.luminaMainFlowDragBound = '1';
+        if (flowPath.dataset) flowPath.dataset.carbonMainFlowDragBound = '1';
       } catch (e) { /* ignore */ }
     });
   }
@@ -15032,7 +15029,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       } catch (e0) { /* ignore */ }
 
       // If already bound, do not add listeners again.
-      if (g.dataset && g.dataset.luminaDragBoundFlow === '1') return;
+      if (g.dataset && g.dataset.carbonDragBoundFlow === '1') return;
 
       const onDown = (ev) => {
         try {
@@ -15113,7 +15110,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
 
       if (hit) hit.addEventListener('pointerdown', onDown, { passive: false });
       flowPath.addEventListener('pointerdown', onDown, { passive: false });
-      if (g.dataset) g.dataset.luminaDragBoundFlow = '1';
+      if (g.dataset) g.dataset.carbonDragBoundFlow = '1';
     });
   }
 
@@ -15335,7 +15332,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     const root = this._previewCardEl.shadowRoot;
     const svg = root.querySelector('svg');
     if (!svg) return;
-    if (svg.dataset && svg.dataset.luminaDrawBound === '1') return;
+    if (svg.dataset && svg.dataset.carbonDrawBound === '1') return;
 
     const getViewBox = () => {
       try {
@@ -15638,7 +15635,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       svg.style.touchAction = 'none';
       svg.style.cursor = this._previewDrawMode ? 'crosshair' : 'default';
     } catch (e) { /* ignore */ }
-    if (svg.dataset) svg.dataset.luminaDrawBound = '1';
+    if (svg.dataset) svg.dataset.carbonDrawBound = '1';
     try {
       if (this._previewDrawMode) {
         const popups = root.querySelectorAll('[data-role*="popup"]');
@@ -15665,7 +15662,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     } catch (e) { /* ignore */ }
 
     // If already bound, do not add listeners again (but keep styles updated).
-    if (bgEl.dataset && bgEl.dataset.luminaDragBound === '1') return;
+    if (bgEl.dataset && bgEl.dataset.carbonDragBound === '1') return;
 
     const getClientXY = (ev) => {
       try {
@@ -15784,7 +15781,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
 
     bgEl.addEventListener('pointerdown', onDown, { passive: false });
     bgEl.addEventListener('touchstart', onDown, { passive: false });
-    if (bgEl.dataset) bgEl.dataset.luminaDragBound = '1';
+    if (bgEl.dataset) bgEl.dataset.carbonDragBound = '1';
   }
 
   _createEditorPreviewPanel_() {
@@ -16468,7 +16465,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         for (let i = 1; i <= 10; i++) {
           flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
         }
-        const data = { _lumina_flows_export: true, version: 1 };
+        const data = { _carbon_flows_export: true, version: 1 };
         flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -16498,10 +16495,10 @@ class CarbonEnergyCardEditor extends HTMLElement {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._lumina_flows_export !== true) return;
+          if (!data || data._carbon_flows_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_lumina_flows_export' || k === 'version') return;
+            if (k === '_carbon_flows_export' || k === 'version') return;
             if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -16566,7 +16563,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       try {
         const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-        const data = { _lumina_config_export: true, version: 1 };
+        const data = { _carbon_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -16596,10 +16593,10 @@ class CarbonEnergyCardEditor extends HTMLElement {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._lumina_config_export !== true) return;
+          if (!data || data._carbon_config_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_lumina_config_export' || k === 'version') return;
+            if (k === '_carbon_config_export' || k === 'version') return;
             if (k && !k.startsWith('_')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -17189,7 +17186,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animation Styles', helper: 'Flow animation style (dashes, dots, arrows, shimmer). Default: shimmer.' },
           typography: { title: 'Typography', helper: 'Fine tune the font sizes used across the card.' },
           flow_path_custom: { title: 'Custom Flow Paths', helper: 'Customize flow paths by modifying SVG path strings. Leave empty to use default paths. You can combine custom paths with offsets from the Flow Path section.' },
-          lumina_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP. Now also gallery and share.' },
+          carbon_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIONS: PREMIUM FUNCTIONS INCLUDING OVERLAY IMAGES, CUSTOM FLOWS, CUSTOM TEXTS, FLOW PATHS, LAYOUT AND TEXTS, FLOW COLORS AND HOUSE MANAGEMENT, CUSTOM BACKGROUND IMAGE, AI IMAGE CREATION, DRAG AND DROP. Now also gallery and share.' },
           layout: { title: 'Layout & Text Positions', helper: 'Sliders show exact X, Y (px) and angles (°). Use step 1 to get precise values—note them for your definitive YAML config. ViewBox 800×450. Save and check dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC Bar', helper: '6-segment bar on battery. Position, opacity, glow, colors.' },
           gridBox: { title: 'Grid Box', helper: 'Top-right box. Import/Export + daily. Position and size.' },
@@ -17482,7 +17479,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           network_error: 'Could not reach server. Check your connection and try again.',
           existing_user_title: 'Already purchased before?',
           existing_user_desc: 'If you already paid in the past, request a free upgrade by sending your old transaction ID.',
-          support_contact: 'For any problem, contact: luminaenergycard@gmail.com',
+          support_contact: 'For any problem, contact: carbonenergycard@gmail.com',
           request_migration: 'Request Free Upgrade',
           migration_sent: 'Migration request sent! You will receive your new password via email.',
           migration_v3_success_refresh: 'New v3 password generated and set in PRO field. Click "Save", then <b>refresh the page (F5)</b> to load the new license.',
@@ -17506,7 +17503,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Update available',
           update_open: 'Open',
           editor_preview_title: 'Preview carbon (drag)',
-          editor_toggle_show_lumina_preview: 'Preview carbon (drag) under HA preview',
+          editor_toggle_show_carbon_preview: 'Preview carbon (drag) under HA preview',
           editor_toggle_hide_ha_preview: 'Hide HA preview',
           editor_preview_requires_pro: 'Activate the PRO section with password first.',
           editor_personal_requires_pro: 'Activate PRO to use Personal (custom background).',
@@ -17633,15 +17630,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
           pro_license_line2: 'Option 2: Sponsor via <b>GitHub Sponsors</b> (same amount).',
           pro_license_line3: 'After payment, fill the form below and choose <b>PayPal</b> (payment email + name/surname) or <b>GitHub Sponsors</b> (GitHub username).',
           pro_license_auto_note: 'Automatic system: if no match is found, the password will NOT be sent.',
-          pro_license_line4: 'Donations: <b>10€</b> = contributors names in the card; <b>50€</b> = priority for personal features. Always contact <b>luminaenergycard@gmail.com</b> or via Telegram group. Also check your <b>SPAM</b> folder.',
+          pro_license_line4: 'Donations: <b>10€</b> = contributors names in the card; <b>50€</b> = priority for personal features. Always contact <b>carbonenergycard@gmail.com</b> or via Telegram group. Also check your <b>SPAM</b> folder.',
           pro_license_line_red: 'Send as DONATION, NOT as Goods & Services. Payment will be refunded if request is denied.',
           payment_method_colletta: 'Pool 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram Group',
           tiktok_button: 'TikTok Channel',
           fundraiser_title: 'Support',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'For substantial changes or customizations you can contact luminaenergycard@gmail.com. This is a paid service.',
+          support_email: 'carbonenergycard@gmail.com',
+          custom_paid_note: 'For substantial changes or customizations you can contact carbonenergycard@gmail.com. This is a paid service.',
           overlay_image_enabled: { label: 'Enable Overlay Image', helper: 'Enable or disable the custom overlay image (requires PRO authorization).' },
           heat_pump_flow_color: { label: 'Heat Pump Flow Color', helper: 'Color applied to the heat pump flow animation.' },
           heat_pump_text_color: { label: 'Heat Pump Text Color', helper: 'Color applied to the heat pump power text.' },
@@ -17852,7 +17849,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Stili Animazioni', helper: 'Stile animazione flussi (tratteggi, punti, frecce, shimmer). Predefinito: shimmer.' },
           typography: { title: 'Tipografia', helper: 'Regola le dimensioni dei caratteri utilizzate nella scheda.' },
           flow_path_custom: { title: 'Percorsi Flussi Personalizzati', helper: 'Personalizza i percorsi dei flussi modificando le stringhe SVG. Lascia vuoto per usare i percorsi predefiniti. Puoi combinare percorsi personalizzati con gli offset della sezione Percorso Flussi.' },
-          lumina_pro: { title: 'carbon PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP. Ora anche galleria e condivisione.' },
+          carbon_pro: { title: 'carbon PRO', helper: 'FUNZIONI PRO: FUNZIONI PREMIUM INCLUSE IMMAGINI OVERLAY, FLUSSI PERSONALIZZATI, TESTI PERSONALIZZATI, PERCORSI FLUSSI, LAYOUT E TESTI, COLORI FLUSSI E GESTIONE CASA, IMMAGINE BACKGROUND PERSONALIZZATA, CREAZIONE IA IMMAGINI, DRAG AND DROP. Ora anche galleria e condivisione.' },
           layout: { title: 'Layout & Posizioni Testi', helper: 'I cursori mostrano X, Y in pixel esatti e angoli (°). Step 1 per valori precisi—annotali per la YAML definitiva. ViewBox 800×450. Salva e controlla la dashboard. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barra SOC', helper: 'Barra a 6 segmenti sulla batteria. Posizione, opacità, alone, colori.' },
           gridBox: { title: 'Riquadro Rete', helper: 'Riquadro in alto a destra: Import/Export rete + totali giornalieri. Posizione e dimensioni.' },
@@ -18145,7 +18142,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           network_error: 'Impossibile contattare il server. Controlla la connessione e riprova.',
           existing_user_title: 'Hai già acquistato in passato?',
           existing_user_desc: 'Se hai già pagato in passato, richiedi l’upgrade gratuito inserendo il tuo vecchio ID transazione.',
-          support_contact: 'Per qualsiasi problema scrivi a: luminaenergycard@gmail.com',
+          support_contact: 'Per qualsiasi problema scrivi a: carbonenergycard@gmail.com',
           request_migration: 'Richiedi upgrade gratuito',
           migration_sent: 'Richiesta upgrade inviata! Riceverai la nuova password via email.',
           migration_v3_success_refresh: 'Nuova password v3 generata e inserita nel campo PRO. Clicca "Salva", poi <b>fai refresh alla pagina (F5)</b> per caricare la nuova licenza.',
@@ -18169,7 +18166,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Aggiornamento disponibile',
           update_open: 'Apri',
           editor_preview_title: 'Anteprima carbon (drag)',
-          editor_toggle_show_lumina_preview: 'Anteprima carbon (drag) sotto preview HA',
+          editor_toggle_show_carbon_preview: 'Anteprima carbon (drag) sotto preview HA',
           editor_toggle_hide_ha_preview: 'Nascondi preview HA',
           editor_preview_requires_pro: 'Attiva prima la sezione PRO con password.',
           editor_personal_requires_pro: 'Attiva PRO per usare Personale (sfondo personalizzato).',
@@ -18296,15 +18293,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
           pro_license_line2: 'Opzione 2: sponsor su <b>GitHub Sponsors</b> (stesso importo).',
           pro_license_line3: 'Dopo il pagamento, compila il form sotto e scegli <b>PayPal</b> (email pagamento + nome/cognome) oppure <b>GitHub Sponsors</b> (username GitHub).',
           pro_license_auto_note: 'Sistema automatico: se non viene trovata corrispondenza, la password NON verrà inviata.',
-          pro_license_line4: 'Donazioni: <b>10€</b> = nomi dei contributori nella card; <b>50€</b> = priorità per funzionalità personali. Contattare sempre <b>luminaenergycard@gmail.com</b> o tramite gruppo Telegram. Controlla anche lo <b>SPAM</b>.',
+          pro_license_line4: 'Donazioni: <b>10€</b> = nomi dei contributori nella card; <b>50€</b> = priorità per funzionalità personali. Contattare sempre <b>carbonenergycard@gmail.com</b> o tramite gruppo Telegram. Controlla anche lo <b>SPAM</b>.',
           pro_license_line_red: 'Inviare come DONAZIONE, NON come beni e servizi. Il pagamento verrà rimborsato in caso negativo.',
           payment_method_colletta: 'Colletta 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Gruppo Telegram',
           tiktok_button: 'Canale TikTok',
           fundraiser_title: 'Supporto',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'Per modifiche sostanziali o personalizzazioni puoi contattare luminaenergycard@gmail.com. Il servizio è a pagamento.',
+          support_email: 'carbonenergycard@gmail.com',
+          custom_paid_note: 'Per modifiche sostanziali o personalizzazioni puoi contattare carbonenergycard@gmail.com. Il servizio è a pagamento.',
           overlay_image_enabled: { label: 'Abilita immagine overlay', helper: 'Abilita o disabilita l immagine overlay personalizzata (richiede autorizzazione PRO).' },
           heat_pump_flow_color: { label: 'Colore flusso pompa di calore', helper: 'Colore applicato all animazione del flusso della pompa di calore.' },
           heat_pump_text_color: { label: 'Colore testo pompa di calore', helper: 'Colore applicato al testo della potenza della pompa di calore.' },
@@ -18455,8 +18452,8 @@ class CarbonEnergyCardEditor extends HTMLElement {
           dev_soc_bar_skew_y: { label: 'Barra SOC Skew Y (°)', helper: 'Angolo di inclinazione verticale in gradi.' },
           soc_bar_opacity: { label: 'Barra SOC Opacità', helper: 'Trasparenza 0,05–1.' },
           soc_bar_glow: { label: 'Barra SOC Alone (px)', helper: 'Sfocatura drop-shadow sui segmenti accesi. 0 = off.' },
-          soc_bar_color_on: { label: 'Barra SOC Colore (acceso)', helper: 'Colore del segmento quando illuminato dal SOC.' },
-          soc_bar_color_off: { label: 'Barra SOC Colore (spento)', helper: 'Colore del segmento quando non illuminato.' },
+          soc_bar_color_on: { label: 'Barra SOC Colore (acceso)', helper: 'Colore del segmento quando ilcarbonto dal SOC.' },
+          soc_bar_color_off: { label: 'Barra SOC Colore (spento)', helper: 'Colore del segmento quando non ilcarbonto.' },
           show_grid_box: { label: 'Mostra riquadro Rete', helper: 'Mostra o nasconde il riquadro Rete indipendentemente dal tasto testo.' },
           show_pv_box: { label: 'Mostra riquadro PV', helper: 'Mostra o nasconde il riquadro PV indipendentemente dal tasto testo.' },
           dev_grid_box_x: { label: 'Riquadro Rete X (px)', helper: 'Riquadro in alto a destra. Import/Export + giornalieri.' },
@@ -18540,7 +18537,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animationsstile', helper: 'Fluss-Animationsstil (Striche, Punkte, Pfeile, Shimmer). Standard: Shimmer.' },
           typography: { title: 'Typografie', helper: 'Schriftgroessen der Karte feinjustieren.' },
           flow_path_custom: { title: 'Benutzerdefinierte Flusspfade', helper: 'Passen Sie die Flusspfade an, indem Sie SVG-Pfadzeichenfolgen ändern. Leer lassen, um Standardpfade zu verwenden. Sie können benutzerdefinierte Pfade mit Offsets aus dem Fluss-Pfad-Bereich kombinieren.' },
-          lumina_pro: { title: 'carbon PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP. Jetzt auch Galerie und Teilen.' },
+          carbon_pro: { title: 'carbon PRO', helper: 'PRO-FUNKTIONEN: PREMIUM-FUNKTIONEN INKL. OVERLAY-BILDER, BENUTZERDEFINIERTE FLÜSSE, BENUTZERDEFINIERTE TEXTE, FLUSSPFADE, LAYOUT UND TEXTE, FLUSSFARBEN UND HAUSVERWALTUNG, BENUTZERDEFINIERTES HINTERGRUNDBILD, KI-BILDERZEUGUNG, DRAG AND DROP. Jetzt auch Galerie und Teilen.' },
           layout: { title: 'Layout & Textpositionen', helper: 'Schieberegler zeigen exakte X, Y (px) und Winkel (°). Step 1 für präzise Werte—notieren für definitive YAML. ViewBox 800×450. Speichern und Dashboard prüfen. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-Balken', helper: '6-Segment-Balken an der Batterie. Position, Deckkraft, Leuchten, Farben.' },
           gridBox: { title: 'Netz-Box', helper: 'Box oben rechts: Import/Export + Tageswerte. Position und Größe.' },
@@ -18557,7 +18554,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           editor_updates_empty: 'Keine Updates.',
           editor_updates_open: 'Öffnen',
           editor_preview_title: 'carbon-Vorschau (Drag)',
-          editor_toggle_show_lumina_preview: 'carbon-Vorschau (Drag) unter HA-Vorschau',
+          editor_toggle_show_carbon_preview: 'carbon-Vorschau (Drag) unter HA-Vorschau',
           editor_toggle_hide_ha_preview: 'HA-Vorschau ausblenden',
           editor_preview_requires_pro: 'Bitte zuerst den PRO-Bereich mit Passwort aktivieren.',
           editor_personal_requires_pro: 'Aktiviere PRO um Personal (benutzerdefinierter Hintergrund) zu nutzen.',
@@ -18935,7 +18932,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Fehler beim Senden. Bitte erneut versuchen.',
           existing_user_title: 'Schon früher gekauft?',
           existing_user_desc: 'Wenn du früher schon bezahlt hast, fordere ein kostenloses Upgrade mit deiner alten Transaktions-ID an.',
-          support_contact: 'Bei Problemen: luminaenergycard@gmail.com',
+          support_contact: 'Bei Problemen: carbonenergycard@gmail.com',
           request_migration: 'Kostenloses Upgrade anfordern',
           migration_sent: 'Upgrade-Anfrage gesendet! Du erhältst dein neues Passwort per E-Mail.',
           migration_v3_success_refresh: 'Neues v3-Passwort erzeugt und im PRO-Feld gesetzt. Klicke auf "Speichern", dann <b>Seite aktualisieren (F5)</b>, um die neue Lizenz zu laden.',
@@ -18960,15 +18957,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
           pro_license_line2: 'Option 2: Unterstütze über <b>GitHub Sponsors</b> (gleicher Betrag).',
           pro_license_line3: 'Nach der Zahlung fülle das Formular unten aus und wähle <b>PayPal</b> (Zahlungs-E-Mail + Vorname/Nachname) oder <b>GitHub Sponsors</b> (GitHub Benutzername).',
           pro_license_auto_note: 'Automatisches System: Wenn keine Übereinstimmung gefunden wird, wird das Passwort NICHT gesendet.',
-          pro_license_line4: 'Spenden: <b>10€</b> = Namen der Unterstützer in der Card; <b>50€</b> = Priorität für persönliche Funktionen. Immer kontaktieren: <b>luminaenergycard@gmail.com</b> oder per Telegram-Gruppe. Bitte auch den <b>SPAM</b>-Ordner prüfen.',
+          pro_license_line4: 'Spenden: <b>10€</b> = Namen der Unterstützer in der Card; <b>50€</b> = Priorität für persönliche Funktionen. Immer kontaktieren: <b>carbonenergycard@gmail.com</b> oder per Telegram-Gruppe. Bitte auch den <b>SPAM</b>-Ordner prüfen.',
           pro_license_line_red: 'Als SPENDE senden, NICHT als Waren & Dienstleistungen. Zahlung wird bei Ablehnung erstattet.',
           payment_method_colletta: 'Kollekte 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram-Gruppe',
           tiktok_button: 'TikTok-Kanal',
           fundraiser_title: 'Unterstützen',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'Für größere Änderungen oder Anpassungen kannst du luminaenergycard@gmail.com kontaktieren. Dieser Service ist kostenpflichtig.',
+          support_email: 'carbonenergycard@gmail.com',
+          custom_paid_note: 'Für größere Änderungen oder Anpassungen kannst du carbonenergycard@gmail.com kontaktieren. Dieser Service ist kostenpflichtig.',
           overlay_image_enabled: { label: 'Overlay-Bild aktivieren', helper: 'Aktivieren oder deaktivieren Sie das benutzerdefinierte Overlay-Bild (erfordert PRO-Autorisierung).' },
           heat_pump_flow_color: { label: 'Waermepumpenfluss Farbe', helper: 'Farbe fuer die Waermepumpenfluss Animation.' },
           heat_pump_text_color: { label: 'Waermepumpentext Farbe', helper: 'Farbe fuer den Waermepumpenleistungstext.' },
@@ -19204,7 +19201,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Styles d Animation', helper: 'Style d animation des flux (tirets, points, flèches, scintillement). Par défaut: scintillement.' },
           typography: { title: 'Typographie', helper: 'Ajustez les tailles de police utilisées dans la carte.' },
           flow_path_custom: { title: 'Chemins de Flux Personnalisés', helper: 'Personnalisez les chemins de flux en modifiant les chaînes de chemin SVG. Laissez vide pour utiliser les chemins par défaut. Vous pouvez combiner des chemins personnalisés avec les décalages de la section Chemin de Flux.' },
-          lumina_pro: { title: 'carbon PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER. Désormais aussi galerie et partage.' },
+          carbon_pro: { title: 'carbon PRO', helper: 'FONCTIONS PRO : FONCTIONS PREMIUM INCLUANT IMAGES OVERLAY, FLUX PERSONNALISÉS, TEXTES PERSONNALISÉS, CHEMINS DE FLUX, LAYOUT ET TEXTES, COULEURS DES FLUX ET GESTION MAISON, IMAGE DE FOND PERSONNALISÉE, CRÉATION D\'IMAGES IA, GLISSER-DÉPOSER. Désormais aussi galerie et partage.' },
           layout: { title: 'Mise en Page & Positions des Textes', helper: 'Curseurs : X, Y en pixels exacts et angles (°). Step 1 pour valeurs précises—notez-les pour votre YAML définitive. Zone 800×450. Enregistrez et vérifiez le tableau de bord. YAML : dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'Barre SOC', helper: 'Barre à 6 segments sur la batterie. Position, opacité, lueur, couleurs.' },
           gridBox: { title: 'Boîte Réseau', helper: 'Boîte en haut à droite : Import/Export + totaux journaliers. Position et dimensions.' },
@@ -19221,7 +19218,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           editor_updates_empty: 'Aucune mise à jour.',
           editor_updates_open: 'Ouvrir',
           editor_preview_title: 'Aperçu carbon (glisser)',
-          editor_toggle_show_lumina_preview: 'Aperçu carbon (glisser) sous l’aperçu HA',
+          editor_toggle_show_carbon_preview: 'Aperçu carbon (glisser) sous l’aperçu HA',
           editor_toggle_hide_ha_preview: 'Masquer l’aperçu HA',
           editor_preview_requires_pro: 'Activez d\'abord la section PRO avec le mot de passe.',
           editor_personal_requires_pro: 'Activez PRO pour utiliser Personnel (fond personnalisé).',
@@ -19594,7 +19591,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Erreur lors de l’envoi. Veuillez réessayer.',
           existing_user_title: 'Déjà acheté auparavant ?',
           existing_user_desc: 'Si vous avez déjà payé par le passé, demandez une mise à niveau gratuite en indiquant votre ancien ID de transaction.',
-          support_contact: 'Pour tout problème : luminaenergycard@gmail.com',
+          support_contact: 'Pour tout problème : carbonenergycard@gmail.com',
           request_migration: 'Demander une mise à niveau gratuite',
           migration_sent: 'Demande envoyée ! Vous recevrez votre nouveau mot de passe par e-mail.',
           migration_v3_success_refresh: 'Nouveau mot de passe v3 généré et défini. Cliquez sur "Enregistrer", puis <b>actualisez la page (F5)</b> pour charger la nouvelle licence.',
@@ -19619,15 +19616,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
           pro_license_line2: 'Option 2 : Sponsorisez via <b>GitHub Sponsors</b> (même montant).',
           pro_license_line3: 'Après le paiement, remplissez le formulaire ci-dessous et choisissez <b>PayPal</b> (e-mail de paiement + prénom/nom) ou <b>GitHub Sponsors</b> (nom d’utilisateur GitHub).',
           pro_license_auto_note: 'Système automatique : si aucune correspondance n’est trouvée, le mot de passe ne sera PAS envoyé.',
-          pro_license_line4: 'Dons : <b>10€</b> = noms des contributeurs dans la carte ; <b>50€</b> = priorité pour des fonctionnalités personnelles. Contactez toujours <b>luminaenergycard@gmail.com</b> ou via le groupe Telegram. Vérifiez aussi le dossier <b>SPAM</b>.',
+          pro_license_line4: 'Dons : <b>10€</b> = noms des contributeurs dans la carte ; <b>50€</b> = priorité pour des fonctionnalités personnelles. Contactez toujours <b>carbonenergycard@gmail.com</b> ou via le groupe Telegram. Vérifiez aussi le dossier <b>SPAM</b>.',
           pro_license_line_red: 'Envoyer en DON, pas en Biens et services. Le paiement sera remboursé en cas de refus.',
           payment_method_colletta: 'Cagnotte 5€ PayPal',
           follow_title: 'Communauté',
           telegram_button: 'Groupe Telegram',
           tiktok_button: 'Chaîne TikTok',
           fundraiser_title: 'Soutien',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'Pour des modifications importantes ou des personnalisations, contactez luminaenergycard@gmail.com. Le service est payant.',
+          support_email: 'carbonenergycard@gmail.com',
+          custom_paid_note: 'Pour des modifications importantes ou des personnalisations, contactez carbonenergycard@gmail.com. Le service est payant.',
           overlay_image_enabled: { label: 'Activer l image de superposition', helper: 'Activer ou désactiver l image de superposition personnalisée (nécessite une autorisation PRO).' },
           heat_pump_flow_color: { label: 'Couleur flux pompe à chaleur', helper: 'Couleur appliquée à l animation du flux de la pompe à chaleur.' },
           heat_pump_text_color: { label: 'Couleur texte pompe à chaleur', helper: 'Couleur appliquée au texte de puissance de la pompe à chaleur.' },
@@ -19867,7 +19864,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_styles: { title: 'Animatietijlen', helper: 'Stroom animatiestijl (strepen, stippen, pijlen, glinsteren). Standaard: glinsteren.' },
           typography: { title: 'Typografie', helper: 'Pas de lettergrootte aan gebruikt in de kaart.' },
           flow_path_custom: { title: 'Aangepaste Stroompaden', helper: 'Pas stroompaden aan door SVG-padstrings te wijzigen. Laat leeg om standaardpaden te gebruiken. U kunt aangepaste paden combineren met offsets uit de Stroompad-sectie.' },
-          lumina_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN. Nu ook galerij en delen.' },
+          carbon_pro: { title: 'carbon PRO', helper: 'PRO FUNCTIES: PREMIUMFUNCTIES INCLUSIEF OVERLAY-AFBEELDINGEN, AANGEPASTE STROMEN, AANGEPASTE TEKSTEN, STROOMPADEN, LAY-OUT EN TEKSTEN, STROOMKLEUREN EN HUISBEHEER, AANGEPASTE ACHTERGRONDAFBEELDING, AI-AFBEELDINGSCREATIE, SLEPEN EN NEERZETTEN. Nu ook galerij en delen.' },
           layout: { title: 'Layout & Tekstposities', helper: 'Schuifregelaars tonen exacte X, Y (px) en hoeken (°). Step 1 voor precise waarden—noteer voor uw definitieve YAML. ViewBox 800×450. Opslaan en dashboard controleren. YAML: dev_text_*_x, _y, _rotate, _skewX, _skewY, _scaleX, _scaleY.' },
           socBar: { title: 'SOC-balk', helper: '6-segmenten balk op de batterij. Positie, dekking, gloed, kleuren.' },
           gridBox: { title: 'Netwerkbox', helper: 'Box rechtsboven: Import/Export + dagtotalen. Positie en grootte.' },
@@ -19884,7 +19881,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           editor_updates_empty: 'Geen updates.',
           editor_updates_open: 'Openen',
           editor_preview_title: 'carbon-voorbeeld (slepen)',
-          editor_toggle_show_lumina_preview: 'carbon-voorbeeld (slepen) onder HA-voorbeeld',
+          editor_toggle_show_carbon_preview: 'carbon-voorbeeld (slepen) onder HA-voorbeeld',
           editor_toggle_hide_ha_preview: 'HA-voorbeeld verbergen',
           editor_preview_requires_pro: 'Activeer eerst de PRO-sectie met wachtwoord.',
           editor_personal_requires_pro: 'Activeer PRO om Persoonlijk (aangepaste achtergrond) te gebruiken.',
@@ -20257,7 +20254,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Fout bij verzenden. Probeer opnieuw.',
           existing_user_title: 'Al eerder gekocht?',
           existing_user_desc: 'Als je in het verleden al hebt betaald, vraag dan een gratis upgrade aan met je oude transactie-ID.',
-          support_contact: 'Bij problemen: luminaenergycard@gmail.com',
+          support_contact: 'Bij problemen: carbonenergycard@gmail.com',
           request_migration: 'Gratis upgrade aanvragen',
           migration_sent: 'Upgrade-verzoek verzonden! Je ontvangt je nieuwe wachtwoord per e-mail.',
           migration_v3_success_refresh: 'Nieuw v3-wachtwoord gegenereerd en ingesteld. Klik op "Opslaan", vervolgens <b>vernieuw de pagina (F5)</b> om de nieuwe licentie te laden.',
@@ -20282,15 +20279,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
           pro_license_line2: 'Optie 2: Sponsor via <b>GitHub Sponsors</b> (zelfde bedrag).',
           pro_license_line3: 'Na betaling vul je het formulier hieronder in en kies je <b>PayPal</b> (betaal-e-mail + voornaam/achternaam) of <b>GitHub Sponsors</b> (GitHub gebruikersnaam).',
           pro_license_auto_note: 'Automatisch systeem: als er geen match wordt gevonden, wordt het wachtwoord NIET verstuurd.',
-          pro_license_line4: 'Donaties: <b>10€</b> = namen van bijdragers in de kaart; <b>50€</b> = prioriteit voor persoonlijke functies. Neem altijd contact op met <b>luminaenergycard@gmail.com</b> of via de Telegram-groep. Controleer ook je <b>SPAM</b>.',
+          pro_license_line4: 'Donaties: <b>10€</b> = namen van bijdragers in de kaart; <b>50€</b> = prioriteit voor persoonlijke functies. Neem altijd contact op met <b>carbonenergycard@gmail.com</b> of via de Telegram-groep. Controleer ook je <b>SPAM</b>.',
           pro_license_line_red: 'Verstuur als DONATIE, niet als Goederen en diensten. Betaling wordt terugbetaald bij weigering.',
           payment_method_colletta: 'Inzameling 5€ PayPal',
           follow_title: 'Community',
           telegram_button: 'Telegram-groep',
           tiktok_button: 'TikTok-kanaal',
           fundraiser_title: 'Steun',
-          support_email: 'luminaenergycard@gmail.com',
-          custom_paid_note: 'Voor grote wijzigingen of maatwerk kun je contact opnemen via luminaenergycard@gmail.com. Deze service is betaald.',
+          support_email: 'carbonenergycard@gmail.com',
+          custom_paid_note: 'Voor grote wijzigingen of maatwerk kun je contact opnemen via carbonenergycard@gmail.com. Deze service is betaald.',
           overlay_image_enabled: { label: 'Overlay-afbeelding inschakelen', helper: 'Schakel de aangepaste overlay-afbeelding in of uit (vereist PRO-autorisatie).' },
           heat_pump_flow_color: { label: 'Warmtepomp stroom kleur', helper: 'Kleur toegepast op de warmtepomp stroom animatie.' },
           heat_pump_text_color: { label: 'Warmtepomp tekst kleur', helper: 'Kleur toegepast op de warmtepomp vermogen tekst.' },
@@ -20542,7 +20539,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Доступно обновление',
           update_open: 'Открыть',
           editor_preview_title: 'Предпросмотр carbon (перетаскивание)',
-          editor_toggle_show_lumina_preview: 'Предпросмотр carbon (перетаскивание) под предпросмотром HA',
+          editor_toggle_show_carbon_preview: 'Предпросмотр carbon (перетаскивание) под предпросмотром HA',
           editor_toggle_hide_ha_preview: 'Скрыть предпросмотр HA',
           editor_preview_requires_pro: 'Сначала активируйте раздел PRO с паролем.',
           editor_personal_requires_pro: 'Активируйте PRO для использования Персонального (свой фон).',
@@ -20650,7 +20647,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Ошибка отправки запроса. Попробуйте ещё раз.',
           existing_user_title: 'Уже покупали раньше?',
           existing_user_desc: 'Если вы уже платили ранее, запросите бесплатное обновление, указав старый ID транзакции.',
-          support_contact: 'По любым вопросам: luminaenergycard@gmail.com',
+          support_contact: 'По любым вопросам: carbonenergycard@gmail.com',
           request_migration: 'Запросить бесплатное обновление',
           migration_sent: 'Запрос на обновление отправлен! Вы получите новый пароль по e-mail.',
           migration_v3_success_refresh: 'Новый пароль v3 создан и установлен. Нажмите «Сохранить», затем <b>обновите страницу (F5)</b> для загрузки новой лицензии.',
@@ -20753,7 +20750,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Atualização disponível',
           update_open: 'Abrir',
           editor_preview_title: 'Pré-visualização carbon (arrastar)',
-          editor_toggle_show_lumina_preview: 'Pré-visualização carbon (arrastar) abaixo do preview HA',
+          editor_toggle_show_carbon_preview: 'Pré-visualização carbon (arrastar) abaixo do preview HA',
           editor_toggle_hide_ha_preview: 'Ocultar preview HA',
           editor_preview_requires_pro: 'Ative primeiro a secção PRO com palavra-passe.',
           editor_personal_requires_pro: 'Ative PRO para usar Personal (fundo personalizado).',
@@ -20861,7 +20858,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Erro ao enviar. Tente novamente.',
           existing_user_title: 'Já comprou antes?',
           existing_user_desc: 'Se já pagou no passado, peça um upgrade gratuito indicando o seu antigo ID de transação.',
-          support_contact: 'Para qualquer problema: luminaenergycard@gmail.com',
+          support_contact: 'Para qualquer problema: carbonenergycard@gmail.com',
           request_migration: 'Pedir upgrade gratuito',
           migration_sent: 'Pedido de upgrade enviado! Vai receber a nova palavra-passe por e-mail.',
           migration_v3_success_refresh: 'Nova palavra-passe v3 gerada e definida. Clique em "Guardar", depois <b>actualize a página (F5)</b> para carregar a nova licença.',
@@ -20964,7 +20961,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           update_available: 'Dostupná aktualizácia',
           update_open: 'Otvoriť',
           editor_preview_title: 'Náhľad carbon (presúvanie)',
-          editor_toggle_show_lumina_preview: 'Náhľad carbon (presúvanie) pod náhľadom HA',
+          editor_toggle_show_carbon_preview: 'Náhľad carbon (presúvanie) pod náhľadom HA',
           editor_toggle_hide_ha_preview: 'Skryť náhľad HA',
           editor_preview_requires_pro: 'Najprv aktivujte sekciu PRO heslom.',
           editor_personal_requires_pro: 'Aktivujte PRO pre použitie vlastného pozadia.',
@@ -21072,7 +21069,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           request_error: 'Chyba pri odosielaní. Skúste znova.',
           existing_user_title: 'Už ste kupovali?',
           existing_user_desc: 'Ak ste už platili, požiadajte o bezplatnú migráciu s uvedením starého ID transakcie.',
-          support_contact: 'Ak máte akékoľvek problémy: luminaenergycard@gmail.com',
+          support_contact: 'Ak máte akékoľvek problémy: carbonenergycard@gmail.com',
           request_migration: 'Požiadať o bezplatnú migráciu',
           migration_sent: 'Žiadosť o migráciu zaslaná! Nové heslo dostanete e-mailom.',
           migration_v3_success_refresh: 'Nové heslo v3 vygenerované a nastavené. Kliknite „Uložiť“, potom <b>obnovťte stránku (F5)</b> pre načítanie novej licencie.',
@@ -21659,7 +21656,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'linea_box_1_path', label: 'Linea Box 1 (SVG)', helper: 'Linea statica sempre visibile (1px, #00f9f9). Path SVG per la prima linea box.', selector: { text: { multiline: true, placeholder: 'M 664,130 730,95 V 82' } }, default: 'M 664,130 730,95 V 82' },
         { name: 'linea_box_2_path', label: 'Linea Box 2 (SVG)', helper: 'Linea statica sempre visibile (1px, #00f9f9). Path SVG per la seconda linea box.', selector: { text: { multiline: true, placeholder: 'M 17,200 8.9,190 9.2,83 89,76' } }, default: 'M 17,200 8.9,190 9.2,83 89,76' },
       ]),
-      lumina_pro: define([
+      carbon_pro: define([
         { name: 'custom_flow_1_enabled', label: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.label) || 'Custom Flow 1: Enabled', helper: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.helper) || 'Enable custom flow 1.', selector: { boolean: {} } },
         { name: 'custom_flow_1_sensor', label: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.label) || 'Custom Flow 1: Sensor', helper: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
         { name: 'custom_flow_1_path_preset', label: 'Custom Flow 1: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
@@ -21849,7 +21846,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'show_pv_box_line_0', label: 'Show PV Total', helper: 'Show PV Total line in PV box.', selector: { boolean: {} }, default: true },
         { name: 'show_pv_box_line_1', label: 'Show Daily production', helper: 'Show daily production line in PV box.', selector: { boolean: {} }, default: true }
       ]),
-      lumina_pro: define([
+      carbon_pro: define([
       { name: 'text_visibility_sensor', label: fields.text_visibility_sensor.label, helper: fields.text_visibility_sensor.helper, selector: motionSensorSelector },
       { name: 'pro_debug_grid', label: (fields.pro_debug_grid && fields.pro_debug_grid.label) || 'Enable Positioning Grid (PRO)', helper: (fields.pro_debug_grid && fields.pro_debug_grid.helper) || 'Show an on-screen grid + coordinates to position texts more precisely (PRO tool).', selector: { boolean: {} }, default: false },
 
@@ -22143,14 +22140,14 @@ _createUpdatesContent_() {
 _createSectionDefs(localeStrings, schemaDefs) {
     const sections = localeStrings.sections;
     return [
-      { id: 'lumina_pro', title: sections.lumina_pro.title, helper: sections.lumina_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
+      { id: 'carbon_pro', title: sections.carbon_pro.title, helper: sections.carbon_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
         try {
-          const proSchema = Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : [];
+          const proSchema = Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : [];
           const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
           const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
           return this._createCarbonProSection([...customFields, ...proSchema]);
         } catch (e) {
-          return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : []);
+          return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : []);
         }
       } },
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
@@ -22303,7 +22300,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const { id, title, helper, schema, defaultOpen, renderContent } = sectionDef;
     const section = document.createElement('details');
     section.className = 'section';
-    if (id === 'lumina_pro') {
+    if (id === 'carbon_pro') {
       section.classList.add('carbon-pro-section');
     }
     const storedState = id && Object.prototype.hasOwnProperty.call(this._sectionOpenState, id)
@@ -22326,7 +22323,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const helperEl = document.createElement('div');
       helperEl.className = 'section-helper';
       const plainText = (helper.replace(/<[^>]+>/g, '')).trim() || helper;
-      if (id === 'lumina_pro') {
+      if (id === 'carbon_pro') {
         helperEl.innerHTML = '<strong style="font-weight:bold;color:#ffffff !important;">' + String(plainText).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</strong>';
       } else {
         helperEl.textContent = plainText;
@@ -22348,7 +22345,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
       content.appendChild(this._createForm(filteredSchema));
       // Export/Import flows in carbon PRO section: always visible (also with predefined background) so user can load flows
-      if (id === 'lumina_pro') {
+      if (id === 'carbon_pro') {
         const localeStrings = this._getLocaleStrings();
         const exportLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows) || 'Export flows';
         const importLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows) || 'Import flows';
@@ -22366,7 +22363,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
             for (let i = 1; i <= 10; i++) {
               flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
             }
-            const data = { _lumina_flows_export: true, version: 1 };
+            const data = { _carbon_flows_export: true, version: 1 };
             flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
             const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
             const a = document.createElement('a');
@@ -22395,10 +22392,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
               const raw = reader.result;
               if (typeof raw !== 'string') return;
               const data = JSON.parse(raw);
-              if (!data || data._lumina_flows_export !== true) return;
+              if (!data || data._carbon_flows_export !== true) return;
               const newConfig = { ...(this._config || {}) };
               Object.keys(data).forEach((k) => {
-                if (k === '_lumina_flows_export' || k === 'version') return;
+                if (k === '_carbon_flows_export' || k === 'version') return;
                 if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
               });
               this._config = newConfig;
@@ -22461,7 +22458,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
           try {
             const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
             const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-            const data = { _lumina_config_export: true, version: 1 };
+            const data = { _carbon_config_export: true, version: 1 };
             Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
             const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
             const a = document.createElement('a');
@@ -22490,10 +22487,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
               const raw = reader.result;
               if (typeof raw !== 'string') return;
               const data = JSON.parse(raw);
-              if (!data || data._lumina_config_export !== true) return;
+              if (!data || data._carbon_config_export !== true) return;
               const newConfig = { ...(this._config || {}) };
               Object.keys(data).forEach((k) => {
-                if (k === '_lumina_config_export' || k === 'version') return;
+                if (k === '_carbon_config_export' || k === 'version') return;
                 if (k && !k.startsWith('_')) newConfig[k] = data[k];
               });
               this._config = newConfig;
@@ -22725,9 +22722,9 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const real = imageStyle === 'real';
     const sfx = real ? '_real.png' : '.png';
     let bgName;
-    if (installationType === '1') bgName = real ? 'lumina_background' + sfx : 'lumina_background1' + sfx;
-    else if (installationType === '2') bgName = 'lumina_background_nocar' + sfx;
-    else bgName = 'lumina_background_nosolarnocar' + sfx;
+    if (installationType === '1') bgName = real ? 'carbon_background' + sfx : 'carbon_background1' + sfx;
+    else if (installationType === '2') bgName = 'carbon_background_nocar' + sfx;
+    else bgName = 'carbon_background_nosolarnocar' + sfx;
     const hpName = 'carbon-energy-card-hp' + sfx;
     return {
       background_image: base + bgName,
@@ -22895,19 +22892,19 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const currentProvider = (config.ai_provider === 'gemini') ? 'gemini' : (config.ai_provider === 'openai') ? 'openai' : 'huggingface';
       const aiProviderHuggingFaceRadio = document.createElement('input');
       aiProviderHuggingFaceRadio.type = 'radio';
-      aiProviderHuggingFaceRadio.name = 'lumina_ai_provider';
+      aiProviderHuggingFaceRadio.name = 'carbon_ai_provider';
       aiProviderHuggingFaceRadio.value = 'huggingface';
       aiProviderHuggingFaceRadio.checked = currentProvider === 'huggingface';
       aiProviderHuggingFaceRadio.style.marginRight = '6px';
       const aiProviderOpenAiRadio = document.createElement('input');
       aiProviderOpenAiRadio.type = 'radio';
-      aiProviderOpenAiRadio.name = 'lumina_ai_provider';
+      aiProviderOpenAiRadio.name = 'carbon_ai_provider';
       aiProviderOpenAiRadio.value = 'openai';
       aiProviderOpenAiRadio.checked = currentProvider === 'openai';
       aiProviderOpenAiRadio.style.marginRight = '6px';
       const aiProviderGeminiRadio = document.createElement('input');
       aiProviderGeminiRadio.type = 'radio';
-      aiProviderGeminiRadio.name = 'lumina_ai_provider';
+      aiProviderGeminiRadio.name = 'carbon_ai_provider';
       aiProviderGeminiRadio.value = 'gemini';
       aiProviderGeminiRadio.checked = currentProvider === 'gemini';
       aiProviderGeminiRadio.style.marginRight = '6px';
@@ -22932,13 +22929,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
       aiWrap.appendChild(aiProviderRow);
       const aiModeGenerateRadio = document.createElement('input');
       aiModeGenerateRadio.type = 'radio';
-      aiModeGenerateRadio.name = 'lumina_ai_mode';
+      aiModeGenerateRadio.name = 'carbon_ai_mode';
       aiModeGenerateRadio.value = 'generate';
       aiModeGenerateRadio.checked = true;
       aiModeGenerateRadio.style.marginRight = '6px';
       const aiModeEditRadio = document.createElement('input');
       aiModeEditRadio.type = 'radio';
-      aiModeEditRadio.name = 'lumina_ai_mode';
+      aiModeEditRadio.name = 'carbon_ai_mode';
       aiModeEditRadio.value = 'edit';
       aiModeEditRadio.style.marginRight = '6px';
       const aiModeLabelGen = document.createElement('label');
@@ -23375,7 +23372,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (pw && typeof pw === 'string' && pw.trim()) {
       const trimmedPw = pw.trim();
       const haUserIdEd = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-      const v3UsedEd = haUserIdEd && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdEd);
+      const v3UsedEd = haUserIdEd && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdEd);
       if (v3UsedEd) {
         const h3 = CARBON_SHA256(trimmedPw + haUserIdEd);
         const h1 = CARBON_SHA256(trimmedPw);
@@ -23383,7 +23380,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const v1Match = !!(CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(h1));
         if (v3Match || v1Match) {
           isAuthorized = true;
-          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
+          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
       } else {
         const h1 = CARBON_SHA256(trimmedPw);
@@ -23394,7 +23391,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         if (!isAuthorized && CARBON_AUTH_LIST_V2 && h2 && CARBON_AUTH_LIST_V2.includes(h2)) isAuthorized = true;
         if (!isAuthorized && h3 && CARBON_AUTH_LIST_V3 && CARBON_AUTH_LIST_V3.includes(h3)) {
           isAuthorized = true;
-          if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
+          if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
       }
     }
@@ -23479,7 +23476,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const isCollettaDisabled = !!(ui && ui.disable_colletta);
 
     const PAYPAL_EMAIL = '3dprint8616@gmail.com';
-    const SUPPORT_EMAIL = 'luminaenergycard@gmail.com';
+    const SUPPORT_EMAIL = 'carbonenergycard@gmail.com';
     const PAYPAL_DONATE_URL =
       __URL_PAYPAL_DONATE +
       '&business=' + encodeURIComponent(PAYPAL_EMAIL) +
@@ -23573,13 +23570,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const proPassword = config.pro_password;
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmedPw = proPassword.trim();
-      const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
+      const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdPro);
       if (v3UsedPro) {
         const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
         if (h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3)) {
           isLicenseActive = true;
           isAlreadyV3 = true;
-          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
         }
       } else {
         const h1 = CARBON_SHA256(trimmedPw);
@@ -23593,7 +23590,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
           isLicenseActive = true;
           if (isV3Match) isAlreadyV3 = true;
           if (isV3Match && haUserIdPro && typeof localStorage !== 'undefined') {
-            try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
+            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
           }
         }
       }
@@ -23698,7 +23695,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
           haUserIdAct = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
           haUserNameAct = (this._hass && this._hass.user && this._hass.user.name) ? String(this._hass.user.name || '').trim() : '';
           pwHaHash = haUserIdAct ? CARBON_SHA256(entered + haUserIdAct) : '';
-          const v3UsedAct = haUserIdAct && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdAct);
+          const v3UsedAct = haUserIdAct && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdAct);
           if (v3UsedAct) {
             ok = !!(pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash));
             if (ok) matchType = 'v3';
@@ -23716,7 +23713,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
             }
           }
           if (ok && pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
-            try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
+            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
           }
         }
         if (!ok) {
@@ -23780,7 +23777,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const v1Hash = CARBON_SHA256(currentPw);
         const v2Hash = CARBON_SHA256(currentPw + uidMig);
         const pMig = CARBON_PACK({ h: haUserIdPro, v1: v1Hash, v2: v2Hash });
-        const cbName = 'lumina_migrate_' + Date.now() + '_' + Math.floor(Math.random() * 1e9);
+        const cbName = 'carbon_migrate_' + Date.now() + '_' + Math.floor(Math.random() * 1e9);
         const urlMig = `${CARBON_LICENSE_ENDPOINT}?action=migrate_v3&p=${encodeURIComponent(pMig)}&callback=${encodeURIComponent(cbName)}&t=${Date.now()}`;
         window[cbName] = (data) => {
           try {
@@ -23943,7 +23940,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       licenseContent.appendChild(makeField(labels.github_username, githubUserInput));
       licenseContent.appendChild(statusMsg);
 
-      const CARBON_PRIVACY_URL = 'https://PROGNET-SK.github.io/luminaprivacy/';
+      const CARBON_PRIVACY_URL = 'https://PROGNET-SK.github.io/carbonprivacy/';
       const privacyRow = document.createElement('div');
       privacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
       const privacyLink = document.createElement('a');
@@ -24103,7 +24100,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     migrationBox.appendChild(makeField(labels.your_email, migEmailInput));
     migrationBox.appendChild(makeField(labels.paypal_payment_email, migPaymentEmailInput));
     migrationBox.appendChild(makeField(labels.paypal_transaction_id, migTxnInput));
-    const CARBON_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/luminaprivacy/';
+    const CARBON_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/carbonprivacy/';
     const migPrivacyRow = document.createElement('div');
     migPrivacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
     const migPrivacyLabel = document.createElement('label');
@@ -24248,7 +24245,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     bottomWrap.appendChild(fundraiserWrap);
 
     const customNote = document.createElement('div');
-    customNote.textContent = labels.custom_paid_note || ('For substantial changes/customizations contact ' + (labels.support_email || 'luminaenergycard@gmail.com') + ' (paid service).');
+    customNote.textContent = labels.custom_paid_note || ('For substantial changes/customizations contact ' + (labels.support_email || 'carbonenergycard@gmail.com') + ' (paid service).');
     customNote.style.cssText = 'text-align:center; font-size: 12px; color: var(--secondary-text-color, #ccc); line-height: 1.5; max-width: 520px;';
     bottomWrap.appendChild(customNote);
 
@@ -24607,7 +24604,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const trimmed = proPassword.trim();
       const haUserIdOv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
       const hashHexV3 = haUserIdOv ? CARBON_SHA256(trimmed + haUserIdOv) : '';
-      const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdOv);
+      const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdOv);
       
       // Use remote list for verification (v3 lock: once v3 used on this device, only v3 accepted)
       let isValid = false;
@@ -24632,7 +24629,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
             (hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
         }
         if (isValid && hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) {}
         }
         // Force re-render if authorization state just changed to update PayPal button size
         const wasAuthorized = this._isAuthorized;
@@ -24727,7 +24724,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (!config || !config.pro_password || typeof config.pro_password !== 'string' || !config.pro_password.trim()) return false;
     const trimmedPw = config.pro_password.trim();
     const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-    const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
+    const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdPro);
     if (v3UsedPro) {
       const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
       return !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
@@ -24799,7 +24796,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       this.render();
     });
     const previewCarbonSpan = document.createElement('span');
-    previewCarbonSpan.textContent = fieldText('editor_toggle_show_lumina_preview', 'Preview carbon (drag) sotto preview HA');
+    previewCarbonSpan.textContent = fieldText('editor_toggle_show_carbon_preview', 'Preview carbon (drag) sotto preview HA');
     previewCarbonWrap.appendChild(previewCarbonCb);
     previewCarbonWrap.appendChild(previewCarbonSpan);
     previewCarbonWrap.addEventListener('click', (ev) => {
@@ -24832,7 +24829,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       try {
         const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-        const data = { _lumina_config_export: true, version: 1 };
+        const data = { _carbon_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -24863,10 +24860,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._lumina_config_export !== true) return;
+          if (!data || data._carbon_config_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_lumina_config_export' || k === 'version') return;
+            if (k === '_carbon_config_export' || k === 'version') return;
             if (k && !k.startsWith('_')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -24966,7 +24963,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         for (let i = 1; i <= 10; i++) {
           flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
         }
-        const data = { _lumina_flows_export: true, version: 1 };
+        const data = { _carbon_flows_export: true, version: 1 };
         flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
         const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
         const a = document.createElement('a');
@@ -24992,10 +24989,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
           const raw = reader.result;
           if (typeof raw !== 'string') return;
           const data = JSON.parse(raw);
-          if (!data || data._lumina_flows_export !== true) return;
+          if (!data || data._carbon_flows_export !== true) return;
           const newConfig = { ...(this._config || {}) };
           Object.keys(data).forEach((k) => {
-            if (k === '_lumina_flows_export' || k === 'version') return;
+            if (k === '_carbon_flows_export' || k === 'version') return;
             if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
           });
           this._config = newConfig;
@@ -26546,8 +26543,8 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
   const ROTATION_DAYS = 30;
   const ROTATION_MS = ROTATION_DAYS * 24 * 60 * 60 * 1000;
   const CONGRATS_MS = 24 * 60 * 60 * 1000;
-  const STORAGE_KEY = 'lumina_gallery_rotation';
-  const WINNERS_STORAGE_KEY = 'lumina_gallery_winners';
+  const STORAGE_KEY = 'carbon_gallery_rotation';
+  const WINNERS_STORAGE_KEY = 'carbon_gallery_winners';
 
   fetch(galleryBase + '/gallery').then((r) => r.ok ? r.json() : Promise.reject(new Error(r.statusText))).then((list) => {
     listEl.innerHTML = '';
@@ -27237,7 +27234,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
 (function() {
   'use strict';
 
-  const DEFAULT_DAY_BG = '/local/community/carbon-energy-card/lumina_background1.png';
+  const DEFAULT_DAY_BG = '/local/community/carbon-energy-card/carbon_background1.png';
 
   /**
    * Resolve which background image to show: day (default) or night.
