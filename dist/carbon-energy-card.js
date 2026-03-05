@@ -13583,7 +13583,7 @@ class LuminaEnergyCard extends HTMLElement {
 
   static get version() {
     // Build marker (helps verify HA loaded the updated JS)
-    return '3.3.5';
+    return '1.0.3';
   }
 }
 
