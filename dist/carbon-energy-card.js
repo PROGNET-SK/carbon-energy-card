@@ -5788,7 +5788,8 @@ class LuminaEnergyCard extends HTMLElement {
       it: 'TOTALE CASA',
       de: 'HAUS GESAMT',
       fr: 'TOTAL MAISON',
-      nl: 'HUIS TOTAAL'
+      nl: 'HUIS TOTAAL',
+      sk: 'SPOLU DOM'
     };
     return labels[language] || labels.en;
   }
@@ -6723,32 +6724,32 @@ class LuminaEnergyCard extends HTMLElement {
     }
     // Fallback to small built-in dictionaries if locales don't provide values
     if (!label_daily) {
-      const dict_daily = { it: 'PRODUZIONE OGGI', en: 'DAILY YIELD', de: 'TAGESERTRAG', fr: 'PRODUCTION DU JOUR', nl: 'DAGOPBRENGST' };
+      const dict_daily = { it: 'PRODUZIONE OGGI', en: 'DAILY YIELD', de: 'TAGESERTRAG', fr: 'PRODUCTION DU JOUR', nl: 'DAGOPBRENGST', sk: 'DENNÁ VÝROBA' };
       label_daily = dict_daily[lang] || dict_daily['en'];
     }
     if (!label_pv_tot) {
-      const dict_pv_tot = { it: 'PV Totale', en: 'PV Total', de: 'PV Gesamt', fr: 'PV Total', nl: 'PV Totaal' };
+      const dict_pv_tot = { it: 'PV Totale', en: 'PV Total', de: 'PV Gesamt', fr: 'PV Total', nl: 'PV Totaal', sk: 'PV Celkom' };
       label_pv_tot = dict_pv_tot[lang] || dict_pv_tot['en'];
     }
     if (!label_importing) {
-      const dict_importing = { it: 'IMPORTAZIONE', en: 'IMPORTING', de: 'IMPORTIEREN', fr: 'IMPORTATION', nl: 'IMPORTEREN' };
+      const dict_importing = { it: 'IMPORTAZIONE', en: 'IMPORTING', de: 'IMPORTIEREN', fr: 'IMPORTATION', nl: 'IMPORTEREN', sk: 'ODBER' };
       label_importing = dict_importing[lang] || dict_importing['en'];
     }
     if (!label_exporting) {
-      const dict_exporting = { it: 'ESPORTAZIONE', en: 'EXPORTING', de: 'EXPORTIEREN', fr: 'EXPORTATION', nl: 'EXPORTEREN' };
+      const dict_exporting = { it: 'ESPORTAZIONE', en: 'EXPORTING', de: 'EXPORTIEREN', fr: 'EXPORTATION', nl: 'EXPORTEREN', sk: 'DODÁVKA' };
       label_exporting = dict_exporting[lang] || dict_exporting['en'];
     }
     let label_import_day = null;
     let label_export_day = null;
     let label_daily_production = null;
-    const dict_import_day = { it: 'Importazione giornaliera', en: 'Daily import', de: 'Täglicher Import', fr: 'Import journalier', nl: 'Dagelijkse import' };
-    const dict_export_day = { it: 'Esportazione giornaliera', en: 'Daily export', de: 'Täglicher Export', fr: 'Export journalier', nl: 'Dagelijkse export' };
-    const dict_daily_production = { it: 'Produzione giornaliera', en: 'Daily production', de: 'Tagesproduktion', fr: 'Production journalière', nl: 'Dagelijkse productie' };
+    const dict_import_day = { it: 'Importazione giornaliera', en: 'Daily import', de: 'Täglicher Import', fr: 'Import journalier', nl: 'Dagelijkse import', sk: 'Denný odber' };
+    const dict_export_day = { it: 'Esportazione giornaliera', en: 'Daily export', de: 'Täglicher Export', fr: 'Export journalier', nl: 'Dagelijkse export', sk: 'Denná dodávka' };
+    const dict_daily_production = { it: 'Produzione giornaliera', en: 'Daily production', de: 'Tagesproduktion', fr: 'Production journalière', nl: 'Dagelijkse productie', sk: 'Denná výroba' };
     label_import_day = dict_import_day[lang] || dict_import_day['en'];
     label_export_day = dict_export_day[lang] || dict_export_day['en'];
     label_daily_production = dict_daily_production[lang] || dict_daily_production['en'];
     if (!label_battery_power) {
-      const dict_battery_power = { it: 'Potenza batteria', en: 'Battery Power', de: 'Batterieleistung', fr: 'Puissance batterie', nl: 'Batterij vermogen' };
+      const dict_battery_power = { it: 'Potenza batteria', en: 'Battery Power', de: 'Batterieleistung', fr: 'Puissance batterie', nl: 'Batterij vermogen', sk: 'Výkon batérie' };
       label_battery_power = dict_battery_power[lang] || dict_battery_power['en'];
     }
 
@@ -7877,7 +7878,8 @@ class LuminaEnergyCard extends HTMLElement {
       it: 'TESTO',
       de: 'TEXT',
       fr: 'TEXTE',
-      nl: 'TEKST'
+      nl: 'TEKST',
+      sk: 'TEXT'
     };
     const activeTextLabel = activeTextLabels[lang] || activeTextLabels.en;
     
@@ -7897,7 +7899,7 @@ class LuminaEnergyCard extends HTMLElement {
     const hideHomeButton = Boolean(this.config && this.config.hide_home_button);
     const showHomeButton = !isEditorActive && !hideHomeButton;
     
-    const homeLabels = { en: 'HOME', it: 'CASA', de: 'HOME', fr: 'ACCUEIL', nl: 'HOME' };
+    const homeLabels = { en: 'HOME', it: 'CASA', de: 'HOME', fr: 'ACCUEIL', nl: 'HOME', sk: 'DOMOV' };
     const homeLabel = homeLabels[lang] || homeLabels.en;
     
     const homeIcons = [
@@ -17787,7 +17789,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Français' },
             { value: 'nl', label: 'Nederlands' },
             { value: 'ru', label: 'Русский' },
-            { value: 'pt', label: 'Português' }
+            { value: 'pt', label: 'Português' },
+            { value: 'sk', label: 'Slovenčina' }
           ],
           display_units: [
             { value: 'W', label: 'Watts (W)' },
@@ -18474,7 +18477,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Francese' },
             { value: 'nl', label: 'Olandese' },
             { value: 'ru', label: 'Russo' },
-            { value: 'pt', label: 'Portoghese' }
+            { value: 'pt', label: 'Portoghese' },
+            { value: 'sk', label: 'Slovacco' }
           ],
           display_units: [
             { value: 'W', label: 'Watt (W)' },
@@ -19137,7 +19141,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Französisch' },
             { value: 'nl', label: 'Niederländisch' },
             { value: 'ru', label: 'Russisch' },
-            { value: 'pt', label: 'Portugiesisch' }
+            { value: 'pt', label: 'Portugiesisch' },
+            { value: 'sk', label: 'Slovensky' }
           ],
           display_units: [
             { value: 'W', label: 'Watt (W)' },
@@ -19798,7 +19803,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Français' },
             { value: 'nl', label: 'Néerlandais' },
             { value: 'ru', label: 'Russe' },
-            { value: 'pt', label: 'Portugais' }
+            { value: 'pt', label: 'Portugais' },
+            { value: 'sk', label: 'Slovaque' }
           ],
           display_units: [
             { value: 'W', label: 'Watts (W)' },
@@ -20460,7 +20466,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Français' },
             { value: 'nl', label: 'Nederlands' },
             { value: 'ru', label: 'Русский' },
-            { value: 'pt', label: 'Português' }
+            { value: 'pt', label: 'Português' },
+            { value: 'sk', label: 'Sloveens' }
           ],
           display_units: [
             { value: 'W', label: 'Watt (W)' },
@@ -20670,7 +20677,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Французский' },
             { value: 'nl', label: 'Нидерландский' },
             { value: 'ru', label: 'Русский' },
-            { value: 'pt', label: 'Португальский' }
+            { value: 'pt', label: 'Португальский' },
+            { value: 'sk', label: 'Словацкий' }
           ],
           display_units: [
             { value: 'W', label: 'Ватты (W)' },
@@ -20880,7 +20888,8 @@ class LuminaEnergyCardEditor extends HTMLElement {
             { value: 'fr', label: 'Francês' },
             { value: 'nl', label: 'Holandês' },
             { value: 'ru', label: 'Russo' },
-            { value: 'pt', label: 'Português' }
+            { value: 'pt', label: 'Português' },
+            { value: 'sk', label: 'Eslovaco' }
           ],
           display_units: [
             { value: 'W', label: 'Watts (W)' },
@@ -20906,6 +20915,217 @@ class LuminaEnergyCardEditor extends HTMLElement {
           car2: 'CARRO 2',
           importing: 'IMPORTAÇÃO',
           exporting: 'EXPORTAÇÃO'
+        }
+      },
+      sk: {
+        sections: {
+          updates: { title: 'Aktualizácie', helper: 'Dôležité informácie od vývojára (vzdialené).' },
+          language: { title: 'Jazyk', helper: 'Vyberte jazyk editora.' },
+          installation_type: { title: 'Typ inštalácie', helper: 'Vyberte typ inštalácie pre správnu konfiguráciu karty.' },
+          performance_mode: { title: 'Výkonnostný režim', helper: 'Nastavte úrovneň animácií. Režim Low zjednoduší náročné štýly na slabších zariadeniach.' },
+          general: { title: 'Vseobecné nastavenia', helper: 'Názov karty, pozadie a frekvencia aktualizácie.' },
+          array1: { title: 'Poľe 1', helper: 'Nastavte entity pre PV Poľe 1.' },
+          array2: { title: 'Poľe 2', helper: 'Nastavte entity pre PV Poľe 2 / invertór 2.' },
+          battery: { title: 'Batéria', helper: 'Nastavte entity batérie.' },
+          grid: { title: 'Sieť/Dom', helper: 'Nastavte entity siete a domu.' },
+          car: { title: 'Auto', helper: 'Nastavte entity EV nabíjačky.' },
+          heatPump: { title: 'Tepelné čerpadlo', helper: 'Nastavte výkon tepelného čerpala. Tok a text sú viditeľné len keď sú nastavenené.' },
+          entities: { title: 'Výber entít', helper: 'Vyberte entity PV/batérie/siete/záťaže a EV.' },
+          house_management: { title: 'Správa domu', helper: 'Priraďte entity k tlačidlám Home (kamery, svetlá, teplota, bezpečnosť, vlhkosť).' },
+          pvPopup: { title: 'PV Popup', helper: 'Nastavte popup pre PV.' },
+          housePopup: { title: 'Popup Dom', helper: 'Nastavte popup pre dom.' },
+          batteryPopup: { title: 'Popup Batéria', helper: 'Nastavte popup pre batériu.' },
+          gridPopup: { title: 'Popup Sieť', helper: 'Nastavte popup pre sieť.' },
+          inverterPopup: { title: 'Popup Invertór', helper: 'Nastavte popup pre invertór.' },
+          flow_path: { title: 'Cesty tokov (SVG)', helper: 'Nastavte SVG cesty pre hlavné toky energie.' },
+          flow_path_custom: { title: 'Vlastné toky', helper: 'Až 5 ďalejších tokov energie.' },
+          custom_text: { title: 'Vlastný text', helper: 'Až 5 textových blokov. Možno zobraziť: len statický text (ponechajte Senzór prázdny), len hodnotu entity (ponechajte Popis prázdny, nastavte Senzór), alebo obe (popis + hodnota). Nastavte pozíciu (X/Y), farbu, veľkosť písma.' },
+          solar_forecast: { title: 'Solárna predpoveď', helper: 'Zobraziť odhadovanú solárnu výrobu s ikonou slnka a stavom (veľa/stredne/málo slnka).' }
+        },
+        fields: {
+          editor_updates_empty: 'Nie sú k dispozícii žiadne aktualizácie.',
+          editor_updates_open: 'Otvoriť',
+          battery_text_color: { label: 'Farba textu batérie', helper: 'Farba pre SOC a výkon. Pre zmenu polohy/rotácie/rozméru použite sekciu Layout.' },
+          battery_font_size: { label: 'Veľkosť textu batérie (px)', helper: 'Veľkosť písma textu batérie. Pre zmenu polohy/rotácie/rozméru použite sekciu Layout.' },
+          battery_2_text_color: { label: 'Farba textu batérie 2', helper: 'Voliteľný override pre batériu 2. Ponechajte prázdne pre použitie zdielanej farby. Poloha/rotácia/rozmer: Layout.' },
+          battery_3_text_color: { label: 'Farba textu batérie 3', helper: 'Voliteľný override pre batériu 3. Ponechajte prázdne pre použitie zdielanej farby. Poloha/rotácia/rozmer: Layout.' },
+          battery_4_text_color: { label: 'Farba textu batérie 4', helper: 'Voliteľný override pre batériu 4. Ponechajte prázdne pre použitie zdielanej farby. Poloha/rotácia/rozmer: Layout.' },
+          battery_2_row_scale: { label: 'Rozmer batérie 2 (ikona+text)', helper: 'Jednotný rozmer riadku batérie 2 (ikona + text). Poloha/rotácia: Layout.' },
+          battery_3_row_scale: { label: 'Rozmer batérie 3 (ikona+text)', helper: 'Jednotný rozmer riadku batérie 3 (ikona + text). Poloha/rotácia: Layout.' },
+          battery_4_row_scale: { label: 'Rozmer batérie 4 (ikona+text)', helper: 'Jednotný rozmer riadku batérie 4 (ikona + text). Poloha/rotácia: Layout.' },
+          update_available: 'Dostupná aktualizácia',
+          update_open: 'Otvoriť',
+          editor_preview_title: 'Náhľad carbon (presúvanie)',
+          editor_toggle_show_lumina_preview: 'Náhľad carbon (presúvanie) pod náhľadom HA',
+          editor_toggle_hide_ha_preview: 'Skryť náhľad HA',
+          editor_preview_requires_pro: 'Najprv aktivujte sekciu PRO heslom.',
+          editor_personal_requires_pro: 'Aktivujte PRO pre použitie vlastného pozadia.',
+          editor_lock_base: 'Zamknúť základ (pozadie/prekrytia)',
+          editor_lock_flows: 'Zamknúť presúvanie tokov',
+          editor_reset_base: 'Obnoviť základ',
+          paypal_first_name: 'Meno PayPal',
+          paypal_last_name: 'Priezvisko PayPal',
+          paypal_first_name_placeholder: 'napr. Ján',
+          paypal_last_name_placeholder: 'napr. Novák',
+          editor_draw_btn_start: 'Kresliť',
+          editor_draw_btn_stop: 'Stop',
+          editor_draw_btn_undo: 'Späť poslednú',
+          editor_draw_btn_clear: 'Vymazať',
+          editor_draw_btn_clear_all: 'Vymazať všetko',
+          editor_draw_style_straight: 'Priame',
+          editor_draw_style_elbow: 'L (1 ohyb)',
+          editor_draw_style_orthogonal: 'Ortogonálne',
+          editor_draw_style_freehand: 'Voľnočar',
+          editor_draw_style_rubber_band: 'Gumová páska',
+          editor_draw_style_semicircle: 'Polkruh',
+          editor_section_flows: 'Toky (CF)',
+          editor_section_text: 'Text',
+          editor_section_overlay: 'Prekrytie',
+          editor_section_overlay_image: 'Obrázok prekrytia',
+          editor_overlay_slot_label: 'Prekrytie:',
+          editor_section_view: 'Zobrazenie',
+          editor_cf_entity: 'Entita CF',
+          editor_cf_invert_flow: 'Obrnúť tok',
+          editor_remove_overlay: 'Odstrániť',
+          editor_remove_text: 'Odstrániť text',
+          editor_remove_text_helper: 'Deaktivovať a vymazať vybraný slot textu',
+          editor_custom_text_label: 'Text:',
+          editor_custom_text_placeholder: 'Vlastný text',
+          editor_text_sensor_label: 'Senzór:',
+          editor_entity_assigned: 'Priradená entita',
+          editor_draw_hint_off: 'Vyberte CF a kliknite na Kresliť.',
+          editor_draw_hint_on: 'Kreslenie CF {i}: kreslite v náhľade. Pustite pre uloženie.',
+          editor_export_flows: 'Exportovať toky',
+          editor_import_flows: 'Importovať toky',
+          editor_export_flows_helper: 'Stiahnuť cesty a nastavenia vlastných tokov ako JSON. Použiť na inom pozadí.',
+          editor_import_flows_helper: 'Načítať toky z predchádzajúceho exportovaného JSON súboru.',
+          editor_reset_flows: 'Obnoviť toky',
+          editor_reset_flows_helper: 'Vymazať všetky cesty a nastavenia vlastných tokov.',
+          editor_export_config: 'Exportovať konfiguráciu',
+          editor_import_config: 'Importovať konfiguráciu',
+          editor_export_config_helper: 'Záloha úplnéj konfigurácie (pozadie, prekrytia, senzóry, toky) ako JSON. Použite pred aktualizáciami.',
+          editor_import_config_helper: 'Obnoviť konfiguráciu zo zálohy JSON. Zliaté s aktuálnou konfiguráciou.',
+          editor_browse_gallery: 'Prehladať galériu',
+          editor_share_gallery: 'Zdieľať do galérie',
+          editor_gallery_title: 'Galéria',
+          editor_use_this_template: 'Použiť',
+          editor_gallery_loading: 'Načítava…',
+          editor_gallery_error: 'Nepodarilo sa načítať galériu',
+          editor_gallery_share_success: 'Úspešne zdieľané',
+          editor_gallery_share_error: 'Zdieanie sa nepodarilo',
+          editor_gallery_no_endpoint: 'Nastavte URL Worker pre galériu',
+          editor_gallery_close: 'Zavrieť',
+          editor_gallery_share_name_prompt: 'Názov šablóny',
+          editor_gallery_share_desc_prompt: 'Popis (voliteľné)',
+          editor_gallery_share_pending: 'Zdieľané! Objaví sa v galérii po schlálení.',
+          editor_gallery_empty: 'Zatiaľ nie sú k dispozícii žiadne šablóny.',
+          editor_gallery_sensor_wizard_title: 'Mapovať senzóry',
+          editor_gallery_sensor_wizard_desc: 'Vyberte vaše entity Home Assistant pre každý senzór používaný touto šablónou.',
+          editor_gallery_sensor_wizard_info: 'Vybraná šablóna používa senzóry uvedené nižšie. Nahradte každý vašou vlastnou entitou Home Assistant. Tip„Sablóna“ zobrazuje originálnu entitu autora. Nechajte prázdne pre preskakenie senzóra.',
+          editor_gallery_apply: 'Použiť',
+          editor_gallery_cancel: 'Zrušiť',
+          editor_gallery_share_title: 'Zdieľať do galérie',
+          editor_gallery_share_submit: 'Zdieľať',
+          editor_gallery_sharing: 'Zdieanie…',
+          editor_gallery_top3_title: 'Top 3 · Najpopulárnejšie',
+          editor_gallery_monthly_reward: 'Každý mesiac odmeňujeme najsledovanejší dashboard.',
+          editor_gallery_more_templates: 'ďalšie šablóny',
+          editor_gallery_downloads: 'Stiahnutia',
+          editor_gallery_like: 'Páči sa mi',
+          editor_gallery_rules_title: 'Pravidlá galérie',
+          editor_gallery_rules_one_per_month: 'Možno zdieľať iba jeden dashboard mesiac.',
+          editor_gallery_rules_descriptions_required: 'Všetky vlastné toky (Custom Flow) a texty (Custom Text) musia mať popis; inak nebude príspevok prijaný.',
+          editor_gallery_rules_reward: 'Najsledovanejší dashboard každého mesiaca získa odmenu.',
+          editor_gallery_error_one_per_month: 'Už ste v tomto mesiaci zdieľali dashboard. ďalší príspevok je možný až v buducí mesiac.',
+          editor_gallery_error_descriptions_required: 'Vyplnte popis pre každý vlastný tok a text vyššie. Príspevky bez úplných popisov nie sú prijímané.',
+          editor_gallery_desc_section_title: 'Opíšte vaše prvky (povinné pre galériu)',
+          editor_gallery_author_name: 'Vaše meno (zobrazené pod kartou)',
+          editor_gallery_email: 'E-mail (nezobrazuje sa; na kontakt)',
+          grid_flow_target: { label: 'Smer toku siete', helper: 'Kam kresliť tok siete: meraciač ↔ invertór alebo meraciač ↔ dom. Auto = ako predtym.' },
+          license_status: 'Stav licencie',
+          license_active: 'PRO aktivé',
+          license_inactive: 'Neaktívne',
+          pro_unlocked: '✓ PRO funkcie odomknuté',
+          paypal_button: 'Odomknúť PRO funkcie (5€)',
+          paypal_note: 'DÔLEŽITÉ: Platbu je možné uskutočniť cez PayPal (iba ako darovanie) alebo cez GitHub Sponsors. Systém je automatický: ak sa nenajde zhoda, heslo NEBUDE zaslané. Po platbe požiadajte o PRO licenciu nižšie a vyberte metódu (PayPal / GitHub).',
+          unlock_pro_features: 'Odomknúť PRO funkcie',
+          activate: 'Aktivovať',
+          checking: 'Kontrola...',
+          request_pro_license: 'Požiadať o PRO licenciu',
+          your_email: 'Váš e-mail',
+          payment_method: 'Spôsob platební (PayPal / GitHub / Colletta)',
+          payment_method_paypal: 'PayPal (darovanie)',
+          payment_method_github: 'GitHub Sponsors',
+          paypal_payment_email: 'E-mail platby PayPal',
+          github_username: 'Používateľské meno GitHub',
+          paypal_transaction_id: 'ID transakcie PayPal',
+          send_request: 'Odoslať žiadosť',
+          request_sent: 'Žiadosť zaslaná! Heslo dostanete e-mailom.',
+          request_error: 'Chyba pri odosielaní. Skúste znova.',
+          existing_user_title: 'Už ste kupovali?',
+          existing_user_desc: 'Ak ste už platili, požiadajte o bezplatnú migráciu s uvedením starého ID transakcie.',
+          support_contact: 'Ak máte akékoľvek problémy: luminaenergycard@gmail.com',
+          request_migration: 'Požiadať o bezplatnú migráciu',
+          migration_sent: 'Žiadosť o migráciu zaslaná! Nové heslo dostanete e-mailom.',
+          migration_v3_success_refresh: 'Nové heslo v3 vygenerované a nastavené. Kliknite „Uložiť“, potom <b>obnovťte stránku (F5)</b> pre načítanie novej licencie.',
+          migrate_to_v3_title: 'Migrácia na v3 (heslo priviazajú vašu kúču)',
+          migrate_to_v3_btn: 'Získať nové heslo v3',
+          migrate_v3_placeholder: 'Nové heslo sa objaví tu po stlačení tlačidla.',
+          migrate_v3_enter_first: 'Najprv zadajte aktuálne heslo vyššie a kliknite Aktivovať.',
+          migrate_v3_requesting: 'Požiadavka...',
+          migrate_v3_failed: 'Migrácia zlyhala.',
+          migrate_v3_error: 'Chyba: ',
+          pro_password_placeholder: 'Zadajte vaše PRO heslo',
+          your_email_placeholder: 'vas@email.com',
+          github_username_placeholder: 'napr. octocat',
+          paypal_payment_email_placeholder: 'paypal@email.com',
+          paypal_transaction_id_placeholder: 'napr. 1AB23456CD789012E',
+          fill_all_fields: 'Prosím vyplnte všetky polia.',
+          password_ok: '✓ Heslo prijané. PRO aktivé.',
+          password_bad: '❌ Nesprávne heslo. Skontrolujte a skúste znova.',
+          pro_license_title: '💰 PRO licencia',
+          pro_license_line1: 'Možnosť 1: pošlite <b>5€ ako darovanie</b> na PayPal: <b>3dprint8616@gmail.com</b>',
+          pro_license_line2: 'Možnosť 2: zaplazte cez <b>GitHub Sponsors</b> (rovnaká suma).',
+          pro_license_line3: 'Po platbe vyplnte formulár nižšie a vyberte <b>PayPal</b> (e-mail platby + meno/priezvisko) alebo <b>GitHub Sponsors</b> (GitHub používateľské meno).',
+          pro_license_auto_note: 'Systém je automatický: ak sa nenajde zhoda platby, heslo NEBUDE zaslané.',
+          pro_license_line_red: 'Posielajte ako darovanie, nie ako tovar a služby. Platba bude vrátená v prípade zamietnutia.',
+          payment_method_colletta: 'Zber 5€ PayPal'
+        },
+        options: {
+          languages: [
+            { value: 'en', label: 'Angličtina' },
+            { value: 'it', label: 'Taliánčina' },
+            { value: 'de', label: 'Nemčina' },
+            { value: 'fr', label: 'Francuzstina' },
+            { value: 'nl', label: 'Holandtčina' },
+            { value: 'ru', label: 'Ruština' },
+            { value: 'pt', label: 'Portuguálčina' },
+            { value: 'sk', label: 'Slovenčina' }
+          ],
+          display_units: [
+            { value: 'W', label: 'Watty (W)' },
+            { value: 'kW', label: 'Kilowatty (kW)' }
+          ],
+          animation_styles: [
+            { value: 'dashes', label: 'Čiarky (predvolené)' },
+            { value: 'dots', label: 'Bodky' },
+            { value: 'arrows', label: 'Šípky' },
+            { value: 'shimmer', label: 'Ligot' }
+          ],
+          performance_modes: [
+            { value: 'auto', label: 'Auto' },
+            { value: 'high', label: 'Vysoký' },
+            { value: 'balanced', label: 'Vyvážený' },
+            { value: 'low', label: 'Nízky' }
+          ]
+        },
+        view: {
+          daily: 'DENNÁ VÝROBA',
+          pv_tot: 'PV CELKOM',
+          car1: 'AUTO 1',
+          car2: 'AUTO 2',
+          importing: 'ODBER',
+          exporting: 'DODÁVKA'
         }
       },
     };
@@ -22521,38 +22741,41 @@ _createSectionDefs(localeStrings, schemaDefs) {
       it: ['Immagine olografica', 'Immagine reale'],
       de: ['Holografisches Bild', 'Reales Bild'],
       fr: ['Image holographique', 'Image réelle'],
-      nl: ['Holografische afbeelding', 'Echte afbeelding']
+      nl: ['Holografische afbeelding', 'Echte afbeelding'],
+      sk: ['Holografický obrázok', 'Reálny obrázok']
     };
     const typeLabels = {
       en: ['1. PV Installation + Car', '2. PV Installation without Car', '3. No PV, no Car', '4. Personal (custom background)'],
       it: ['1. Impianto fotovoltaico + Auto', '2. Impianto fotovoltaico senza Auto', '3. No fotovoltaico, no Auto', '4. Personale (sfondo personalizzato)'],
       de: ['1. PV-Anlage + Auto', '2. PV-Anlage ohne Auto', '3. Keine PV, kein Auto', '4. Persönlich (eigener Hintergrund)'],
       fr: ['1. Installation PV + Voiture', '2. Installation PV sans voiture', '3. Pas de PV, pas de voiture', '4. Personnel (fond personnalisé)'],
-      nl: ['1. PV-installatie + Auto', '2. PV-installatie zonder auto', '3. Geen PV, geen auto', '4. Persoonlijk (aangepaste achtergrond)']
+      nl: ['1. PV-installatie + Auto', '2. PV-installatie zonder auto', '3. Geen PV, geen auto', '4. Persoonlijk (aangepaste achtergrond)'],
+      sk: ['1. PV inštalácia + Auto', '2. PV inštalácia bez Auta', '3. Bez PV, bez Auta', '4. Vlastné (vlastné pozadie)']
     };
     const personalUploadLabels = {
       en: 'Upload personal background image',
       it: 'Carica immagine di sfondo personale',
       de: 'Eigenes Hintergrundbild hochladen',
       fr: 'Télécharger l\'image de fond personnalisée',
-      nl: 'Upload persoonlijke achtergrondafbeelding'
+      nl: 'Upload persoonlijke achtergrondafbeelding',
+      sk: 'Nahrať vlastný obrázok pozadia'
     };
-    const personalChooseFileLabels = { en: 'Choose file', it: 'Scegli file', de: 'Datei wählen', fr: 'Choisir un fichier', nl: 'Bestand kiezen' };
-    const personalRemoveBgLabels = { en: 'Remove background', it: 'Rimuovi sfondo', de: 'Hintergrund entfernen', fr: 'Supprimer le fond', nl: 'Achtergrond verwijderen' };
-    const aiSectionLabels = { en: 'Background with AI', it: 'Sfondo con AI', de: 'Hintergrund mit KI', fr: 'Fond avec IA', nl: 'Achtergrond met AI' };
-    const aiProviderHuggingFaceLabels = { en: 'Hugging Face (token)', it: 'Hugging Face (token)', de: 'Hugging Face (Token)', fr: 'Hugging Face (token)', nl: 'Hugging Face (token)' };
-    const aiProviderGeminiLabels = { en: 'Gemini (API key)', it: 'Gemini (chiave API)', de: 'Gemini (API-Key)', fr: 'Gemini (clé API)', nl: 'Gemini (API-sleutel)' };
-    const aiModeGenerateLabels = { en: 'Generate from prompt', it: 'Genera da prompt', de: 'Aus Prompt generieren', fr: 'Générer à partir du prompt', nl: 'Genereren uit prompt' };
-    const aiModeEditLabels = { en: 'Upload and modify', it: 'Carica e modifica', de: 'Hochladen und ändern', fr: 'Télécharger et modifier', nl: 'Uploaden en bewerken' };
-    const aiPromptLabels = { en: 'Prompt', it: 'Prompt', de: 'Prompt', fr: 'Prompt', nl: 'Prompt' };
-    const aiPromptPlaceholder = { en: 'Describe the background (e.g. futuristic solar panels, cyberpunk style)', it: 'Descrivi lo sfondo (es. pannelli solari futuristici, stile cyberpunk)', de: 'Hintergrund beschreiben (z.B. futuristische Solaranlage)', fr: 'Décrivez le fond (ex. panneaux solaires futuristes)', nl: 'Beschrijf de achtergrond' };
-    const aiApiKeyLabels = { en: 'Gemini API key', it: 'Chiave API Gemini', de: 'Gemini API-Schlüssel', fr: 'Clé API Gemini', nl: 'Gemini API-sleutel' };
-    const aiQuotaHintLabels = { en: 'Free tier may not include image generation; enable billing at aistudio.google.com if needed.', it: 'Il piano gratuito potrebbe non includere la generazione di immagini; abilita la fatturazione su aistudio.google.com se necessario.', de: 'Kostenloser Tarif enthält ggf. keine Bildgenerierung; Fakturierung unter aistudio.google.com aktivieren.', fr: 'Le forfait gratuit peut ne pas inclure la génération d\'images; activez la facturation sur aistudio.google.com si besoin.', nl: 'Gratis abonnement bevat mogelijk geen beeldgeneratie; schakel facturering in op aistudio.google.com indien nodig.' };
-    const aiGenerateBtnLabels = { en: 'Generate', it: 'Genera', de: 'Generieren', fr: 'Générer', nl: 'Genereren' };
-    const aiModifyBtnLabels = { en: 'Modify', it: 'Modifica', de: 'Ändern', fr: 'Modifier', nl: 'Bewerken' };
-    const aiLoadingLabels = { en: 'Loading...', it: 'Caricamento...', de: 'Laden...', fr: 'Chargement...', nl: 'Laden...' };
-    const aiErrorLabels = { en: 'Error', it: 'Errore', de: 'Fehler', fr: 'Erreur', nl: 'Fout' };
-    const aiChooseImageLabels = { en: 'Choose image to modify', it: 'Scegli immagine da modificare', de: 'Bild zum Ändern wählen', fr: 'Choisir l\'image à modifier', nl: 'Afbeelding kiezen om te bewerken' };
+    const personalChooseFileLabels = { en: 'Choose file', it: 'Scegli file', de: 'Datei wählen', fr: 'Choisir un fichier', nl: 'Bestand kiezen', sk: 'Vybrať súbor' };
+    const personalRemoveBgLabels = { en: 'Remove background', it: 'Rimuovi sfondo', de: 'Hintergrund entfernen', fr: 'Supprimer le fond', nl: 'Achtergrond verwijderen', sk: 'Odstrániť pozadie' };
+    const aiSectionLabels = { en: 'Background with AI', it: 'Sfondo con AI', de: 'Hintergrund mit KI', fr: 'Fond avec IA', nl: 'Achtergrond met AI', sk: 'Pozadie s AI' };
+    const aiProviderHuggingFaceLabels = { en: 'Hugging Face (token)', it: 'Hugging Face (token)', de: 'Hugging Face (Token)', fr: 'Hugging Face (token)', nl: 'Hugging Face (token)', sk: 'Hugging Face (token)' };
+    const aiProviderGeminiLabels = { en: 'Gemini (API key)', it: 'Gemini (chiave API)', de: 'Gemini (API-Key)', fr: 'Gemini (clé API)', nl: 'Gemini (API-sleutel)', sk: 'Gemini (API kľúč)' };
+    const aiModeGenerateLabels = { en: 'Generate from prompt', it: 'Genera da prompt', de: 'Aus Prompt generieren', fr: 'Générer à partir du prompt', nl: 'Genereren uit prompt', sk: 'Generovať z popisu' };
+    const aiModeEditLabels = { en: 'Upload and modify', it: 'Carica e modifica', de: 'Hochladen und ändern', fr: 'Télécharger et modifier', nl: 'Uploaden en bewerken', sk: 'Nahrať a upraviť' };
+    const aiPromptLabels = { en: 'Prompt', it: 'Prompt', de: 'Prompt', fr: 'Prompt', nl: 'Prompt', sk: 'Popis' };
+    const aiPromptPlaceholder = { en: 'Describe the background (e.g. futuristic solar panels, cyberpunk style)', it: 'Descrivi lo sfondo (es. pannelli solari futuristici, stile cyberpunk)', de: 'Hintergrund beschreiben (z.B. futuristische Solaranlage)', fr: 'Décrivez le fond (ex. panneaux solaires futuristes)', nl: 'Beschrijf de achtergrond', sk: 'Opíšte pozadie (napr. futuristické solárne panely, cyberpunk štýl)' };
+    const aiApiKeyLabels = { en: 'Gemini API key', it: 'Chiave API Gemini', de: 'Gemini API-Schlüssel', fr: 'Clé API Gemini', nl: 'Gemini API-sleutel', sk: 'Gemini API kľúč' };
+    const aiQuotaHintLabels = { en: 'Free tier may not include image generation; enable billing at aistudio.google.com if needed.', it: 'Il piano gratuito potrebbe non includere la generazione di immagini; abilita la fatturazione su aistudio.google.com se necessario.', de: 'Kostenloser Tarif enthält ggf. keine Bildgenerierung; Fakturierung unter aistudio.google.com aktivieren.', fr: 'Le forfait gratuit peut ne pas inclure la génération d\'images; activez la facturation sur aistudio.google.com si besoin.', nl: 'Gratis abonnement bevat mogelijk geen beeldgeneratie; schakel facturering in op aistudio.google.com indien nodig.', sk: 'Bezplatný plán nemusí obsahovať generovanie obrázkov; ak je to potrebné, aktivujte fakturáciu na aistudio.google.com.' };
+    const aiGenerateBtnLabels = { en: 'Generate', it: 'Genera', de: 'Generieren', fr: 'Générer', nl: 'Genereren', sk: 'Generovať' };
+    const aiModifyBtnLabels = { en: 'Modify', it: 'Modifica', de: 'Ändern', fr: 'Modifier', nl: 'Bewerken', sk: 'Upraviť' };
+    const aiLoadingLabels = { en: 'Loading...', it: 'Caricamento...', de: 'Laden...', fr: 'Chargement...', nl: 'Laden...', sk: 'Načítava...' };
+    const aiErrorLabels = { en: 'Error', it: 'Errore', de: 'Fehler', fr: 'Erreur', nl: 'Fout', sk: 'Chyba' };
+    const aiChooseImageLabels = { en: 'Choose image to modify', it: 'Scegli immagine da modificare', de: 'Bild zum Ändern wählen', fr: 'Choisir l\'image à modifier', nl: 'Afbeelding kiezen om te bewerken', sk: 'Vybrať obrázok na úpravu' };
     const sl = styleLabels[lang] || styleLabels.en;
     const tl = typeLabels[lang] || typeLabels.en;
     
@@ -22680,7 +22903,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       aiProviderGeminiRadio.value = 'gemini';
       aiProviderGeminiRadio.checked = currentProvider === 'gemini';
       aiProviderGeminiRadio.style.marginRight = '6px';
-      const aiProviderOpenAiLabels = { en: 'ChatGPT / DALL-E (key)', it: 'ChatGPT / DALL-E (key)', de: 'ChatGPT / DALL-E (Key)', fr: 'ChatGPT / DALL-E (clé)', nl: 'ChatGPT / DALL-E (key)' };
+      const aiProviderOpenAiLabels = { en: 'ChatGPT / DALL-E (key)', it: 'ChatGPT / DALL-E (key)', de: 'ChatGPT / DALL-E (Key)', fr: 'ChatGPT / DALL-E (clé)', nl: 'ChatGPT / DALL-E (key)', sk: 'ChatGPT / DALL-E (kľúč)' };
       const aiProviderLabelHF = document.createElement('label');
       aiProviderLabelHF.style.cssText = 'display: inline-flex; align-items: center; margin-right: 14px; cursor: pointer; font-size: 12px;';
       aiProviderLabelHF.appendChild(aiProviderHuggingFaceRadio);
@@ -22779,8 +23002,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
       aiQuotaHint.style.cssText = 'font-size: 10px; color: rgba(0,229,255,0.7); margin-bottom: 10px; line-height: 1.3;';
       aiGeminiWrap.appendChild(aiQuotaHint);
       aiWrap.appendChild(aiGeminiWrap);
-      const aiHfTokenLabels = { en: 'Hugging Face token', it: 'Token Hugging Face', de: 'Hugging-Face-Token', fr: 'Token Hugging Face', nl: 'Hugging Face-token' };
-      const aiHfHintLabels = { en: 'Token from huggingface.co/settings/tokens (read).', it: 'Token da huggingface.co/settings/tokens (read).', de: 'Token von huggingface.co/settings/tokens (read).', fr: 'Token sur huggingface.co/settings/tokens (read).', nl: 'Token van huggingface.co/settings/tokens (read).' };
+      const aiHfTokenLabels = { en: 'Hugging Face token', it: 'Token Hugging Face', de: 'Hugging-Face-Token', fr: 'Token Hugging Face', nl: 'Hugging Face-token', sk: 'Hugging Face token' };
+      const aiHfHintLabels = { en: 'Token from huggingface.co/settings/tokens (read).', it: 'Token da huggingface.co/settings/tokens (read).', de: 'Token von huggingface.co/settings/tokens (read).', fr: 'Token sur huggingface.co/settings/tokens (read).', nl: 'Token van huggingface.co/settings/tokens (read).', sk: 'Token z huggingface.co/settings/tokens (read).' };
       const aiHuggingFaceWrap = document.createElement('div');
       aiHuggingFaceWrap.className = 'ai-huggingface-wrap';
       aiHuggingFaceWrap.style.cssText = 'display: ' + (currentProvider === 'huggingface' ? 'block' : 'none') + ';';
@@ -22800,8 +23023,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
       aiHfHint.textContent = aiHfHintLabels[lang] || aiHfHintLabels.en;
       aiHuggingFaceWrap.appendChild(aiHfHint);
       aiWrap.appendChild(aiHuggingFaceWrap);
-      const aiOpenAiKeyLabels = { en: 'OpenAI API key', it: 'API key OpenAI', de: 'OpenAI API-Schlüssel', fr: 'Clé API OpenAI', nl: 'OpenAI API-sleutel' };
-      const aiOpenAiHintLabels = { en: 'Get your key at platform.openai.com/api-keys. DALL-E 3 image costs ~$0.04/image.', it: 'Ottieni la chiave su platform.openai.com/api-keys. DALL-E 3 costa ~$0.04/immagine.', de: 'Schlüssel auf platform.openai.com/api-keys. DALL-E 3 kostet ~$0,04/Bild.', fr: 'Clé sur platform.openai.com/api-keys. DALL-E 3 coûte ~0,04$/image.', nl: 'Sleutel op platform.openai.com/api-keys. DALL-E 3 kost ~$0,04/afbeelding.' };
+      const aiOpenAiKeyLabels = { en: 'OpenAI API key', it: 'API key OpenAI', de: 'OpenAI API-Schlüssel', fr: 'Clé API OpenAI', nl: 'OpenAI API-sleutel', sk: 'OpenAI API kľúč' };
+      const aiOpenAiHintLabels = { en: 'Get your key at platform.openai.com/api-keys. DALL-E 3 image costs ~$0.04/image.', it: 'Ottieni la chiave su platform.openai.com/api-keys. DALL-E 3 costa ~$0.04/immagine.', de: 'Schlüssel auf platform.openai.com/api-keys. DALL-E 3 kostet ~$0,04/Bild.', fr: 'Clé sur platform.openai.com/api-keys. DALL-E 3 coûte ~0,04$/image.', nl: 'Sleutel op platform.openai.com/api-keys. DALL-E 3 kost ~$0,04/afbeelding.', sk: 'Kľúč na platform.openai.com/api-keys. DALL-E 3 stojí ~$0,04/obrázok.' };
       const aiOpenAiWrap = document.createElement('div');
       aiOpenAiWrap.className = 'ai-openai-wrap';
       aiOpenAiWrap.style.cssText = 'display: ' + (currentProvider === 'openai' ? 'block' : 'none') + ';';
@@ -22863,7 +23086,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         if (useGemini && aiModeEditRadio.checked && !aiEditImageDataUrl) { aiStatus.textContent = (aiErrorLabels[lang] || aiErrorLabels.en) + ': Choose an image to modify'; return; }
         aiActionBtn.disabled = true;
         aiStatus.style.color = '#00E5FF';
-        const hfLoadingMsg = { en: 'Generating (model may need 1-2 min to wake up)...', it: 'Generazione (il modello potrebbe impiegare 1-2 min per avviarsi)...', de: 'Generierung (Modell benötigt evtl. 1-2 Min.)...', fr: 'Génération (le modèle peut prendre 1-2 min)...', nl: 'Genereren (model heeft mogelijk 1-2 min nodig)...' };
+        const hfLoadingMsg = { en: 'Generating (model may need 1-2 min to wake up)...', it: 'Generazione (il modello potrebbe impiegare 1-2 min per avviarsi)...', de: 'Generierung (Modell benötigt evtl. 1-2 Min.)...', fr: 'Génération (le modèle peut prendre 1-2 min)...', nl: 'Genereren (model heeft mogelijk 1-2 min nodig)...', sk: 'Generovanie (model môže potrebovať 1-2 min na spustenie)...' };
         aiStatus.textContent = useHuggingFace ? (hfLoadingMsg[lang] || hfLoadingMsg.en) : (aiLoadingLabels[lang] || aiLoadingLabels.en);
         const self = this;
         try {
@@ -24858,7 +25081,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
       it: 'Abilita sfondo personalizzato (carica / AI)',
       de: 'Eigenen Hintergrund aktivieren (Upload / KI)',
       fr: 'Activer le fond personnalisé (upload / IA)',
-      nl: 'Aangepaste achtergrond inschakelen (upload / AI)'
+      nl: 'Aangepaste achtergrond inschakelen (upload / AI)',
+      sk: 'Aktivovať vlastné pozadie (nahrať / AI)'
     };
     const pLang = ((this._config && this._config.language) || 'en').toLowerCase();
     personalToggleText.textContent = personalToggleLabels[pLang] || personalToggleLabels.en;
