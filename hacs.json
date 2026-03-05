@@ -1,8 +1,7 @@
 {
   "name": "Carbon Energy Card",
-  "filename": "carbon-energy-card_2.js",
+  "filename": "carbon-energy-card.js",
   "homeassistant": "2022.12.0",
   "iot_class": "local_polling",
-  "render_readme": true,
-  "version": "1.0.2.8"
+  "render_readme": true
 }
