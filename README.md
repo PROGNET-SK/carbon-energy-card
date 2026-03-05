@@ -54,7 +54,7 @@ sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: /local/community/carbon-energy-card/lumina_background.png
+background_image: www/local/community/carbon-energy-card/lumina_background.png
 ```
 
 Use the card’s visual editor (Edit → carbon) to configure entities, colors, and options.
@@ -285,7 +285,7 @@ sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: /local/community/carbon-energy-card/lumina_background.png
+background_image: www/local/community/carbon-energy-card/lumina_background.png
 ```
 
 Použite vizuálny editor karty (Úprava → carbon) pre konfiguráciu entít, farieb a možností.
