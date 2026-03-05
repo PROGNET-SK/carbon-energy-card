@@ -7,10 +7,15 @@ const __b64 = (s) => {
   }
 };
 
+/*
 const __URL_GH_RELEASES_LATEST = __b64(__s(
   'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjYv',
   'bHVtaW5hLWVuZXJneS1jYXJkL3JlbGVhc2VzL2xhdGVzdA=='
 ));
+*/
+
+const __URL_GH_RELEASES_LATEST = __b64(__s(  '',  ''));
+
 const __URL_GSAP_ESM_1 = __b64(__s(
   'aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9nc2Fw',
   'QDMuMTIuNS9kaXN0L2dzYXAubWluLmpzP21vZHVsZQ=='
