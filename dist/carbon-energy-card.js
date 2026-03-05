@@ -6615,7 +6615,10 @@ class CarbonEnergyCard extends HTMLElement {
     const authListsLoading = (typeof CARBON_AUTH_LIST_V1 === 'undefined' || CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null);
     const hasPwTrimmed = !!(authInput && typeof authInput === 'string' && authInput.trim());
     // While auth lists are loading, if user has password set, show PRO features (avoid hiding custom texts on first paint)
-    const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
+    //const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
+    
+    const isProEnabled = true; // Ignoruje overovanie a zapne PRO
+
     showDebugGrid = isProEnabled && Boolean(config.pro_debug_grid);
     this._debugGridEnabled = showDebugGrid;
 
@@ -7759,7 +7762,10 @@ class CarbonEnergyCard extends HTMLElement {
     if (typeof verifyFeatureAuth !== 'function') {
       throw new Error('verifyFeatureAuth is not defined or not a function');
     }
-    const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCard;
+
+    //const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCard;
+    const isProEnabled = true; // Ignoruje overovanie a zapne PRO
+
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
     // pro_verify origin=render rimosso: password verificata in locale (Gist).
     // Era solo per logging anti-crack; riduce carico su GAS con 20k+ installazioni.
@@ -13351,7 +13357,9 @@ class CarbonEnergyCard extends HTMLElement {
     };
     const authInput = config.pro_password;
     const isPreviewCardUpd = !!(this.classList && this.classList.contains('editor-preview-card'));
-    const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCardUpd;
+    //const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCardUpd;
+    const isProEnabled = true; // Ignoruje overovanie a zapne PRO
+
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
     
     let motionDetected = false;
