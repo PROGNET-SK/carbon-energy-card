@@ -54,7 +54,7 @@ sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: www/local/community/carbon-energy-card/lumina_background.png
+background_image: www/local/community/carbon-energy-card/carbon_background.png
 ```
 
 Use the card’s visual editor (Edit → carbon) to configure entities, colors, and options.
@@ -230,7 +230,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 - **Values at zero:** Check entity IDs and that entities exist and are available.
 - **Cameras 403 / not loading:** Cameras must expose `access_token` (most HA camera integrations do). Use **■ Stop** before closing the camera popup.
 - **Editor slow:** Increase **`update_interval`** or reduce dashboard refresh frequency.
-- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (e.g. `lumina_background.png`, `lumina_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [lumina_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background.png), [lumina_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/lumina_background1.png).
+- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (e.g. `carbon_background.png`, `carbon_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [carbon_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/carbon_background.png), [carbon_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/carbon_background1.png).
 
 ---
 
@@ -239,20 +239,6 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 ### Prehľad
 
 Carbon Energy Card je vlastná karta Lovelace pre Home Assistant, ktorá zobrazuje animované toky energie (PV, batéria, sieť, záťaž, tepelné čerpadlo, EV), agreguje PV stringy a batérie a podporuje voliteľné metriky nabíjania EV a tepelného čerpadla. Obsahuje **Správu domácnosti** (kamery, svetlá, teplota, vlhkosť, bezpečnostná klávesnica), **interaktívne vyskakovacie okná** s prepínačmi, okrúhle tlačidlá (Echo Alive, Prepínač textu, DOMOV), **PRO** funkcie (viditeľnosť textového zobrazenia na základe pohybu, obrázky prekrytia, vlastné toky), **Import a export** pre zálohu konfigurácie a najnovšie vylepšenia.
-
-
-### Čo je nové vo verzii 1.0.2.5
-
-- **BUG-FIX:** Viacero bugov opravenych
-
-### Čo je nové vo verzii 1.0.2
-
-- **SK:** Doplnena Slovenska mutacia
-
-### Čo je nové vo verzii 1.0.1
-
-- **Galéria:** Zdieľajte svoje šablóny dashboardov s komunitou a prehliadajte si tie od iných. Z editora použite **"Share to gallery"** na odoslanie šablóny (názov, popis, autor, email, pravidlá). Jedno zdieľanie na používateľa mesačne. **"Top"** ukazuje najobľúbenejšie šablóny; 30-dňový časovač sa resetuje a upozorní víťaza.
-
 
 ### Poznámka k výkonu (dôležité pre Raspberry Pi / slabšie zariadenia)
 
@@ -285,7 +271,7 @@ sensor_bat1_soc: sensor.battery_soc
 sensor_bat1_power: sensor.battery_power
 sensor_home_load: sensor.home_consumption
 sensor_grid_power: sensor.grid_power
-background_image: www/local/community/carbon-energy-card/lumina_background.png
+background_image: www/local/community/carbon-energy-card/carbon_background.png
 ```
 
 Použite vizuálny editor karty (Úprava → carbon) pre konfiguráciu entít, farieb a možností.
