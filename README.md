@@ -240,35 +240,10 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 
 Carbon Energy Card je vlastná karta Lovelace pre Home Assistant, ktorá zobrazuje animované toky energie (PV, batéria, sieť, záťaž, tepelné čerpadlo, EV), agreguje PV stringy a batérie a podporuje voliteľné metriky nabíjania EV a tepelného čerpadla. Obsahuje **Správu domácnosti** (kamery, svetlá, teplota, vlhkosť, bezpečnostná klávesnica), **interaktívne vyskakovacie okná** s prepínačmi, okrúhle tlačidlá (Echo Alive, Prepínač textu, DOMOV), **PRO** funkcie (viditeľnosť textového zobrazenia na základe pohybu, obrázky prekrytia, vlastné toky), **Import a export** pre zálohu konfigurácie a najnovšie vylepšenia.
 
-### Čo je nové vo verzii 3.3.3
+### Čo je nové vo verzii 1.0.1
 
 - **Galéria:** Zdieľajte svoje šablóny dashboardov s komunitou a prehliadajte si tie od iných. Z editora použite **"Share to gallery"** na odoslanie šablóny (názov, popis, autor, email, pravidlá). Jedno zdieľanie na používateľa mesačne. **"Top"** ukazuje najobľúbenejšie šablóny; 30-dňový časovač sa resetuje a upozorní víťaza.
-- **Oprava chyby – Textové tlačidlo:** Prepínač textu už nezmizne, keď je tlačidlo DOMOV vypnuté.
-- **Farba hodín:** Teraz môžete zmeniť farbu digitálnych hodín priamo v editore.
-- **Oprava chyby – Tok Menič ↔ Dom:** Opravené zobrazenie toku energie medzi meničom a domom.
-- **Oprava chyby – SVG solárna predpoveď:** Ikona solárnej predpovede (slnko/dážď) je teraz vždy viditeľná, keď je solárna predpoveď povolená, aj keď je zapnuté "Skryť texty".
-- **PV Box a Grid Box:** Boxy pre fotovoltiku a sieť môžete teraz zakázať priamo z ich príslušných sekcií v editore.
 
-### Čo je nové vo verzii 3.1.2
-
-- **🛡️ Už nikdy nestratíte svoju konfiguráciu:** Tlačidlá Import a Export vám umožnia lokálne uložiť vašu zostavu a okamžite ju obnoviť. Vaše dáta sú konečne v bezpečí.
-- **Rozšírená podpora stringov:** Až 9 stringov pre komplexné inštalácie.
-- **Inteligentná viditeľnosť toku:** Línia toku automaticky zmizne, keď výkon klesne pod nastavenú hranicu, čím udržuje dashboard čistý.
-- **Rozhranie Drag & Drop:** Sekcie PV Box a Grid Box sú teraz plne ovládateľné pomocou "potiahni a pusť" — presuňte a usporiadajte ich presne tam, kam chcete.
-- **Prispôsobiteľný Array 2:** Teraz môžete upraviť text v rámci Array 2.
-- **Opravy chýb:** Opravené #212, #208.
-
-### Čo je nové vo verzii 3.0
-
-- **Bezpečnostná klávesnica (PIN):** V Správa domácnosti → Bezpečnosť môžete priradiť entitu **keypad**. Klávesnica zobrazuje číselník PIN s **farbami, ktoré sa menia podľa stavu** (napr. zapnuté, vypnuté, čakajúce).
-- **Kamera na celú obrazovku pri pohybe:** Keď je detegovaný pohyb (napr. pomocou pohybového senzora), **vyskakovacie okno kamery sa môže roztiahnuť na celú obrazovku**, aby ste jasne videli záznam.
-- **Vlastné prahové hodnoty:** V kategórii farieb tokov môžete nastaviť **prah viditeľnosti toku**, **prah animácie PV** a **prah animácie siete**.
-- **Animácia počítadla: dom alebo menič:** Môžete si vybrať, či **animované počítadlo** zobrazuje **spotrebu domu** alebo **meniča** (napr. celkové PV).
-- **10 vlastných slotov pre toky:** PRO sekcia teraz podporuje **10 vlastných energetických tokov** (predtým 5).
-- **Prekrytia a toky v PRO a Náhľade:** **Prekrývajúce obrázky** a **vlastné toky** je možné upravovať v sekcii PRO aj pomocou potiahnutia v náhľade.
-- **Vlastné pozadie:** Môžete použiť **vlastné pozadie** pomocou URL alebo nahratia obrázka.
-- **Upraviteľný text array:** **Text zobrazený vedľa každého PV/array** je možné **prispôsobiť**.
-- **Ruština a Portugalčina:** Karta a editor sú preložené do ďalších jazykov.
 
 ### Poznámka k výkonu (dôležité pre Raspberry Pi / slabšie zariadenia)
 
