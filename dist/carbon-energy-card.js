@@ -1,4 +1,4 @@
-function _0x3ff6(_0x466405,_0x3a51bd){_0x466405=_0x466405-0x17d;const _0x43e626=_0x43e6();let _0x3ff61a=_0x43e626[_0x466405];if(_0x3ff6['UxuGsj']===undefined){var _0x215501=function(_0x478595){const _0x29dc2c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2329d5='',_0x5646b7='';for(let _0x27b7aa=0x0,_0x3d7be0,_0x5c5890,_0xa22d36=0x0;_0x5c5890=_0x478595['charAt'](_0xa22d36++);~_0x5c5890&&(_0x3d7be0=_0x27b7aa%0x4?_0x3d7be0*0x40+_0x5c5890:_0x5c5890,_0x27b7aa++%0x4)?_0x2329d5+=String['fromCharCode'](0xff&_0x3d7be0>>(-0x2*_0x27b7aa&0x6)):0x0){_0x5c5890=_0x29dc2c['indexOf'](_0x5c5890);}for(let _0x33342c=0x0,_0x308f67=_0x2329d5['length'];_0x33342c<_0x308f67;_0x33342c++){_0x5646b7+='%'+('00'+_0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5646b7);};_0x3ff6['fwkZWt']=_0x215501,_0x3ff6['LwuXOL']={},_0x3ff6['UxuGsj']=!![];}const _0x52447e=_0x43e626[0x0],_0x15534f=_0x466405+_0x52447e,_0x42816b=_0x3ff6['LwuXOL'][_0x15534f];return!_0x42816b?(_0x3ff61a=_0x3ff6['fwkZWt'](_0x3ff61a),_0x3ff6['LwuXOL'][_0x15534f]=_0x3ff61a):_0x3ff61a=_0x42816b,_0x3ff61a;}const _0x3e9f0c=_0x3ff6;(function(_0x576f66,_0x5de548){const _0x4166b4=_0x3ff6,_0x1ce152=_0x576f66();while(!![]){try{const _0x49ae49=-parseInt(_0x4166b4(0x1af))/0x1*(-parseInt(_0x4166b4(0x19f))/0x2)+parseInt(_0x4166b4(0x182))/0x3+parseInt(_0x4166b4(0x1db))/0x4*(parseInt(_0x4166b4(0x191))/0x5)+parseInt(_0x4166b4(0x1bd))/0x6*(parseInt(_0x4166b4(0x1f7))/0x7)+-parseInt(_0x4166b4(0x19c))/0x8*(-parseInt(_0x4166b4(0x1a0))/0x9)+-parseInt(_0x4166b4(0x189))/0xa*(parseInt(_0x4166b4(0x1e4))/0xb)+parseInt(_0x4166b4(0x1ed))/0xc*(-parseInt(_0x4166b4(0x1fb))/0xd);if(_0x49ae49===_0x5de548)break;else _0x1ce152['push'](_0x1ce152['shift']());}catch(_0x440ffd){_0x1ce152['push'](_0x1ce152['shift']());}}}(_0x43e6,0x386c9));function _0x43e6(){const _0x41a43c=['u2nYAxb0igW','zw1LBNq','CMvHC29U','t0rzmKWYrM0','ohHyBMjjrW','zM9YrwfJAa','tNPnD01hvMO','odqWnZu4EKXYqKPy','nJq2nZqWy01iDK14','CMfUzg9T','yvC5EvOYBhy','q29Kzq','C2nYAxb0','z2v0sxrLBq','AxngAw5PDgu','BhvTAw5HlwW','thK5BMfytJa','Dg9mB3DLCKm','wdjwDvPysM4','yM9VBgvHBG','C3rYAw5N','odLHyMnKzwy','ztq0yZLMzti','mvLgq2zTtq','Aef0','lMrLDG','BgfZDenVDw4','BgfZDevYCG','AxnbCNjHEq','m2u1ngjHzwi','BgvUz3rO','yJi1mfPxnta','BhvTAw5Hx2q','yM9KEq','zg9JDw1LBNq','tevdlq','mJbLzdfIyJy','ndiWnZi2uKjoy0je','DhjPBq','C29UCf8','y3jLyxrLrwW','wdnwCfPbpt0','BwvZC2fNzq','B2jQzwn0','BNvTyMvY','Ahr0Chm6lY8','yuHsmgnitty','zvy5ALLysMS','zee9pq','Aw5KzxHpzG','BhvTAw5Hx2O','ww5wELPysMO','BwfW','mwq4mdaWzgm','ChvZAa','wM1nmLPQstu','wLy5mK13pt0','yLDSBMnTrJa','zgqWmMrKmgu','BgfZDezLDgm','jNq9','wKrKA1KYrMO','yxbWzw5Kq2G','C3bSAxq','zfCXCgjTrMy','CMLUDdG2mty','C3rYAw5NAwy','mte3odbMtxzfDeW','Bwf0y2G','wti5A1Prpt0','yvC5Dq','txPNEe56ute','BM93','zMXVB3i','tg1KCgrhAde','tdnkAgr5oxm','mJC1DffHq1zR','CgfYzw50tM8','y21wEgrxvNO','zNvUy3rPB24','zNjVBunOyxi','C3rHCNrZv2K','B2fKigvYCM8','mgrMotGWoty','zw5Zzq','mtq0sNz5tKvv','p3q9','C3rHDhvZ','zwj1z191Cgq','C3jJ','tvrjnu1etMG','y2fSBgjHy2S','zwj1z19SAwm','AwnLBNnLlxa','zfHcA1LyuMW','n0LPuMXOvG','yvC1Bwj3pt0','CMvWBgfJzq','Dgv4Da','oti2mZGWBNrvDgTN','rwXLBwvUDa','C2XPy2u','y2HHCKf0','Aw5JBhvKzxm','CM94Es4Zzha','vgLTzw91Da','ote0ota0CePQtg1H','mJe3yJi2yMi','lNDVCMTLCNm','zM9Yy2u','yxnL','Dg9vChbLCKm','tg1oDMjtouG','ndy3mZbHuvvkCwi','y2HHCKnVzgu','AwXK','yxrL','yJy0owjKmJi','B25LCNjVCG','BgfZDfn0yxq','mdeYmZq1nJC','ntCWBwHuB1L1','zgvSzxrLtM8','Dg9tDhjPBMC','CMvTB3zLq2G','C2v0sxrLBq','yKHwDgfxnwG','BgfZDe9Rqxq'];_0x43e6=function(){return _0x41a43c;};return _0x43e6();}const CARBON_SHA256=_0x2329d5=>{const _0x4ee1ac=_0x3ff6,_0x5646b7=(_0x1b7ac1,_0x500829)=>{const _0xa91838=(0xffff&_0x1b7ac1)+(0xffff&_0x500829);return(_0x1b7ac1>>0x10)+(_0x500829>>0x10)+(_0xa91838>>0x10)<<0x10|0xffff&_0xa91838;},_0x27b7aa=(_0x492e98,_0x5af8a1)=>_0x492e98>>>_0x5af8a1|_0x492e98<<0x20-_0x5af8a1,_0x3d7be0=(_0x241535,_0x4ea8aa)=>_0x241535>>>_0x4ea8aa,_0x5c5890=(_0x199205,_0x2de4e0,_0x229222)=>_0x199205&_0x2de4e0^~_0x199205&_0x229222,_0xa22d36=(_0x2806c6,_0x251267,_0x48a6a2)=>_0x2806c6&_0x251267^_0x2806c6&_0x48a6a2^_0x251267&_0x48a6a2,_0x33342c=_0x2d3fb9=>_0x27b7aa(_0x2d3fb9,0x2)^_0x27b7aa(_0x2d3fb9,0xd)^_0x27b7aa(_0x2d3fb9,0x16),_0x308f67=_0x5ba148=>_0x27b7aa(_0x5ba148,0x6)^_0x27b7aa(_0x5ba148,0xb)^_0x27b7aa(_0x5ba148,0x19),_0x5d2d9b=_0x3b1ffd=>_0x27b7aa(_0x3b1ffd,0x7)^_0x27b7aa(_0x3b1ffd,0x12)^_0x3d7be0(_0x3b1ffd,0x3),_0x20f8d8=_0x50b736=>_0x27b7aa(_0x50b736,0x11)^_0x27b7aa(_0x50b736,0x13)^_0x3d7be0(_0x50b736,0xa),_0x1a00d7=(_0x353995=>{const _0x5a18ee=_0x3ff6;_0x353995=_0x353995[_0x5a18ee(0x1f9)](/\r\n/g,'\x0a');let _0x2c3128='';for(let _0x127dd2=0x0;_0x127dd2<_0x353995[_0x5a18ee(0x1b6)];_0x127dd2++){const _0x262237=_0x353995[_0x5a18ee(0x18a)+'At'](_0x127dd2);_0x262237<0x80?_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237):_0x262237>0x7f&&_0x262237<0x800?(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6|0xc0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80)):(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0xc|0xe0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6&0x3f|0x80),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80));}return _0x2c3128;})(_0x2329d5);return(_0x330f5e=>{const _0xdf4e43=_0x3ff6;let _0x57885c='';for(let _0x1d9e85=0x0;_0x1d9e85<0x4*_0x330f5e[_0xdf4e43(0x1b6)];_0x1d9e85++)_0x57885c+=(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)+0x4&0xf)+(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)&0xf);return _0x57885c;})(((_0x10c921,_0x5b870f)=>{const _0x1d2e8c=_0x3ff6,_0x2faf33=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x65c1ad=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x4077fa=new Array(0x40);let _0x5091c4,_0x2d47bb,_0x5df66e,_0x592961,_0x389325,_0x2124fb,_0x146ff4,_0x3ac10c,_0x459f37,_0x257abe,_0xf3f096,_0x495a70;for(_0x10c921[_0x5b870f>>0x5]|=0x80<<0x18-_0x5b870f%0x20,_0x10c921[0xf+(_0x5b870f+0x40>>0x9<<0x4)]=_0x5b870f,_0x459f37=0x0;_0x459f37<_0x10c921[_0x1d2e8c(0x1b6)];_0x459f37+=0x10){for(_0x5091c4=_0x65c1ad[0x0],_0x2d47bb=_0x65c1ad[0x1],_0x5df66e=_0x65c1ad[0x2],_0x592961=_0x65c1ad[0x3],_0x389325=_0x65c1ad[0x4],_0x2124fb=_0x65c1ad[0x5],_0x146ff4=_0x65c1ad[0x6],_0x3ac10c=_0x65c1ad[0x7],_0x257abe=0x0;_0x257abe<0x40;_0x257abe++)_0x4077fa[_0x257abe]=_0x257abe<0x10?_0x10c921[_0x257abe+_0x459f37]:_0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe-0x2]),_0x4077fa[_0x257abe-0x7]),_0x5d2d9b(_0x4077fa[_0x257abe-0xf])),_0x4077fa[_0x257abe-0x10]),_0xf3f096=_0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c,_0x308f67(_0x389325)),_0x5c5890(_0x389325,_0x2124fb,_0x146ff4)),_0x2faf33[_0x257abe]),_0x4077fa[_0x257abe]),_0x495a70=_0x5646b7(_0x33342c(_0x5091c4),_0xa22d36(_0x5091c4,_0x2d47bb,_0x5df66e)),_0x3ac10c=_0x146ff4,_0x146ff4=_0x2124fb,_0x2124fb=_0x389325,_0x389325=_0x5646b7(_0x592961,_0xf3f096),_0x592961=_0x5df66e,_0x5df66e=_0x2d47bb,_0x2d47bb=_0x5091c4,_0x5091c4=_0x5646b7(_0xf3f096,_0x495a70);_0x65c1ad[0x0]=_0x5646b7(_0x5091c4,_0x65c1ad[0x0]),_0x65c1ad[0x1]=_0x5646b7(_0x2d47bb,_0x65c1ad[0x1]),_0x65c1ad[0x2]=_0x5646b7(_0x5df66e,_0x65c1ad[0x2]),_0x65c1ad[0x3]=_0x5646b7(_0x592961,_0x65c1ad[0x3]),_0x65c1ad[0x4]=_0x5646b7(_0x389325,_0x65c1ad[0x4]),_0x65c1ad[0x5]=_0x5646b7(_0x2124fb,_0x65c1ad[0x5]),_0x65c1ad[0x6]=_0x5646b7(_0x146ff4,_0x65c1ad[0x6]),_0x65c1ad[0x7]=_0x5646b7(_0x3ac10c,_0x65c1ad[0x7]);}return _0x65c1ad;})((_0x1afcfd=>{const _0x13b720=_0x3ff6,_0x4d7c10=[];for(let _0xab8363=0x0;_0xab8363<0x8*_0x1afcfd[_0x13b720(0x1b6)];_0xab8363+=0x8)_0x4d7c10[_0xab8363>>0x5]|=(0xff&_0x1afcfd[_0x13b720(0x18a)+'At'](_0xab8363/0x8))<<0x18-_0xab8363%0x20;return _0x4d7c10;})(_0x1a00d7),0x8*_0x1a00d7[_0x4ee1ac(0x1b6)]));},CARBON_REMOTE_URL=atob(_0x3e9f0c(0x1c6)+_0x3e9f0c(0x1a8)+_0x3e9f0c(0x1e2)+_0x3e9f0c(0x1cb)+_0x3e9f0c(0x1b7)+_0x3e9f0c(0x188)+_0x3e9f0c(0x1a2)+_0x3e9f0c(0x19b)+_0x3e9f0c(0x1cf)+_0x3e9f0c(0x1d5)+_0x3e9f0c(0x1df)+_0x3e9f0c(0x1f2)+_0x3e9f0c(0x19e)+_0x3e9f0c(0x1e3)+_0x3e9f0c(0x1d8)+_0x3e9f0c(0x1dd));let CARBON_AUTH_LIST_V1=null,CARBON_AUTH_LIST_V2=null,CARBON_AUTH_LIST_V3=null,CARBON_FETCHING=!0x1,CARBON_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const CARBON_UNLOCK_V1_IDS=[_0x3e9f0c(0x1ae)+_0x3e9f0c(0x1d2)+_0x3e9f0c(0x1b5)+_0x3e9f0c(0x1eb)+_0x3e9f0c(0x18d)+_0x3e9f0c(0x183)+_0x3e9f0c(0x1bc)+_0x3e9f0c(0x1cd)],CARBON_UNLOCK_V3_IDS=[],CARBON_DEBUG_LICENSE=((()=>{const _0x2b8df3=_0x3e9f0c;try{return'1'===localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8)+_0x2b8df3(0x1f4)+_0x2b8df3(0x1ec));}catch(_0x168e0f){return!0x1;}})()),CARBON_UID_KEY=atob(_0x3e9f0c(0x196)+_0x3e9f0c(0x1aa)+_0x3e9f0c(0x1c7)+_0x3e9f0c(0x1c1)),getCarbonUID=()=>{const _0x14462e=_0x3e9f0c;try{const _0x58f772=localStorage[_0x14462e(0x1a5)](CARBON_UID_KEY);if(_0x58f772&&_0x14462e(0x1ac)==typeof _0x58f772&&_0x58f772[_0x14462e(0x1e9)+'th'](_0x14462e(0x1bb)))return _0x58f772;const _0xa7361f=(Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2)+Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187)+_0x14462e(0x186)](),_0x344187=_0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0xa7361f[_0x14462e(0x17d)](0x0,0x10);return localStorage[_0x14462e(0x195)](CARBON_UID_KEY,_0x344187),_0x344187;}catch(_0x975837){const _0x1e4830=Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2,0xa)[_0x14462e(0x187)+_0x14462e(0x186)]();return _0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0x1e4830;}},CARBON_LICENSE_ENDPOINT=_0x3e9f0c(0x1c5)+_0x3e9f0c(0x1a7)+_0x3e9f0c(0x1f5)+_0x3e9f0c(0x180)+_0x3e9f0c(0x1d9)+_0x3e9f0c(0x184)+_0x3e9f0c(0x1b1),CARBON_ACT_REQ=atob(_0x3e9f0c(0x1e6)+_0x3e9f0c(0x1c8)),CARBON_ACT_MIG=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1de)),CARBON_ACT_UPDATEINFO=atob(_0x3e9f0c(0x1f6)+_0x3e9f0c(0x1f8)),CARBON_ACT_MIGRATE_V3=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1d0)),CARBON_DEBUG_UPDATE=((()=>{const _0x30882d=_0x3e9f0c;try{return'1'===localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8)+_0x30882d(0x1f0)+_0x30882d(0x18c));}catch(_0x523e5b){return!0x1;}})()),CARBON_JSONP=(_0x378b52,_0x286958=0x3a98)=>new Promise((_0x4d81af,_0x55a97b)=>{const _0x47ef16=_0x3e9f0c;try{const _0x2f4fdd=_0x47ef16(0x1ca)+_0x47ef16(0x1bf)+Date[_0x47ef16(0x1e0)]()+'_'+Math[_0x47ef16(0x1e1)](0x3b9aca00*Math[_0x47ef16(0x1a1)]()),_0x2901f1=document[_0x47ef16(0x1c0)+_0x47ef16(0x199)](_0x47ef16(0x1a4));let _0x3f40c8=!0x1;const _0x318fb4=_0x458dfe=>{const _0xd5e569=_0x47ef16;if(!_0x3f40c8){if(_0x3f40c8=!0x0,_0x458dfe&&_0x458dfe[_0xd5e569(0x192)+'w'])try{delete window[_0x2f4fdd];}catch(_0x295bb3){try{window[_0x2f4fdd]=void 0x0;}catch(_0x51ce4d){}}else{try{window[_0x2f4fdd]=()=>{};}catch(_0xbf63a9){}try{setTimeout(()=>{try{delete window[_0x2f4fdd];}catch(_0xc35372){}},0x1d4c0);}catch(_0x2f0972){}}try{_0x2901f1&&_0x2901f1[_0xd5e569(0x1e5)+'de']&&_0x2901f1[_0xd5e569(0x1e5)+'de'][_0xd5e569(0x194)+_0xd5e569(0x18b)](_0x2901f1);}catch(_0xebe0ff){}}},_0x15812d=setTimeout(()=>{const _0x563f64=_0x47ef16;_0x318fb4({'deleteNow':!0x1}),_0x55a97b(new Error(_0x563f64(0x181)));},_0x286958);window[_0x2f4fdd]=_0x233cff=>{clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x4d81af(_0x233cff);},_0x2901f1[_0x47ef16(0x18e)]=()=>{const _0x4aaacd=_0x47ef16;clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x55a97b(new Error(_0x4aaacd(0x198)+_0x4aaacd(0x1ea)+'r'));},_0x2901f1[_0x47ef16(0x1f1)]=_0x378b52+(_0x378b52[_0x47ef16(0x1c9)]('?')>=0x0?'&':'?')+(_0x47ef16(0x1f3)+'=')+_0x2f4fdd+_0x47ef16(0x1d4)+Date[_0x47ef16(0x1e0)](),(document[_0x47ef16(0x1b9)]||document[_0x47ef16(0x1ba)+_0x47ef16(0x1fc)])[_0x47ef16(0x1d6)+_0x47ef16(0x18b)](_0x2901f1);}catch(_0x15b782){_0x55a97b(_0x15b782);}}),CARBON_PACK=_0x236507=>{const _0x5592ba=_0x3e9f0c;try{const _0x269bee=JSON[_0x5592ba(0x1da)+'y'](_0x236507||{});return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g,'-')[_0x5592ba(0x1f9)](/\//g,'_')[_0x5592ba(0x1f9)](/=+$/g,'');}catch(_0x2a1fcc){return'';}},CARBON_VERSION_CMP=(_0x435c11,_0x33032a)=>{const _0x3ad0b1=_0x3e9f0c,_0x2d951=String(_0x435c11||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470=>parseInt(_0x176470,0xa)),_0x5c17b5=String(_0x33032a||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145=>parseInt(_0x5d4145,0xa));for(let _0x1feeba=0x0;_0x1feeba<0x3;_0x1feeba++){const _0x33b552=Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba])?_0x2d951[_0x1feeba]:0x0,_0x5bca8f=Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba])?_0x5c17b5[_0x1feeba]:0x0;if(_0x33b552<_0x5bca8f)return-0x1;if(_0x33b552>_0x5bca8f)return 0x1;}return 0x0;},CARBON_REFRESH_AUTH=async _0x289813=>{const _0x12d4ea=_0x3e9f0c;let _0x184478=null,_0x43a88a=!0x1,_0x37661f='';if(_0x12d4ea(0x1e7)==typeof _0x289813?_0x184478=_0x289813:_0x12d4ea(0x1ab)==typeof _0x289813?_0x43a88a=_0x289813:_0x289813&&_0x12d4ea(0x1c3)==typeof _0x289813&&(_0x184478=_0x12d4ea(0x1e7)==typeof _0x289813[_0x12d4ea(0x1f3)]?_0x289813[_0x12d4ea(0x1f3)]:null,_0x43a88a=!!_0x289813[_0x12d4ea(0x185)],_0x289813[_0x12d4ea(0x19a)]?String(_0x289813[_0x12d4ea(0x19a)]):''),!_0x43a88a&&null!==CARBON_AUTH_LIST_V1&&null!==CARBON_AUTH_LIST_V2&&null!==CARBON_AUTH_LIST_V3)return CARBON_AUTH_LIST_V1;if(CARBON_FETCHING)return null;CARBON_FETCHING=!0x0,CARBON_AUTH_META[_0x12d4ea(0x1d3)+_0x12d4ea(0x1b0)]=Date[_0x12d4ea(0x1e0)](),CARBON_AUTH_META[_0x12d4ea(0x1b3)]='';try{const _0x18f471=CARBON_REMOTE_URL+_0x12d4ea(0x1ee)+Date[_0x12d4ea(0x1e0)](),_0x7a65c6=await fetch(_0x18f471);try{CARBON_AUTH_META[_0x12d4ea(0x18f)+'us']=_0x7a65c6&&_0x12d4ea(0x1c4)==typeof _0x7a65c6[_0x12d4ea(0x1ef)]?_0x7a65c6[_0x12d4ea(0x1ef)]:0x0;}catch(_0x4635f0){CARBON_AUTH_META[_0x12d4ea(0x18f)+'us']=0x0;}const _0x44c726=(await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/);CARBON_AUTH_LIST_V1=[],CARBON_AUTH_LIST_V2=[],CARBON_AUTH_LIST_V3=[];for(let _0x570264=0x0;_0x570264<_0x44c726[_0x12d4ea(0x1b6)];_0x570264++){const _0x186db5=_0x44c726[_0x570264][_0x12d4ea(0x1be)](),_0x7ac088=_0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/);_0x7ac088&&_0x7ac088[0x1]&&CARBON_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x25d3c7=_0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/);_0x25d3c7&&_0x25d3c7[0x1]&&CARBON_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x518d5c=_0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/);_0x518d5c&&_0x518d5c[0x1]&&CARBON_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());}Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS)&&CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb=>{const _0x13f0ac=_0x12d4ea;if(_0x2e98cb&&_0x13f0ac(0x1ac)==typeof _0x2e98cb&&0x40===_0x2e98cb[_0x13f0ac(0x1b6)]){const _0x24d746=_0x2e98cb[_0x13f0ac(0x1a9)+_0x13f0ac(0x186)]();CARBON_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746)||CARBON_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746);}}),Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS)&&CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d=>{const _0x13e08b=_0x12d4ea;if(_0x2f030d&&_0x13e08b(0x1ac)==typeof _0x2f030d&&0x40===_0x2f030d[_0x13e08b(0x1b6)]){const _0x21c23f=_0x2f030d[_0x13e08b(0x1a9)+_0x13e08b(0x186)]();CARBON_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f)||CARBON_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f);}}),CARBON_AUTH_META[_0x12d4ea(0x197)]=Date[_0x12d4ea(0x1e0)]();const _0x3bdbe7=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V1)?CARBON_AUTH_LIST_V1[_0x12d4ea(0x1b6)]:0x0,_0x465ea1=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V2)?CARBON_AUTH_LIST_V2[_0x12d4ea(0x1b6)]:0x0,_0x3c8215=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V3)?CARBON_AUTH_LIST_V3[_0x12d4ea(0x1b6)]:0x0;CARBON_AUTH_META[_0x12d4ea(0x1b2)+'t']=_0x3bdbe7+_0x465ea1+_0x3c8215,_0x184478&&_0x184478();}catch(_0x40103b){CARBON_AUTH_META[_0x12d4ea(0x1b3)]=_0x40103b&&_0x40103b[_0x12d4ea(0x1c2)]?String(_0x40103b[_0x12d4ea(0x1c2)]):String(_0x40103b),CARBON_AUTH_LIST_V1=[],CARBON_AUTH_LIST_V2=[],CARBON_AUTH_LIST_V3=[],Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS)&&CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4=>{const _0x4d6420=_0x12d4ea;if(_0x38bab4&&_0x4d6420(0x1ac)==typeof _0x38bab4&&0x40===_0x38bab4[_0x4d6420(0x1b6)]){const _0x5ac55d=_0x38bab4[_0x4d6420(0x1a9)+_0x4d6420(0x186)]();CARBON_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d)||CARBON_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d);}}),Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS)&&CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80=>{const _0x43ac38=_0x12d4ea;if(_0x4d2b80&&_0x43ac38(0x1ac)==typeof _0x4d2b80&&0x40===_0x4d2b80[_0x43ac38(0x1b6)]){const _0x5473d8=_0x4d2b80[_0x43ac38(0x1a9)+_0x43ac38(0x186)]();CARBON_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8)||CARBON_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8);}}),_0x184478&&_0x184478();}finally{CARBON_FETCHING=!0x1;}return CARBON_AUTH_LIST_V1;};const __s = (...a) => a.join('');
+function _0x3ff6(_0x466405, _0x3a51bd) { _0x466405 = _0x466405 - 0x17d; const _0x43e626 = _0x43e6(); let _0x3ff61a = _0x43e626[_0x466405]; if (_0x3ff6['UxuGsj'] === undefined) { var _0x215501 = function (_0x478595) { const _0x29dc2c = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/='; let _0x2329d5 = '', _0x5646b7 = ''; for (let _0x27b7aa = 0x0, _0x3d7be0, _0x5c5890, _0xa22d36 = 0x0; _0x5c5890 = _0x478595['charAt'](_0xa22d36++); ~_0x5c5890 && (_0x3d7be0 = _0x27b7aa % 0x4 ? _0x3d7be0 * 0x40 + _0x5c5890 : _0x5c5890, _0x27b7aa++ % 0x4) ? _0x2329d5 += String['fromCharCode'](0xff & _0x3d7be0 >> (-0x2 * _0x27b7aa & 0x6)) : 0x0) { _0x5c5890 = _0x29dc2c['indexOf'](_0x5c5890); } for (let _0x33342c = 0x0, _0x308f67 = _0x2329d5['length']; _0x33342c < _0x308f67; _0x33342c++) { _0x5646b7 += '%' + ('00' + _0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2); } return decodeURIComponent(_0x5646b7); }; _0x3ff6['fwkZWt'] = _0x215501, _0x3ff6['LwuXOL'] = {}, _0x3ff6['UxuGsj'] = !![]; } const _0x52447e = _0x43e626[0x0], _0x15534f = _0x466405 + _0x52447e, _0x42816b = _0x3ff6['LwuXOL'][_0x15534f]; return !_0x42816b ? (_0x3ff61a = _0x3ff6['fwkZWt'](_0x3ff61a), _0x3ff6['LwuXOL'][_0x15534f] = _0x3ff61a) : _0x3ff61a = _0x42816b, _0x3ff61a; } const _0x3e9f0c = _0x3ff6; (function (_0x576f66, _0x5de548) { const _0x4166b4 = _0x3ff6, _0x1ce152 = _0x576f66(); while (!![]) { try { const _0x49ae49 = -parseInt(_0x4166b4(0x1af)) / 0x1 * (-parseInt(_0x4166b4(0x19f)) / 0x2) + parseInt(_0x4166b4(0x182)) / 0x3 + parseInt(_0x4166b4(0x1db)) / 0x4 * (parseInt(_0x4166b4(0x191)) / 0x5) + parseInt(_0x4166b4(0x1bd)) / 0x6 * (parseInt(_0x4166b4(0x1f7)) / 0x7) + -parseInt(_0x4166b4(0x19c)) / 0x8 * (-parseInt(_0x4166b4(0x1a0)) / 0x9) + -parseInt(_0x4166b4(0x189)) / 0xa * (parseInt(_0x4166b4(0x1e4)) / 0xb) + parseInt(_0x4166b4(0x1ed)) / 0xc * (-parseInt(_0x4166b4(0x1fb)) / 0xd); if (_0x49ae49 === _0x5de548) break; else _0x1ce152['push'](_0x1ce152['shift']()); } catch (_0x440ffd) { _0x1ce152['push'](_0x1ce152['shift']()); } } }(_0x43e6, 0x386c9)); function _0x43e6() { const _0x41a43c = ['u2nYAxb0igW', 'zw1LBNq', 'CMvHC29U', 't0rzmKWYrM0', 'ohHyBMjjrW', 'zM9YrwfJAa', 'tNPnD01hvMO', 'odqWnZu4EKXYqKPy', 'nJq2nZqWy01iDK14', 'CMfUzg9T', 'yvC5EvOYBhy', 'q29Kzq', 'C2nYAxb0', 'z2v0sxrLBq', 'AxngAw5PDgu', 'BhvTAw5HlwW', 'thK5BMfytJa', 'Dg9mB3DLCKm', 'wdjwDvPysM4', 'yM9VBgvHBG', 'C3rYAw5N', 'odLHyMnKzwy', 'ztq0yZLMzti', 'mvLgq2zTtq', 'Aef0', 'lMrLDG', 'BgfZDenVDw4', 'BgfZDevYCG', 'AxnbCNjHEq', 'm2u1ngjHzwi', 'BgvUz3rO', 'yJi1mfPxnta', 'BhvTAw5Hx2q', 'yM9KEq', 'zg9JDw1LBNq', 'tevdlq', 'mJbLzdfIyJy', 'ndiWnZi2uKjoy0je', 'DhjPBq', 'C29UCf8', 'y3jLyxrLrwW', 'wdnwCfPbpt0', 'BwvZC2fNzq', 'B2jQzwn0', 'BNvTyMvY', 'Ahr0Chm6lY8', 'yuHsmgnitty', 'zvy5ALLysMS', 'zee9pq', 'Aw5KzxHpzG', 'BhvTAw5Hx2O', 'ww5wELPysMO', 'BwfW', 'mwq4mdaWzgm', 'ChvZAa', 'wM1nmLPQstu', 'wLy5mK13pt0', 'yLDSBMnTrJa', 'zgqWmMrKmgu', 'BgfZDezLDgm', 'jNq9', 'wKrKA1KYrMO', 'yxbWzw5Kq2G', 'C3bSAxq', 'zfCXCgjTrMy', 'CMLUDdG2mty', 'C3rYAw5NAwy', 'mte3odbMtxzfDeW', 'Bwf0y2G', 'wti5A1Prpt0', 'yvC5Dq', 'txPNEe56ute', 'BM93', 'zMXVB3i', 'tg1KCgrhAde', 'tdnkAgr5oxm', 'mJC1DffHq1zR', 'CgfYzw50tM8', 'y21wEgrxvNO', 'zNvUy3rPB24', 'zNjVBunOyxi', 'C3rHCNrZv2K', 'B2fKigvYCM8', 'mgrMotGWoty', 'zw5Zzq', 'mtq0sNz5tKvv', 'p3q9', 'C3rHDhvZ', 'zwj1z191Cgq', 'C3jJ', 'tvrjnu1etMG', 'y2fSBgjHy2S', 'zwj1z19SAwm', 'AwnLBNnLlxa', 'zfHcA1LyuMW', 'n0LPuMXOvG', 'yvC1Bwj3pt0', 'CMvWBgfJzq', 'Dgv4Da', 'oti2mZGWBNrvDgTN', 'rwXLBwvUDa', 'C2XPy2u', 'y2HHCKf0', 'Aw5JBhvKzxm', 'CM94Es4Zzha', 'vgLTzw91Da', 'ote0ota0CePQtg1H', 'mJe3yJi2yMi', 'lNDVCMTLCNm', 'zM9Yy2u', 'yxnL', 'Dg9vChbLCKm', 'tg1oDMjtouG', 'ndy3mZbHuvvkCwi', 'y2HHCKnVzgu', 'AwXK', 'yxrL', 'yJy0owjKmJi', 'B25LCNjVCG', 'BgfZDfn0yxq', 'mdeYmZq1nJC', 'ntCWBwHuB1L1', 'zgvSzxrLtM8', 'Dg9tDhjPBMC', 'CMvTB3zLq2G', 'C2v0sxrLBq', 'yKHwDgfxnwG', 'BgfZDe9Rqxq']; _0x43e6 = function () { return _0x41a43c; }; return _0x43e6(); } const CARBON_SHA256 = _0x2329d5 => { const _0x4ee1ac = _0x3ff6, _0x5646b7 = (_0x1b7ac1, _0x500829) => { const _0xa91838 = (0xffff & _0x1b7ac1) + (0xffff & _0x500829); return (_0x1b7ac1 >> 0x10) + (_0x500829 >> 0x10) + (_0xa91838 >> 0x10) << 0x10 | 0xffff & _0xa91838; }, _0x27b7aa = (_0x492e98, _0x5af8a1) => _0x492e98 >>> _0x5af8a1 | _0x492e98 << 0x20 - _0x5af8a1, _0x3d7be0 = (_0x241535, _0x4ea8aa) => _0x241535 >>> _0x4ea8aa, _0x5c5890 = (_0x199205, _0x2de4e0, _0x229222) => _0x199205 & _0x2de4e0 ^ ~_0x199205 & _0x229222, _0xa22d36 = (_0x2806c6, _0x251267, _0x48a6a2) => _0x2806c6 & _0x251267 ^ _0x2806c6 & _0x48a6a2 ^ _0x251267 & _0x48a6a2, _0x33342c = _0x2d3fb9 => _0x27b7aa(_0x2d3fb9, 0x2) ^ _0x27b7aa(_0x2d3fb9, 0xd) ^ _0x27b7aa(_0x2d3fb9, 0x16), _0x308f67 = _0x5ba148 => _0x27b7aa(_0x5ba148, 0x6) ^ _0x27b7aa(_0x5ba148, 0xb) ^ _0x27b7aa(_0x5ba148, 0x19), _0x5d2d9b = _0x3b1ffd => _0x27b7aa(_0x3b1ffd, 0x7) ^ _0x27b7aa(_0x3b1ffd, 0x12) ^ _0x3d7be0(_0x3b1ffd, 0x3), _0x20f8d8 = _0x50b736 => _0x27b7aa(_0x50b736, 0x11) ^ _0x27b7aa(_0x50b736, 0x13) ^ _0x3d7be0(_0x50b736, 0xa), _0x1a00d7 = (_0x353995 => { const _0x5a18ee = _0x3ff6; _0x353995 = _0x353995[_0x5a18ee(0x1f9)](/\r\n/g, '\x0a'); let _0x2c3128 = ''; for (let _0x127dd2 = 0x0; _0x127dd2 < _0x353995[_0x5a18ee(0x1b6)]; _0x127dd2++) { const _0x262237 = _0x353995[_0x5a18ee(0x18a) + 'At'](_0x127dd2); _0x262237 < 0x80 ? _0x2c3128 += String[_0x5a18ee(0x1e8) + _0x5a18ee(0x1a3)](_0x262237) : _0x262237 > 0x7f && _0x262237 < 0x800 ? (_0x2c3128 += String[_0x5a18ee(0x1e8) + _0x5a18ee(0x1a3)](_0x262237 >> 0x6 | 0xc0), _0x2c3128 += String[_0x5a18ee(0x1e8) + _0x5a18ee(0x1a3)](0x3f & _0x262237 | 0x80)) : (_0x2c3128 += String[_0x5a18ee(0x1e8) + _0x5a18ee(0x1a3)](_0x262237 >> 0xc | 0xe0), _0x2c3128 += String[_0x5a18ee(0x1e8) + _0x5a18ee(0x1a3)](_0x262237 >> 0x6 & 0x3f | 0x80), _0x2c3128 += String[_0x5a18ee(0x1e8) + _0x5a18ee(0x1a3)](0x3f & _0x262237 | 0x80)); } return _0x2c3128; })(_0x2329d5); return (_0x330f5e => { const _0xdf4e43 = _0x3ff6; let _0x57885c = ''; for (let _0x1d9e85 = 0x0; _0x1d9e85 < 0x4 * _0x330f5e[_0xdf4e43(0x1b6)]; _0x1d9e85++)_0x57885c += (_0xdf4e43(0x190) + _0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85 >> 0x2] >> 0x8 * (0x3 - _0x1d9e85 % 0x4) + 0x4 & 0xf) + (_0xdf4e43(0x190) + _0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85 >> 0x2] >> 0x8 * (0x3 - _0x1d9e85 % 0x4) & 0xf); return _0x57885c; })(((_0x10c921, _0x5b870f) => { const _0x1d2e8c = _0x3ff6, _0x2faf33 = [0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5, 0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174, 0xe49b69c1, 0xefbe4786, 0xfc19dc6, 0x240ca1cc, 0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da, 0x983e5152, 0xa831c66d, 0xb00327c8, 0xbf597fc7, 0xc6e00bf3, 0xd5a79147, 0x6ca6351, 0x14292967, 0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13, 0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85, 0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3, 0xd192e819, 0xd6990624, 0xf40e3585, 0x106aa070, 0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5, 0x391c0cb3, 0x4ed8aa4a, 0x5b9cca4f, 0x682e6ff3, 0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2], _0x65c1ad = [0x6a09e667, 0xbb67ae85, 0x3c6ef372, 0xa54ff53a, 0x510e527f, 0x9b05688c, 0x1f83d9ab, 0x5be0cd19], _0x4077fa = new Array(0x40); let _0x5091c4, _0x2d47bb, _0x5df66e, _0x592961, _0x389325, _0x2124fb, _0x146ff4, _0x3ac10c, _0x459f37, _0x257abe, _0xf3f096, _0x495a70; for (_0x10c921[_0x5b870f >> 0x5] |= 0x80 << 0x18 - _0x5b870f % 0x20, _0x10c921[0xf + (_0x5b870f + 0x40 >> 0x9 << 0x4)] = _0x5b870f, _0x459f37 = 0x0; _0x459f37 < _0x10c921[_0x1d2e8c(0x1b6)]; _0x459f37 += 0x10) { for (_0x5091c4 = _0x65c1ad[0x0], _0x2d47bb = _0x65c1ad[0x1], _0x5df66e = _0x65c1ad[0x2], _0x592961 = _0x65c1ad[0x3], _0x389325 = _0x65c1ad[0x4], _0x2124fb = _0x65c1ad[0x5], _0x146ff4 = _0x65c1ad[0x6], _0x3ac10c = _0x65c1ad[0x7], _0x257abe = 0x0; _0x257abe < 0x40; _0x257abe++)_0x4077fa[_0x257abe] = _0x257abe < 0x10 ? _0x10c921[_0x257abe + _0x459f37] : _0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe - 0x2]), _0x4077fa[_0x257abe - 0x7]), _0x5d2d9b(_0x4077fa[_0x257abe - 0xf])), _0x4077fa[_0x257abe - 0x10]), _0xf3f096 = _0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c, _0x308f67(_0x389325)), _0x5c5890(_0x389325, _0x2124fb, _0x146ff4)), _0x2faf33[_0x257abe]), _0x4077fa[_0x257abe]), _0x495a70 = _0x5646b7(_0x33342c(_0x5091c4), _0xa22d36(_0x5091c4, _0x2d47bb, _0x5df66e)), _0x3ac10c = _0x146ff4, _0x146ff4 = _0x2124fb, _0x2124fb = _0x389325, _0x389325 = _0x5646b7(_0x592961, _0xf3f096), _0x592961 = _0x5df66e, _0x5df66e = _0x2d47bb, _0x2d47bb = _0x5091c4, _0x5091c4 = _0x5646b7(_0xf3f096, _0x495a70); _0x65c1ad[0x0] = _0x5646b7(_0x5091c4, _0x65c1ad[0x0]), _0x65c1ad[0x1] = _0x5646b7(_0x2d47bb, _0x65c1ad[0x1]), _0x65c1ad[0x2] = _0x5646b7(_0x5df66e, _0x65c1ad[0x2]), _0x65c1ad[0x3] = _0x5646b7(_0x592961, _0x65c1ad[0x3]), _0x65c1ad[0x4] = _0x5646b7(_0x389325, _0x65c1ad[0x4]), _0x65c1ad[0x5] = _0x5646b7(_0x2124fb, _0x65c1ad[0x5]), _0x65c1ad[0x6] = _0x5646b7(_0x146ff4, _0x65c1ad[0x6]), _0x65c1ad[0x7] = _0x5646b7(_0x3ac10c, _0x65c1ad[0x7]); } return _0x65c1ad; })((_0x1afcfd => { const _0x13b720 = _0x3ff6, _0x4d7c10 = []; for (let _0xab8363 = 0x0; _0xab8363 < 0x8 * _0x1afcfd[_0x13b720(0x1b6)]; _0xab8363 += 0x8)_0x4d7c10[_0xab8363 >> 0x5] |= (0xff & _0x1afcfd[_0x13b720(0x18a) + 'At'](_0xab8363 / 0x8)) << 0x18 - _0xab8363 % 0x20; return _0x4d7c10; })(_0x1a00d7), 0x8 * _0x1a00d7[_0x4ee1ac(0x1b6)])); }, CARBON_REMOTE_URL = atob(_0x3e9f0c(0x1c6) + _0x3e9f0c(0x1a8) + _0x3e9f0c(0x1e2) + _0x3e9f0c(0x1cb) + _0x3e9f0c(0x1b7) + _0x3e9f0c(0x188) + _0x3e9f0c(0x1a2) + _0x3e9f0c(0x19b) + _0x3e9f0c(0x1cf) + _0x3e9f0c(0x1d5) + _0x3e9f0c(0x1df) + _0x3e9f0c(0x1f2) + _0x3e9f0c(0x19e) + _0x3e9f0c(0x1e3) + _0x3e9f0c(0x1d8) + _0x3e9f0c(0x1dd)); let CARBON_AUTH_LIST_V1 = null, CARBON_AUTH_LIST_V2 = null, CARBON_AUTH_LIST_V3 = null, CARBON_FETCHING = !0x1, CARBON_AUTH_META = { 'lastFetchAt': 0x0, 'lastOkAt': 0x0, 'lastErr': '', 'lastCount': 0x0, 'lastStatus': 0x0 }; const CARBON_UNLOCK_V1_IDS = [_0x3e9f0c(0x1ae) + _0x3e9f0c(0x1d2) + _0x3e9f0c(0x1b5) + _0x3e9f0c(0x1eb) + _0x3e9f0c(0x18d) + _0x3e9f0c(0x183) + _0x3e9f0c(0x1bc) + _0x3e9f0c(0x1cd)], CARBON_UNLOCK_V3_IDS = [], CARBON_DEBUG_LICENSE = ((() => { const _0x2b8df3 = _0x3e9f0c; try { return '1' === localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8) + _0x2b8df3(0x1f4) + _0x2b8df3(0x1ec)); } catch (_0x168e0f) { return !0x1; } })()), CARBON_UID_KEY = atob(_0x3e9f0c(0x196) + _0x3e9f0c(0x1aa) + _0x3e9f0c(0x1c7) + _0x3e9f0c(0x1c1)), getCarbonUID = () => { const _0x14462e = _0x3e9f0c; try { const _0x58f772 = localStorage[_0x14462e(0x1a5)](CARBON_UID_KEY); if (_0x58f772 && _0x14462e(0x1ac) == typeof _0x58f772 && _0x58f772[_0x14462e(0x1e9) + 'th'](_0x14462e(0x1bb))) return _0x58f772; const _0xa7361f = (Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2) + Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187) + _0x14462e(0x186)](), _0x344187 = _0x14462e(0x1bb) + Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187) + _0x14462e(0x186)]() + '-' + _0xa7361f[_0x14462e(0x17d)](0x0, 0x10); return localStorage[_0x14462e(0x195)](CARBON_UID_KEY, _0x344187), _0x344187; } catch (_0x975837) { const _0x1e4830 = Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2, 0xa)[_0x14462e(0x187) + _0x14462e(0x186)](); return _0x14462e(0x1bb) + Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187) + _0x14462e(0x186)]() + '-' + _0x1e4830; } }, CARBON_LICENSE_ENDPOINT = _0x3e9f0c(0x1c5) + _0x3e9f0c(0x1a7) + _0x3e9f0c(0x1f5) + _0x3e9f0c(0x180) + _0x3e9f0c(0x1d9) + _0x3e9f0c(0x184) + _0x3e9f0c(0x1b1), CARBON_ACT_REQ = atob(_0x3e9f0c(0x1e6) + _0x3e9f0c(0x1c8)), CARBON_ACT_MIG = atob(_0x3e9f0c(0x1d1) + _0x3e9f0c(0x1de)), CARBON_ACT_UPDATEINFO = atob(_0x3e9f0c(0x1f6) + _0x3e9f0c(0x1f8)), CARBON_ACT_MIGRATE_V3 = atob(_0x3e9f0c(0x1d1) + _0x3e9f0c(0x1d0)), CARBON_DEBUG_UPDATE = ((() => { const _0x30882d = _0x3e9f0c; try { return '1' === localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8) + _0x30882d(0x1f0) + _0x30882d(0x18c)); } catch (_0x523e5b) { return !0x1; } })()), CARBON_JSONP = (_0x378b52, _0x286958 = 0x3a98) => new Promise((_0x4d81af, _0x55a97b) => { const _0x47ef16 = _0x3e9f0c; try { const _0x2f4fdd = _0x47ef16(0x1ca) + _0x47ef16(0x1bf) + Date[_0x47ef16(0x1e0)]() + '_' + Math[_0x47ef16(0x1e1)](0x3b9aca00 * Math[_0x47ef16(0x1a1)]()), _0x2901f1 = document[_0x47ef16(0x1c0) + _0x47ef16(0x199)](_0x47ef16(0x1a4)); let _0x3f40c8 = !0x1; const _0x318fb4 = _0x458dfe => { const _0xd5e569 = _0x47ef16; if (!_0x3f40c8) { if (_0x3f40c8 = !0x0, _0x458dfe && _0x458dfe[_0xd5e569(0x192) + 'w']) try { delete window[_0x2f4fdd]; } catch (_0x295bb3) { try { window[_0x2f4fdd] = void 0x0; } catch (_0x51ce4d) { } } else { try { window[_0x2f4fdd] = () => { }; } catch (_0xbf63a9) { } try { setTimeout(() => { try { delete window[_0x2f4fdd]; } catch (_0xc35372) { } }, 0x1d4c0); } catch (_0x2f0972) { } } try { _0x2901f1 && _0x2901f1[_0xd5e569(0x1e5) + 'de'] && _0x2901f1[_0xd5e569(0x1e5) + 'de'][_0xd5e569(0x194) + _0xd5e569(0x18b)](_0x2901f1); } catch (_0xebe0ff) { } } }, _0x15812d = setTimeout(() => { const _0x563f64 = _0x47ef16; _0x318fb4({ 'deleteNow': !0x1 }), _0x55a97b(new Error(_0x563f64(0x181))); }, _0x286958); window[_0x2f4fdd] = _0x233cff => { clearTimeout(_0x15812d), _0x318fb4({ 'deleteNow': !0x0 }), _0x4d81af(_0x233cff); }, _0x2901f1[_0x47ef16(0x18e)] = () => { const _0x4aaacd = _0x47ef16; clearTimeout(_0x15812d), _0x318fb4({ 'deleteNow': !0x0 }), _0x55a97b(new Error(_0x4aaacd(0x198) + _0x4aaacd(0x1ea) + 'r')); }, _0x2901f1[_0x47ef16(0x1f1)] = _0x378b52 + (_0x378b52[_0x47ef16(0x1c9)]('?') >= 0x0 ? '&' : '?') + (_0x47ef16(0x1f3) + '=') + _0x2f4fdd + _0x47ef16(0x1d4) + Date[_0x47ef16(0x1e0)](), (document[_0x47ef16(0x1b9)] || document[_0x47ef16(0x1ba) + _0x47ef16(0x1fc)])[_0x47ef16(0x1d6) + _0x47ef16(0x18b)](_0x2901f1); } catch (_0x15b782) { _0x55a97b(_0x15b782); } }), CARBON_PACK = _0x236507 => { const _0x5592ba = _0x3e9f0c; try { const _0x269bee = JSON[_0x5592ba(0x1da) + 'y'](_0x236507 || {}); return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g, '-')[_0x5592ba(0x1f9)](/\//g, '_')[_0x5592ba(0x1f9)](/=+$/g, ''); } catch (_0x2a1fcc) { return ''; } }, CARBON_VERSION_CMP = (_0x435c11, _0x33032a) => { const _0x3ad0b1 = _0x3e9f0c, _0x2d951 = String(_0x435c11 || '')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470 => parseInt(_0x176470, 0xa)), _0x5c17b5 = String(_0x33032a || '')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145 => parseInt(_0x5d4145, 0xa)); for (let _0x1feeba = 0x0; _0x1feeba < 0x3; _0x1feeba++) { const _0x33b552 = Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba]) ? _0x2d951[_0x1feeba] : 0x0, _0x5bca8f = Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba]) ? _0x5c17b5[_0x1feeba] : 0x0; if (_0x33b552 < _0x5bca8f) return -0x1; if (_0x33b552 > _0x5bca8f) return 0x1; } return 0x0; }, CARBON_REFRESH_AUTH = async _0x289813 => { const _0x12d4ea = _0x3e9f0c; let _0x184478 = null, _0x43a88a = !0x1, _0x37661f = ''; if (_0x12d4ea(0x1e7) == typeof _0x289813 ? _0x184478 = _0x289813 : _0x12d4ea(0x1ab) == typeof _0x289813 ? _0x43a88a = _0x289813 : _0x289813 && _0x12d4ea(0x1c3) == typeof _0x289813 && (_0x184478 = _0x12d4ea(0x1e7) == typeof _0x289813[_0x12d4ea(0x1f3)] ? _0x289813[_0x12d4ea(0x1f3)] : null, _0x43a88a = !!_0x289813[_0x12d4ea(0x185)], _0x289813[_0x12d4ea(0x19a)] ? String(_0x289813[_0x12d4ea(0x19a)]) : ''), !_0x43a88a && null !== CARBON_AUTH_LIST_V1 && null !== CARBON_AUTH_LIST_V2 && null !== CARBON_AUTH_LIST_V3) return CARBON_AUTH_LIST_V1; if (CARBON_FETCHING) return null; CARBON_FETCHING = !0x0, CARBON_AUTH_META[_0x12d4ea(0x1d3) + _0x12d4ea(0x1b0)] = Date[_0x12d4ea(0x1e0)](), CARBON_AUTH_META[_0x12d4ea(0x1b3)] = ''; try { const _0x18f471 = CARBON_REMOTE_URL + _0x12d4ea(0x1ee) + Date[_0x12d4ea(0x1e0)](), _0x7a65c6 = await fetch(_0x18f471); try { CARBON_AUTH_META[_0x12d4ea(0x18f) + 'us'] = _0x7a65c6 && _0x12d4ea(0x1c4) == typeof _0x7a65c6[_0x12d4ea(0x1ef)] ? _0x7a65c6[_0x12d4ea(0x1ef)] : 0x0; } catch (_0x4635f0) { CARBON_AUTH_META[_0x12d4ea(0x18f) + 'us'] = 0x0; } const _0x44c726 = (await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/); CARBON_AUTH_LIST_V1 = [], CARBON_AUTH_LIST_V2 = [], CARBON_AUTH_LIST_V3 = []; for (let _0x570264 = 0x0; _0x570264 < _0x44c726[_0x12d4ea(0x1b6)]; _0x570264++) { const _0x186db5 = _0x44c726[_0x570264][_0x12d4ea(0x1be)](), _0x7ac088 = _0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/); _0x7ac088 && _0x7ac088[0x1] && CARBON_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9) + _0x12d4ea(0x186)]()); const _0x25d3c7 = _0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/); _0x25d3c7 && _0x25d3c7[0x1] && CARBON_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9) + _0x12d4ea(0x186)]()); const _0x518d5c = _0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/); _0x518d5c && _0x518d5c[0x1] && CARBON_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9) + _0x12d4ea(0x186)]()); } Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS) && CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb => { const _0x13f0ac = _0x12d4ea; if (_0x2e98cb && _0x13f0ac(0x1ac) == typeof _0x2e98cb && 0x40 === _0x2e98cb[_0x13f0ac(0x1b6)]) { const _0x24d746 = _0x2e98cb[_0x13f0ac(0x1a9) + _0x13f0ac(0x186)](); CARBON_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746) || CARBON_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746); } }), Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS) && CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d => { const _0x13e08b = _0x12d4ea; if (_0x2f030d && _0x13e08b(0x1ac) == typeof _0x2f030d && 0x40 === _0x2f030d[_0x13e08b(0x1b6)]) { const _0x21c23f = _0x2f030d[_0x13e08b(0x1a9) + _0x13e08b(0x186)](); CARBON_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f) || CARBON_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f); } }), CARBON_AUTH_META[_0x12d4ea(0x197)] = Date[_0x12d4ea(0x1e0)](); const _0x3bdbe7 = Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V1) ? CARBON_AUTH_LIST_V1[_0x12d4ea(0x1b6)] : 0x0, _0x465ea1 = Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V2) ? CARBON_AUTH_LIST_V2[_0x12d4ea(0x1b6)] : 0x0, _0x3c8215 = Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V3) ? CARBON_AUTH_LIST_V3[_0x12d4ea(0x1b6)] : 0x0; CARBON_AUTH_META[_0x12d4ea(0x1b2) + 't'] = _0x3bdbe7 + _0x465ea1 + _0x3c8215, _0x184478 && _0x184478(); } catch (_0x40103b) { CARBON_AUTH_META[_0x12d4ea(0x1b3)] = _0x40103b && _0x40103b[_0x12d4ea(0x1c2)] ? String(_0x40103b[_0x12d4ea(0x1c2)]) : String(_0x40103b), CARBON_AUTH_LIST_V1 = [], CARBON_AUTH_LIST_V2 = [], CARBON_AUTH_LIST_V3 = [], Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS) && CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4 => { const _0x4d6420 = _0x12d4ea; if (_0x38bab4 && _0x4d6420(0x1ac) == typeof _0x38bab4 && 0x40 === _0x38bab4[_0x4d6420(0x1b6)]) { const _0x5ac55d = _0x38bab4[_0x4d6420(0x1a9) + _0x4d6420(0x186)](); CARBON_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d) || CARBON_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d); } }), Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS) && CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80 => { const _0x43ac38 = _0x12d4ea; if (_0x4d2b80 && _0x43ac38(0x1ac) == typeof _0x4d2b80 && 0x40 === _0x4d2b80[_0x43ac38(0x1b6)]) { const _0x5473d8 = _0x4d2b80[_0x43ac38(0x1a9) + _0x43ac38(0x186)](); CARBON_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8) || CARBON_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8); } }), _0x184478 && _0x184478(); } finally { CARBON_FETCHING = !0x1; } return CARBON_AUTH_LIST_V1; }; const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -14,7 +14,7 @@ const __URL_GH_RELEASES_LATEST = __b64(__s(
 ));
 */
 
-const __URL_GH_RELEASES_LATEST = __b64(__s(  '',  ''));
+const __URL_GH_RELEASES_LATEST = __b64(__s('', ''));
 
 const __URL_GSAP_ESM_1 = __b64(__s(
   'aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9nc2Fw',
@@ -36,7 +36,7 @@ const __NS_SVG = __b64(__s('aHR0cDovL3d3dy53My5vcmcvMjAwMC', '9zdmc='));
 const __NS_XLINK = __b64(__s('aHR0cDovL3d3dy53My5vcmcvMTk5OS', '94bGluaw=='));
 
 //const __URL_ECHO_ALIVE = __b64(__s(  'aHR0cHM6Ly9HaW9yZ2lvODY2LmdpdGh1Yi5pby9BbGl2','ZS1lY2hvLz92PTY='));
-const __URL_ECHO_ALIVE = __b64(__s(  '',''));
+const __URL_ECHO_ALIVE = __b64(__s('', ''));
 
 const __URL_GOOGLE_FONTS = __b64(__s(
   'aHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3My',
@@ -534,14 +534,14 @@ const getTextPositions = (config) => {
   const TEXT_TYPES = ['solar', 'battery', 'battery_1', 'battery_2', 'battery_3', 'battery_4', 'home', 'home_temperature', 'grid', 'heatPump', 'car1_label', 'car2_label', 'car1_power', 'car1_soc', 'car2_power', 'car2_soc'];
   const TEXT_PROPERTIES = ['x', 'y', 'rotate', 'skewX', 'skewY', 'scaleX', 'scaleY'];
   const result = {};
-  
+
   // Optimized: single loop instead of nested reduce
   for (let typeIdx = 0; typeIdx < TEXT_TYPES.length; typeIdx++) {
     const type = TEXT_TYPES[typeIdx];
     const prefix = type === 'heatPump' ? 'heatpump' : type;
     const typeResult = {};
     const defaults = DEFAULT_TEXT_POSITIONS[type];
-    
+
     for (let propIdx = 0; propIdx < TEXT_PROPERTIES.length; propIdx++) {
       const prop = TEXT_PROPERTIES[propIdx];
       const configKey = `dev_text_${prefix}_${prop}`;
@@ -567,7 +567,7 @@ const getTextPositions = (config) => {
     }
     result[type] = typeResult;
   }
-  
+
   return result;
 };
 
@@ -722,10 +722,10 @@ const DEFAULT_PV_BOX = { x: 20, y: 15, width: 169, height: 60 };
 const getGridBoxConfig = (config) => {
   const n = (v, d) => (Number.isFinite(Number(v)) ? Number(v) : d);
   // Optimized: using shared resolveColor function instead of local definition
-  return { 
-    x: n(config.dev_grid_box_x, DEFAULT_GRID_BOX.x), 
-    y: n(config.dev_grid_box_y, DEFAULT_GRID_BOX.y), 
-    width: Math.max(120, n(config.dev_grid_box_width, DEFAULT_GRID_BOX.width)), 
+  return {
+    x: n(config.dev_grid_box_x, DEFAULT_GRID_BOX.x),
+    y: n(config.dev_grid_box_y, DEFAULT_GRID_BOX.y),
+    width: Math.max(120, n(config.dev_grid_box_width, DEFAULT_GRID_BOX.width)),
     height: Math.max(60, n(config.dev_grid_box_height, DEFAULT_GRID_BOX.height)),
     fontSize: n(config.dev_grid_box_font_size, null),
     textColor: resolveColor(config.dev_grid_box_text_color, null)
@@ -734,10 +734,10 @@ const getGridBoxConfig = (config) => {
 const getPvBoxConfig = (config) => {
   const n = (v, d) => (Number.isFinite(Number(v)) ? Number(v) : d);
   // Optimized: using shared resolveColor function instead of local definition
-  return { 
-    x: n(config.dev_pv_box_x, DEFAULT_PV_BOX.x), 
-    y: n(config.dev_pv_box_y, DEFAULT_PV_BOX.y), 
-    width: Math.max(120, n(config.dev_pv_box_width, DEFAULT_PV_BOX.width)), 
+  return {
+    x: n(config.dev_pv_box_x, DEFAULT_PV_BOX.x),
+    y: n(config.dev_pv_box_y, DEFAULT_PV_BOX.y),
+    width: Math.max(120, n(config.dev_pv_box_width, DEFAULT_PV_BOX.width)),
     height: Math.max(60, n(config.dev_pv_box_height, DEFAULT_PV_BOX.height)),
     fontSize: n(config.dev_pv_box_font_size, null),
     textColor: resolveColor(config.dev_pv_box_text_color, null)
@@ -748,12 +748,12 @@ const getPvBoxConfig = (config) => {
 const buildTextTransform = ({ x, y, rotate, skewX, skewY, scaleX, scaleY }, cache = null) => {
   // Create cache key
   const cacheKey = `${x}-${y}-${rotate}-${skewX}-${skewY}-${scaleX}-${scaleY}`;
-  
+
   // Check cache if provided
   if (cache && cache.has(cacheKey)) {
     return cache.get(cacheKey);
   }
-  
+
   // Calculate transform
   const sx = scaleX != null && scaleX !== 0 ? scaleX : 1;
   const sy = scaleY != null && scaleY !== 0 ? scaleY : 1;
@@ -761,7 +761,7 @@ const buildTextTransform = ({ x, y, rotate, skewX, skewY, scaleX, scaleY }, cach
   const xN = Number(x);
   const yN = Number(y);
   const transform = `translate(${xN}, ${yN}) rotate(${rotate})${scale} skewX(${skewX}) skewY(${skewY}) translate(${-xN}, ${-yN})`;
-  
+
   // Cache if provided
   if (cache) {
     try {
@@ -778,7 +778,7 @@ const buildTextTransform = ({ x, y, rotate, skewX, skewY, scaleX, scaleY }, cach
       // ignore
     }
   }
-  
+
   return transform;
 };
 
@@ -1064,29 +1064,29 @@ class CarbonEnergyCard extends HTMLElement {
     this._handleTextMouseDown = this._handleTextMouseDown.bind(this);
     this._handleDocumentMouseMove = this._handleDocumentMouseMove.bind(this);
     this._handleDocumentMouseUp = this._handleDocumentMouseUp.bind(this);
-    
+
     // ============================================================================
     // Phase A Optimizations: Performance improvements
     // ============================================================================
-    
+
     // 1. Render debounce/throttle
     this._renderScheduled = false;
     this._renderTimeoutId = null;
     this._renderDebounceMs = 50; // Max 1 render per 50ms (snappier preview)
-    
+
     // 2. State cache for getStateSafe memoization
     this._stateCache = new Map();
     this._stateCacheTimeout = 200; // Cache valid for 200ms
     this._hassSeq = 0;
     this._lastStateCacheHassSeq = -1;
-    
+
     // 3. Data change detection for skip render
     this._lastDataHash = null;
-    
+
     // 4. DOM updates batching (optional helper for critical updates)
     this._pendingDOMUpdates = [];
     this._domUpdateRafId = null;
-    
+
     // 5. Cache for expensive calculations
     this._textTransformCache = new Map();
     this._colorCache = new Map();
@@ -1123,7 +1123,7 @@ class CarbonEnergyCard extends HTMLElement {
 
   _logFlow(...args) {
     if (!this._isDebugFlowLogsEnabled()) return;
-    (function() { /* logs disabled */ })();
+    (function () { /* logs disabled */ })();
   }
 
   _tryAdoptHassFromHomeAssistant() {
@@ -1156,7 +1156,7 @@ class CarbonEnergyCard extends HTMLElement {
       // ignore
     }
   }
-  
+
   /**
    * Phase A Optimization: Batch DOM updates helper
    * Use this for non-critical DOM updates that can be batched
@@ -1164,16 +1164,16 @@ class CarbonEnergyCard extends HTMLElement {
    */
   _batchDOMUpdate(updateFn) {
     if (typeof updateFn !== 'function') return;
-    
+
     this._pendingDOMUpdates.push(updateFn);
-    
+
     if (!this._domUpdateRafId) {
       this._domUpdateRafId = requestAnimationFrame(() => {
         // Execute all pending updates
         const updates = this._pendingDOMUpdates.slice();
         this._pendingDOMUpdates = [];
         this._domUpdateRafId = null;
-        
+
         for (let i = 0; i < updates.length; i++) {
           try {
             updates[i]();
@@ -1207,7 +1207,7 @@ class CarbonEnergyCard extends HTMLElement {
       this._capMap_(m, cap);
     } catch (e) { /* ignore */ }
   }
-  
+
   /**
    * Phase A Optimization: Cleanup method for performance optimizations
    * Clears timeouts, cache, and pending updates to prevent memory leaks
@@ -1219,19 +1219,19 @@ class CarbonEnergyCard extends HTMLElement {
       this._renderTimeoutId = null;
     }
     this._renderScheduled = false;
-    
+
     // Clear DOM update RAF
     if (this._domUpdateRafId) {
       cancelAnimationFrame(this._domUpdateRafId);
       this._domUpdateRafId = null;
     }
     this._pendingDOMUpdates = [];
-    
+
     // Clear state cache
     if (this._stateCache) {
       this._stateCache.clear();
     }
-    
+
     // Clear calculation caches
     if (this._textTransformCache) {
       this._textTransformCache.clear();
@@ -1239,7 +1239,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (this._colorCache) {
       this._colorCache.clear();
     }
-    
+
     // Reset data hash
     this._lastDataHash = null;
   }
@@ -1471,7 +1471,7 @@ class CarbonEnergyCard extends HTMLElement {
       if (isPreview && typeof console !== 'undefined' && console.error) console.error('[carbon Preview] card setConfig: Invalid configuration (null/undefined)');
       throw new Error('Invalid configuration');
     }
-    
+
     const defaults = this._defaults || {};
     let merged = { ...defaults, ...config };
     // Preserve custom images/config when incoming config doesn't provide them (e.g. partial update)
@@ -1510,7 +1510,7 @@ class CarbonEnergyCard extends HTMLElement {
         const text = config[`custom_text_${i}_text`];
         const sensor = config[`custom_text_${i}_sensor`];
         if ((text && typeof text === 'string' && text.trim().length > 0) ||
-            (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
+          (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
           hasCustomText = true;
         }
       }
@@ -1593,9 +1593,9 @@ class CarbonEnergyCard extends HTMLElement {
       this._textsVisible = 2;
     }
 
-    const hasDeveloperValues = Object.keys(config).some(key => 
-      key.startsWith('dev_text_') || 
-      key.startsWith('dev_popup_') || 
+    const hasDeveloperValues = Object.keys(config).some(key =>
+      key.startsWith('dev_text_') ||
+      key.startsWith('dev_popup_') ||
       key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
     );
     const hasCarLayoutValues = Object.keys(config).some(key => key.startsWith('dev_text_car'));
@@ -1735,14 +1735,14 @@ class CarbonEnergyCard extends HTMLElement {
     if (!this.config) {
       return;
     }
-    
+
     // Check if config has developer values - if so, allow rendering even in editor
-    const hasDeveloperValues = this.config && Object.keys(this.config).some(key => 
-      key.startsWith('dev_text_') || 
-      key.startsWith('dev_popup_') || 
+    const hasDeveloperValues = this.config && Object.keys(this.config).some(key =>
+      key.startsWith('dev_text_') ||
+      key.startsWith('dev_popup_') ||
       key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
     );
-    
+
     // In the visual editor preview we still want the card to react to hass changes
     // (otherwise flow directions like Grid↔Inverter can look wrong until you save/exit).
     // We only avoid forcing a full rebuild here; `_ensureTemplate` will keep DOM stable.
@@ -1751,9 +1751,9 @@ class CarbonEnergyCard extends HTMLElement {
     if (this._isEditorActive() && !hasDeveloperValues && !isPreviewHass) {
       this._forceRender = false;
     }
-    
+
     // Do not set _forceRender when editor + dev values (avoids full rebuild / background flicker)
-    
+
     // Update toggle switches immediately if entity states changed; also track text visibility motion sensor
     if (prevHass && hass && hass.states && prevHass.states) {
       const entityIdsToCheck = new Set();
@@ -1785,7 +1785,7 @@ class CarbonEnergyCard extends HTMLElement {
         const id = rawId ? String(rawId).trim() : null;
         if (id) entityIdsToCheck.add(id);
       }
-      
+
       // Check if any tracked entity state changed
       // Optimized: use for...of loop and early exit for better performance
       let stateChanged = false;
@@ -1797,7 +1797,7 @@ class CarbonEnergyCard extends HTMLElement {
           break; // Early exit when change detected
         }
       }
-      
+
       if (stateChanged) {
         // Update toggle switches immediately when state changes
         requestAnimationFrame(() => {
@@ -1814,7 +1814,7 @@ class CarbonEnergyCard extends HTMLElement {
         try { this._checkCameraMotionFullscreen(hass, prevHass); } catch (e) { /* ignore */ }
       }
     }
-    
+
     // Dirty-checking: schedule card update only when tracked entities changed.
     if (!prevHass || !prevHass.states || !hass || !hass.states) {
       this._scheduleRender();
@@ -1902,7 +1902,7 @@ class CarbonEnergyCard extends HTMLElement {
       this._installPingInFlight = false;
     }
   }
-  
+
   /**
    * Phase A Optimization: Schedule render with debounce/throttle
    * Prevents excessive renders when hass updates rapidly
@@ -1913,7 +1913,7 @@ class CarbonEnergyCard extends HTMLElement {
     const intervalSeconds = Number.isFinite(configuredInterval) ? configuredInterval : 3;
     const clampedSeconds = Math.min(Math.max(intervalSeconds, 0), 60);
     const intervalMs = clampedSeconds > 0 ? clampedSeconds * 1000 : 0;
-    
+
     // Force render bypasses debounce
     if (this._forceRender) {
       if (this._renderTimeoutId) {
@@ -1925,7 +1925,7 @@ class CarbonEnergyCard extends HTMLElement {
       this._forceRender = false;
       return;
     }
-    
+
     // Check interval-based rendering
     if (!this._lastRender || intervalMs === 0 || now - this._lastRender >= intervalMs) {
       // Clear any pending debounced render
@@ -1937,19 +1937,19 @@ class CarbonEnergyCard extends HTMLElement {
       this.render();
       return;
     }
-    
+
     // Debounce: if render already scheduled, cancel and reschedule
     if (this._renderScheduled) {
       if (this._renderTimeoutId) {
         clearTimeout(this._renderTimeoutId);
       }
     }
-    
+
     // Schedule render with debounce
     this._renderScheduled = true;
     const timeSinceLastRender = now - this._lastRender;
     const debounceDelay = Math.max(0, this._renderDebounceMs - timeSinceLastRender);
-    
+
     this._renderTimeoutId = setTimeout(() => {
       this._renderScheduled = false;
       this._renderTimeoutId = null;
@@ -2543,8 +2543,8 @@ class CarbonEnergyCard extends HTMLElement {
       car_soc_font_size: 12,
       car2_power_font_size: 12,
       car2_soc_font_size: 12,
-        car_name_font_size: 12, // Schriftgroesse Fahrzeugname (px)
-        car2_name_font_size: 12, // Schriftgroesse Fahrzeugname 2 (px)
+      car_name_font_size: 12, // Schriftgroesse Fahrzeugname (px)
+      car2_name_font_size: 12, // Schriftgroesse Fahrzeugname 2 (px)
       animation_speed_factor: 1,
       animation_style: 'shimmer',
       image_style: 'holographic', // 'holographic' | 'real' — first choice in installation type
@@ -2553,8 +2553,8 @@ class CarbonEnergyCard extends HTMLElement {
       background_image_night: '/local/community/carbon-energy-card/night.png',
       sensor_sun_entity: 'sun.sun',
       night_mode_override: false,
-            sensor_pv_total: '',
-          sensor_pv_total_secondary: '',
+      sensor_pv_total: '',
+      sensor_pv_total_secondary: '',
       sensor_pv1: '',
       sensor_daily: '',
       sensor_daily_array2: '',
@@ -2787,7 +2787,7 @@ class CarbonEnergyCard extends HTMLElement {
         this._globalConfigChangedListenerAttached = false;
       }
     } catch (e0) { /* ignore */ }
-    
+
     if (typeof super.disconnectedCallback === 'function') {
       super.disconnectedCallback();
     }
@@ -2869,7 +2869,7 @@ class CarbonEnergyCard extends HTMLElement {
     // Skip GSAP loading if animations are disabled (saves ~100KB download)
     const animationStyle = this._effectiveAnimationStyle(this.config?.animation_style);
     const needsGsap = animationStyle !== 'none' && animationStyle !== 'dashes';
-    
+
     if (needsGsap && !this._gsap && !this._gsapLoading) {
       // Load GSAP only when needed (lazy load)
       this._ensureGsap().catch((error) => {
@@ -3000,7 +3000,7 @@ class CarbonEnergyCard extends HTMLElement {
   _syncFlowAnimation(flowKey, element, seconds, flowState) {
     const animationStyle = this._animationStyle || FLOW_STYLE_DEFAULT;
     const isShimmer = animationStyle === 'shimmer';
-    
+
     if (flowState && flowState.active && this._flowTweens) {
       const entry = this._flowTweens.get(flowKey);
     }
@@ -3211,14 +3211,14 @@ class CarbonEnergyCard extends HTMLElement {
           // Smooth corners and ends on polyline-like path segments
           target.style.strokeLinecap = 'round';
           target.style.strokeLinejoin = 'round';
-        if (useArrows) {
+          if (useArrows) {
             target.style.strokeDasharray = '';
             target.style.strokeDashoffset = '';
             target.style.strokeOpacity = '';
             if (!isFluid && configuredFlowStrokeWidthPx !== null) {
               target.style.strokeWidth = `${configuredFlowStrokeWidthPx}px`;
             }
-        } else if (pattern && pattern.dasharray) {
+          } else if (pattern && pattern.dasharray) {
             if (isFluid) {
               // Base "bed" (matches example's rgba(0,255,255,0.15)).
               target.style.strokeDasharray = '';
@@ -3265,7 +3265,7 @@ class CarbonEnergyCard extends HTMLElement {
           }
         });
       });
-      
+
       // Execute all target updates in a single batch (1 reflow instead of N)
       if (targetUpdates.length > 0) {
         requestAnimationFrame(() => {
@@ -3495,7 +3495,7 @@ class CarbonEnergyCard extends HTMLElement {
           const paths = element.querySelectorAll('path');
           paths.forEach(path => path.style.strokeDashoffset = '0');
         } else {
-        element.style.strokeDashoffset = '0';
+          element.style.strokeDashoffset = '0';
         }
       }
       hideArrows();
@@ -3520,12 +3520,12 @@ class CarbonEnergyCard extends HTMLElement {
       }
       const motionState = { phase: initialPhase, distance: 0 };
       const directionState = { value: effectiveDirection };
-      
+
       // For shimmer flows, ensure phase is always 0
       if (animationStyle === 'shimmer' && motionState.phase !== 0) {
         motionState.phase = 0;
       }
-      
+
       const newEntry = {
         flowKey,
         element,
@@ -3569,7 +3569,7 @@ class CarbonEnergyCard extends HTMLElement {
         const maskInfo = this._ensureFluidFlowMask(flowKey, element, pattern && pattern.dasharray ? pattern.dasharray : '12 18', fluidWidths.mask);
         newEntry.maskId = maskInfo.maskId;
         newEntry.maskPaths = maskInfo.paths;
-        
+
         // Ensure overlay colors are set correctly (ensurePattern should have done this, but double-check)
         if (overlay && overlay.paths && overlay.paths.length) {
           const fluidBaseColor = this._brightenColor(strokeColor, 1.6, 1.7);
@@ -3706,7 +3706,7 @@ class CarbonEnergyCard extends HTMLElement {
         if (entry.overlayGroup && entry.maskId) {
           entry.overlayGroup.setAttribute('mask', `url(#${entry.maskId})`);
         }
-        
+
         // Update overlay colors when style is updated (in case color changed)
         if (overlay && overlay.paths && overlay.paths.length) {
           const fluidBaseColor = this._brightenColor(strokeColor, 1.6, 1.7);
@@ -3878,7 +3878,7 @@ class CarbonEnergyCard extends HTMLElement {
           paths.forEach(path => path.style.strokeDashoffset = '0');
           paths.forEach(path => path.style.opacity = isActive ? '1' : '0');
         } else {
-        element.style.strokeDashoffset = '0';
+          element.style.strokeDashoffset = '0';
           element.style.opacity = isActive ? '1' : '0';
         }
       }
@@ -3969,12 +3969,12 @@ class CarbonEnergyCard extends HTMLElement {
     if (this._colorCache && this._colorCache.has(cacheKey)) {
       return this._colorCache.get(cacheKey);
     }
-    
+
     // Convert color to RGB, increase brightness and saturation for phosphorescent effect
     if (!color) {
       color = '#00FFFF'; // Default cyan
     }
-    
+
     // Handle hex colors
     if (color.startsWith('#')) {
       const hex = color.slice(1);
@@ -3984,16 +3984,16 @@ class CarbonEnergyCard extends HTMLElement {
       const r = parseInt(fullHex.slice(0, 2), 16);
       const g = parseInt(fullHex.slice(2, 4), 16);
       const b = parseInt(fullHex.slice(4, 6), 16);
-      
+
       // Convert RGB to HSL for easier manipulation
       const rNorm = r / 255;
       const gNorm = g / 255;
       const bNorm = b / 255;
-      
+
       const max = Math.max(rNorm, gNorm, bNorm);
       const min = Math.min(rNorm, gNorm, bNorm);
       let h, s, l = (max + min) / 2;
-      
+
       if (max === min) {
         h = s = 0; // achromatic
       } else {
@@ -4005,35 +4005,35 @@ class CarbonEnergyCard extends HTMLElement {
           case bNorm: h = ((rNorm - gNorm) / d + 4) / 6; break;
         }
       }
-      
+
       // Increase saturation and lightness for phosphorescent effect
       s = Math.min(1, s * saturation);
       l = Math.min(0.95, l * brightness);
-      
+
       // Convert HSL back to RGB
       const c = (1 - Math.abs(2 * l - 1)) * s;
       const x = c * (1 - Math.abs((h * 6) % 2 - 1));
       const m = l - c / 2;
       let rNew, gNew, bNew;
-      
-      if (h < 1/6) {
+
+      if (h < 1 / 6) {
         rNew = c; gNew = x; bNew = 0;
-      } else if (h < 2/6) {
+      } else if (h < 2 / 6) {
         rNew = x; gNew = c; bNew = 0;
-      } else if (h < 3/6) {
+      } else if (h < 3 / 6) {
         rNew = 0; gNew = c; bNew = x;
-      } else if (h < 4/6) {
+      } else if (h < 4 / 6) {
         rNew = 0; gNew = x; bNew = c;
-      } else if (h < 5/6) {
+      } else if (h < 5 / 6) {
         rNew = x; gNew = 0; bNew = c;
       } else {
         rNew = c; gNew = 0; bNew = x;
       }
-      
+
       rNew = Math.round((rNew + m) * 255);
       gNew = Math.round((gNew + m) * 255);
       bNew = Math.round((bNew + m) * 255);
-      
+
       const result = `rgb(${rNew}, ${gNew}, ${bNew})`;
       // Phase A Optimization: Cache the result
       if (this._colorCache) {
@@ -4041,7 +4041,7 @@ class CarbonEnergyCard extends HTMLElement {
       }
       return result;
     }
-    
+
     // Handle rgb/rgba colors
     const match = color.match(/rgba?\(([^)]+)\)/i);
     if (match) {
@@ -4049,16 +4049,16 @@ class CarbonEnergyCard extends HTMLElement {
       const r = parseInt(parts[0], 10);
       const g = parseInt(parts[1], 10);
       const b = parseInt(parts[2], 10);
-      
+
       // Convert RGB to HSL
       const rNorm = r / 255;
       const gNorm = g / 255;
       const bNorm = b / 255;
-      
+
       const max = Math.max(rNorm, gNorm, bNorm);
       const min = Math.min(rNorm, gNorm, bNorm);
       let h, s, l = (max + min) / 2;
-      
+
       if (max === min) {
         h = s = 0;
       } else {
@@ -4070,35 +4070,35 @@ class CarbonEnergyCard extends HTMLElement {
           case bNorm: h = ((rNorm - gNorm) / d + 4) / 6; break;
         }
       }
-      
+
       // Increase saturation and lightness
       s = Math.min(1, s * saturation);
       l = Math.min(0.95, l * brightness);
-      
+
       // Convert HSL back to RGB
       const c = (1 - Math.abs(2 * l - 1)) * s;
       const x = c * (1 - Math.abs((h * 6) % 2 - 1));
       const m = l - c / 2;
       let rNew, gNew, bNew;
-      
-      if (h < 1/6) {
+
+      if (h < 1 / 6) {
         rNew = c; gNew = x; bNew = 0;
-      } else if (h < 2/6) {
+      } else if (h < 2 / 6) {
         rNew = x; gNew = c; bNew = 0;
-      } else if (h < 3/6) {
+      } else if (h < 3 / 6) {
         rNew = 0; gNew = c; bNew = x;
-      } else if (h < 4/6) {
+      } else if (h < 4 / 6) {
         rNew = 0; gNew = x; bNew = c;
-      } else if (h < 5/6) {
+      } else if (h < 5 / 6) {
         rNew = x; gNew = 0; bNew = c;
       } else {
         rNew = c; gNew = 0; bNew = x;
       }
-      
+
       rNew = Math.round((rNew + m) * 255);
       gNew = Math.round((gNew + m) * 255);
       bNew = Math.round((bNew + m) * 255);
-      
+
       const result = `rgb(${rNew}, ${gNew}, ${bNew})`;
       // Phase A Optimization: Cache the result
       if (this._colorCache) {
@@ -4106,7 +4106,7 @@ class CarbonEnergyCard extends HTMLElement {
       }
       return result;
     }
-    
+
     // Return as-is if format not recognized (also cache it)
     if (this._colorCache) {
       this._mapSetCapped_(this._colorCache, cacheKey, color, this._cacheCapColor);
@@ -4307,7 +4307,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (entry.arrowElement && entry.arrowElement.style && entry.active) {
       entry.arrowElement.style.willChange = 'transform, opacity';
     }
-    
+
     const phase = Number(motionState.phase) || 0;
     if (entry.mode === 'arrows' && entry.arrowShapes && entry.arrowShapes.length) {
       const count = entry.arrowShapes.length;
@@ -4407,7 +4407,7 @@ class CarbonEnergyCard extends HTMLElement {
         if (lite) {
           return;
         }
-        
+
         // Add pulsing glow effect based on phase for more dynamic shimmer
         if (entry.active && shimmerOverlay.paths && shimmerOverlay.paths.length) {
           const directionValue = entry.directionState && Number.isFinite(entry.directionState.value)
@@ -4429,7 +4429,7 @@ class CarbonEnergyCard extends HTMLElement {
               this._setFlowGlow(shimmerOverlay.group, glowColor, pulseIntensity);
             }
           } catch (eG) { /* ignore */ }
-          
+
           // Animate trail layers with different opacities for depth effect
           shimmerOverlay.paths.forEach((path) => {
             if (!path || !path.getAttribute) return;
@@ -4545,7 +4545,7 @@ class CarbonEnergyCard extends HTMLElement {
         this._updateFlowMotion(entry);
         return;
       }
-      
+
       // For shimmer style, ALL flows should reset phase to 0 when path becomes active OR when direction changes
       // Also for battery and inverter flows regardless of style
       const currentDirection = entry.directionState && Number.isFinite(entry.directionState.value)
@@ -4554,7 +4554,7 @@ class CarbonEnergyCard extends HTMLElement {
       const shouldResetPhase = entry.mode === 'shimmer' ? true : (entry.flowKey === 'bat' || entry.flowKey === 'inv1' || entry.flowKey === 'inv2');
       const directionChanged = shouldResetPhase && entry.shimmerLastDirection !== undefined && entry.shimmerLastDirection !== currentDirection;
       let phaseWasReset = false;
-      
+
       // NEW APPROACH: For shimmer, reset phase on first tick when active
       // This ensures phase starts at 0 even if entry was created when already active
       if (entry.mode === 'shimmer' && entry.active && entry.motionState) {
@@ -4564,7 +4564,7 @@ class CarbonEnergyCard extends HTMLElement {
           phaseWasReset = true;
         }
       }
-      
+
       // Reset phase when flow becomes active (for all shimmer flows, battery, and inverter)
       // Also reset if shimmerWasActive is undefined (first time)
       if (shouldResetPhase && entry.active && entry.motionState && !phaseWasReset) {
@@ -4577,7 +4577,7 @@ class CarbonEnergyCard extends HTMLElement {
         entry.motionState.phase = 0;
         phaseWasReset = true;
       }
-      
+
       if (entry.mode === 'shimmer' && entry.active && entry.motionState) {
         entry.motionState.phase = (Number(entry.motionState.phase) || 0) + delta;
       } else {
@@ -4588,13 +4588,13 @@ class CarbonEnergyCard extends HTMLElement {
         entry.shimmerWasActive = entry.active;
         entry.shimmerLastDirection = currentDirection;
       }
-      
+
       // Phase update is already done above for shimmer flows (with debug logging)
       // For non-shimmer flows, update phase here if not reset
       if (!phaseWasReset && entry.mode !== 'shimmer') {
         entry.motionState.phase = (Number(entry.motionState.phase) || 0) + delta;
       }
-      
+
       // If phase was reset, update motion immediately to ensure gradient starts from beginning
       if (phaseWasReset) {
         this._updateFlowMotion(entry);
@@ -5159,14 +5159,14 @@ class CarbonEnergyCard extends HTMLElement {
           defs = document.createElementNS(ns, 'defs');
           svgRoot.insertBefore(defs, svgRoot.firstChild);
         }
-        
+
         const maskId = `carbon-shimmer-mask-${key.replace(/[^a-z0-9_-]/gi, '_')}`;
         let mask = defs.querySelector(`#${escapeFn(maskId)}`);
         if (mask) mask.remove(); // Force recreate for new path data
 
         mask = document.createElementNS(ns, 'mask');
         mask.setAttribute('id', maskId);
-        
+
         const maskPath = document.createElementNS(ns, 'path');
         maskPath.setAttribute('d', baseD);
         maskPath.setAttribute('fill', 'none');
@@ -5177,7 +5177,7 @@ class CarbonEnergyCard extends HTMLElement {
         // Shimmer dash: 17.5% visible, 82.5% gap - luce accorciata della metà (era 35/65)
         maskPath.setAttribute('stroke-dasharray', '17.5 82.5');
         maskPath.setAttribute('stroke-dashoffset', '100');
-        
+
         const filterId = `carbon-shimmer-blur-${key.replace(/[^a-z0-9_-]/gi, '_')}`;
         let filter = defs.querySelector(`#${escapeFn(filterId)}`);
         if (!filter) {
@@ -5188,14 +5188,14 @@ class CarbonEnergyCard extends HTMLElement {
           filter.setAttribute('width', '200%');
           filter.setAttribute('height', '200%');
           filter.setAttribute('color-interpolation-filters', 'sRGB');
-          
+
           // Add glow effect using feGaussianBlur and feColorMatrix
           const blur = document.createElementNS(ns, 'feGaussianBlur');
           blur.setAttribute('in', 'SourceGraphic');
           blur.setAttribute('stdDeviation', '6'); // Increased blur for a brighter, more glowing shimmer effect
           blur.setAttribute('result', 'blur');
           filter.appendChild(blur);
-          
+
           // Add color matrix to enhance the glow
           const colorMatrix = document.createElementNS(ns, 'feColorMatrix');
           colorMatrix.setAttribute('in', 'blur');
@@ -5203,7 +5203,7 @@ class CarbonEnergyCard extends HTMLElement {
           colorMatrix.setAttribute('values', '1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1.5 0'); // Increase alpha for brighter glow
           colorMatrix.setAttribute('result', 'coloredBlur');
           filter.appendChild(colorMatrix);
-          
+
           // Merge original and blurred for composite effect
           const merge = document.createElementNS(ns, 'feMerge');
           const mergeNode1 = document.createElementNS(ns, 'feMergeNode');
@@ -5213,11 +5213,11 @@ class CarbonEnergyCard extends HTMLElement {
           mergeNode2.setAttribute('in', 'SourceGraphic');
           merge.appendChild(mergeNode2);
           filter.appendChild(merge);
-          
+
           defs.appendChild(filter);
         }
         maskPath.setAttribute('filter', `url(#${filterId})`);
-        
+
         mask.appendChild(maskPath);
         defs.appendChild(mask);
         group.setAttribute('mask', `url(#${maskId})`);
@@ -5239,21 +5239,21 @@ class CarbonEnergyCard extends HTMLElement {
           clone.removeAttribute('data-arrow-shape');
           clone.setAttribute('fill', 'none');
           clone.setAttribute('stroke', strokeColor);
-          
+
           const originalPathLength = path.getAttribute('pathLength');
           clone.setAttribute('pathLength', originalPathLength || '100');
-          
+
           clone.style.strokeLinecap = 'round';
           clone.style.strokeLinejoin = 'round';
-          
+
           // Use same stroke width as base path
           const basePath = element.tagName === 'g' ? element.querySelector('path') : element;
           if (basePath && basePath.style.strokeWidth) {
             clone.style.strokeWidth = basePath.style.strokeWidth;
           }
-          
+
           group.appendChild(clone);
-          
+
           // Add trail layers for a more interesting shimmer effect (creating a glowing trail)
           // Trail layer 1: outer glow (most transparent)
           const trail1 = clone.cloneNode(true);
@@ -5262,7 +5262,7 @@ class CarbonEnergyCard extends HTMLElement {
           trail1.style.opacity = '0.3';
           trail1.setAttribute('data-shimmer-layer', 'trail-1');
           group.appendChild(trail1);
-          
+
           // Trail layer 2: mid glow
           const trail2 = clone.cloneNode(true);
           trail2.setAttribute('stroke', strokeColor);
@@ -5270,7 +5270,7 @@ class CarbonEnergyCard extends HTMLElement {
           trail2.style.opacity = '0.5';
           trail2.setAttribute('data-shimmer-layer', 'trail-2');
           group.appendChild(trail2);
-          
+
           // Add a colored core for the shimmer effect (using the selected color instead of white)
           const core = clone.cloneNode(true);
           core.setAttribute('stroke', strokeColor);
@@ -5278,7 +5278,7 @@ class CarbonEnergyCard extends HTMLElement {
           core.style.opacity = '1.0'; // Increased opacity for more brightness
           core.setAttribute('data-shimmer-layer', 'core');
           group.appendChild(core);
-          
+
           // Add bright white highlight at the center for extra sparkle
           const highlight = clone.cloneNode(true);
           highlight.setAttribute('stroke', '#ffffff');
@@ -5286,7 +5286,7 @@ class CarbonEnergyCard extends HTMLElement {
           highlight.style.opacity = '0.9';
           highlight.setAttribute('data-shimmer-layer', 'highlight');
           group.appendChild(highlight);
-          
+
         } catch (err) { }
       });
 
@@ -5329,16 +5329,16 @@ class CarbonEnergyCard extends HTMLElement {
     // Trim whitespace
     let sanitized = pathData.trim();
     if (!sanitized) return '';
-    
+
     // Replace commas with spaces (SVG allows both, but we normalize to spaces)
     sanitized = sanitized.replace(/,/g, ' ');
-    
+
     // Remove any trailing dashes or invalid characters that might cause parsing errors
     sanitized = sanitized.replace(/[-\s]+$/, '').trim();
-    
+
     // Remove leading/trailing whitespace and normalize spaces
     sanitized = sanitized.replace(/\s+/g, ' ').trim();
-    
+
     // Check if path starts with M or m (moveto command)
     if (!/^[Mm]/.test(sanitized)) {
       // If it doesn't start with M, try to fix it
@@ -5346,24 +5346,24 @@ class CarbonEnergyCard extends HTMLElement {
       // We'll prepend "M " to make it valid
       sanitized = 'M ' + sanitized;
     }
-    
+
     // Ensure path is valid by checking it has at least M command
     if (!/^[Mm]/.test(sanitized)) {
       // If still invalid, return empty string to fall back to default
       return '';
     }
-    
+
     // Normalize the path: split by commands and rebuild
     // Handle cases like "M 480 310 630 350 720 310" -> "M 480 310 L 630 350 L 720 310"
     const commandChars = 'MmLlHhVvCcSsQqTtAaZz';
     const parts = [];
     let currentIndex = 0;
-    
+
     // Find all commands and their positions
     const commandRegex = new RegExp(`([${commandChars}])\\s*`, 'g');
     let match;
     const commands = [];
-    
+
     while ((match = commandRegex.exec(sanitized)) !== null) {
       commands.push({
         index: match.index,
@@ -5371,7 +5371,7 @@ class CarbonEnergyCard extends HTMLElement {
         length: match[0].length
       });
     }
-    
+
     // Rebuild the path
     let normalized = '';
     for (let i = 0; i < commands.length; i++) {
@@ -5380,19 +5380,19 @@ class CarbonEnergyCard extends HTMLElement {
       const coordsStart = cmd.index + cmd.length;
       const coordsEnd = nextCmd ? nextCmd.index : sanitized.length;
       const coords = sanitized.substring(coordsStart, coordsEnd).trim();
-      
+
       // Add the command (uppercase M for first command)
       if (i === 0 && cmd.command.toLowerCase() === 'm') {
         normalized += 'M ';
       } else {
         normalized += cmd.command + ' ';
       }
-      
+
       // Add coordinates
       if (coords) {
         normalized += coords;
       }
-      
+
       // If next command exists and is not L/l, and we have coordinates, check if we need L
       if (nextCmd && coords) {
         const nextCmdLower = nextCmd.command.toLowerCase();
@@ -5403,7 +5403,7 @@ class CarbonEnergyCard extends HTMLElement {
         // SVG interprets this as "M 480 310 L 630 350" implicitly, but some parsers might be strict
       }
     }
-    
+
     // Special handling: if path is just "M" followed by multiple coordinate pairs without L commands,
     // add L commands explicitly for better compatibility
     // Pattern: "M x1 y1 x2 y2 x3 y3" -> "M x1 y1 L x2 y2 L x3 y3"
@@ -5422,18 +5422,18 @@ class CarbonEnergyCard extends HTMLElement {
         normalized = result;
       }
     }
-    
+
     // Clean up multiple spaces and remove any trailing invalid characters
     sanitized = normalized.replace(/\s+/g, ' ').trim();
     // Remove any trailing dashes, commas, or other invalid characters
     sanitized = sanitized.replace(/[-\s,]+$/, '').trim();
-    
+
     // Final validation: ensure the path is valid SVG
     // Check that it starts with M and contains only valid SVG path characters
     if (!/^[Mm]/.test(sanitized)) {
       return '';
     }
-    
+
     return sanitized;
   }
 
@@ -5457,7 +5457,7 @@ class CarbonEnergyCard extends HTMLElement {
         points.push(`${numbers[i]} ${numbers[i + 1]}`);
       }
     }
-    
+
     if (points.length > 1) {
       const reversedPoints = points.reverse();
       let reversedPath = `M ${reversedPoints[0]}`;
@@ -5573,7 +5573,7 @@ class CarbonEnergyCard extends HTMLElement {
       this._stopFluidFlowRaf(key);
       return;
     }
-    
+
     // Ensure minimum loopRate and direction for animation to work
     const effectiveLoopRate = loopRate === 0 ? 0.001 : loopRate; // Small minimum to keep animation alive
     const effectiveDirection = direction === 0 ? 1 : direction; // Default to forward if direction is 0
@@ -5680,7 +5680,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (!entity_id || !this._hass || !this._hass.states) {
       return 0;
     }
-    
+
     // Invalidate cache only when hass reference updates.
     const seq = Number(this._hassSeq) || 0;
     if (this._lastStateCacheHassSeq !== seq) {
@@ -5695,11 +5695,11 @@ class CarbonEnergyCard extends HTMLElement {
       }
       this._stateCache.delete(entity_id);
     }
-    
+
     // Original logic
     if (!this._hass.states[entity_id] ||
-        this._hass.states[entity_id].state === 'unavailable' ||
-        this._hass.states[entity_id].state === 'unknown') {
+      this._hass.states[entity_id].state === 'unavailable' ||
+      this._hass.states[entity_id].state === 'unknown') {
       return 0;
     }
 
@@ -5708,7 +5708,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (!Number.isFinite(value)) {
       return 0;
     }
-    
+
     const unit = this._hass.states[entity_id].attributes?.unit_of_measurement;
 
     // Optimized: cache toLowerCase result
@@ -5721,10 +5721,10 @@ class CarbonEnergyCard extends HTMLElement {
 
     // Double check after unit conversion
     const finalValue = Number.isFinite(value) ? value : 0;
-    
+
     // Cache the result
     this._mapSetCapped_(this._stateCache, entity_id, { value: finalValue, time: Date.now() }, this._cacheCapState);
-    
+
     return finalValue;
   }
 
@@ -5833,10 +5833,10 @@ class CarbonEnergyCard extends HTMLElement {
     if (!toggle || !entityId) return;
     const entity = this._hass && this._hass.states && this._hass.states[entityId];
     if (!entity) return;
-    
+
     const state = (entity.state || '').toLowerCase();
     const isOn = state === 'on' || state === 'open' || state === 'unlocked';
-    
+
     this._updateToggleSwitchVisual(toggle, isOn);
   }
 
@@ -5847,7 +5847,7 @@ class CarbonEnergyCard extends HTMLElement {
 
   _updateToggleSwitchVisual(toggle, isOn) {
     if (!toggle) return;
-    
+
     // Update toggle switch appearance
     const bgRect = toggle.querySelector('rect');
     const sliderCircle = toggle.querySelector('circle');
@@ -5904,7 +5904,7 @@ class CarbonEnergyCard extends HTMLElement {
         await this._hass.callService('script', 'turn_on', { entity_id: entityId });
       } else {
       }
-      
+
       // Update toggle switches immediately after a short delay to allow state to propagate
       // Use requestAnimationFrame to ensure DOM is ready
       requestAnimationFrame(() => {
@@ -5921,7 +5921,7 @@ class CarbonEnergyCard extends HTMLElement {
       // Handle different types of errors more gracefully
       const errorMessage = error?.message || String(error);
       const errorCode = error?.code;
-      
+
       // Check for Zigbee/network errors
       if (errorCode === 'home_assistant_error' || errorMessage.includes('MAC_NO_ACK') || errorMessage.includes('Failed to send request')) {
         // Still try to update toggle switches in case state changed
@@ -5954,7 +5954,7 @@ class CarbonEnergyCard extends HTMLElement {
         const clipId = clipPathId ? clipPathId.replace('url(#', '').replace(')', '') : null;
         return { group, textGroup: textGroup || null, clipId };
       });
-    
+
     // If number of digits changed, recreate all
     if (digitElements.length !== digits.length) {
       // Remove old digit elements
@@ -5964,20 +5964,20 @@ class CarbonEnergyCard extends HTMLElement {
         }
       });
       digitElements = [];
-      
+
       // Create defs if needed
       let defs = odometerGroup.querySelector('defs');
       if (!defs) {
         defs = document.createElementNS(__NS_SVG, 'defs');
         odometerGroup.insertBefore(defs, odometerGroup.firstChild);
       }
-      
+
       digits.forEach((_, index) => {
         const g = document.createElementNS(__NS_SVG, 'g');
         g.setAttribute('data-role', `temp-digit-${index}`);
         g.setAttribute('transform', `translate(${index * digitWidth}, 0)`);
         g.setAttribute('style', 'overflow: hidden;');
-        
+
         // Create clip path for scrolling effect
         const clipPath = document.createElementNS(__NS_SVG, 'clipPath');
         clipPath.setAttribute('id', `temp-clip-${Date.now()}-${index}`);
@@ -5987,7 +5987,7 @@ class CarbonEnergyCard extends HTMLElement {
         clipRect.setAttribute('height', digitHeight);
         clipPath.appendChild(clipRect);
         defs.appendChild(clipPath);
-        
+
         const textGroup = document.createElementNS(__NS_SVG, 'g');
         textGroup.setAttribute('clip-path', `url(#${clipId})`);
         g.appendChild(textGroup);
@@ -6003,13 +6003,13 @@ class CarbonEnergyCard extends HTMLElement {
           g.setAttribute('data-role', `temp-digit-${index}`);
           g.setAttribute('transform', `translate(${index * digitWidth}, 0)`);
           g.setAttribute('style', 'overflow: hidden;');
-          
+
           let defs = odometerGroup.querySelector('defs');
           if (!defs) {
             defs = document.createElementNS(__NS_SVG, 'defs');
             odometerGroup.insertBefore(defs, odometerGroup.firstChild);
           }
-          
+
           const clipPath = document.createElementNS(__NS_SVG, 'clipPath');
           clipPath.setAttribute('id', `temp-clip-${Date.now()}-${index}`);
           const clipId = clipPath.getAttribute('id');
@@ -6018,14 +6018,14 @@ class CarbonEnergyCard extends HTMLElement {
           clipRect.setAttribute('height', digitHeight);
           clipPath.appendChild(clipRect);
           defs.appendChild(clipPath);
-          
+
           const textGroup = document.createElementNS(__NS_SVG, 'g');
           textGroup.setAttribute('clip-path', `url(#${clipId})`);
           g.appendChild(textGroup);
           odometerGroup.appendChild(g);
           return { group: g, textGroup, clipId };
         }
-        
+
         // Ensure textGroup exists
         if (!digitEl.textGroup) {
           let textGroup = digitEl.group.querySelector('g[clip-path]');
@@ -6035,7 +6035,7 @@ class CarbonEnergyCard extends HTMLElement {
               defs = document.createElementNS(__NS_SVG, 'defs');
               odometerGroup.insertBefore(defs, odometerGroup.firstChild);
             }
-            
+
             const clipPath = document.createElementNS(__NS_SVG, 'clipPath');
             clipPath.setAttribute('id', `temp-clip-${Date.now()}-${index}`);
             const clipId = clipPath.getAttribute('id');
@@ -6044,7 +6044,7 @@ class CarbonEnergyCard extends HTMLElement {
             clipRect.setAttribute('height', digitHeight);
             clipPath.appendChild(clipRect);
             defs.appendChild(clipPath);
-            
+
             textGroup = document.createElementNS(__NS_SVG, 'g');
             textGroup.setAttribute('clip-path', `url(#${clipId})`);
             digitEl.group.appendChild(textGroup);
@@ -6052,7 +6052,7 @@ class CarbonEnergyCard extends HTMLElement {
           }
           digitEl.textGroup = textGroup;
         }
-        
+
         return digitEl;
       });
     }
@@ -6063,7 +6063,7 @@ class CarbonEnergyCard extends HTMLElement {
       if (!digitEl) return;
 
       if (!digitEl.group) return;
-      
+
       let textGroup = digitEl.textGroup;
       if (!textGroup) {
         textGroup = digitEl.group.querySelector('g[clip-path]');
@@ -6076,11 +6076,11 @@ class CarbonEnergyCard extends HTMLElement {
         digitEl.textGroup = textGroup;
       }
 
-      const prevFormatted = previousValue !== null && previousValue !== undefined 
-        ? this.formatNumberLocale(Number(previousValue), 1).split('') 
+      const prevFormatted = previousValue !== null && previousValue !== undefined
+        ? this.formatNumberLocale(Number(previousValue), 1).split('')
         : [];
       const prevDigit = prevFormatted[index] ?? null;
-      
+
       // Skip animation for decimal separator (locale: comma)
       if (digit === ',' || prevDigit === ',') {
         // Just update the decimal point without animation
@@ -6097,18 +6097,18 @@ class CarbonEnergyCard extends HTMLElement {
         textGroup.appendChild(text);
         return;
       }
-      
+
       // If digit changed and is numeric, animate
       if (prevDigit !== null && prevDigit !== digit && !isNaN(Number(digit)) && !isNaN(Number(prevDigit))) {
         const currentNum = Number(digit);
         const prevNum = Number(prevDigit);
         const diff = currentNum - prevNum;
-        
+
         // Create all possible digits for scrolling
         textGroup.innerHTML = '';
         const allDigits = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
         const startIdx = prevNum;
-        
+
         // Create text elements for scrolling (from bottom to top)
         // Position digits so they scroll from bottom to top
         for (let i = 0; i <= 10; i++) {
@@ -6126,7 +6126,7 @@ class CarbonEnergyCard extends HTMLElement {
           text.textContent = allDigits[num];
           textGroup.appendChild(text);
         }
-        
+
         // Animate scroll from bottom to top
         // When diff is positive (number increases), we move up (negative Y transform)
         // When diff is negative (number decreases), we move down (positive Y transform)
@@ -6136,7 +6136,7 @@ class CarbonEnergyCard extends HTMLElement {
         // Initial position: offset to show previous digit, then animate to show new digit from bottom
         const startOffset = 0; // Start at current position
         textGroup.setAttribute('transform', `translate(0, ${startOffset})`);
-        
+
         // Use GSAP if available, otherwise use CSS animation
         // Increased duration from 0.6s to 1.2s to slow down the animation
         if (window.gsap && this._gsap) {
@@ -6200,7 +6200,7 @@ class CarbonEnergyCard extends HTMLElement {
 
   _updateAllToggleSwitches() {
     if (!this._domRefs) return;
-    
+
     const updateToggles = (toggles) => {
       if (!toggles || !Array.isArray(toggles)) return;
       toggles.forEach((toggle) => {
@@ -6223,42 +6223,42 @@ class CarbonEnergyCard extends HTMLElement {
   _updatePopupLinesWithToggles(lines, sensorIds, lineElements, lineGroups, toggleElements, config, popupX, popupY, topPadding, lineHeight, prefix, popupWidth) {
     const toggleWidth = 40; // Width of toggle switch
     const adjustedPopupWidth = popupWidth || 200;
-    
+
     // Phase A Optimization: Batch DOM updates for popup lines (reduces reflows)
     const domUpdates = [];
-    
+
     lines.forEach((line, index) => {
       const element = lineElements[index];
       const group = lineGroups[index];
       const toggle = toggleElements[index];
       const sensorId = sensorIds[index];
-      
+
       if (element && group) {
         const yPos = popupY + topPadding + (index * lineHeight) + (lineHeight / 2);
         // Adjust text position if toggle is present: move text left to make room for toggle
         const isControllable = sensorId && typeof sensorId === 'string' && sensorId.trim() && this._isEntityControllable(sensorId.trim());
         const textOffset = isControllable ? -35 : 0; // Move text left by 35px if toggle is present
-        
+
         // Batch DOM updates
         domUpdates.push(() => {
           element.setAttribute('x', popupX + adjustedPopupWidth / 2 + textOffset);
           element.setAttribute('y', yPos);
           element.textContent = line;
           element.style.display = 'inline';
-          
+
           // Apply font size
           const fontSizeKey = `${prefix}_${index + 1}_font_size`;
           const fontSize = config[fontSizeKey] || 16;
           element.setAttribute('font-size', fontSize);
-          
+
           // Apply color
           const colorKey = `${prefix}_${index + 1}_color`;
           const color = config[colorKey] || '#80ffff';
           element.setAttribute('fill', color);
-          
+
           // Show group
           group.style.display = 'inline';
-          
+
           // Check if entity is controllable and show toggle (reuse isControllable from above)
           if (isControllable && toggle) {
             const trimmedSensorId = sensorId.trim();
@@ -6269,7 +6269,7 @@ class CarbonEnergyCard extends HTMLElement {
             const toggleY = yPos - 6; // Raise toggle by 6px for better alignment
             toggle.setAttribute('transform', `translate(${toggleX}, ${toggleY})`);
             toggle.style.display = 'inline';
-            
+
             // Set toggle to semi-transparent with cyan border
             const bgRect = toggle.querySelector('rect');
             if (bgRect) {
@@ -6284,7 +6284,7 @@ class CarbonEnergyCard extends HTMLElement {
               sliderCircle.setAttribute('opacity', '0.9');
               sliderCircle.style.opacity = '0.9';
             }
-            
+
             // Update toggle state (on/off) using helper function
             this._updateToggleSwitch(toggle, trimmedSensorId);
             toggle.setAttribute('data-entity-id', trimmedSensorId);
@@ -6294,7 +6294,7 @@ class CarbonEnergyCard extends HTMLElement {
         });
       }
     });
-    
+
     // Hide unused lines (also batched)
     for (let i = lines.length; i < lineElements.length; i++) {
       const element = lineElements[i];
@@ -6312,7 +6312,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
       });
     }
-    
+
     // Execute all DOM updates in a single batch (1 reflow instead of N)
     if (domUpdates.length > 0) {
       requestAnimationFrame(() => {
@@ -6329,15 +6329,15 @@ class CarbonEnergyCard extends HTMLElement {
     if (!this._hass || !this.config) {
       return;
     }
-    
+
     const config = this.config;
     const rawConfig = this._rawConfig || {};
     if (!this._isAuthorized && config && config.pro_password && typeof this._revalidateAuthFromConfig_ === 'function') {
       this._revalidateAuthFromConfig_();
     }
-    const hasDeveloperValues = this.config && Object.keys(this.config).some(key => 
-      key.startsWith('dev_text_') || 
-      key.startsWith('dev_popup_') || 
+    const hasDeveloperValues = this.config && Object.keys(this.config).some(key =>
+      key.startsWith('dev_text_') ||
+      key.startsWith('dev_popup_') ||
       key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
     );
 
@@ -6378,7 +6378,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (!this._hass && hasDeveloperValues) {
       this._hass = { states: {} };
     }
-    
+
     // Quick data hash check (skip expensive render if data unchanged)
     // Only skip if not forced and not in editor mode
     const isEditorActive = this._isEditorActive();
@@ -6388,7 +6388,7 @@ class CarbonEnergyCard extends HTMLElement {
       try {
         const sensorCollector = new SensorDataCollector(this._hass, getStateSafeBound);
         sensorData = sensorCollector.collectAll(config);
-        
+
         // Create lightweight hash of critical values
         // Only use values available in sensorData (car values calculated later)
         const pvH = Math.round((sensorData && sensorData.total_pv_w) || 0);
@@ -6414,7 +6414,7 @@ class CarbonEnergyCard extends HTMLElement {
           if (parts.length) cfH = parts.join(',');
         } catch (eCF) { /* ignore */ }
         const dataHash = `${pvH}|${batH}|${gridH}|${loadH}|${socH}|${heatH}|cf:${cfH}`;
-        
+
         if (this._lastDataHash === dataHash) {
           // Data unchanged, skip render but update timestamp
           this._lastRender = Date.now();
@@ -6428,7 +6428,7 @@ class CarbonEnergyCard extends HTMLElement {
       // Force render or editor mode: clear hash to ensure render
       this._lastDataHash = null;
     }
-    
+
     // Verify feature authorization using shared SHA-256 implementation
     // Define early to ensure it's available throughout the render method
     const haUserIdForAuth = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
@@ -6444,7 +6444,7 @@ class CarbonEnergyCard extends HTMLElement {
               const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
-          } catch (e) {}
+          } catch (e) { }
         }
         const hashV1 = CARBON_SHA256(trimmed);
         const uid = getCarbonUID();
@@ -6455,7 +6455,7 @@ class CarbonEnergyCard extends HTMLElement {
         const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdForAuth && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) { }
         }
         const shouldRefresh =
           (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) ||
@@ -6468,13 +6468,13 @@ class CarbonEnergyCard extends HTMLElement {
     };
 
     this._lastRender = Date.now();
-    
+
     // Collect all sensor data using SensorDataCollector
     if (!sensorData) {
       const sensorCollector = new SensorDataCollector(this._hass, getStateSafeBound);
       sensorData = sensorCollector.collectAll(config);
     }
-    
+
     // Extract sensor data for easier access
     const {
       pvStringIds, pvStringValues, pvTotalFromStrings, pvArray2Ids, pvArray2Values, pvArray2TotalFromStrings, pv_primary_w, pv_secondary_w, total_pv_w,
@@ -6486,9 +6486,9 @@ class CarbonEnergyCard extends HTMLElement {
       heatPumpSensorId, hasHeatPumpSensor, heat_pump_w,
       total_daily_kwh, daily1, daily2
     } = sensorData;
-    
+
     const showPvStrings = Boolean(config.show_pv_strings);
-    
+
     // Additional threshold calculations
     // Optimized: using shared toNumber function instead of local definition
     const thresholdMultiplier = use_kw ? 1000 : 1;
@@ -6508,7 +6508,7 @@ class CarbonEnergyCard extends HTMLElement {
     // Phase A Optimization: Early exit for car calculations if not needed
     const showCar1 = Boolean(config.show_car_soc);
     const showCar2Toggle = Boolean(config.show_car_soc2 !== undefined ? config.show_car_soc2 : config.show_car2);
-    
+
     // Only resolve entity IDs if cars are enabled (saves string operations)
     const car1PowerSensorId = showCar1 ? resolveEntityId(config.sensor_car_power, config.car_power) : '';
     const car1SocSensorId = showCar1 ? resolveEntityId(config.sensor_car_soc, config.car_soc) : '';
@@ -6517,7 +6517,7 @@ class CarbonEnergyCard extends HTMLElement {
     const car2EntitiesConfigured = Boolean(car2PowerSensorId || car2SocSensorId);
     const showCar2 = showCar2Toggle && car2EntitiesConfigured;
     let showDebugGrid = false;
-    
+
     // Only calculate car values if cars are enabled (saves getStateSafe calls)
     const car1Label = showCar1 ? resolveLabel(config.car1_label, 'CAR 1') : '';
     const car2Label = showCar2 ? resolveLabel(config.car2_label, 'CAR 2') : '';
@@ -6605,9 +6605,9 @@ class CarbonEnergyCard extends HTMLElement {
     // Optimized: cache trim result to avoid repeated calls
     const cardTitleRaw = config.card_title;
     const title_text = (typeof cardTitleRaw === 'string' && cardTitleRaw.trim()) ? cardTitleRaw.trim() : null;
-    
+
     // Optimized: using shared resolveColor function instead of local definition
-    
+
     // Check if premium features are enabled
     const authInput = config.pro_password;
     if (typeof verifyFeatureAuth !== 'function') {
@@ -6621,7 +6621,7 @@ class CarbonEnergyCard extends HTMLElement {
     const hasPwTrimmed = !!(authInput && typeof authInput === 'string' && authInput.trim());
     // While auth lists are loading, if user has password set, show PRO features (avoid hiding custom texts on first paint)
     //const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
-    
+
     const isProEnabled = true; // Ignoruje overovanie a zapne PRO
 
     showDebugGrid = isProEnabled && Boolean(config.pro_debug_grid);
@@ -7007,17 +7007,21 @@ class CarbonEnergyCard extends HTMLElement {
       load: { stroke: effectiveLoadFlowColor, glowColor: effectiveLoadFlowColor, active: loadFlowActive, direction: (loadInvertFlow ? -1 : 1) },
       grid: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForGrid, direction: gridAnimationDirection },
       grid_house: { stroke: effectiveGridColor, glowColor: effectiveGridColor, active: gridActiveForHouse, direction: gridAnimationDirection },
-      car1: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar1 && Math.abs(car1PowerValue) > thrCar, direction: (() => {
-        let dir = car1Bidirectional ? (car1PowerValue >= 0 ? 1 : -1) : 1;
-        return car1InvertFlow ? -dir : dir;
-      })() },
-      car2: { stroke: carFlowColor, glowColor: carFlowColor, active: showCar2 && Math.abs(car2PowerValue) > thrCar, direction: (() => {
-        let dir = car2Bidirectional ? (car2PowerValue >= 0 ? 1 : -1) : 1;
-        return car2InvertFlow ? -dir : dir;
-      })() },
+      car1: {
+        stroke: carFlowColor, glowColor: carFlowColor, active: showCar1 && Math.abs(car1PowerValue) > thrCar, direction: (() => {
+          let dir = car1Bidirectional ? (car1PowerValue >= 0 ? 1 : -1) : 1;
+          return car1InvertFlow ? -dir : dir;
+        })()
+      },
+      car2: {
+        stroke: carFlowColor, glowColor: carFlowColor, active: showCar2 && Math.abs(car2PowerValue) > thrCar, direction: (() => {
+          let dir = car2Bidirectional ? (car2PowerValue >= 0 ? 1 : -1) : 1;
+          return car2InvertFlow ? -dir : dir;
+        })()
+      },
       heatPump: { stroke: heatPumpFlowColor, glowColor: heatPumpFlowColor, active: hasHeatPumpSensor && heat_pump_w > thrHp, direction: (heatPumpInvertFlow ? -1 : 1) }
     };
-    
+
     flows.pv1.direction = array1InvertFlow ? -1 : 1;
     flows.pv2.direction = array2InvertFlow ? -1 : 1;
     flows.load.direction = loadInvertFlow ? -1 : 1;
@@ -7028,7 +7032,7 @@ class CarbonEnergyCard extends HTMLElement {
     for (let i = 1; i <= 10; i++) {
       const flowKey = `custom_flow_${i}`;
       const enabled = Boolean(config[`custom_flow_${i}_enabled`]);
-      
+
       // Only process if enabled
       if (!enabled) {
         continue;
@@ -7197,7 +7201,7 @@ class CarbonEnergyCard extends HTMLElement {
     };
 
     const customTexts = [];
-    const customTextEnabledCount = [1,2,3,4,5,6,7,8,9,10].filter(function(i){ return Boolean(config['custom_text_' + i + '_enabled']); }).length;
+    const customTextEnabledCount = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].filter(function (i) { return Boolean(config['custom_text_' + i + '_enabled']); }).length;
     if (isProEnabled) {
       for (let i = 1; i <= 10; i++) {
         const enabled = Boolean(config[`custom_text_${i}_enabled`]);
@@ -7469,10 +7473,10 @@ class CarbonEnergyCard extends HTMLElement {
         const hasGridExportSensor = Boolean(config.sensor_grid_export && typeof config.sensor_grid_export === 'string' && config.sensor_grid_export.trim());
         const hasGridSensor = hasGridPowerSensor || hasGridImportSensor || hasGridExportSensor;
         const showGridBox = config.show_grid_box !== false;
-        
+
         // Use #00f9f9 as default color for grid box text (not gridImportColor/gridExportColor)
         const gridBoxTextColor = g.textColor || '#00f9f9';
-        
+
         const gridLineLabels = [label_importing || 'Import', label_exporting || 'Export', label_import_day, label_export_day];
         const gridLineValues = [this.formatPower(gridImport, use_kw), this.formatPower(gridExport, use_kw), `${this.formatNumberLocale(gridImportDaily / 1000, 2)} kWh`, `${this.formatNumberLocale(gridExportDaily / 1000, 2)} kWh`];
         return {
@@ -7629,7 +7633,7 @@ class CarbonEnergyCard extends HTMLElement {
           });
         });
       }
-    } catch(e) { /* ignore */ }
+    } catch (e) { /* ignore */ }
     try { this._syncRemoteUpdateBanner_(); } catch (e0) { /* ignore */ }
   }
 
@@ -7646,7 +7650,7 @@ class CarbonEnergyCard extends HTMLElement {
       lang = dashIdx > 0 ? locale.substring(0, dashIdx) : locale;
     }
     lang = (lang || 'en').toLowerCase();
-    
+
     // Verify feature authorization using shared SHA-256 implementation
     // Define here because _buildTemplate is a separate method and doesn't have access to render() scope
     const haUserIdBuild = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
@@ -7662,7 +7666,7 @@ class CarbonEnergyCard extends HTMLElement {
               const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
-          } catch (e) {}
+          } catch (e) { }
         }
         const hashV1 = CARBON_SHA256(trimmed);
         const uid = getCarbonUID();
@@ -7673,7 +7677,7 @@ class CarbonEnergyCard extends HTMLElement {
         const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdBuild && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) { }
         }
         if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
           CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
@@ -7681,11 +7685,11 @@ class CarbonEnergyCard extends HTMLElement {
         return ok;
       } catch (e) { return false; }
     };
-    
+
     // Get dynamic positions from config
     const TEXT_POSITIONS = getTextPositions(config);
     // Batterie 2,3,4: forzare sotto il testo batteria 1 se la config ha y in alto (evita "appaiono in alto")
-    [ 'battery_2', 'battery_3', 'battery_4' ].forEach(function (key) {
+    ['battery_2', 'battery_3', 'battery_4'].forEach(function (key) {
       if (TEXT_POSITIONS[key] && (TEXT_POSITIONS[key].y == null || TEXT_POSITIONS[key].y < 350)) {
         var def = DEFAULT_TEXT_POSITIONS[key];
         if (def) {
@@ -7699,7 +7703,7 @@ class CarbonEnergyCard extends HTMLElement {
     const perf = this._getPerfSettings();
     const arrowCount = (perf && perf.resolved === 'low') ? 3 : FLOW_ARROW_COUNT;
     const includeArrows = (this._effectiveAnimationStyle(config.animation_style) === 'arrows');
-    
+
     // Build text transforms from dynamic positions
     const TEXT_TRANSFORMS = {
       solar: buildTextTransform(TEXT_POSITIONS.solar),
@@ -7719,7 +7723,7 @@ class CarbonEnergyCard extends HTMLElement {
       car2_power: buildTextTransform(TEXT_POSITIONS.car2_power),
       car2_soc: buildTextTransform(TEXT_POSITIONS.car2_soc)
     };
-    
+
     // Helper function to get transform string for flow offsets
     const getFlowTransform = (flowKey) => {
       let style = '';
@@ -7729,20 +7733,20 @@ class CarbonEnergyCard extends HTMLElement {
       if (viewState.hideBatteryUi && flowKey === 'bat') {
         style = 'display:none;';
       }
-      
+
       if (!this._flowOffsets) {
         return style ? `style="${style}"` : '';
       }
       const offset = this._flowOffsets[flowKey];
       const transform = (offset && (offset.x !== 0 || offset.y !== 0)) ? `transform="translate(${offset.x}, ${offset.y})"` : '';
-      
+
       if (style && transform) return `style="${style}" ${transform}`;
       if (style) return `style="${style}"`;
       return transform;
     };
 
     const SOC_BAR = viewState.socBar || {};
-    
+
     // Helper function to calculate popup line positions
     const getPopupLinePos = (popup, lineIndex) => {
       const centerX = popup.x + popup.width / 2;
@@ -7754,7 +7758,7 @@ class CarbonEnergyCard extends HTMLElement {
         toggleX: popup.x + popup.width - 20
       };
     };
-    
+
     // Text visibility logic (must be defined before pvLineElements)
     const enableTextToggleButton = Boolean(this.config && this.config.enable_text_toggle_button);
     const textToggleButtonX = Math.max(0, Math.min(800, Number(this.config && this.config.text_toggle_button_x) || 30));
@@ -7788,13 +7792,13 @@ class CarbonEnergyCard extends HTMLElement {
       motionDetected ||
       (this._motionLastDetectedAt != null && (Date.now() - this._motionLastDetectedAt) < MOTION_KEEPALIVE_MS_RENDER)
     );
-    
+
     // Check if any entities are configured (if yes, texts should be visible automatically)
     // Optimized: inline check to avoid function call overhead
     const isSensorConfigured = (sensorValue) => {
       return sensorValue && typeof sensorValue === 'string' && sensorValue.trim().length > 0;
     };
-    
+
     // Optimized: check custom texts with early exit
     let hasCustomText = false;
     for (let i = 1; i <= 10 && !hasCustomText; i++) {
@@ -7802,12 +7806,12 @@ class CarbonEnergyCard extends HTMLElement {
         const text = config[`custom_text_${i}_text`];
         const sensor = config[`custom_text_${i}_sensor`];
         if ((text && typeof text === 'string' && text.trim().length > 0) ||
-            (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
+          (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
           hasCustomText = true;
         }
       }
     }
-    
+
     // Optimized: check all sensors in a single pass with early exit
     const sensorKeys = [
       'sensor_home_load', 'sensor_home_load_secondary', 'sensor_pv_total', 'sensor_pv_total_secondary',
@@ -7829,7 +7833,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
       }
     }
-    
+
     // Determine if texts should be visible (must match _updateTextVisibility logic)
     // Button: cycles through 3 states (0=all, 1=no grid/pv boxes/lines, 2=nothing). Motion: show for 60s then hide.
     let shouldShowTexts;
@@ -7882,7 +7886,7 @@ class CarbonEnergyCard extends HTMLElement {
     const pvClickableDisplay = viewState.pvUiEnabled ? 'inline' : 'none';
     const pvClickableCursor = viewState.pvUiEnabled ? 'pointer' : 'default';
     const enableEchoAlive = Boolean(this.config && this.config.enable_echo_alive);
-    
+
     // Text button translations
     const activeTextLabels = {
       en: 'TEXT',
@@ -7893,26 +7897,26 @@ class CarbonEnergyCard extends HTMLElement {
       sk: 'TEXT'
     };
     const activeTextLabel = activeTextLabels[lang] || activeTextLabels.en;
-    
+
     // Round buttons: 36x36 viewBox, scale via px
     const roundSize = 36;
     const btnSizePx = Math.max(32, Math.min(56, Math.round(40 * textToggleButtonScale)));
     const roundFontSize = 8;
-    
+
     // Position: % relative to card (viewBox 800x450)
     const leftPct = (textToggleButtonX / 800 * 100).toFixed(2);
     const positionStyle = textToggleButtonY === null
       ? `left: ${leftPct}%; bottom: 2.2%;`
       : `left: ${leftPct}%; top: ${(textToggleButtonY / 450 * 100).toFixed(2)}%;`;
-    
+
     const isEditorActive = this._isEditorActive();
     const showTextButton = enableTextToggleButton && !isEditorActive;
     const hideHomeButton = Boolean(this.config && this.config.hide_home_button);
     const showHomeButton = !isEditorActive && !hideHomeButton;
-    
+
     const homeLabels = { en: 'HOME', it: 'CASA', de: 'HOME', fr: 'ACCUEIL', nl: 'HOME', sk: 'DOMOV' };
     const homeLabel = homeLabels[lang] || homeLabels.en;
-    
+
     const homeIcons = [
       { key: 'camera', path: 'M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h10c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z', title: 'Camera' },
       { key: 'lights', path: 'M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1zm3-19C8.14 2 5 5.14 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74C19 5.14 15.86 2 12 2z', title: 'Lights' },
@@ -7925,15 +7929,15 @@ class CarbonEnergyCard extends HTMLElement {
       { key: 'extra4', path: 'M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z', title: 'Extra 4' },
       { key: 'extra5', path: 'M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z', title: 'Extra 5' }
     ];
-    
+
     const roundBtn = (label, role, slot) => `
       <div class="carbon-round-btn" data-role="${role}" style="width: ${btnSizePx}px; height: ${btnSizePx}px; flex-shrink: 0; position: relative; overflow: hidden; cursor: pointer; pointer-events: auto;">
         <svg class="carbon-round-btn-svg" viewBox="0 0 ${roundSize} ${roundSize}" preserveAspectRatio="xMidYMid meet" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; display: block; pointer-events: none;">
-          <circle cx="${roundSize/2}" cy="${roundSize/2}" r="${roundSize/2 - 1}" class="alive-box carbon-round-bg" />
+          <circle cx="${roundSize / 2}" cy="${roundSize / 2}" r="${roundSize / 2 - 1}" class="alive-box carbon-round-bg" />
           ${slot}
         </svg>
       </div>`;
-    
+
     const securityAlarmState = (() => {
       const raw = this.config && this.config.alarm_control_panel_entity;
       const eids = Array.isArray(raw) ? raw.filter((e) => e && String(e).trim()) : (raw && String(raw).trim() ? [String(raw).trim()] : []);
@@ -7963,15 +7967,15 @@ class CarbonEnergyCard extends HTMLElement {
           </g>
         </svg>
       </div>`;
-    
+
     const homePanelExpandedClass = this._homePanelExpanded ? ' home-collapsible-panel--expanded' : '';
     const textButtonBlock = showTextButton
-      ? roundBtn(activeTextLabel, 'active-text-button-container', `<text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${activeTextLabel}</text>`)
+      ? roundBtn(activeTextLabel, 'active-text-button-container', `<text x="${roundSize / 2}" y="${roundSize / 2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${activeTextLabel}</text>`)
       : '';
     const echoAliveLabel = 'ECHO[]';
-    const echoAliveButtonBlock = (enableEchoAlive && !isEditorActive) ? `<div class="carbon-round-btn echo-alive-container" data-role="echo-alive-container" style="width: ${btnSizePx}px; height: ${btnSizePx}px; flex-shrink: 0; position: relative; overflow: hidden; cursor: pointer; pointer-events: auto; border-radius: 50%;"><iframe class="echo-alive-iframe" src="${__URL_ECHO_ALIVE}" title="Echo Alive" data-role="echo-alive-iframe"></iframe><svg class="carbon-round-btn-svg" viewBox="0 0 ${roundSize} ${roundSize}" preserveAspectRatio="xMidYMid meet" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; display: block; pointer-events: none;"><circle cx="${roundSize/2}" cy="${roundSize/2}" r="${roundSize/2 - 1}" class="alive-box carbon-round-bg" /><text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${echoAliveLabel}</text></svg></div>` : '';
+    const echoAliveButtonBlock = (enableEchoAlive && !isEditorActive) ? `<div class="carbon-round-btn echo-alive-container" data-role="echo-alive-container" style="width: ${btnSizePx}px; height: ${btnSizePx}px; flex-shrink: 0; position: relative; overflow: hidden; cursor: pointer; pointer-events: auto; border-radius: 50%;"><iframe class="echo-alive-iframe" src="${__URL_ECHO_ALIVE}" title="Echo Alive" data-role="echo-alive-iframe"></iframe><svg class="carbon-round-btn-svg" viewBox="0 0 ${roundSize} ${roundSize}" preserveAspectRatio="xMidYMid meet" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; display: block; pointer-events: none;"><circle cx="${roundSize / 2}" cy="${roundSize / 2}" r="${roundSize / 2 - 1}" class="alive-box carbon-round-bg" /><text x="${roundSize / 2}" y="${roundSize / 2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${echoAliveLabel}</text></svg></div>` : '';
     const showButtonsRow = showTextButton || showHomeButton || (enableEchoAlive && !isEditorActive);
-    const homeButtonBlock = showHomeButton ? `${roundBtn(homeLabel, 'home-button-container', `<text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${homeLabel}</text>`)}
+    const homeButtonBlock = showHomeButton ? `${roundBtn(homeLabel, 'home-button-container', `<text x="${roundSize / 2}" y="${roundSize / 2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${homeLabel}</text>`)}
           <div class="home-collapsible-panel${homePanelExpandedClass}" data-role="home-collapsible-panel" style="display: flex; align-items: center; gap: 8px; overflow: hidden;">
             ${homeIcons.map((icon, i) => iconBtn(icon, i, icon.key === 'security' ? securityAlarmState : '')).join('')}
           </div>` : '';
@@ -8215,21 +8219,21 @@ class CarbonEnergyCard extends HTMLElement {
               <stop offset="1" stop-color="${SOC_BAR.colorOn ?? '#00FFFF'}" stop-opacity="1"/>
             </linearGradient>
             ${(() => {
-              const solarForecast = viewState.solarForecast;
-              if (!solarForecast || !solarForecast.enabled) return '';
-              
-              const percentageRaw = Number(solarForecast.percentage);
-              const percentage = Number.isFinite(percentageRaw) ? Math.max(0, Math.min(100, percentageRaw)) : 0;
-              const opacity = Math.max(0.1, Math.min(1.0, 0.4 + (percentage / 100 * 0.6)));
-              const baseColor = resolveColor(solarForecast.color, '#00FFFF');
-              
-              return `
+        const solarForecast = viewState.solarForecast;
+        if (!solarForecast || !solarForecast.enabled) return '';
+
+        const percentageRaw = Number(solarForecast.percentage);
+        const percentage = Number.isFinite(percentageRaw) ? Math.max(0, Math.min(100, percentageRaw)) : 0;
+        const opacity = Math.max(0.1, Math.min(1.0, 0.4 + (percentage / 100 * 0.6)));
+        const baseColor = resolveColor(solarForecast.color, '#00FFFF');
+
+        return `
             <radialGradient id="solar-forecast-gradient" cx="50%" cy="50%" r="50%">
               <stop offset="0%" style="stop-color:${baseColor};stop-opacity:${opacity}" />
               <stop offset="70%" style="stop-color:${baseColor};stop-opacity:${opacity * 0.8}" />
               <stop offset="100%" style="stop-color:${baseColor};stop-opacity:${opacity * 0.3}" />
             </radialGradient>`;
-            })()}
+      })()}
           </defs>
 
           <image data-role="background-image" href="${viewState.backgroundImage}" xlink:href="${viewState.backgroundImage}" x="${viewState.backgroundImageX}" y="${viewState.backgroundImageY}" width="800" height="450" preserveAspectRatio="none" style="display:${viewState.backgroundImage ? 'inline' : 'none'};" />
@@ -8250,22 +8254,22 @@ class CarbonEnergyCard extends HTMLElement {
           <g data-role="grid-box" transform="translate(${GRID_BOX.x ?? 580}, ${GRID_BOX.y ?? 15})" style="display:${GRID_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect x="0" y="0" width="${GRID_BOX.width ?? 200}" height="${GRID_BOX.height ?? 85}" rx="10" ry="10" class="carbon-info-box" />
             ${(GRID_BOX.lines || []).map((line, i) => {
-              const fy = (GRID_BOX.startY ?? 14) + i * (GRID_BOX.lineHeight ?? 18);
-              const fs = GRID_BOX.fontSize ?? 12;
-              const fillColor = line.fill || '#00f9f9';
-              const lineVisible = line.visible !== false;
-              return `<text data-role="grid-box-line-${i}" x="${(GRID_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'};">${line.label}: ${line.value}</text>`;
-            }).join('')}
+        const fy = (GRID_BOX.startY ?? 14) + i * (GRID_BOX.lineHeight ?? 18);
+        const fs = GRID_BOX.fontSize ?? 12;
+        const fillColor = line.fill || '#00f9f9';
+        const lineVisible = line.visible !== false;
+        return `<text data-role="grid-box-line-${i}" x="${(GRID_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'};">${line.label}: ${line.value}</text>`;
+      }).join('')}
           </g>
           <g data-role="pv-box" transform="translate(${PV_BOX.x ?? 20}, ${PV_BOX.y ?? 15})" style="display:${PV_BOX.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect x="0" y="0" width="${PV_BOX.width ?? 200}" height="${PV_BOX.height ?? 85}" rx="10" ry="10" class="carbon-info-box" />
             ${(PV_BOX.lines || []).map((line, i) => {
-              const fy = (PV_BOX.startY ?? 14) + i * (PV_BOX.lineHeight ?? 18);
-              const fs = PV_BOX.fontSize ?? 12;
-              const fillColor = line.fill || '#00f9f9';
-              const lineVisible = line.visible !== false;
-              return `<text data-role="pv-box-line-${i}" x="${(PV_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'}">${line.label}: ${line.value}</text>`;
-            }).join('')}
+        const fy = (PV_BOX.startY ?? 14) + i * (PV_BOX.lineHeight ?? 18);
+        const fs = PV_BOX.fontSize ?? 12;
+        const fillColor = line.fill || '#00f9f9';
+        const lineVisible = line.visible !== false;
+        return `<text data-role="pv-box-line-${i}" x="${(PV_BOX.width ?? 200) / 2}" y="${fy}" fill="${fillColor}" font-family="sans-serif" font-size="${fs}" text-anchor="middle" dominant-baseline="central" style="display:${lineVisible ? 'inline' : 'none'}">${line.label}: ${line.value}</text>`;
+      }).join('')}
           </g>
 
           <g ${getFlowTransform('pv1')}>
@@ -8314,97 +8318,97 @@ class CarbonEnergyCard extends HTMLElement {
           ${includeArrows ? buildArrowGroupSvg('heatPump', viewState.flows.heatPump, arrowCount) : ''}
           </g>
           ${(() => {
-            let customFlowsHtml = '';
-            for (let i = 1; i <= 10; i++) {
-              const flowKey = `custom_flow_${i}`;
-              const flowState = viewState.flows[flowKey];
-              
-              // IMPORTANT:
-              // Custom flows must ALWAYS be present in DOM when enabled.
-              // If we render them only when "active" at render-time, the DOM node may not exist
-              // and _updateView cannot show it later when the sensor crosses the threshold.
-              const isEnabled = Boolean(config[`custom_flow_${i}_enabled`]);
-              
-              customFlowsHtml += `
+        let customFlowsHtml = '';
+        for (let i = 1; i <= 10; i++) {
+          const flowKey = `custom_flow_${i}`;
+          const flowState = viewState.flows[flowKey];
+
+          // IMPORTANT:
+          // Custom flows must ALWAYS be present in DOM when enabled.
+          // If we render them only when "active" at render-time, the DOM node may not exist
+          // and _updateView cannot show it later when the sensor crosses the threshold.
+          const isEnabled = Boolean(config[`custom_flow_${i}_enabled`]);
+
+          customFlowsHtml += `
           <g ${getFlowTransform(flowKey)} data-custom-flow-group="${i}" style="display:${isEnabled ? 'inline' : 'none'};">
           <path class="track-path" d="${viewState.flowPaths[flowKey]}" />
           <path class="flow-path" data-flow-key="${flowKey}" d="${viewState.flowPaths[flowKey]}" stroke="${(flowState && flowState.stroke) ? flowState.stroke : '#00FFFF'}" pathLength="100" style="opacity:0;" />
           ${includeArrows && flowState ? buildArrowGroupSvg(flowKey, flowState, arrowCount) : ''}
           </g>`;
-            }
-            return customFlowsHtml;
-          })()}
+        }
+        return customFlowsHtml;
+      })()}
 
           ${(() => {
-            const solarForecast = viewState.solarForecast;
-            if (!solarForecast || !solarForecast.enabled) return '';
-            const textX = Number(solarForecast.x) || 400;
-            const textY = Number(solarForecast.y) || 400;
-            const iconOffsetBelow = 22;
-            const x = textX;
-            const y = textY + iconOffsetBelow;
-            
-            const percentageRaw = Number(solarForecast.percentage);
-            const percentage = Number.isFinite(percentageRaw) ? Math.max(0, Math.min(100, percentageRaw)) : 0;
-            const isRain = Boolean(solarForecast.isRain);
-            
-            const sunColor = resolveColor(solarForecast.color, '#00FFFF');
-            
-            if (isRain) {
-              const cloudW = 36;
-              const cloudH = 18;
-              let rainSvg = '';
-              for (let i = 0; i < 5; i++) {
-                const rx = (i - 2) * 7;
-                rainSvg += `<g><line x1="${rx}" y1="-6" x2="${rx}" y2="6" stroke="${sunColor}" stroke-width="1.5" opacity="0.85" stroke-linecap="round"/><animateTransform attributeName="transform" type="translate" values="${rx} -22; ${rx} 22" dur="${0.7 + i * 0.06}s" repeatCount="indefinite" begin="${i * 0.12}s" additive="sum"/></g>`;
-              }
-              return `
+        const solarForecast = viewState.solarForecast;
+        if (!solarForecast || !solarForecast.enabled) return '';
+        const textX = Number(solarForecast.x) || 400;
+        const textY = Number(solarForecast.y) || 400;
+        const iconOffsetBelow = 22;
+        const x = textX;
+        const y = textY + iconOffsetBelow;
+
+        const percentageRaw = Number(solarForecast.percentage);
+        const percentage = Number.isFinite(percentageRaw) ? Math.max(0, Math.min(100, percentageRaw)) : 0;
+        const isRain = Boolean(solarForecast.isRain);
+
+        const sunColor = resolveColor(solarForecast.color, '#00FFFF');
+
+        if (isRain) {
+          const cloudW = 36;
+          const cloudH = 18;
+          let rainSvg = '';
+          for (let i = 0; i < 5; i++) {
+            const rx = (i - 2) * 7;
+            rainSvg += `<g><line x1="${rx}" y1="-6" x2="${rx}" y2="6" stroke="${sunColor}" stroke-width="1.5" opacity="0.85" stroke-linecap="round"/><animateTransform attributeName="transform" type="translate" values="${rx} -22; ${rx} 22" dur="${0.7 + i * 0.06}s" repeatCount="indefinite" begin="${i * 0.12}s" additive="sum"/></g>`;
+          }
+          return `
           <g data-role="solar-forecast-sun">
-            <ellipse cx="${x}" cy="${y - 4}" rx="${cloudW/2}" ry="${cloudH/2}" fill="${sunColor}" opacity="0.28"><animate attributeName="opacity" values="0.2;0.35;0.2" dur="2s" repeatCount="indefinite"/></ellipse>
+            <ellipse cx="${x}" cy="${y - 4}" rx="${cloudW / 2}" ry="${cloudH / 2}" fill="${sunColor}" opacity="0.28"><animate attributeName="opacity" values="0.2;0.35;0.2" dur="2s" repeatCount="indefinite"/></ellipse>
             <ellipse cx="${x - 10}" cy="${y - 2}" rx="10" ry="8" fill="${sunColor}" opacity="0.32"/><ellipse cx="${x + 10}" cy="${y - 2}" rx="10" ry="8" fill="${sunColor}" opacity="0.32"/><ellipse cx="${x}" cy="${y + 2}" rx="12" ry="7" fill="${sunColor}" opacity="0.26"/>
             <g transform="translate(${x}, ${y})">${rainSvg}</g>
           </g>`;
-            }
-            
-            const baseSize = 30;
-            const sizeVariation = (percentage / 100) * 20;
-            const sunSize = Math.max(20, Math.min(60, baseSize + sizeVariation));
-            const sunRadius = sunSize / 2;
-            const opacity = Math.max(0.1, Math.min(1.0, 0.4 + (percentage / 100 * 0.6)));
-            const glowSize = Math.max(2, Math.min(20, 5 + (percentage / 100 * 15)));
-            const rayCount = 8;
-            const rayLength = sunRadius * 0.65;
-            const shortRayLength = sunRadius * 0.35;
-            const rayWidth = 2;
-            const shortRayWidth = 1.5;
-            let raysSvg = '';
-            for (let i = 0; i < rayCount; i++) {
-              const angle = (i * 360 / rayCount) * Math.PI / 180;
-              const startX = x + Math.cos(angle) * sunRadius;
-              const startY = y + Math.sin(angle) * sunRadius;
-              const endX = x + Math.cos(angle) * (sunRadius + rayLength);
-              const endY = y + Math.sin(angle) * (sunRadius + rayLength);
-              raysSvg += `<line x1="${startX}" y1="${startY}" x2="${endX}" y2="${endY}" stroke="${sunColor}" stroke-width="${rayWidth}" opacity="${opacity * 0.75}" stroke-linecap="round"><animate attributeName="opacity" values="${opacity * 0.6};${opacity * 0.85};${opacity * 0.6}" dur="2.5s" repeatCount="indefinite" begin="${i * 0.15}s"/></line>`;
-              const angleShort = (i * 360 / rayCount + 22.5) * Math.PI / 180;
-              const startXs = x + Math.cos(angleShort) * sunRadius;
-              const startYs = y + Math.sin(angleShort) * sunRadius;
-              const endXs = x + Math.cos(angleShort) * (sunRadius + shortRayLength);
-              const endYs = y + Math.sin(angleShort) * (sunRadius + shortRayLength);
-              raysSvg += `<line x1="${startXs}" y1="${startYs}" x2="${endXs}" y2="${endYs}" stroke="${sunColor}" stroke-width="${shortRayWidth}" opacity="${opacity * 0.5}" stroke-linecap="round"><animate attributeName="opacity" values="${opacity * 0.35};${opacity * 0.6};${opacity * 0.35}" dur="2.5s" repeatCount="indefinite" begin="${i * 0.15 + 0.4}s"/></line>`;
-            }
-            return `
+        }
+
+        const baseSize = 30;
+        const sizeVariation = (percentage / 100) * 20;
+        const sunSize = Math.max(20, Math.min(60, baseSize + sizeVariation));
+        const sunRadius = sunSize / 2;
+        const opacity = Math.max(0.1, Math.min(1.0, 0.4 + (percentage / 100 * 0.6)));
+        const glowSize = Math.max(2, Math.min(20, 5 + (percentage / 100 * 15)));
+        const rayCount = 8;
+        const rayLength = sunRadius * 0.65;
+        const shortRayLength = sunRadius * 0.35;
+        const rayWidth = 2;
+        const shortRayWidth = 1.5;
+        let raysSvg = '';
+        for (let i = 0; i < rayCount; i++) {
+          const angle = (i * 360 / rayCount) * Math.PI / 180;
+          const startX = x + Math.cos(angle) * sunRadius;
+          const startY = y + Math.sin(angle) * sunRadius;
+          const endX = x + Math.cos(angle) * (sunRadius + rayLength);
+          const endY = y + Math.sin(angle) * (sunRadius + rayLength);
+          raysSvg += `<line x1="${startX}" y1="${startY}" x2="${endX}" y2="${endY}" stroke="${sunColor}" stroke-width="${rayWidth}" opacity="${opacity * 0.75}" stroke-linecap="round"><animate attributeName="opacity" values="${opacity * 0.6};${opacity * 0.85};${opacity * 0.6}" dur="2.5s" repeatCount="indefinite" begin="${i * 0.15}s"/></line>`;
+          const angleShort = (i * 360 / rayCount + 22.5) * Math.PI / 180;
+          const startXs = x + Math.cos(angleShort) * sunRadius;
+          const startYs = y + Math.sin(angleShort) * sunRadius;
+          const endXs = x + Math.cos(angleShort) * (sunRadius + shortRayLength);
+          const endYs = y + Math.sin(angleShort) * (sunRadius + shortRayLength);
+          raysSvg += `<line x1="${startXs}" y1="${startYs}" x2="${endXs}" y2="${endYs}" stroke="${sunColor}" stroke-width="${shortRayWidth}" opacity="${opacity * 0.5}" stroke-linecap="round"><animate attributeName="opacity" values="${opacity * 0.35};${opacity * 0.6};${opacity * 0.35}" dur="2.5s" repeatCount="indefinite" begin="${i * 0.15 + 0.4}s"/></line>`;
+        }
+        return `
           <g data-role="solar-forecast-sun" style="filter: drop-shadow(0 0 ${glowSize}px ${sunColor}) drop-shadow(0 0 ${glowSize * 0.5}px ${sunColor});">
             ${raysSvg}
             <circle cx="${x}" cy="${y}" r="${sunRadius}" fill="url(#solar-forecast-gradient)" opacity="${opacity}"><animate attributeName="opacity" values="${opacity * 0.88};${opacity};${opacity * 0.88}" dur="2.2s" repeatCount="indefinite"/></circle>
             <circle cx="${x}" cy="${y}" r="${sunRadius * 0.7}" fill="${sunColor}" opacity="${opacity * 0.5}"><animate attributeName="opacity" values="${opacity * 0.4};${opacity * 0.55};${opacity * 0.4}" dur="2.2s" repeatCount="indefinite" begin="0.3s"/></circle>
           </g>`;
-          })()}
+      })()}
 
-          ${[1,2,3,4,5,6,7,8,9,10].map((i) => {
-            const ct = viewState.customTexts && viewState.customTexts.find((c) => c.id === i);
-            if (!ct) return `<text data-role="custom-text-${i}" x="0" y="0" fill="#00f9f9" font-size="16" style="display:none; pointer-events: none;"> </text>`;
-            return `<text data-role="custom-text-${i}" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${ct.x}" y="${ct.y}" ${ct.transform ? `transform="${ct.transform}"` : ''} fill="${ct.color}" font-size="${ct.size}" style="font-family: Arial, sans-serif; text-anchor: middle; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${ct.text}</text>`;
-          }).join('')}
+          ${[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((i) => {
+        const ct = viewState.customTexts && viewState.customTexts.find((c) => c.id === i);
+        if (!ct) return `<text data-role="custom-text-${i}" x="0" y="0" fill="#00f9f9" font-size="16" style="display:none; pointer-events: none;"> </text>`;
+        return `<text data-role="custom-text-${i}" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${ct.x}" y="${ct.y}" ${ct.transform ? `transform="${ct.transform}"` : ''} fill="${ct.color}" font-size="${ct.size}" style="font-family: Arial, sans-serif; text-anchor: middle; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${ct.text}</text>`;
+      }).join('')}
 
           ${pvLineElements}
 
@@ -8422,49 +8426,49 @@ class CarbonEnergyCard extends HTMLElement {
           <text data-role="battery-soc" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y}" transform="${TEXT_TRANSFORMS.battery}" fill="${(viewState.batterySoc && viewState.batterySoc.fill) || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${(viewState.batterySoc && viewState.batterySoc.fontSize) || 12}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${(viewState.batterySoc && viewState.batterySoc.visible !== false) ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${(viewState.batterySoc && viewState.batterySoc.text) || ''}</text>
           <text data-role="battery-power" class="${shouldShowTexts ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.battery.x}" y="${TEXT_POSITIONS.battery.y + 20}" transform="${TEXT_TRANSFORMS.battery}" fill="${(viewState.batteryPower && viewState.batteryPower.fill) || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${(viewState.batteryPower && viewState.batteryPower.fontSize) || 12}" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${(viewState.batteryPower && viewState.batteryPower.visible !== false) ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${(viewState.batteryPower && viewState.batteryPower.text) || ''}</text>
 
-          ${(function() {
-            const makeFluidSvg = (suffix, socPct) => {
-              const fluidH = Math.max(0, Math.min(94, 94 * (socPct / 100)));
-              const fluidY = 122 - fluidH;
-              return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 130" width="28" height="36" x="0" y="0" style="overflow:visible;display:inline-block;vertical-align:middle">' +
-                '<defs><linearGradient id="metal_body' + suffix + '" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#aaaaaa"/><stop offset="20%" stop-color="#dddddd"/><stop offset="50%" stop-color="#ffffff"/><stop offset="80%" stop-color="#dddddd"/><stop offset="100%" stop-color="#aaaaaa"/></linearGradient>' +
-                '<linearGradient id="energy_fluid' + suffix + '" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#00C853"/><stop offset="50%" stop-color="#69F0AE"/><stop offset="100%" stop-color="#00E676"/></linearGradient>' +
-                '<filter id="glow_effect' + suffix + '" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>' +
-                '<mask id="fluid_mask' + suffix + '"><rect x="18" y="28" width="64" height="94" rx="8" fill="white" /></mask></defs>' +
-                '<rect x="38" y="8" width="24" height="12" rx="3" fill="url(#metal_body' + suffix + ')" stroke="#999" stroke-width="0.5"/>' +
-                '<rect x="42" y="10" width="16" height="4" rx="1" fill="#fff" opacity="0.6"/>' +
-                '<rect x="15" y="20" width="70" height="106" rx="10" fill="url(#metal_body' + suffix + ')" stroke="#999" stroke-width="1"/>' +
-                '<rect x="20" y="25" width="20" height="96" rx="5" fill="#fff" opacity="0.3"/>' +
-                '<rect x="18" y="28" width="64" height="94" rx="8" fill="#222" stroke="#444" stroke-width="1"/>' +
-                '<g mask="url(#fluid_mask' + suffix + ')"><rect x="18" y="' + fluidY + '" width="64" height="' + fluidH + '" rx="0" fill="url(#energy_fluid' + suffix + ')"/></g>' +
-                '<path d="M58,45 L40,75 L52,75 L46,105 L64,65 L50,65 Z" fill="#FFEA00" stroke="#F9A825" stroke-width="1" filter="url(#glow_effect' + suffix + ')"><animate attributeName="opacity" values="0.5; 1; 0.5" dur="2s" repeatCount="indefinite"/></path>' +
-                '<path d="M25,35 Q50,25 75,35" stroke="#fff" stroke-width="3" fill="none" opacity="0.2" stroke-linecap="round"/></svg>';
-            };
-            let html = '';
-            for (let i = 1; i <= 3; i++) {
-              const tf = TEXT_TRANSFORMS['battery_' + (i + 1)] || TEXT_TRANSFORMS.battery;
-              const d = (viewState.batteryDisplays && viewState.batteryDisplays[i]) || {};
-              const fill = (d && d.fill) || PEARL_WHITE;
-              const fs = (d && d.fontSize) || (viewState.batterySoc && viewState.batterySoc.fontSize) || 12;
-              const vis = d && d.visible !== false;
-              const sb = (viewState.socBars && viewState.socBars[i]) || {};
-              const socPct = Number.isFinite(Number(sb.soc)) ? Math.max(0, Math.min(100, Number(sb.soc))) : 0;
-              const suffix = '_' + (i + 1);
-              const n = (i + 1);
-              let miniScale = Number(config && config['dev_mini_battery_' + n + '_scale']);
-              if (!Number.isFinite(miniScale) || miniScale <= 0) miniScale = 1;
-              let miniDx = Number(config && config['dev_mini_battery_' + n + '_offset_x']);
-              let miniDy = Number(config && config['dev_mini_battery_' + n + '_offset_y']);
-              if (!Number.isFinite(miniDx)) miniDx = 0;
-              if (!Number.isFinite(miniDy)) miniDy = 0;
-              const miniTf = 'translate(' + (-38 + miniDx) + ', ' + (-17 + miniDy) + ') scale(' + miniScale + ')';
-              html += '<g data-role="battery-row-' + (i + 1) + '" transform="' + tf + '" style="display:' + (vis ? 'inline' : 'none') + '">' +
-                '<g data-role="mini-battery-' + (i + 1) + '" class="carbon-mini-battery" transform="' + miniTf + '" style="pointer-events:none">' + makeFluidSvg(suffix, socPct) + '</g>' +
-                '<text data-role="battery-soc-' + (i + 1) + '" class="' + (shouldShowTexts ? '' : 'text-hidden') + '" x="0" y="0" fill="' + fill + '" font-family="' + FONT_EXO2 + '" font-size="' + fs + '" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none') + '; cursor: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default') + ';">' + ((d && d.socText) || '') + '</text>' +
-                '<text data-role="battery-power-' + (i + 1) + '" class="' + (shouldShowTexts ? '' : 'text-hidden') + '" x="0" y="20" fill="' + fill + '" font-family="' + FONT_EXO2 + '" font-size="' + fs + '" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none') + '; cursor: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default') + ';">' + ((d && d.powerText) || '') + '</text></g>';
-            }
-            return html;
-          })()}
+          ${(function () {
+        const makeFluidSvg = (suffix, socPct) => {
+          const fluidH = Math.max(0, Math.min(94, 94 * (socPct / 100)));
+          const fluidY = 122 - fluidH;
+          return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 130" width="28" height="36" x="0" y="0" style="overflow:visible;display:inline-block;vertical-align:middle">' +
+            '<defs><linearGradient id="metal_body' + suffix + '" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#aaaaaa"/><stop offset="20%" stop-color="#dddddd"/><stop offset="50%" stop-color="#ffffff"/><stop offset="80%" stop-color="#dddddd"/><stop offset="100%" stop-color="#aaaaaa"/></linearGradient>' +
+            '<linearGradient id="energy_fluid' + suffix + '" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#00C853"/><stop offset="50%" stop-color="#69F0AE"/><stop offset="100%" stop-color="#00E676"/></linearGradient>' +
+            '<filter id="glow_effect' + suffix + '" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>' +
+            '<mask id="fluid_mask' + suffix + '"><rect x="18" y="28" width="64" height="94" rx="8" fill="white" /></mask></defs>' +
+            '<rect x="38" y="8" width="24" height="12" rx="3" fill="url(#metal_body' + suffix + ')" stroke="#999" stroke-width="0.5"/>' +
+            '<rect x="42" y="10" width="16" height="4" rx="1" fill="#fff" opacity="0.6"/>' +
+            '<rect x="15" y="20" width="70" height="106" rx="10" fill="url(#metal_body' + suffix + ')" stroke="#999" stroke-width="1"/>' +
+            '<rect x="20" y="25" width="20" height="96" rx="5" fill="#fff" opacity="0.3"/>' +
+            '<rect x="18" y="28" width="64" height="94" rx="8" fill="#222" stroke="#444" stroke-width="1"/>' +
+            '<g mask="url(#fluid_mask' + suffix + ')"><rect x="18" y="' + fluidY + '" width="64" height="' + fluidH + '" rx="0" fill="url(#energy_fluid' + suffix + ')"/></g>' +
+            '<path d="M58,45 L40,75 L52,75 L46,105 L64,65 L50,65 Z" fill="#FFEA00" stroke="#F9A825" stroke-width="1" filter="url(#glow_effect' + suffix + ')"><animate attributeName="opacity" values="0.5; 1; 0.5" dur="2s" repeatCount="indefinite"/></path>' +
+            '<path d="M25,35 Q50,25 75,35" stroke="#fff" stroke-width="3" fill="none" opacity="0.2" stroke-linecap="round"/></svg>';
+        };
+        let html = '';
+        for (let i = 1; i <= 3; i++) {
+          const tf = TEXT_TRANSFORMS['battery_' + (i + 1)] || TEXT_TRANSFORMS.battery;
+          const d = (viewState.batteryDisplays && viewState.batteryDisplays[i]) || {};
+          const fill = (d && d.fill) || PEARL_WHITE;
+          const fs = (d && d.fontSize) || (viewState.batterySoc && viewState.batterySoc.fontSize) || 12;
+          const vis = d && d.visible !== false;
+          const sb = (viewState.socBars && viewState.socBars[i]) || {};
+          const socPct = Number.isFinite(Number(sb.soc)) ? Math.max(0, Math.min(100, Number(sb.soc))) : 0;
+          const suffix = '_' + (i + 1);
+          const n = (i + 1);
+          let miniScale = Number(config && config['dev_mini_battery_' + n + '_scale']);
+          if (!Number.isFinite(miniScale) || miniScale <= 0) miniScale = 1;
+          let miniDx = Number(config && config['dev_mini_battery_' + n + '_offset_x']);
+          let miniDy = Number(config && config['dev_mini_battery_' + n + '_offset_y']);
+          if (!Number.isFinite(miniDx)) miniDx = 0;
+          if (!Number.isFinite(miniDy)) miniDy = 0;
+          const miniTf = 'translate(' + (-38 + miniDx) + ', ' + (-17 + miniDy) + ') scale(' + miniScale + ')';
+          html += '<g data-role="battery-row-' + (i + 1) + '" transform="' + tf + '" style="display:' + (vis ? 'inline' : 'none') + '">' +
+            '<g data-role="mini-battery-' + (i + 1) + '" class="carbon-mini-battery" transform="' + miniTf + '" style="pointer-events:none">' + makeFluidSvg(suffix, socPct) + '</g>' +
+            '<text data-role="battery-soc-' + (i + 1) + '" class="' + (shouldShowTexts ? '' : 'text-hidden') + '" x="0" y="0" fill="' + fill + '" font-family="' + FONT_EXO2 + '" font-size="' + fs + '" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none') + '; cursor: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default') + ';">' + ((d && d.socText) || '') + '</text>' +
+            '<text data-role="battery-power-' + (i + 1) + '" class="' + (shouldShowTexts ? '' : 'text-hidden') + '" x="0" y="20" fill="' + fill + '" font-family="' + FONT_EXO2 + '" font-size="' + fs + '" font-weight="bold" letter-spacing="3px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; pointer-events: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none') + '; cursor: ' + ((viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default') + ';">' + ((d && d.powerText) || '') + '</text></g>';
+        }
+        return html;
+      })()}
 
           <text data-role="load-power" class="${showCoreLabels ? '' : 'text-hidden'}" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-family="${FONT_EXO2}" font-size="${viewState.load.fontSize}" font-weight="bold" letter-spacing="2px" text-transform="uppercase" style="text-shadow: 0 0 4px rgba(245,243,238,0.5); text-anchor:middle; dominant-baseline:central; display:${showCoreLabels && viewState.load.visible ? 'inline' : 'none'}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">${viewState.load.text || ''}</text>
           <text data-role="load-line-0" x="${TEXT_POSITIONS.home.x}" y="${TEXT_POSITIONS.home.y}" transform="${TEXT_TRANSFORMS.home}" fill="${viewState.load.fill || PEARL_WHITE}" font-size="${viewState.load.fontSize}" style="${TXT_STYLE}; display:none;"></text>
@@ -8727,43 +8731,43 @@ class CarbonEnergyCard extends HTMLElement {
           </g>
 
           ${viewState.overlayImages.map((overlay, index) =>
-            `<image data-role="overlay-image-${index + 1}" href="${overlay.image || ''}" xlink:href="${overlay.image || ''}" x="${overlay.x}" y="${overlay.y}" width="${overlay.width}" height="${overlay.height}" style="opacity:${overlay.opacity}; display:${overlay.enabled && overlay.image ? 'inline' : 'none'}; pointer-events:none;" preserveAspectRatio="none" />`
-          ).join('')}
+        `<image data-role="overlay-image-${index + 1}" href="${overlay.image || ''}" xlink:href="${overlay.image || ''}" x="${overlay.x}" y="${overlay.y}" width="${overlay.width}" height="${overlay.height}" style="opacity:${overlay.opacity}; display:${overlay.enabled && overlay.image ? 'inline' : 'none'}; pointer-events:none;" preserveAspectRatio="none" />`
+      ).join('')}
           <polygon data-role="pv-clickable-area" points="75,205 200,195 275,245 145,275 75,205" fill="transparent" style="cursor:${pvClickableCursor}; display:${pvClickableDisplay}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'none' : 'all'};" />
 
           <!-- SOC bars: battery 1 = 6-segment bar; batteries 2,3,4 = mini icon only (next to text) -->
           ${(viewState.socBars || [viewState.socBar]).map((SB, idx) => {
-            const bar = SB || {};
-            const n = idx + 1;
-            if (n >= 2) return '';
-            const x = bar.x ?? 325;
-            const y = bar.y ?? 277;
-            const w = bar.width ?? 30;
-            const h = bar.height ?? 85;
-            const socN = Number(bar.soc ?? 0);
-            const safeSoc = Number.isFinite(socN) ? Math.max(0, Math.min(100, socN)) : 0;
-            const step = 100 / 6;
-            const segmentsLit = safeSoc <= 0 ? 0 : Math.min(6, Math.ceil(safeSoc / step));
-            const colorOn = bar.colorOn ?? '#00FFFF';
-            const colorOff = bar.colorOff ?? '#5aa7c3';
-            const segH = (h - 7) / 6;
-            const opacity = bar.opacity ?? 0.55;
-            const glow = bar.glow ?? 13;
-            const segments = [0,1,2,3,4,5].map(i => {
-              const lit = i >= (6 - segmentsLit);
-              const isFirstSegment = (i === 5);
-              const fill = lit ? (isFirstSegment ? '#E53935' : `url(#soc-bar-on-grad)`) : colorOff;
-              const segY = 1 + i * (segH + 1);
-              const glowColor = isFirstSegment && lit ? '#E53935' : colorOn;
-              const filter = lit && glow > 0 ? `drop-shadow(0 0 ${glow}px ${glowColor}) drop-shadow(0 0 ${Math.round(glow/2)}px rgba(255,255,255,0.4))` : 'none';
-              const isCharging = viewState.battery && viewState.battery.isCharging ? viewState.battery.isCharging : false;
-              const pulseClass = (isCharging && lit) ? 'soc-bar-pulse' : '';
-              return `<rect data-role="soc-bar-${n}-seg-${i}" x="2" y="${segY}" width="${w - 4}" height="${segH}" rx="3" ry="3" fill="${fill}" fill-opacity="${opacity}" stroke="transparent" stroke-width="0" class="${pulseClass}" style="filter:${filter};" />`;
-            }).join('');
-            const display = (bar.visible !== false && !viewState.hidePvAndBattery) ? 'inline' : 'none';
-            return `<g data-role="soc-bar-${n}" transform="translate(${x}, ${y}) translate(${w / 2}, ${h / 2}) rotate(${bar.rotate ?? 1}) skewX(${bar.skewX ?? 2}) skewY(${bar.skewY ?? -19}) translate(${-w / 2}, ${-h / 2})" style="display:${display}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
+        const bar = SB || {};
+        const n = idx + 1;
+        if (n >= 2) return '';
+        const x = bar.x ?? 325;
+        const y = bar.y ?? 277;
+        const w = bar.width ?? 30;
+        const h = bar.height ?? 85;
+        const socN = Number(bar.soc ?? 0);
+        const safeSoc = Number.isFinite(socN) ? Math.max(0, Math.min(100, socN)) : 0;
+        const step = 100 / 6;
+        const segmentsLit = safeSoc <= 0 ? 0 : Math.min(6, Math.ceil(safeSoc / step));
+        const colorOn = bar.colorOn ?? '#00FFFF';
+        const colorOff = bar.colorOff ?? '#5aa7c3';
+        const segH = (h - 7) / 6;
+        const opacity = bar.opacity ?? 0.55;
+        const glow = bar.glow ?? 13;
+        const segments = [0, 1, 2, 3, 4, 5].map(i => {
+          const lit = i >= (6 - segmentsLit);
+          const isFirstSegment = (i === 5);
+          const fill = lit ? (isFirstSegment ? '#E53935' : `url(#soc-bar-on-grad)`) : colorOff;
+          const segY = 1 + i * (segH + 1);
+          const glowColor = isFirstSegment && lit ? '#E53935' : colorOn;
+          const filter = lit && glow > 0 ? `drop-shadow(0 0 ${glow}px ${glowColor}) drop-shadow(0 0 ${Math.round(glow / 2)}px rgba(255,255,255,0.4))` : 'none';
+          const isCharging = viewState.battery && viewState.battery.isCharging ? viewState.battery.isCharging : false;
+          const pulseClass = (isCharging && lit) ? 'soc-bar-pulse' : '';
+          return `<rect data-role="soc-bar-${n}-seg-${i}" x="2" y="${segY}" width="${w - 4}" height="${segH}" rx="3" ry="3" fill="${fill}" fill-opacity="${opacity}" stroke="transparent" stroke-width="0" class="${pulseClass}" style="filter:${filter};" />`;
+        }).join('');
+        const display = (bar.visible !== false && !viewState.hidePvAndBattery) ? 'inline' : 'none';
+        return `<g data-role="soc-bar-${n}" transform="translate(${x}, ${y}) translate(${w / 2}, ${h / 2}) rotate(${bar.rotate ?? 1}) skewX(${bar.skewX ?? 2}) skewY(${bar.skewY ?? -19}) translate(${-w / 2}, ${-h / 2})" style="display:${display}; pointer-events: ${(viewState.showDebugGrid || isPreviewCard) ? 'all' : 'none'}; cursor: ${(viewState.showDebugGrid || isPreviewCard) ? 'grab' : 'default'};">
             <rect class="soc-bar-back" x="0" y="0" width="${w}" height="${h}" rx="4" ry="4" fill="rgba(0,25,45,0.75)" stroke="rgba(255,255,255,0.2)" stroke-width="1" style="pointer-events: none;" />${segments}</g>`;
-          }).join('')}
+      }).join('')}
 
         </svg>
         <div class="carbon-update-banner" data-role="update-banner"></div>
@@ -8813,7 +8817,7 @@ class CarbonEnergyCard extends HTMLElement {
       })(),
       socBarGroup: root.querySelector('[data-role="soc-bar-1"]'),
       socBarGroups: [1, 2, 3, 4].map(n => root.querySelector(`[data-role="soc-bar-${n}"]`)),
-      socBarSegments: [0,1,2,3,4,5].map(i => root.querySelector(`[data-role="soc-bar-1-seg-${i}"]`)),
+      socBarSegments: [0, 1, 2, 3, 4, 5].map(i => root.querySelector(`[data-role="soc-bar-1-seg-${i}"]`)),
       batteryRowGroups: [1, 2, 3, 4].map((n) => root.querySelector('[data-role="battery-row-' + n + '"]')),
       batterySocEls: [1, 2, 3, 4].map(n => root.querySelector(`[data-role="battery-soc-${n}"]`)),
       batteryPowerEls: [1, 2, 3, 4].map(n => root.querySelector(`[data-role="battery-power-${n}"]`)),
@@ -8913,17 +8917,17 @@ class CarbonEnergyCard extends HTMLElement {
       const flowEl = root.querySelector(`.flow-path[data-flow-key="${flowKey}"]`);
       const arrowEl = root.querySelector(`.arrow-group[data-arrow-key="${flowKey}"]`);
       const arrowShapeEls = Array.from(root.querySelectorAll(`[data-arrow-shape="${flowKey}"]`));
-      
+
       if (flowEl) this._domRefs.flows[flowKey] = flowEl;
       if (arrowEl) this._domRefs.arrows[flowKey] = arrowEl;
       if (arrowShapeEls.length > 0) this._domRefs.arrowShapes[flowKey] = arrowShapeEls;
-      
+
       // Fallback for arrow group if standard data-arrow-key fails
       if (!arrowEl && flowEl) {
         const parent = flowEl.parentNode;
         if (parent) {
-          const fallbackArrow = parent.querySelector(`.flow-arrow[data-arrow-key="${flowKey}"]`) || 
-                               parent.querySelector(`.flow-arrow`);
+          const fallbackArrow = parent.querySelector(`.flow-arrow[data-arrow-key="${flowKey}"]`) ||
+            parent.querySelector(`.flow-arrow`);
           if (fallbackArrow) this._domRefs.arrows[flowKey] = fallbackArrow;
         }
       }
@@ -8959,7 +8963,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (this._pvUiEnabled === false) {
       return;
     }
-    
+
     const config = this._config || this.config || {};
     const hasPopupEntities = !!(config.sensor_popup_pv_1 || config.sensor_popup_pv_2 || config.sensor_popup_pv_3 || config.sensor_popup_pv_4 || config.sensor_popup_pv_5 || config.sensor_popup_pv_6);
     const hasFallback = !!(config.sensor_pv_total || config.sensor_pv1 || config.sensor_pv2 || config.sensor_pv3 || config.sensor_pv4 || config.sensor_pv5 || config.sensor_pv6 || config.sensor_pv7 || config.sensor_pv8 || config.sensor_pv9 || config.sensor_pv_total_secondary || config.sensor_pv_array2_1 || config.sensor_pv_array2_2 || config.sensor_pv_array2_3 || config.sensor_pv_array2_4 || config.sensor_pv_array2_5 || config.sensor_pv_array2_6 || config.sensor_pv_array2_7 || config.sensor_pv_array2_8 || config.sensor_pv_array2_9);
@@ -8967,7 +8971,7 @@ class CarbonEnergyCard extends HTMLElement {
     if (!hasContent) {
       return;
     }
-    
+
     const popup = this._domRefs.pvPopup;
     const isVisible = popup.style.display !== 'none';
     if (isVisible) {
@@ -8991,7 +8995,7 @@ class CarbonEnergyCard extends HTMLElement {
       return;
     }
     const popup = this._domRefs.pvPopup;
-    
+
     // Calculate popup content
     const config = this._config || this.config || {};
     const hasPopupEntities = !!(config.sensor_popup_pv_1 || config.sensor_popup_pv_2 || config.sensor_popup_pv_3 || config.sensor_popup_pv_4 || config.sensor_popup_pv_5 || config.sensor_popup_pv_6);
@@ -9043,52 +9047,52 @@ class CarbonEnergyCard extends HTMLElement {
     if (!lines.length) {
       return;
     }
-    
+
     // Calculate popup dimensions based on content
     // Find the maximum font size used in the popup for width and height calculation
     const maxFontSize = Math.max(...lines.map((_, index) => {
       const fontSizeKey = `sensor_popup_pv_${index + 1}_font_size`;
       return config[fontSizeKey] || 16;
     }));
-    
+
     // Calculate line height based on font size (font-size + 1px padding for readability)
     const lineHeight = maxFontSize + 1;
-    
+
     // Measure actual text width for accurate sizing
     let maxTextWidth = 0;
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
     ctx.font = `${maxFontSize}px Arial, sans-serif`;
-    
+
     lines.forEach((line) => {
       const textWidth = ctx.measureText(line).width;
       maxTextWidth = Math.max(maxTextWidth, textWidth);
     });
-    
+
     // Check if toggles are present to adjust width calculation
     const hasToggles = popupPvSensorIds.some(id => {
       if (!id || typeof id !== 'string' || !id.trim()) return false;
       return this._isEntityControllable(id.trim());
     });
-    
+
     // Calculate space needed for toggle: toggle width (40px) + margin (15px) + spacing from text (15px) = 70px
     const toggleSpace = hasToggles ? 70 : 0;
-    
+
     const contentWidth = Math.max(200, Math.min(500, maxTextWidth));
     const calculatedPopupWidth = contentWidth + 40 + toggleSpace; // 40px padding + space for toggle if present
-    
+
     // Calculate height based on content: top padding + lines + bottom padding
     const topPadding = 20;
     const bottomPadding = 20;
     const contentHeight = lines.length * lineHeight;
     const calculatedPopupHeight = topPadding + contentHeight + bottomPadding;
-    
+
     // Use positions from config if available, otherwise center (PV popup)
     const popupX = Number(config.dev_popup_pv_x) || (800 - calculatedPopupWidth) / 2;
     const popupY = Number(config.dev_popup_pv_y) || (450 - calculatedPopupHeight) / 2;
     const popupWidth = Number(config.dev_popup_pv_width) || calculatedPopupWidth;
     const popupHeight = Number(config.dev_popup_pv_height) || calculatedPopupHeight;
-    
+
     // Update popup rectangle
     const rect = popup.querySelector('rect');
     if (rect) {
@@ -9102,18 +9106,18 @@ class CarbonEnergyCard extends HTMLElement {
       rect.setAttribute('stroke', '#00FFFF');
       rect.setAttribute('stroke-width', '0.5');
     }
-    
+
     // Update text positions and styling with toggles
     const lineElements = this._domRefs.pvPopupLines || [];
     const lineGroups = this._domRefs.pvPopupLineGroups || [];
     const toggleElements = this._domRefs.pvPopupToggles || [];
-    
+
     // Use already calculated popupWidth which includes toggle space
     const adjustedPopupWidth = popupWidth;
     if (rect) {
       rect.setAttribute('width', adjustedPopupWidth);
     }
-    
+
     // Phase A Optimization: Batch DOM updates for popup lines (reduces reflows)
     const domUpdates = [];
     lines.forEach((line, index) => {
@@ -9121,33 +9125,33 @@ class CarbonEnergyCard extends HTMLElement {
       const group = lineGroups[index];
       const toggle = toggleElements[index];
       const sensorId = popupPvSensorIds[index];
-      
+
       if (element && group) {
         const yPos = popupY + topPadding + (index * lineHeight) + (lineHeight / 2);
         // Adjust text position if toggle is present: move text left to make room for toggle
         const isControllable = sensorId && typeof sensorId === 'string' && sensorId.trim() && this._isEntityControllable(sensorId.trim());
         const textOffset = isControllable ? -35 : 0; // Move text left by 35px if toggle is present
-        
+
         // Batch DOM updates
         domUpdates.push(() => {
           element.setAttribute('x', popupX + adjustedPopupWidth / 2 + textOffset);
           element.setAttribute('y', yPos);
           element.textContent = line;
           element.style.display = 'inline';
-          
+
           // Apply font size
           const fontSizeKey = `sensor_popup_pv_${index + 1}_font_size`;
           const fontSize = config[fontSizeKey] || 16;
           element.setAttribute('font-size', fontSize);
-          
+
           // Apply color
           const colorKey = `sensor_popup_pv_${index + 1}_color`;
           const color = config[colorKey] || '#80ffff';
           element.setAttribute('fill', color);
-          
+
           // Show group
           group.style.display = 'inline';
-          
+
           // Check if entity is controllable and show toggle (reuse isControllable from above)
           if (isControllable && toggle) {
             const trimmedSensorId = sensorId.trim();
@@ -9158,7 +9162,7 @@ class CarbonEnergyCard extends HTMLElement {
             const toggleY = yPos - 6; // Raise toggle by 6px for better alignment
             toggle.setAttribute('transform', `translate(${toggleX}, ${toggleY})`);
             toggle.style.display = 'inline';
-            
+
             // Set toggle to semi-transparent with cyan border
             const bgRect = toggle.querySelector('rect');
             if (bgRect) {
@@ -9175,7 +9179,7 @@ class CarbonEnergyCard extends HTMLElement {
               sliderCircle.style.opacity = '0.9';
               sliderCircle.style.pointerEvents = 'auto';
             }
-            
+
             // Update toggle state (on/off) using helper function
             this._updateToggleSwitch(toggle, trimmedSensorId);
             toggle.setAttribute('data-entity-id', trimmedSensorId);
@@ -9188,7 +9192,7 @@ class CarbonEnergyCard extends HTMLElement {
         });
       }
     });
-    
+
     // Execute all DOM updates in a single batch (1 reflow instead of N)
     if (domUpdates.length > 0) {
       requestAnimationFrame(() => {
@@ -9209,7 +9213,7 @@ class CarbonEnergyCard extends HTMLElement {
         });
       });
     }
-    
+
     // Hide unused lines
     for (let i = lines.length; i < lineElements.length; i++) {
       const element = lineElements[i];
@@ -9225,7 +9229,7 @@ class CarbonEnergyCard extends HTMLElement {
         toggle.style.display = 'none';
       }
     }
-    
+
     if (this._domRefs.pvClickableArea) {
       this._domRefs.pvClickableArea.style.pointerEvents = 'none';
     }
@@ -9278,13 +9282,15 @@ class CarbonEnergyCard extends HTMLElement {
     const popup = this._domRefs.pvPopup;
     const gsap = await this._ensureGsap();
     if (gsap) {
-      gsap.to(popup, { opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
-        popup.style.display = 'none';
-        if (this._activePopup === 'pv') this._activePopup = null;
-        if (this._domRefs.pvClickableArea) {
-          this._domRefs.pvClickableArea.style.pointerEvents = 'all';
+      gsap.to(popup, {
+        opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
+          popup.style.display = 'none';
+          if (this._activePopup === 'pv') this._activePopup = null;
+          if (this._domRefs.pvClickableArea) {
+            this._domRefs.pvClickableArea.style.pointerEvents = 'all';
+          }
         }
-      }});
+      });
     } else {
       popup.style.display = 'none';
       if (this._activePopup === 'pv') this._activePopup = null;
@@ -9299,8 +9305,8 @@ class CarbonEnergyCard extends HTMLElement {
 
     const config = this._config || this.config || {};
     const hasContent = config.sensor_popup_bat_1 || config.sensor_popup_bat_2 ||
-                      config.sensor_popup_bat_3 || config.sensor_popup_bat_4 ||
-                      config.sensor_popup_bat_5 || config.sensor_popup_bat_6;
+      config.sensor_popup_bat_3 || config.sensor_popup_bat_4 ||
+      config.sensor_popup_bat_5 || config.sensor_popup_bat_6;
     if (!hasContent) return;
 
     const popup = this._domRefs.batteryPopup;
@@ -9352,39 +9358,39 @@ class CarbonEnergyCard extends HTMLElement {
       const fontSizeKey = `sensor_popup_bat_${index + 1}_font_size`;
       return config[fontSizeKey] || 16;
     }));
-    
+
     // Calculate line height based on font size (font-size + 1px padding for readability)
     const lineHeight = maxFontSize + 1;
-    
+
     // Measure actual text width for accurate sizing
     let maxTextWidth = 0;
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
     ctx.font = `${maxFontSize}px Arial, sans-serif`;
-    
+
     lines.forEach((line) => {
       const textWidth = ctx.measureText(line).width;
       maxTextWidth = Math.max(maxTextWidth, textWidth);
     });
-    
+
     // Check if toggles are present to adjust width calculation
     const hasToggles = popupBatSensorIds.some(id => {
       if (!id || typeof id !== 'string' || !id.trim()) return false;
       return this._isEntityControllable(id.trim());
     });
-    
+
     // Calculate space needed for toggle: toggle width (40px) + margin (15px) + spacing from text (15px) = 70px
     const toggleSpace = hasToggles ? 70 : 0;
-    
+
     const contentWidth = Math.max(200, Math.min(500, maxTextWidth));
     const calculatedPopupWidth = contentWidth + 40 + toggleSpace; // 40px padding + space for toggle if present
-    
+
     // Calculate height based on content: top padding + lines + bottom padding
     const topPadding = 20;
     const bottomPadding = 20;
     const contentHeight = lines.length * lineHeight;
     const calculatedPopupHeight = topPadding + contentHeight + bottomPadding;
-    
+
     // Use positions from config if available, otherwise center (Battery popup)
     const popupX = Number(config.dev_popup_battery_x) || (800 - calculatedPopupWidth) / 2;
     const popupY = Number(config.dev_popup_battery_y) || (450 - calculatedPopupHeight) / 2;
@@ -9408,16 +9414,16 @@ class CarbonEnergyCard extends HTMLElement {
     const lineElements = this._domRefs.batteryPopupLines || [];
     const lineGroups = this._domRefs.batteryPopupLineGroups || [];
     const toggleElements = this._domRefs.batteryPopupToggles || [];
-    
+
     // Use already calculated popupWidth which includes toggle space
     const adjustedPopupWidth = popupWidth;
-    
+
     lines.forEach((line, index) => {
       const element = lineElements[index];
       const group = lineGroups[index];
       const toggle = toggleElements[index];
       const sensorId = popupBatSensorIds[index];
-      
+
       if (element && group) {
         const yPos = popupY + topPadding + (index * lineHeight) + (lineHeight / 2);
         // Adjust text position if toggle is present: move text left to make room for toggle
@@ -9427,20 +9433,20 @@ class CarbonEnergyCard extends HTMLElement {
         element.setAttribute('y', yPos);
         element.textContent = line;
         element.style.display = 'inline';
-        
+
         // Apply font size
         const fontSizeKey = `sensor_popup_bat_${index + 1}_font_size`;
         const fontSize = config[fontSizeKey] || 16;
         element.setAttribute('font-size', fontSize);
-        
+
         // Apply color
         const colorKey = `sensor_popup_bat_${index + 1}_color`;
         const color = config[colorKey] || '#80ffff';
         element.setAttribute('fill', color);
-        
+
         // Show group
         group.style.display = 'inline';
-        
+
         // Check if entity is controllable and show toggle (reuse isControllable from above)
         if (isControllable && toggle) {
           const trimmedSensorId = sensorId.trim();
@@ -9451,7 +9457,7 @@ class CarbonEnergyCard extends HTMLElement {
           const toggleY = yPos - 6; // Raise toggle by 6px for better alignment
           toggle.setAttribute('transform', `translate(${toggleX}, ${toggleY})`);
           toggle.style.display = 'inline';
-          
+
           // Set toggle to semi-transparent with cyan border
           const bgRect = toggle.querySelector('rect');
           if (bgRect) {
@@ -9466,7 +9472,7 @@ class CarbonEnergyCard extends HTMLElement {
             sliderCircle.setAttribute('opacity', '0.9');
             sliderCircle.style.opacity = '0.9';
           }
-          
+
           // Update toggle state (on/off) using helper function
           this._updateToggleSwitch(toggle, trimmedSensorId);
           toggle.setAttribute('data-entity-id', trimmedSensorId);
@@ -9521,10 +9527,12 @@ class CarbonEnergyCard extends HTMLElement {
     const popup = this._domRefs.batteryPopup;
     const gsap = await this._ensureGsap();
     if (gsap) {
-      gsap.to(popup, { opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
-        popup.style.display = 'none';
-        if (this._activePopup === 'battery') this._activePopup = null;
-      }});
+      gsap.to(popup, {
+        opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
+          popup.style.display = 'none';
+          if (this._activePopup === 'battery') this._activePopup = null;
+        }
+      });
     } else {
       popup.style.display = 'none';
       if (this._activePopup === 'battery') this._activePopup = null;
@@ -9535,20 +9543,20 @@ class CarbonEnergyCard extends HTMLElement {
     if (!this._domRefs || !this._domRefs.housePopup) {
       return;
     }
-    
+
     // Check if popup has any content by checking if any house entities are configured
     const config = this._config || this.config || {};
     if (!config) return;
-    const hasContent = (config.sensor_popup_house_1 && config.sensor_popup_house_1.trim()) || 
-                      (config.sensor_popup_house_2 && config.sensor_popup_house_2.trim()) || 
-                      (config.sensor_popup_house_3 && config.sensor_popup_house_3.trim()) || 
-                      (config.sensor_popup_house_4 && config.sensor_popup_house_4.trim()) || 
-                      (config.sensor_popup_house_5 && config.sensor_popup_house_5.trim()) || 
-                      (config.sensor_popup_house_6 && config.sensor_popup_house_6.trim());
+    const hasContent = (config.sensor_popup_house_1 && config.sensor_popup_house_1.trim()) ||
+      (config.sensor_popup_house_2 && config.sensor_popup_house_2.trim()) ||
+      (config.sensor_popup_house_3 && config.sensor_popup_house_3.trim()) ||
+      (config.sensor_popup_house_4 && config.sensor_popup_house_4.trim()) ||
+      (config.sensor_popup_house_5 && config.sensor_popup_house_5.trim()) ||
+      (config.sensor_popup_house_6 && config.sensor_popup_house_6.trim());
     if (!hasContent) {
       return;
     }
-    
+
     const popup = this._domRefs.housePopup;
     const isVisible = popup.style.display !== 'none';
     if (isVisible) {
@@ -9580,7 +9588,7 @@ class CarbonEnergyCard extends HTMLElement {
     for (let i = 0; i < popupHouseSensorIds.length; i++) {
       popupHouseValues[i] = this.formatPopupValue(null, popupHouseSensorIds[i]);
     }
-    
+
     const popupHouseNames = [
       config.sensor_popup_house_1_name && config.sensor_popup_house_1_name.trim() ? config.sensor_popup_house_1_name.trim() : this.getEntityName(config.sensor_popup_house_1),
       config.sensor_popup_house_2_name && config.sensor_popup_house_2_name.trim() ? config.sensor_popup_house_2_name.trim() : this.getEntityName(config.sensor_popup_house_2),
@@ -9589,57 +9597,57 @@ class CarbonEnergyCard extends HTMLElement {
       config.sensor_popup_house_5_name && config.sensor_popup_house_5_name.trim() ? config.sensor_popup_house_5_name.trim() : this.getEntityName(config.sensor_popup_house_5),
       config.sensor_popup_house_6_name && config.sensor_popup_house_6_name.trim() ? config.sensor_popup_house_6_name.trim() : this.getEntityName(config.sensor_popup_house_6)
     ];
-    
+
     const lines = popupHouseValues
       .map((valueText, i) => (valueText ? `${popupHouseNames[i]}: ${valueText}` : ''))
       .filter((line) => line);
     if (!lines.length) return;
-    
+
     // Calculate popup dimensions based on content
     // Find the maximum font size used in the popup for width and height calculation
     const maxFontSize = Math.max(...lines.map((_, index) => {
       const fontSizeKey = `sensor_popup_house_${index + 1}_font_size`;
       return config[fontSizeKey] || 16;
     }));
-    
+
     // Calculate line height based on font size (font-size + 1px padding for readability)
     const lineHeight = maxFontSize + 1;
-    
+
     // Measure actual text width for accurate sizing
     let maxTextWidth = 0;
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
     ctx.font = `${maxFontSize}px Arial, sans-serif`;
-    
+
     lines.forEach((line) => {
       const textWidth = ctx.measureText(line).width;
       maxTextWidth = Math.max(maxTextWidth, textWidth);
     });
-    
+
     // Check if toggles are present to adjust width calculation
     const hasTogglesHouse = popupHouseSensorIds.some(id => {
       if (!id || typeof id !== 'string' || !id.trim()) return false;
       return this._isEntityControllable(id.trim());
     });
-    
+
     // Calculate space needed for toggle: toggle width (40px) + margin (15px) + spacing from text (15px) = 70px
     const toggleSpace = hasTogglesHouse ? 70 : 0;
-    
+
     const contentWidth = Math.max(200, Math.min(500, maxTextWidth));
     const calculatedPopupWidth = contentWidth + 40 + toggleSpace; // 40px padding + space for toggle if present
-    
+
     // Calculate height based on content: top padding + lines + bottom padding
     const topPadding = 20;
     const bottomPadding = 20;
     const contentHeight = lines.length * lineHeight;
     const calculatedPopupHeight = topPadding + contentHeight + bottomPadding;
-    
+
     // Use positions from config if available, otherwise center (House popup)
     const popupX = Number(config.dev_popup_house_x) || (800 - calculatedPopupWidth) / 2;
     const popupY = Number(config.dev_popup_house_y) || (450 - calculatedPopupHeight) / 2;
     const popupWidth = Number(config.dev_popup_house_width) || calculatedPopupWidth;
     const popupHeight = Number(config.dev_popup_house_height) || calculatedPopupHeight;
-    
+
     // Update popup rectangle
     const rect = popup.querySelector('rect');
     if (rect) {
@@ -9653,24 +9661,24 @@ class CarbonEnergyCard extends HTMLElement {
       rect.setAttribute('stroke', '#00FFFF');
       rect.setAttribute('stroke-width', '0.5');
     }
-    
+
     // Update text positions and styling with toggles
     const lineElements = this._domRefs.housePopupLines || [];
     const lineGroups = this._domRefs.housePopupLineGroups || [];
     const toggleElements = this._domRefs.housePopupToggles || [];
-    
+
     // Use already calculated popupWidth which includes toggle space
     const adjustedPopupWidth = popupWidth;
     if (rect) {
       rect.setAttribute('width', adjustedPopupWidth);
     }
-    
+
     lines.forEach((line, index) => {
       const element = lineElements[index];
       const group = lineGroups[index];
       const toggle = toggleElements[index];
       const sensorId = popupHouseSensorIds[index];
-      
+
       if (element && group && line) {
         const yPos = popupY + topPadding + (index * lineHeight) + (lineHeight / 2);
         // Adjust text position if toggle is present: move text left to make room for toggle
@@ -9680,20 +9688,20 @@ class CarbonEnergyCard extends HTMLElement {
         element.setAttribute('y', yPos);
         element.textContent = line;
         element.style.display = 'inline';
-        
+
         // Apply font size
         const fontSizeKey = `sensor_popup_house_${index + 1}_font_size`;
         const fontSize = config[fontSizeKey] || 16;
         element.setAttribute('font-size', fontSize);
-        
+
         // Apply color
         const colorKey = `sensor_popup_house_${index + 1}_color`;
         const color = config[colorKey] || '#80ffff';
         element.setAttribute('fill', color);
-        
+
         // Show group
         group.style.display = 'inline';
-        
+
         // Check if entity is controllable and show toggle (reuse isControllable from above)
         if (isControllable && toggle) {
           const trimmedSensorId = sensorId.trim();
@@ -9704,7 +9712,7 @@ class CarbonEnergyCard extends HTMLElement {
           const toggleY = yPos - 6; // Raise toggle by 6px for better alignment
           toggle.setAttribute('transform', `translate(${toggleX}, ${toggleY})`);
           toggle.style.display = 'inline';
-          
+
           // Set toggle to semi-transparent with cyan border
           const bgRect = toggle.querySelector('rect');
           if (bgRect) {
@@ -9719,7 +9727,7 @@ class CarbonEnergyCard extends HTMLElement {
             sliderCircle.setAttribute('opacity', '0.9');
             sliderCircle.style.opacity = '0.9';
           }
-          
+
           // Update toggle state (on/off) using helper function
           this._updateToggleSwitch(toggle, trimmedSensorId);
           toggle.setAttribute('data-entity-id', trimmedSensorId);
@@ -9730,7 +9738,7 @@ class CarbonEnergyCard extends HTMLElement {
         element.style.display = 'none';
       }
     });
-    
+
     // Hide unused lines
     for (let i = lines.length; i < lineElements.length; i++) {
       const element = lineElements[i];
@@ -9746,7 +9754,7 @@ class CarbonEnergyCard extends HTMLElement {
         toggle.style.display = 'none';
       }
     }
-    
+
     popup.style.display = 'inline';
     popup.style.opacity = '1';
     popup.style.transform = 'scale(1)';
@@ -9776,10 +9784,12 @@ class CarbonEnergyCard extends HTMLElement {
     const popup = this._domRefs.housePopup;
     const gsap = await this._ensureGsap();
     if (gsap) {
-      gsap.to(popup, { opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
-        popup.style.display = 'none';
-        if (this._activePopup === 'house') this._activePopup = null;
-      }});
+      gsap.to(popup, {
+        opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
+          popup.style.display = 'none';
+          if (this._activePopup === 'house') this._activePopup = null;
+        }
+      });
     } else {
       popup.style.display = 'none';
       if (this._activePopup === 'house') this._activePopup = null;
@@ -9790,20 +9800,20 @@ class CarbonEnergyCard extends HTMLElement {
     if (!this._domRefs || !this._domRefs.gridPopup) {
       return;
     }
-    
+
     // Check if popup has any content by checking if any grid entities are configured
     const config = this._config || this.config || {};
     if (!config) return;
-    const hasContent = (config.sensor_popup_grid_1 && config.sensor_popup_grid_1.trim()) || 
-                      (config.sensor_popup_grid_2 && config.sensor_popup_grid_2.trim()) || 
-                      (config.sensor_popup_grid_3 && config.sensor_popup_grid_3.trim()) || 
-                      (config.sensor_popup_grid_4 && config.sensor_popup_grid_4.trim()) || 
-                      (config.sensor_popup_grid_5 && config.sensor_popup_grid_5.trim()) || 
-                      (config.sensor_popup_grid_6 && config.sensor_popup_grid_6.trim());
+    const hasContent = (config.sensor_popup_grid_1 && config.sensor_popup_grid_1.trim()) ||
+      (config.sensor_popup_grid_2 && config.sensor_popup_grid_2.trim()) ||
+      (config.sensor_popup_grid_3 && config.sensor_popup_grid_3.trim()) ||
+      (config.sensor_popup_grid_4 && config.sensor_popup_grid_4.trim()) ||
+      (config.sensor_popup_grid_5 && config.sensor_popup_grid_5.trim()) ||
+      (config.sensor_popup_grid_6 && config.sensor_popup_grid_6.trim());
     if (!hasContent) {
       return;
     }
-    
+
     const popup = this._domRefs.gridPopup;
     const isVisible = popup.style.display !== 'none';
     if (isVisible) {
@@ -9824,7 +9834,7 @@ class CarbonEnergyCard extends HTMLElement {
     const popup = this._domRefs.gridPopup;
     // Calculate popup content
     const config = this._config || this.config || {};
-    
+
     const popupGridSensorIds = [
       config.sensor_popup_grid_1,
       config.sensor_popup_grid_2,
@@ -9848,52 +9858,52 @@ class CarbonEnergyCard extends HTMLElement {
       .map((valueText, i) => (valueText ? `${popupGridNames[i]}: ${valueText}` : ''))
       .filter((line) => line);
     if (!lines.length) return;
-    
+
     // Calculate popup dimensions based on content
     // Find the maximum font size used in the popup for width and height calculation
     const maxFontSize = Math.max(...lines.map((_, index) => {
       const fontSizeKey = `sensor_popup_grid_${index + 1}_font_size`;
       return config[fontSizeKey] || 16;
     }));
-    
+
     // Calculate line height based on font size (font-size + 1px padding for readability)
     const lineHeight = maxFontSize + 1;
-    
+
     // Measure actual text width for accurate sizing
     let maxTextWidth = 0;
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
     ctx.font = `${maxFontSize}px Arial, sans-serif`;
-    
+
     lines.forEach((line) => {
       const textWidth = ctx.measureText(line).width;
       maxTextWidth = Math.max(maxTextWidth, textWidth);
     });
-    
+
     // Check if toggles are present to adjust width calculation
     const hasTogglesGrid = popupGridSensorIds.some(id => {
       if (!id || typeof id !== 'string' || !id.trim()) return false;
       return this._isEntityControllable(id.trim());
     });
-    
+
     // Calculate space needed for toggle: toggle width (40px) + margin (15px) + spacing from text (15px) = 70px
     const toggleSpace = hasTogglesGrid ? 70 : 0;
-    
+
     const contentWidth = Math.max(200, Math.min(500, maxTextWidth));
     const calculatedPopupWidth = contentWidth + 40 + toggleSpace; // 40px padding + space for toggle if present
-    
+
     // Calculate height based on content: top padding + lines + bottom padding
     const topPadding = 20;
     const bottomPadding = 20;
     const contentHeight = lines.length * lineHeight;
     const calculatedPopupHeight = topPadding + contentHeight + bottomPadding;
-    
+
     // Use positions from config if available, otherwise center (Grid popup)
     const popupX = Number(config.dev_popup_grid_x) || (800 - calculatedPopupWidth) / 2;
     const popupY = Number(config.dev_popup_grid_y) || (450 - calculatedPopupHeight) / 2;
     const popupWidth = Number(config.dev_popup_grid_width) || calculatedPopupWidth;
     const popupHeight = Number(config.dev_popup_grid_height) || calculatedPopupHeight;
-    
+
     // Update popup rectangle
     const rect = popup.querySelector('rect');
     if (rect) {
@@ -9907,24 +9917,24 @@ class CarbonEnergyCard extends HTMLElement {
       rect.setAttribute('stroke', '#00FFFF');
       rect.setAttribute('stroke-width', '0.5');
     }
-    
+
     // Update text positions and styling with toggles
     const lineElements = this._domRefs.gridPopupLines || [];
     const lineGroups = this._domRefs.gridPopupLineGroups || [];
     const toggleElements = this._domRefs.gridPopupToggles || [];
-    
+
     // Use already calculated popupWidth which includes toggle space
     const adjustedPopupWidth = popupWidth;
     if (rect) {
       rect.setAttribute('width', adjustedPopupWidth);
     }
-    
+
     lines.forEach((line, index) => {
       const element = lineElements[index];
       const group = lineGroups[index];
       const toggle = toggleElements[index];
       const sensorId = popupGridSensorIds[index];
-      
+
       if (element && group) {
         const yPos = popupY + topPadding + (index * lineHeight) + (lineHeight / 2);
         // Adjust text position if toggle is present: move text left to make room for toggle
@@ -9934,20 +9944,20 @@ class CarbonEnergyCard extends HTMLElement {
         element.setAttribute('y', yPos);
         element.textContent = line;
         element.style.display = 'inline';
-        
+
         // Apply font size
         const fontSizeKey = `sensor_popup_grid_${index + 1}_font_size`;
         const fontSize = config[fontSizeKey] || 16;
         element.setAttribute('font-size', fontSize);
-        
+
         // Apply color
         const colorKey = `sensor_popup_grid_${index + 1}_color`;
         const color = config[colorKey] || '#80ffff';
         element.setAttribute('fill', color);
-        
+
         // Show group
         group.style.display = 'inline';
-        
+
         // Check if entity is controllable and show toggle (reuse isControllable from above)
         if (isControllable && toggle) {
           const trimmedSensorId = sensorId.trim();
@@ -9958,7 +9968,7 @@ class CarbonEnergyCard extends HTMLElement {
           const toggleY = yPos - 6; // Raise toggle by 6px for better alignment
           toggle.setAttribute('transform', `translate(${toggleX}, ${toggleY})`);
           toggle.style.display = 'inline';
-          
+
           // Set toggle to semi-transparent with cyan border
           const bgRect = toggle.querySelector('rect');
           if (bgRect) {
@@ -9973,7 +9983,7 @@ class CarbonEnergyCard extends HTMLElement {
             sliderCircle.setAttribute('opacity', '0.9');
             sliderCircle.style.opacity = '0.9';
           }
-          
+
           // Update toggle state (on/off) using helper function
           this._updateToggleSwitch(toggle, trimmedSensorId);
           toggle.setAttribute('data-entity-id', trimmedSensorId);
@@ -9982,7 +9992,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
       }
     });
-    
+
     // Hide unused lines
     for (let i = lines.length; i < lineElements.length; i++) {
       const element = lineElements[i];
@@ -9998,7 +10008,7 @@ class CarbonEnergyCard extends HTMLElement {
         toggle.style.display = 'none';
       }
     }
-    
+
     popup.style.display = 'inline';
     popup.style.opacity = '1';
     popup.style.transform = 'scale(1)';
@@ -10028,10 +10038,12 @@ class CarbonEnergyCard extends HTMLElement {
     const popup = this._domRefs.gridPopup;
     const gsap = await this._ensureGsap();
     if (gsap) {
-      gsap.to(popup, { opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
-        popup.style.display = 'none';
-        if (this._activePopup === 'grid') this._activePopup = null;
-      }});
+      gsap.to(popup, {
+        opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
+          popup.style.display = 'none';
+          if (this._activePopup === 'grid') this._activePopup = null;
+        }
+      });
     } else {
       popup.style.display = 'none';
       if (this._activePopup === 'grid') this._activePopup = null;
@@ -10042,20 +10054,20 @@ class CarbonEnergyCard extends HTMLElement {
     if (!this._domRefs || !this._domRefs.inverterPopup) {
       return;
     }
-    
+
     // Check if popup has any content by checking if any inverter entities are configured
     const config = this._config || this.config || {};
     if (!config) return;
-    const hasContent = (config.sensor_popup_inverter_1 && config.sensor_popup_inverter_1.trim()) || 
-                      (config.sensor_popup_inverter_2 && config.sensor_popup_inverter_2.trim()) || 
-                      (config.sensor_popup_inverter_3 && config.sensor_popup_inverter_3.trim()) || 
-                      (config.sensor_popup_inverter_4 && config.sensor_popup_inverter_4.trim()) || 
-                      (config.sensor_popup_inverter_5 && config.sensor_popup_inverter_5.trim()) || 
-                      (config.sensor_popup_inverter_6 && config.sensor_popup_inverter_6.trim());
+    const hasContent = (config.sensor_popup_inverter_1 && config.sensor_popup_inverter_1.trim()) ||
+      (config.sensor_popup_inverter_2 && config.sensor_popup_inverter_2.trim()) ||
+      (config.sensor_popup_inverter_3 && config.sensor_popup_inverter_3.trim()) ||
+      (config.sensor_popup_inverter_4 && config.sensor_popup_inverter_4.trim()) ||
+      (config.sensor_popup_inverter_5 && config.sensor_popup_inverter_5.trim()) ||
+      (config.sensor_popup_inverter_6 && config.sensor_popup_inverter_6.trim());
     if (!hasContent) {
       return;
     }
-    
+
     const popup = this._domRefs.inverterPopup;
     const isVisible = popup.style.display !== 'none';
     if (isVisible) {
@@ -10074,10 +10086,10 @@ class CarbonEnergyCard extends HTMLElement {
       return;
     }
     const popup = this._domRefs.inverterPopup;
-    
+
     // Calculate popup content
     const config = this._config || this.config || {};
-    
+
     const popupInverterSensorIds = [
       config.sensor_popup_inverter_1,
       config.sensor_popup_inverter_2,
@@ -10101,52 +10113,52 @@ class CarbonEnergyCard extends HTMLElement {
       .map((valueText, i) => (valueText ? `${popupInverterNames[i]}: ${valueText}` : ''))
       .filter((line) => line);
     if (!lines.length) return;
-    
+
     // Calculate popup dimensions based on content
     // Find the maximum font size used in the popup for width and height calculation
     const maxFontSize = Math.max(...lines.map((_, index) => {
       const fontSizeKey = `sensor_popup_inverter_${index + 1}_font_size`;
       return config[fontSizeKey] || 16;
     }));
-    
+
     // Calculate line height based on font size (font-size + 1px padding for readability)
     const lineHeight = maxFontSize + 1;
-    
+
     // Measure actual text width for accurate sizing
     let maxTextWidth = 0;
     const canvas = document.createElement('canvas');
     const ctx = canvas.getContext('2d');
     ctx.font = `${maxFontSize}px Arial, sans-serif`;
-    
+
     lines.forEach((line) => {
       const textWidth = ctx.measureText(line).width;
       maxTextWidth = Math.max(maxTextWidth, textWidth);
     });
-    
+
     // Check if toggles are present to adjust width calculation
     const hasTogglesInverter = popupInverterSensorIds.some(id => {
       if (!id || typeof id !== 'string' || !id.trim()) return false;
       return this._isEntityControllable(id.trim());
     });
-    
+
     // Calculate space needed for toggle: toggle width (40px) + margin (15px) + spacing from text (15px) = 70px
     const toggleSpace = hasTogglesInverter ? 70 : 0;
-    
+
     const contentWidth = Math.max(200, Math.min(500, maxTextWidth));
     const calculatedPopupWidth = contentWidth + 40 + toggleSpace; // 40px padding + space for toggle if present
-    
+
     // Calculate height based on content: top padding + lines + bottom padding
     const topPadding = 20;
     const bottomPadding = 20;
     const contentHeight = lines.length * lineHeight;
     const calculatedPopupHeight = topPadding + contentHeight + bottomPadding;
-    
+
     // Use positions from config if available, otherwise center (Inverter popup)
     const popupX = Number(config.dev_popup_inverter_x) || (800 - calculatedPopupWidth) / 2;
     const popupY = Number(config.dev_popup_inverter_y) || (450 - calculatedPopupHeight) / 2;
     const popupWidth = Number(config.dev_popup_inverter_width) || calculatedPopupWidth;
     const popupHeight = Number(config.dev_popup_inverter_height) || calculatedPopupHeight;
-    
+
     // Update popup rectangle
     const rect = popup.querySelector('rect');
     if (rect) {
@@ -10160,24 +10172,24 @@ class CarbonEnergyCard extends HTMLElement {
       rect.setAttribute('stroke', '#00FFFF');
       rect.setAttribute('stroke-width', '0.5');
     }
-    
+
     // Update text positions and styling with toggles
     const lineElements = this._domRefs.inverterPopupLines || [];
     const lineGroups = this._domRefs.inverterPopupLineGroups || [];
     const toggleElements = this._domRefs.inverterPopupToggles || [];
-    
+
     // Use already calculated popupWidth which includes toggle space
     const adjustedPopupWidth = popupWidth;
     if (rect) {
       rect.setAttribute('width', adjustedPopupWidth);
     }
-    
+
     lines.forEach((line, index) => {
       const element = lineElements[index];
       const group = lineGroups[index];
       const toggle = toggleElements[index];
       const sensorId = popupInverterSensorIds[index];
-      
+
       if (element && group) {
         const yPos = popupY + topPadding + (index * lineHeight) + (lineHeight / 2);
         // Adjust text position if toggle is present: move text left to make room for toggle
@@ -10187,20 +10199,20 @@ class CarbonEnergyCard extends HTMLElement {
         element.setAttribute('y', yPos);
         element.textContent = line;
         element.style.display = 'inline';
-        
+
         // Apply font size
         const fontSizeKey = `sensor_popup_inverter_${index + 1}_font_size`;
         const fontSize = config[fontSizeKey] || 16;
         element.setAttribute('font-size', fontSize);
-        
+
         // Apply color
         const colorKey = `sensor_popup_inverter_${index + 1}_color`;
         const color = config[colorKey] || '#80ffff';
         element.setAttribute('fill', color);
-        
+
         // Show group
         group.style.display = 'inline';
-        
+
         // Check if entity is controllable and show toggle (reuse isControllable from above)
         if (isControllable && toggle) {
           const trimmedSensorId = sensorId.trim();
@@ -10211,7 +10223,7 @@ class CarbonEnergyCard extends HTMLElement {
           const toggleY = yPos - 6; // Raise toggle by 6px for better alignment
           toggle.setAttribute('transform', `translate(${toggleX}, ${toggleY})`);
           toggle.style.display = 'inline';
-          
+
           // Set toggle to semi-transparent with cyan border
           const bgRect = toggle.querySelector('rect');
           if (bgRect) {
@@ -10226,7 +10238,7 @@ class CarbonEnergyCard extends HTMLElement {
             sliderCircle.setAttribute('opacity', '0.9');
             sliderCircle.style.opacity = '0.9';
           }
-          
+
           // Update toggle state (on/off) using helper function
           this._updateToggleSwitch(toggle, trimmedSensorId);
           toggle.setAttribute('data-entity-id', trimmedSensorId);
@@ -10235,7 +10247,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
       }
     });
-    
+
     // Hide unused lines
     for (let i = lines.length; i < lineElements.length; i++) {
       const element = lineElements[i];
@@ -10251,7 +10263,7 @@ class CarbonEnergyCard extends HTMLElement {
         toggle.style.display = 'none';
       }
     }
-    
+
     popup.style.display = 'inline';
     popup.style.opacity = '1';
     popup.style.transform = 'scale(1)';
@@ -10281,10 +10293,12 @@ class CarbonEnergyCard extends HTMLElement {
     const popup = this._domRefs.inverterPopup;
     const gsap = await this._ensureGsap();
     if (gsap) {
-      gsap.to(popup, { opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
-        popup.style.display = 'none';
-        if (this._activePopup === 'inverter') this._activePopup = null;
-      }});
+      gsap.to(popup, {
+        opacity: 0, scale: 0.8, duration: 0.2, ease: 'power2.in', onComplete: () => {
+          popup.style.display = 'none';
+          if (this._activePopup === 'inverter') this._activePopup = null;
+        }
+      });
     } else {
       popup.style.display = 'none';
       if (this._activePopup === 'inverter') this._activePopup = null;
@@ -10345,24 +10359,24 @@ class CarbonEnergyCard extends HTMLElement {
     const prev = this._prevViewState || {};
 
     // Remote update banner is handled by _maybeCheckRemoteUpdate_ + _syncRemoteUpdateBanner_
-    
+
     // Check if text positions changed and update transforms
     const prevTextPositions = this._prevTextPositions || {};
-    const textPositionsChanged = 
+    const textPositionsChanged =
       JSON.stringify(prevTextPositions) !== JSON.stringify(TEXT_POSITIONS);
-    
+
     // Check if config has developer values - if so, always update transforms
-    const hasDeveloperValues = this.config && Object.keys(this.config).some(key => 
-      key.startsWith('dev_text_') || 
-      key.startsWith('dev_popup_') || 
+    const hasDeveloperValues = this.config && Object.keys(this.config).some(key =>
+      key.startsWith('dev_text_') ||
+      key.startsWith('dev_popup_') ||
       key.startsWith('dev_soc_bar_') || key.startsWith('soc_bar_') || key.startsWith('dev_grid_box_') || key.startsWith('dev_pv_box_')
     );
-    
+
     const shouldUpdateTransforms = textPositionsChanged || hasDeveloperValues;
-    
+
     if (shouldUpdateTransforms) {
       this._prevTextPositions = JSON.parse(JSON.stringify(TEXT_POSITIONS));
-      
+
       if (refs.pvLines && refs.pvLines.length) {
         refs.pvLines.forEach((node) => {
           if (node) {
@@ -10371,13 +10385,13 @@ class CarbonEnergyCard extends HTMLElement {
           }
         });
       }
-      
+
       if (refs.batterySoc) {
         refs.batterySoc.setAttribute('x', TEXT_POSITIONS.battery.x);
         refs.batterySoc.setAttribute('y', TEXT_POSITIONS.battery.y);
         refs.batterySoc.setAttribute('transform', TEXT_TRANSFORMS.battery);
       }
-      
+
       if (refs.batteryPower) {
         refs.batteryPower.setAttribute('x', TEXT_POSITIONS.battery.x);
         refs.batteryPower.setAttribute('y', TEXT_POSITIONS.battery.y + 20);
@@ -10389,13 +10403,13 @@ class CarbonEnergyCard extends HTMLElement {
           if (refs.batteryRowGroups[i]) refs.batteryRowGroups[i].setAttribute('transform', tf);
         }
       }
-      
+
       if (refs.loadText) {
         refs.loadText.setAttribute('x', TEXT_POSITIONS.home.x);
         refs.loadText.setAttribute('y', TEXT_POSITIONS.home.y);
         refs.loadText.setAttribute('transform', TEXT_TRANSFORMS.home);
       }
-      
+
       if (refs.loadLines && refs.loadLines.length) {
         const baseY = TEXT_POSITIONS.home.y;
         const lineSpacing = (viewState.load && viewState.load.fontSize) || 16 + 4;
@@ -10407,21 +10421,21 @@ class CarbonEnergyCard extends HTMLElement {
           }
         });
       }
-      
-      
+
+
       if (refs.gridText) {
         refs.gridText.setAttribute('x', TEXT_POSITIONS.grid.x);
         refs.gridText.setAttribute('y', TEXT_POSITIONS.grid.y);
         refs.gridText.setAttribute('transform', TEXT_TRANSFORMS.grid);
       }
-      
+
       if (refs.heatPumpText) {
         refs.heatPumpText.setAttribute('x', TEXT_POSITIONS.heatPump.x);
         refs.heatPumpText.setAttribute('y', TEXT_POSITIONS.heatPump.y);
         refs.heatPumpText.setAttribute('transform', TEXT_TRANSFORMS.heatPump);
       }
-      
-      
+
+
       if (refs.car1Label) {
         refs.car1Label.setAttribute('x', TEXT_POSITIONS.car1_label.x);
         refs.car1Label.setAttribute('y', TEXT_POSITIONS.car1_label.y);
@@ -10641,7 +10655,7 @@ class CarbonEnergyCard extends HTMLElement {
         const glowColor = isFirstSegment && lit ? '#E53935' : colorOn;
         const filter = lit && glow > 0 ? `drop-shadow(0 0 ${glow}px ${glowColor}) drop-shadow(0 0 ${Math.round(glow / 2)}px rgba(255,255,255,0.4))` : 'none';
         const shouldPulse = isCharging && lit;
-        
+
         // Batch DOM updates
         socBarUpdates.push(() => {
           if (el.getAttribute('fill') !== fill) el.setAttribute('fill', fill);
@@ -10660,7 +10674,7 @@ class CarbonEnergyCard extends HTMLElement {
           }
         });
       });
-      
+
       // Execute all SOC bar updates in a single batch (1 reflow instead of 6)
       if (socBarUpdates.length > 0) {
         requestAnimationFrame(() => {
@@ -10680,7 +10694,7 @@ class CarbonEnergyCard extends HTMLElement {
           return;
         }
         const prevLine = prev.pv && prev.pv.lines ? prev.pv.lines[index] : undefined;
-        
+
         // Batch DOM updates
         pvLineUpdates.push(() => {
           if (!prevLine || prevLine.text !== line.text) {
@@ -10701,7 +10715,7 @@ class CarbonEnergyCard extends HTMLElement {
           }
         });
       });
-      
+
       // Execute all PV line updates in a single batch (1 reflow instead of N)
       if (pvLineUpdates.length > 0) {
         requestAnimationFrame(() => {
@@ -10811,7 +10825,7 @@ class CarbonEnergyCard extends HTMLElement {
             const node = refs.loadLines[idx];
             if (!node) return;
             const desiredY = baseY + idx * lineSpacing;
-            
+
             loadLineUpdates.push(() => {
               if (!prev.load || !prev.load.lines || (prev.load.lines[idx] || {}).text !== l.text) {
                 node.textContent = l.text;
@@ -10839,7 +10853,7 @@ class CarbonEnergyCard extends HTMLElement {
               });
             }
           }
-          
+
           // Execute all load line updates in a single batch (1 reflow instead of N)
           if (loadLineUpdates.length > 0) {
             requestAnimationFrame(() => {
@@ -11148,7 +11162,7 @@ class CarbonEnergyCard extends HTMLElement {
       const activeChanged = prevFlow.active !== flowState.active;
       const directionChanged = prevFlow.direction !== flowState.direction;
       const pathChanged = prev.flowPaths && prev.flowPaths[key] !== viewState.flowPaths[key];
-      
+
       if (prevFlow.stroke !== flowState.stroke) {
         element.setAttribute('stroke', flowState.stroke);
       }
@@ -11178,7 +11192,7 @@ class CarbonEnergyCard extends HTMLElement {
       const pathOpacity = flowState.active ? (isShimmer ? '0.1' : '1') : '0';
       // Always update opacity to ensure visibility is correct, especially for battery flow
       element.style.opacity = pathOpacity;
-      
+
       // If active state or direction changed, force re-sync the animation
       if (activeChanged || directionChanged) {
         const entry = this._flowTweens.get(key);
@@ -11187,7 +11201,7 @@ class CarbonEnergyCard extends HTMLElement {
           this._syncFlowAnimation(key, element, flowState.active ? 1 : 0, flowState);
         }
       }
-      
+
       if (!this._flowTweens.get(key)) {
         this._setFlowGlow(element, flowState.glowColor || flowState.stroke, flowState.active ? 0.8 : 0.25);
         if (useArrowsGlobally && arrowGroup) {
@@ -11225,18 +11239,18 @@ class CarbonEnergyCard extends HTMLElement {
         }
         if (element.getAttribute('d') !== dValue) {
           element.setAttribute('d', dValue);
-          
+
           // Also update track path
           const trackPath = element.parentNode ? element.parentNode.querySelector('.track-path') : null;
           if (trackPath) {
             trackPath.setAttribute('d', dValue);
           }
-          
+
           // Reset path length cache
           if (this._flowPathLengths && this._flowPathLengths.has(key)) {
             this._flowPathLengths.delete(key);
           }
-          
+
           // Reset shimmer overlay if it exists
           const entry = this._flowTweens.get(key);
           if (entry && entry.mode === 'shimmer') {
@@ -11252,7 +11266,7 @@ class CarbonEnergyCard extends HTMLElement {
     // Re-attach event listeners after DOM updates
     this._cacheDomReferences(); // Re-cache refs in case DOM was updated
     this._attachEventListeners();
-    
+
     // Update toggle switches if popup is open
     if (this._activePopup) {
       setTimeout(() => {
@@ -11477,7 +11491,7 @@ class CarbonEnergyCard extends HTMLElement {
     const newX = Math.round(this._dragStartX + this._dragOffsetX);
     const newY = Math.round(this._dragStartY + this._dragOffsetY);
     // (logs removed)
-    
+
     // Aggiorna la configurazione con le nuove posizioni
     const textConfigs = {
       'pv-line': { xKey: 'dev_text_solar_x', yKey: 'dev_text_solar_y' },
@@ -11529,7 +11543,7 @@ class CarbonEnergyCard extends HTMLElement {
       'linea-box-1': { pathKey: 'linea_box_1_path' },
       'linea-box-2': { pathKey: 'linea_box_2_path' }
     };
-    
+
     let configKey = null;
     for (const [key, config] of Object.entries(textConfigs)) {
       if (role === key || role.includes(key)) {
@@ -11537,7 +11551,7 @@ class CarbonEnergyCard extends HTMLElement {
         break;
       }
     }
-    
+
     if (configKey) {
       if (configKey.pathKey && this._draggingText && this._draggingText.pathD) {
         const translatePath = (d, dx, dy) => {
@@ -11590,7 +11604,7 @@ class CarbonEnergyCard extends HTMLElement {
         } catch (e) { /* ignore */ }
       }
     }
-    
+
     this._draggingText = null;
     this._dragRect = null;
     this._dragInitialClientX = null;
@@ -11695,7 +11709,7 @@ class CarbonEnergyCard extends HTMLElement {
               const wasOn = currentState === 'on' || currentState === 'open' || currentState === 'unlocked';
               // Optimistically update toggle immediately for better UX
               this._updateToggleSwitchOptimistic(toggle, !wasOn);
-              
+
               await this._toggleEntity(entityId);
               // Toggle state is updated immediately via _updateAllToggleSwitches()
             }
@@ -11745,7 +11759,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
       });
     };
-    
+
     attachPopupContentListeners(this._domRefs.pvPopup);
     attachPopupContentListeners(this._domRefs.batteryPopup);
     attachPopupContentListeners(this._domRefs.housePopup);
@@ -11805,59 +11819,76 @@ class CarbonEnergyCard extends HTMLElement {
         this._popupHideFunctions = {};
       }
       this._popupHideFunctions[popupType] = hideFn;
-      
+
       // Prevent clicks inside popup from closing it
       popupRef.addEventListener('click', (e) => {
         e.stopPropagation();
       });
     };
-    
+
     attachPopupOutsideClickClose(this._domRefs.pvPopup, () => this._hidePvPopup(), 'pv');
     attachPopupOutsideClickClose(this._domRefs.batteryPopup, () => this._hideBatteryPopup(), 'battery');
     attachPopupOutsideClickClose(this._domRefs.housePopup, () => this._hideHousePopup(), 'house');
     attachPopupOutsideClickClose(this._domRefs.gridPopup, () => this._hideGridPopup(), 'grid');
     attachPopupOutsideClickClose(this._domRefs.inverterPopup, () => this._hideInverterPopup(), 'inverter');
-    
+
     // Add document-level click listener to close popups when clicking outside
     // Remove previous listener if it exists to avoid duplicates
     if (this._popupOutsideClickHandler) {
       document.removeEventListener('click', this._popupOutsideClickHandler, true);
     }
-    
-      this._popupOutsideClickHandler = (e) => {
-        
-        // Don't close if we're currently clicking on a clickable area
-        if (this._clickingClickableArea) {
-          return;
+
+    this._popupOutsideClickHandler = (e) => {
+
+      // Don't close if we're currently clicking on a clickable area
+      if (this._clickingClickableArea) {
+        return;
+      }
+
+      // Don't close if popup was just opened (within 300ms)
+      if (this._popupJustOpened) {
+        return;
+      }
+
+      // Check if click is on a clickable area (which will toggle the popup) - check this FIRST
+      // Use composedPath to check the entire event path, not just e.target
+      const path = e.composedPath ? e.composedPath() : [];
+      const clickedPvArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'pv-clickable-area');
+      const clickedBatteryArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'battery-clickable-area');
+      const clickedHouseArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'house-clickable-area');
+      const clickedGridArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'grid-clickable-area');
+      const clickedInverterArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'inverter-clickable-area');
+      if (clickedPvArea || clickedBatteryArea || clickedHouseArea || clickedGridArea || clickedInverterArea) {
+        return; // Click is on a clickable area, let it handle the toggle
+      }
+
+      // Check if click is inside shadow root or inside a popup
+      const shadowRoot = this.shadowRoot;
+      const isInsideShadowRoot = shadowRoot && shadowRoot.contains(e.target);
+      const clickedPopup = path.find(el => el && el.getAttribute && el.getAttribute('data-role') && el.getAttribute('data-role').includes('-popup'));
+      if (clickedPopup) {
+        return; // Click is inside a popup, don't close
+      }
+
+      if (isInsideShadowRoot) {
+        // Click is inside shadow root but not on popup or clickable area, close popups
+        if (this._popupHideFunctions) {
+          Object.values(this._popupHideFunctions).forEach((hideFn, idx) => {
+            if (typeof hideFn === 'function') {
+              hideFn();
+            }
+          });
         }
-        
-        // Don't close if popup was just opened (within 300ms)
-        if (this._popupJustOpened) {
-          return;
-        }
-        
-        // Check if click is on a clickable area (which will toggle the popup) - check this FIRST
-        // Use composedPath to check the entire event path, not just e.target
-        const path = e.composedPath ? e.composedPath() : [];
-        const clickedPvArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'pv-clickable-area');
-        const clickedBatteryArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'battery-clickable-area');
-        const clickedHouseArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'house-clickable-area');
-        const clickedGridArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'grid-clickable-area');
-        const clickedInverterArea = path.find(el => el && el.getAttribute && el.getAttribute('data-role') === 'inverter-clickable-area');
-        if (clickedPvArea || clickedBatteryArea || clickedHouseArea || clickedGridArea || clickedInverterArea) {
-          return; // Click is on a clickable area, let it handle the toggle
-        }
-        
-        // Check if click is inside shadow root or inside a popup
-        const shadowRoot = this.shadowRoot;
-        const isInsideShadowRoot = shadowRoot && shadowRoot.contains(e.target);
-        const clickedPopup = path.find(el => el && el.getAttribute && el.getAttribute('data-role') && el.getAttribute('data-role').includes('-popup'));
-        if (clickedPopup) {
-          return; // Click is inside a popup, don't close
-        }
-        
-        if (isInsideShadowRoot) {
-          // Click is inside shadow root but not on popup or clickable area, close popups
+      } else {
+        // Click is outside shadow root - check if any popup is actually visible before closing
+        const hasVisiblePopup = this._domRefs && (
+          (this._domRefs.pvPopup && this._domRefs.pvPopup.style.display !== 'none') ||
+          (this._domRefs.batteryPopup && this._domRefs.batteryPopup.style.display !== 'none') ||
+          (this._domRefs.housePopup && this._domRefs.housePopup.style.display !== 'none') ||
+          (this._domRefs.gridPopup && this._domRefs.gridPopup.style.display !== 'none') ||
+          (this._domRefs.inverterPopup && this._domRefs.inverterPopup.style.display !== 'none')
+        );
+        if (hasVisiblePopup) {
           if (this._popupHideFunctions) {
             Object.values(this._popupHideFunctions).forEach((hideFn, idx) => {
               if (typeof hideFn === 'function') {
@@ -11866,29 +11897,12 @@ class CarbonEnergyCard extends HTMLElement {
             });
           }
         } else {
-          // Click is outside shadow root - check if any popup is actually visible before closing
-          const hasVisiblePopup = this._domRefs && (
-            (this._domRefs.pvPopup && this._domRefs.pvPopup.style.display !== 'none') ||
-            (this._domRefs.batteryPopup && this._domRefs.batteryPopup.style.display !== 'none') ||
-            (this._domRefs.housePopup && this._domRefs.housePopup.style.display !== 'none') ||
-            (this._domRefs.gridPopup && this._domRefs.gridPopup.style.display !== 'none') ||
-            (this._domRefs.inverterPopup && this._domRefs.inverterPopup.style.display !== 'none')
-          );
-          if (hasVisiblePopup) {
-            if (this._popupHideFunctions) {
-              Object.values(this._popupHideFunctions).forEach((hideFn, idx) => {
-                if (typeof hideFn === 'function') {
-                  hideFn();
-                }
-              });
-            }
-          } else {
-          }
         }
-      };
-      
-      // Use capture phase to catch clicks before they bubble
-      document.addEventListener('click', this._popupOutsideClickHandler, true);
+      }
+    };
+
+    // Use capture phase to catch clicks before they bubble
+    document.addEventListener('click', this._popupOutsideClickHandler, true);
     const isPreviewCard = !!(this.classList && this.classList.contains('editor-preview-card'));
     if ((this._debugGridEnabled || isPreviewCard) && this._domRefs.svgRoot) {
       if (this._debugGridEnabled) {
@@ -11977,7 +11991,7 @@ class CarbonEnergyCard extends HTMLElement {
       lang = dashIdx > 0 ? locale.substring(0, dashIdx) : locale;
     }
     lang = (lang || 'en').toLowerCase();
-    
+
     const translations = {
       en: {
         cameras: 'Cameras',
@@ -12065,7 +12079,7 @@ class CarbonEnergyCard extends HTMLElement {
         motionDetected: 'Beweging gedetecteerd'
       }
     };
-    
+
     return translations[lang] || translations.en;
   }
 
@@ -12445,7 +12459,7 @@ class CarbonEnergyCard extends HTMLElement {
         onBtn.textContent = t.onBtn;
         onBtn.addEventListener('click', async () => {
           if (!this._hass || !this._hass.callService || !dom) return;
-          try { await this._hass.callService(dom, 'turn_on', { entity_id: eid }); } catch (e) {}
+          try { await this._hass.callService(dom, 'turn_on', { entity_id: eid }); } catch (e) { }
           setTimeout(updateState, 400);
         });
         const offBtn = document.createElement('button');
@@ -12454,7 +12468,7 @@ class CarbonEnergyCard extends HTMLElement {
         offBtn.textContent = t.offBtn;
         offBtn.addEventListener('click', async () => {
           if (!this._hass || !this._hass.callService || !dom) return;
-          try { await this._hass.callService(dom, 'turn_off', { entity_id: eid }); } catch (e) {}
+          try { await this._hass.callService(dom, 'turn_off', { entity_id: eid }); } catch (e) { }
           setTimeout(updateState, 400);
         });
         if (!dom) {
@@ -12536,14 +12550,14 @@ class CarbonEnergyCard extends HTMLElement {
         const fn = ent && ent.attributes && ent.attributes.friendly_name;
         return (fn && typeof fn === 'string' && fn.trim()) ? fn.trim() : eid;
       };
-      
+
       // Helper function to create thermostat controls
       const createThermostatCard = (eid) => {
         const card = document.createElement('div');
         card.className = 'carbon-thermostat-card';
         const s = this._hass && this._hass.states && this._hass.states[eid];
         if (!s) return null;
-        
+
         const attrs = s.attributes || {};
         const currentTemp = attrs.current_temperature;
         const targetTemp = attrs.temperature;
@@ -12554,7 +12568,7 @@ class CarbonEnergyCard extends HTMLElement {
         const tempStep = attrs.target_temp_step || 0.5;
         const unit = attrs.unit_of_measurement || '°C';
         let currentTargetTemp = targetTemp != null ? Number(targetTemp) : null;
-        
+
         // Header with name
         const header = document.createElement('div');
         header.className = 'carbon-thermostat-header';
@@ -12563,11 +12577,11 @@ class CarbonEnergyCard extends HTMLElement {
         nameEl.textContent = getEntityName(eid);
         header.appendChild(nameEl);
         card.appendChild(header);
-        
+
         // Temperature display
         const temps = document.createElement('div');
         temps.className = 'carbon-thermostat-temps';
-        
+
         if (currentTemp != null) {
           const currentGroup = document.createElement('div');
           currentGroup.className = 'carbon-thermostat-temp-group';
@@ -12581,7 +12595,7 @@ class CarbonEnergyCard extends HTMLElement {
           currentGroup.appendChild(currentValue);
           temps.appendChild(currentGroup);
         }
-        
+
         if (targetTemp != null && hvacMode !== 'off') {
           const targetGroup = document.createElement('div');
           targetGroup.className = 'carbon-thermostat-temp-group';
@@ -12596,20 +12610,20 @@ class CarbonEnergyCard extends HTMLElement {
           targetGroup.appendChild(targetValue);
           temps.appendChild(targetGroup);
         }
-        
+
         card.appendChild(temps);
-        
+
         // Temperature controls (only if not off)
         if (hvacMode !== 'off' && targetTemp != null) {
           const controls = document.createElement('div');
           controls.className = 'carbon-thermostat-controls';
-          
+
           const updateTargetDisplay = (t) => {
             currentTargetTemp = t;
             const targetValueEl = card.querySelector('[data-target-temp="true"]');
             if (targetValueEl) targetValueEl.textContent = `${this.formatNumberLocale(t, 1)}${unit}`;
           };
-          
+
           // Decrease button
           const btnMinus = document.createElement('button');
           btnMinus.type = 'button';
@@ -12624,7 +12638,7 @@ class CarbonEnergyCard extends HTMLElement {
             });
           });
           controls.appendChild(btnMinus);
-          
+
           // Slider
           const sliderContainer = document.createElement('div');
           sliderContainer.className = 'carbon-thermostat-slider';
@@ -12632,14 +12646,14 @@ class CarbonEnergyCard extends HTMLElement {
           sliderFill.className = 'carbon-thermostat-slider-fill';
           const sliderThumb = document.createElement('div');
           sliderThumb.className = 'carbon-thermostat-slider-thumb';
-          
+
           const updateSlider = (temp) => {
             const percent = ((temp - minTemp) / (maxTemp - minTemp)) * 100;
             sliderFill.style.width = `${percent}%`;
             sliderThumb.style.left = `${percent}%`;
           };
           updateSlider(targetTemp);
-          
+
           let isDragging = false;
           const handleSliderChange = (e) => {
             const rect = sliderContainer.getBoundingClientRect();
@@ -12651,12 +12665,12 @@ class CarbonEnergyCard extends HTMLElement {
             updateSlider(clampedTemp);
             return clampedTemp;
           };
-          
+
           const startDrag = (e) => {
             isDragging = true;
             e.preventDefault();
           };
-          
+
           const drag = (e) => {
             if (isDragging) {
               const t = handleSliderChange(e);
@@ -12664,7 +12678,7 @@ class CarbonEnergyCard extends HTMLElement {
               if (targetValueEl) targetValueEl.textContent = `${this.formatNumberLocale(t, 1)}${unit}`;
             }
           };
-          
+
           const endDrag = (e) => {
             if (isDragging) {
               const newTemp = handleSliderChange(e);
@@ -12676,14 +12690,14 @@ class CarbonEnergyCard extends HTMLElement {
               isDragging = false;
             }
           };
-          
+
           sliderContainer.addEventListener('mousedown', startDrag);
           sliderContainer.addEventListener('touchstart', startDrag);
           document.addEventListener('mousemove', drag);
           document.addEventListener('touchmove', drag);
           document.addEventListener('mouseup', endDrag);
           document.addEventListener('touchend', endDrag);
-          
+
           // Store listeners for cleanup
           sliderListeners.push(
             { type: 'mousemove', handler: drag },
@@ -12691,11 +12705,11 @@ class CarbonEnergyCard extends HTMLElement {
             { type: 'mouseup', handler: endDrag },
             { type: 'touchend', handler: endDrag }
           );
-          
+
           sliderContainer.appendChild(sliderFill);
           sliderContainer.appendChild(sliderThumb);
           controls.appendChild(sliderContainer);
-          
+
           // Increase button
           const btnPlus = document.createElement('button');
           btnPlus.type = 'button';
@@ -12710,15 +12724,15 @@ class CarbonEnergyCard extends HTMLElement {
             });
           });
           controls.appendChild(btnPlus);
-          
+
           card.appendChild(controls);
         }
-        
+
         // HVAC mode buttons
         if (hvacModes.length > 0) {
           const modes = document.createElement('div');
           modes.className = 'carbon-thermostat-modes';
-          
+
           const modeLabels = {
             'off': 'OFF',
             'heat': 'HEAT',
@@ -12728,7 +12742,7 @@ class CarbonEnergyCard extends HTMLElement {
             'dry': 'DRY',
             'fan_only': 'FAN'
           };
-          
+
           hvacModes.forEach(mode => {
             const btn = document.createElement('button');
             btn.type = 'button';
@@ -12743,16 +12757,16 @@ class CarbonEnergyCard extends HTMLElement {
             });
             modes.appendChild(btn);
           });
-          
+
           card.appendChild(modes);
         }
-        
+
         return card;
       };
-      
+
       // Store event listeners for cleanup
       const sliderListeners = [];
-      
+
       // Create cards for each entity
       entityIds.forEach((eid) => {
         const s = this._hass && this._hass.states && this._hass.states[eid];
@@ -12760,7 +12774,7 @@ class CarbonEnergyCard extends HTMLElement {
         const domain = eid ? eid.split('.')[0] : '';
         const hasClimateAttrs = s && s.attributes && s.attributes.hvac_modes;
         const isClimate = s && (domain === 'climate' || hasClimateAttrs);
-        
+
         if (isClimate) {
           // Create thermostat control card
           const thermostatCard = createThermostatCard(eid);
@@ -12784,10 +12798,10 @@ class CarbonEnergyCard extends HTMLElement {
           list.appendChild(row);
         }
       });
-      
+
       // Store slider listeners in overlay for cleanup
       overlay._sliderListeners = sliderListeners;
-      
+
       overlay.addEventListener('click', (e) => { if (e.target === overlay) this._closeHouseIconPopup(); });
       const root = typeof document !== 'undefined' && document.body ? document.body : (this.shadowRoot || this);
       root.appendChild(overlay);
@@ -12915,12 +12929,12 @@ class CarbonEnergyCard extends HTMLElement {
             armBtn.type = 'button';
             armBtn.className = 'carbon-camera-btn';
             armBtn.textContent = securityArmLabel;
-            armBtn.addEventListener('click', async () => { if (!this._hass || !this._hass.callService) return; try { await this._hass.callService('alarm_control_panel', 'alarm_arm_home', { entity_id: eid }); } catch (e) {} setTimeout(updateState, 1500); });
+            armBtn.addEventListener('click', async () => { if (!this._hass || !this._hass.callService) return; try { await this._hass.callService('alarm_control_panel', 'alarm_arm_home', { entity_id: eid }); } catch (e) { } setTimeout(updateState, 1500); });
             const disarmBtn = document.createElement('button');
             disarmBtn.type = 'button';
             disarmBtn.className = 'carbon-camera-btn';
             disarmBtn.textContent = securityDisarmLabel;
-            disarmBtn.addEventListener('click', async () => { if (!this._hass || !this._hass.callService) return; try { await this._hass.callService('alarm_control_panel', 'alarm_disarm', { entity_id: eid }); } catch (e) {} setTimeout(updateState, 1500); });
+            disarmBtn.addEventListener('click', async () => { if (!this._hass || !this._hass.callService) return; try { await this._hass.callService('alarm_control_panel', 'alarm_disarm', { entity_id: eid }); } catch (e) { } setTimeout(updateState, 1500); });
             btns.appendChild(armBtn);
             btns.appendChild(disarmBtn);
           } else if (domain === 'switch' || domain === 'light' || domain === 'input_boolean') {
@@ -12940,7 +12954,7 @@ class CarbonEnergyCard extends HTMLElement {
               try {
                 if (domain === 'light' || domain === 'switch') await this._hass.callService(domain, on ? 'turn_off' : 'turn_on', { entity_id: eid });
                 else await this._hass.callService('input_boolean', on ? 'turn_off' : 'turn_on', { entity_id: eid });
-              } catch (e) {}
+              } catch (e) { }
               setTimeout(() => { updateState(); toggleLabel(); }, 1200);
             });
             btns.appendChild(toggleBtn);
@@ -12989,7 +13003,7 @@ class CarbonEnergyCard extends HTMLElement {
                 if (this._hass && this._hass.callService) {
                   try {
                     this._hass.callService('input_text', 'set_value', { entity_id: pinEntity, value: firstPin });
-                  } catch (e) {}
+                  } catch (e) { }
                 }
                 const okOv = document.createElement('div');
                 okOv.className = 'carbon-house-popup-overlay';
@@ -13020,7 +13034,7 @@ class CarbonEnergyCard extends HTMLElement {
             if (this._hass && this._hass.callService) {
               try {
                 await this._hass.callService('input_text', 'set_value', { entity_id: pinEntity, value: '' });
-              } catch (e) {}
+              } catch (e) { }
             }
             const resOv = document.createElement('div');
             resOv.className = 'carbon-house-popup-overlay';
@@ -13251,7 +13265,7 @@ class CarbonEnergyCard extends HTMLElement {
         onBtn.textContent = t.onBtn;
         onBtn.addEventListener('click', async () => {
           if (!this._hass || !this._hass.callService || !dom) return;
-          try { await this._hass.callService(dom, 'turn_on', { entity_id: eid }); } catch (e) {}
+          try { await this._hass.callService(dom, 'turn_on', { entity_id: eid }); } catch (e) { }
           setTimeout(updateState, 400);
         });
         const offBtn = document.createElement('button');
@@ -13260,7 +13274,7 @@ class CarbonEnergyCard extends HTMLElement {
         offBtn.textContent = t.offBtn;
         offBtn.addEventListener('click', async () => {
           if (!this._hass || !this._hass.callService || !dom) return;
-          try { await this._hass.callService(dom, 'turn_off', { entity_id: eid }); } catch (e) {}
+          try { await this._hass.callService(dom, 'turn_off', { entity_id: eid }); } catch (e) { }
           setTimeout(updateState, 400);
         });
         if (!dom) {
@@ -13308,7 +13322,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
         el._carbonStreamEl = null;
       });
-      
+
       // Cleanup slider event listeners
       if (ov._sliderListeners && Array.isArray(ov._sliderListeners)) {
         ov._sliderListeners.forEach(({ type, handler }) => {
@@ -13316,7 +13330,7 @@ class CarbonEnergyCard extends HTMLElement {
         });
         ov._sliderListeners = null;
       }
-      
+
       ov.parentNode.removeChild(ov);
       this._houseIconPopupOverlay = null;
     }
@@ -13324,10 +13338,10 @@ class CarbonEnergyCard extends HTMLElement {
 
   _updateTextVisibility() {
     if (!this._domRefs || !this._domRefs.svgRoot) return;
-    
+
     const config = this.config || {};
     const textVisibilitySensorId = config.text_visibility_sensor ? config.text_visibility_sensor.trim() : null;
-    
+
     const haUserIdUpdate = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
     const verifyFeatureAuth = (inputValue) => {
       if (!inputValue || typeof inputValue !== 'string') return false;
@@ -13341,7 +13355,7 @@ class CarbonEnergyCard extends HTMLElement {
               const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
-          } catch (e) {}
+          } catch (e) { }
         }
         const hashV1 = CARBON_SHA256(trimmed);
         const uid = getCarbonUID();
@@ -13352,7 +13366,7 @@ class CarbonEnergyCard extends HTMLElement {
         const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdUpdate && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) { }
         }
         if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
           CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
@@ -13366,7 +13380,7 @@ class CarbonEnergyCard extends HTMLElement {
     const isProEnabled = true; // Ignoruje overovanie a zapne PRO
 
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
-    
+
     let motionDetected = false;
     let sensorStateRaw = null;
     let sensorValueNorm = '';
@@ -13393,7 +13407,7 @@ class CarbonEnergyCard extends HTMLElement {
       motionDetected ||
       (this._motionLastDetectedAt != null && (Date.now() - this._motionLastDetectedAt) < MOTION_KEEPALIVE_MS)
     );
-    
+
     // Check if any entities are configured (if yes, texts should be visible automatically)
     // Helper function to safely check if a sensor is configured
     // Optimized: check with early exit
@@ -13403,7 +13417,7 @@ class CarbonEnergyCard extends HTMLElement {
         const text = config[`custom_text_${i}_text`];
         const sensor = config[`custom_text_${i}_sensor`];
         if ((text && typeof text === 'string' && text.trim().length > 0) ||
-            (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
+          (sensor && typeof sensor === 'string' && sensor.trim().length > 0)) {
           hasCustomText = true;
         }
       }
@@ -13435,7 +13449,7 @@ class CarbonEnergyCard extends HTMLElement {
         }
       }
     }
-    
+
     let shouldShowTexts;
     let shouldShowBoxes;
     const enableTextToggleButton = Boolean(this.config && this.config.enable_text_toggle_button);
@@ -13498,7 +13512,7 @@ class CarbonEnergyCard extends HTMLElement {
         boxEl.classList.add('text-hidden');
       }
     });
-    
+
     // Update linea box paths (hide only grid and pv box lines in state 1)
     const lineaBoxPaths = this._domRefs.svgRoot.querySelectorAll('[data-role="linea-box-1"], [data-role="linea-box-2"]');
     lineaBoxPaths.forEach(pathEl => {
@@ -15042,8 +15056,8 @@ class CarbonEnergyCardEditor extends HTMLElement {
       const onDown = (ev) => {
         try {
           if (!ev) return;
-        // When draw mode is ON, let events bubble to the SVG draw handler.
-        if (this._previewDrawMode) return;
+          // When draw mode is ON, let events bubble to the SVG draw handler.
+          if (this._previewDrawMode) return;
           if (this._previewLockFlows) return;
           if (ev.button != null && ev.button !== 0) return;
           ev.preventDefault();
@@ -16038,10 +16052,10 @@ class CarbonEnergyCardEditor extends HTMLElement {
         var forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
         if (forms && forms.length && this._configWithDefaults) {
           var data = this._configWithDefaults();
-          forms.forEach(function(f) { if (f) f.data = data; });
+          forms.forEach(function (f) { if (f) f.data = data; });
         }
         this._debouncedConfigChanged(cfg, true);
-        setTimeout(function(self) { try { self._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0, this);
+        setTimeout(function (self) { try { self._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0, this);
       }
       updateTextRotateUi(); updateTextCustomUi(); if (typeof this._updatePreviewTextColorSizeUi_ === 'function') this._updatePreviewTextColorSizeUi_();
     });
@@ -17254,7 +17268,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_speed_factor: { label: 'Animation Speed Factor', helper: 'Adjust animation speed multiplier (-3x to 3x). Set 0 to pause; negatives reverse direction.' },
           animation_style: { label: 'Animation Style', helper: 'Choose the flow animation motif (dashes, dots, arrows, shimmer). Note: in Performance Mode = low, heavy styles may be simplified to keep the UI responsive.' },
           flow_stroke_width: { label: 'Flow Stroke Width (px)', helper: 'Optional override for the animated flow stroke width (no SVG edits). Leave blank to keep SVG defaults.' },
-          
+
           // Flow Path offsets
           pv1_flow_offset_x: { label: 'PV1 Flow Offset X (px)', helper: 'Horizontal offset for PV1 flow path. Positive = right, negative = left.' },
           pv1_flow_offset_y: { label: 'PV1 Flow Offset Y (px)', helper: 'Vertical offset for PV1 flow path. Positive = down, negative = up.' },
@@ -17274,7 +17288,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car2_flow_offset_y: { label: 'Car2 Flow Offset Y (px)', helper: 'Vertical offset for Car2 flow path. Positive = down, negative = up.' },
           heat_pump_flow_offset_x: { label: 'Heat Pump Flow Offset X (px)', helper: 'Horizontal offset for heat pump flow path. Positive = right, negative = left.' },
           heat_pump_flow_offset_y: { label: 'Heat Pump Flow Offset Y (px)', helper: 'Vertical offset for heat pump flow path. Positive = down, negative = up.' },
-          
+
           // Custom Flow Paths (SVG path strings)
           pv1_flow_path: { label: 'PV1 Flow Path (SVG)', helper: `Custom SVG path string for PV1 flow. Leave empty to use default. Default: ${FLOW_PATHS.pv1}` },
           pv2_flow_path: { label: 'PV2 Flow Path (SVG)', helper: `Custom SVG path string for PV2 flow. Leave empty to use default. Default: ${FLOW_PATHS.pv2}` },
@@ -17285,7 +17299,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car1_flow_path: { label: 'Car1 Flow Path (SVG)', helper: `Custom SVG path string for Car1 flow. Leave empty to use default. Default: ${FLOW_PATHS.car1}` },
           car2_flow_path: { label: 'Car2 Flow Path (SVG)', helper: `Custom SVG path string for Car2 flow. Leave empty to use default. Default: ${FLOW_PATHS.car2}` },
           heat_pump_flow_path: { label: 'Heat Pump Flow Path (SVG)', helper: `Custom SVG path string for heat pump flow. Leave empty to use default. Default: ${FLOW_PATHS.heatPump}` },
-          
+
           sensor_pv_total: { label: 'PV Total Sensor', helper: 'Optional aggregate production sensor displayed as the combined line.' },
           sensor_pv_total_secondary: { label: 'PV Total Sensor (Inverter 2)', helper: 'Optional second inverter total; added to the PV total when provided.' },
           sensor_pv1: { label: 'PV String 1 (Array 1)', helper: 'Primary solar production sensor.' },
@@ -17399,14 +17413,14 @@ class CarbonEnergyCardEditor extends HTMLElement {
           solar_forecast_color: { label: 'Solar Forecast Color', helper: 'Color for the solar forecast text (default: #00FFFF).' },
           solar_forecast_size: { label: 'Solar Forecast Font Size (px)', helper: 'Font size for the solar forecast text (default: 16px).' },
           invert_battery: { label: 'Invert Battery Values', helper: 'Enable if charge/discharge polarity is reversed.' },
-        battery_text_color: { label: 'Battery Text Color', helper: 'Color for SOC and power. For position/rotation/scale use the Layout section.' },
-        battery_font_size: { label: 'Battery Font Size (px)', helper: 'Font size for battery text. For position/rotation/scale use the Layout section.' },
-        battery_2_text_color: { label: 'Battery 2 Text Color', helper: 'Optional override for battery 2 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
-        battery_3_text_color: { label: 'Battery 3 Text Color', helper: 'Optional override for battery 3 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
-        battery_4_text_color: { label: 'Battery 4 Text Color', helper: 'Optional override for battery 4 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
-        battery_2_row_scale: { label: 'Battery 2 (icon+text) Scale', helper: 'Uniform scale for battery 2 row (icon + text). For position/rotation use the Layout section.' },
-        battery_3_row_scale: { label: 'Battery 3 (icon+text) Scale', helper: 'Uniform scale for battery 3 row (icon + text). For position/rotation use the Layout section.' },
-        battery_4_row_scale: { label: 'Battery 4 (icon+text) Scale', helper: 'Uniform scale for battery 4 row (icon + text). For position/rotation use the Layout section.' },
+          battery_text_color: { label: 'Battery Text Color', helper: 'Color for SOC and power. For position/rotation/scale use the Layout section.' },
+          battery_font_size: { label: 'Battery Font Size (px)', helper: 'Font size for battery text. For position/rotation/scale use the Layout section.' },
+          battery_2_text_color: { label: 'Battery 2 Text Color', helper: 'Optional override for battery 2 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
+          battery_3_text_color: { label: 'Battery 3 Text Color', helper: 'Optional override for battery 3 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
+          battery_4_text_color: { label: 'Battery 4 Text Color', helper: 'Optional override for battery 4 text color. Leave empty to use Battery Text Color. For position/rotation/scale use the Layout section.' },
+          battery_2_row_scale: { label: 'Battery 2 (icon+text) Scale', helper: 'Uniform scale for battery 2 row (icon + text). For position/rotation use the Layout section.' },
+          battery_3_row_scale: { label: 'Battery 3 (icon+text) Scale', helper: 'Uniform scale for battery 3 row (icon + text). For position/rotation use the Layout section.' },
+          battery_4_row_scale: { label: 'Battery 4 (icon+text) Scale', helper: 'Uniform scale for battery 4 row (icon + text). For position/rotation use the Layout section.' },
           sensor_car_power: { label: 'Car 1 Power Sensor' },
           sensor_car_soc: { label: 'Car 1 SOC Sensor' },
           car_soc: { label: 'Car SOC', helper: 'Sensor for EV battery SOC.' },
@@ -17822,15 +17836,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
             { value: 'low', label: 'Low' }
           ]
         }
-      ,
-      view: {
-        daily: 'DAILY YIELD',
-        pv_tot: 'PV TOTAL',
-        car1: 'CAR 1',
-        car2: 'CAR 2',
-        importing: 'IMPORTING',
-        exporting: 'EXPORTING'
-      }
+        ,
+        view: {
+          daily: 'DAILY YIELD',
+          pv_tot: 'PV TOTAL',
+          car1: 'CAR 1',
+          car2: 'CAR 2',
+          importing: 'IMPORTING',
+          exporting: 'EXPORTING'
+        }
       },
       it: {
         sections: {
@@ -17916,7 +17930,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_speed_factor: { label: 'Fattore velocita animazioni', helper: 'Regola il moltiplicatore (-3x a 3x). Usa 0 per mettere in pausa; valori negativi invertono il flusso.' },
           animation_style: { label: 'Stile animazione', helper: 'Scegli il motivo dei flussi (tratteggi, punti, frecce, shimmer). Nota: con Modalità performance = low alcuni stili pesanti possono essere semplificati per mantenere la UI reattiva.' },
           flow_stroke_width: { label: 'Larghezza tratto flusso (px)', helper: 'Override opzionale per la larghezza del tratto animato (nessuna modifica SVG). Lascia vuoto per mantenere i default SVG.' },
-          
+
           // Flow Path offsets
           pv1_flow_offset_x: { label: 'Offset flusso PV1 X (px)', helper: 'Offset orizzontale per il percorso flusso PV1. Positivo = destra, negativo = sinistra.' },
           pv1_flow_offset_y: { label: 'Offset flusso PV1 Y (px)', helper: 'Offset verticale per il percorso flusso PV1. Positivo = giù, negativo = su.' },
@@ -17946,7 +17960,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car1_flow_path: { label: 'Auto1 Percorso Flusso (SVG)', helper: `Stringa SVG personalizzata per il percorso Auto1. Lascia vuoto per usare il default. Default: ${FLOW_PATHS.car1}` },
           car2_flow_path: { label: 'Auto2 Percorso Flusso (SVG)', helper: `Stringa SVG personalizzata per il percorso Auto2. Lascia vuoto per usare il default. Default: ${FLOW_PATHS.car2}` },
           heat_pump_flow_path: { label: 'Pompa di calore Percorso Flusso (SVG)', helper: `Stringa SVG personalizzata per il percorso pompa di calore. Lascia vuoto per usare il default. Default: ${FLOW_PATHS.heatPump}` },
-          
+
           sensor_pv_total: { label: 'Sensore PV totale', helper: 'Sensore aggregato opzionale mostrato come linea combinata.' },
           sensor_pv_total_secondary: { label: 'Sensore PV totale (Inverter 2)', helper: 'Secondo sensore inverter opzionale; viene sommato al totale PV.' },
           sensor_pv1: { label: 'PV String 1 (Array 1)', helper: 'Sensore principale di produzione solare.' },
@@ -18036,40 +18050,40 @@ class CarbonEnergyCardEditor extends HTMLElement {
           grid_warning_color: { label: 'Colore avviso rete', helper: 'Colore applicato alla soglia di avviso.' },
           grid_threshold_critical: { label: 'Soglia critica rete', helper: 'Cambia colore quando la magnitudine raggiunge questa soglia. Usa l unita di visualizzazione selezionata.' },
           grid_critical_color: { label: 'Colore critico rete', helper: 'Colore applicato alla soglia critica.' },
-            invert_grid: { label: 'Inverti valori rete', helper: 'Attiva se l import/export ha polarita invertita.' },
-            grid_flow_target: { label: 'Percorso flusso rete', helper: 'Scegli dove disegnare il flusso rete: contatore ↔ inverter oppure contatore ↔ casa. Con sensori import/export rete usa Casa (flusso = contatore ↔ casa). Auto mantiene il comportamento precedente.' },
-            enable_echo_alive: { label: 'Abilita Echo Alive', helper: 'Abilita un iframe invisibile per mantenere aperto il browser Silk su Echo Show. Il pulsante sarà posizionato in un angolo della card.' },
-            hide_home_button: { label: 'Nascondi tasto home', helper: 'Nasconde il pulsante HOME e la riga delle icone casa sulla card.' },
-            show_clock: { label: 'Mostra orologio olografico', helper: 'Mostra un orologio in stile olografico con l\'ora locale (in base al fuso orario del browser).' },
-            dev_clock_color: { label: 'Colore orologio', helper: 'Colore del testo e del bagliore dell\'orologio olografico.' },
-            license_payment_subsection: 'Licenza e pagamento',
-            enable_text_toggle_button: { label: 'Abilita Pulsante Toggle Testi', helper: 'Mostra un pulsante sulla card per attivare/disattivare la visibilità dei testi.' },
-            text_toggle_button_x: { label: 'Pulsante Toggle Testi X (px)', helper: 'Posizione orizzontale del pulsante toggle testi. Distanza dal bordo sinistro in pixel. Default: 10px (basso-sinistra).' },
-            text_toggle_button_y: { label: 'Pulsante Toggle Testi Y (px)', helper: 'Posizione verticale dall\'alto in pixel (0-450). Lascia vuoto o imposta > 450 per posizionare in basso. Valori > 450 verranno trattati come posizionamento in basso. Default: basso.' },
-            text_toggle_button_scale: { label: 'Scala Pulsante Toggle Testi', helper: 'Fattore di scala per la dimensione del pulsante (0.5 a 2.0). 1.0 = dimensione predefinita.' },
-            text_visibility_sensor: { label: 'Sensore Movimento Visibilità Testi (PRO)', helper: '⚠️ FUNZIONE PRO: Entità sensore di movimento. Quando viene rilevato movimento, i testi appaiono. Perfetto per tablet a muro con telecamera.' },
-            solar_forecast_enabled: { label: 'Abilita Previsione Solare', helper: '⚠️ FUNZIONE PRO: Mostra la produzione solare stimata con stato del sole (tanto/moderato/poco sole).' },
-            sensor_solar_forecast: { label: 'Sensore Previsione Solare', helper: 'Entità sensore per la produzione solare stimata (in W o kW).' },
-            weather_rain_entity: { label: 'Entità meteo per pioggia', helper: 'Opzionale. Entità meteo (es. Met.no). Se lo stato è rainy/pouring/lightning-rainy viene mostrata l\'animazione pioggia.' },
-            solar_forecast_max_power: { label: 'Potenza Massima Previsione Solare (W)', helper: 'Potenza massima attesa in watt. Usata per calcolare la percentuale per lo stato del sole (predefinito: 10000W).' },
-            solar_forecast_x: { label: 'Posizione X Previsione Solare (px)', helper: 'Posizione orizzontale del testo previsione solare (in pixel).' },
-            solar_forecast_y: { label: 'Posizione Y Previsione Solare (px)', helper: 'Posizione verticale del testo previsione solare (in pixel).' },
-            solar_forecast_color: { label: 'Colore Previsione Solare', helper: 'Colore per il testo previsione solare (predefinito: #00FFFF).' },
-            solar_forecast_size: { label: 'Dimensione Font Previsione Solare (px)', helper: 'Dimensione font per il testo previsione solare (predefinito: 16px).' },
-            invert_battery: { label: 'Inverti valori batteria', helper: 'Abilita se la polarita carica/scarica e invertita.' },
-            battery_text_color: { label: 'Colore testo batteria', helper: 'Colore per SOC e potenza. Per modificare posizione/rotazione/scala vai nella sezione Layout.' },
-            battery_font_size: { label: 'Dimensione testo batteria (px)', helper: 'Dimensione del testo batteria. Per modificare posizione/rotazione/scala vai nella sezione Layout.' },
+          invert_grid: { label: 'Inverti valori rete', helper: 'Attiva se l import/export ha polarita invertita.' },
+          grid_flow_target: { label: 'Percorso flusso rete', helper: 'Scegli dove disegnare il flusso rete: contatore ↔ inverter oppure contatore ↔ casa. Con sensori import/export rete usa Casa (flusso = contatore ↔ casa). Auto mantiene il comportamento precedente.' },
+          enable_echo_alive: { label: 'Abilita Echo Alive', helper: 'Abilita un iframe invisibile per mantenere aperto il browser Silk su Echo Show. Il pulsante sarà posizionato in un angolo della card.' },
+          hide_home_button: { label: 'Nascondi tasto home', helper: 'Nasconde il pulsante HOME e la riga delle icone casa sulla card.' },
+          show_clock: { label: 'Mostra orologio olografico', helper: 'Mostra un orologio in stile olografico con l\'ora locale (in base al fuso orario del browser).' },
+          dev_clock_color: { label: 'Colore orologio', helper: 'Colore del testo e del bagliore dell\'orologio olografico.' },
+          license_payment_subsection: 'Licenza e pagamento',
+          enable_text_toggle_button: { label: 'Abilita Pulsante Toggle Testi', helper: 'Mostra un pulsante sulla card per attivare/disattivare la visibilità dei testi.' },
+          text_toggle_button_x: { label: 'Pulsante Toggle Testi X (px)', helper: 'Posizione orizzontale del pulsante toggle testi. Distanza dal bordo sinistro in pixel. Default: 10px (basso-sinistra).' },
+          text_toggle_button_y: { label: 'Pulsante Toggle Testi Y (px)', helper: 'Posizione verticale dall\'alto in pixel (0-450). Lascia vuoto o imposta > 450 per posizionare in basso. Valori > 450 verranno trattati come posizionamento in basso. Default: basso.' },
+          text_toggle_button_scale: { label: 'Scala Pulsante Toggle Testi', helper: 'Fattore di scala per la dimensione del pulsante (0.5 a 2.0). 1.0 = dimensione predefinita.' },
+          text_visibility_sensor: { label: 'Sensore Movimento Visibilità Testi (PRO)', helper: '⚠️ FUNZIONE PRO: Entità sensore di movimento. Quando viene rilevato movimento, i testi appaiono. Perfetto per tablet a muro con telecamera.' },
+          solar_forecast_enabled: { label: 'Abilita Previsione Solare', helper: '⚠️ FUNZIONE PRO: Mostra la produzione solare stimata con stato del sole (tanto/moderato/poco sole).' },
+          sensor_solar_forecast: { label: 'Sensore Previsione Solare', helper: 'Entità sensore per la produzione solare stimata (in W o kW).' },
+          weather_rain_entity: { label: 'Entità meteo per pioggia', helper: 'Opzionale. Entità meteo (es. Met.no). Se lo stato è rainy/pouring/lightning-rainy viene mostrata l\'animazione pioggia.' },
+          solar_forecast_max_power: { label: 'Potenza Massima Previsione Solare (W)', helper: 'Potenza massima attesa in watt. Usata per calcolare la percentuale per lo stato del sole (predefinito: 10000W).' },
+          solar_forecast_x: { label: 'Posizione X Previsione Solare (px)', helper: 'Posizione orizzontale del testo previsione solare (in pixel).' },
+          solar_forecast_y: { label: 'Posizione Y Previsione Solare (px)', helper: 'Posizione verticale del testo previsione solare (in pixel).' },
+          solar_forecast_color: { label: 'Colore Previsione Solare', helper: 'Colore per il testo previsione solare (predefinito: #00FFFF).' },
+          solar_forecast_size: { label: 'Dimensione Font Previsione Solare (px)', helper: 'Dimensione font per il testo previsione solare (predefinito: 16px).' },
+          invert_battery: { label: 'Inverti valori batteria', helper: 'Abilita se la polarita carica/scarica e invertita.' },
+          battery_text_color: { label: 'Colore testo batteria', helper: 'Colore per SOC e potenza. Per modificare posizione/rotazione/scala vai nella sezione Layout.' },
+          battery_font_size: { label: 'Dimensione testo batteria (px)', helper: 'Dimensione del testo batteria. Per modificare posizione/rotazione/scala vai nella sezione Layout.' },
           flow_threshold_battery: { label: 'Soglia flusso batteria (W)', helper: 'Non animare il flusso quando la potenza è sotto questo valore (W).' },
           battery_1_font_size: { label: 'Batteria 1 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
           battery_2_font_size: { label: 'Batteria 2 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
           battery_3_font_size: { label: 'Batteria 3 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
           battery_4_font_size: { label: 'Batteria 4 - dimensione testo (px)', helper: 'Override opzionale. Lascia vuoto per usare la dimensione testo batteria.' },
-            battery_2_text_color: { label: 'Colore testo batteria 2', helper: 'Override opzionale del colore testo per batteria 2. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
-            battery_3_text_color: { label: 'Colore testo batteria 3', helper: 'Override opzionale del colore testo per batteria 3. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
-            battery_4_text_color: { label: 'Colore testo batteria 4', helper: 'Override opzionale del colore testo per batteria 4. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
-            battery_2_row_scale: { label: 'Scala batteria 2 (icona+testo)', helper: 'Scala uniforme per la riga batteria 2 (icona + testo). Per posizione/rotazione usa Layout.' },
-            battery_3_row_scale: { label: 'Scala batteria 3 (icona+testo)', helper: 'Scala uniforme per la riga batteria 3 (icona + testo). Per posizione/rotazione usa Layout.' },
-            battery_4_row_scale: { label: 'Scala batteria 4 (icona+testo)', helper: 'Scala uniforme per la riga batteria 4 (icona + testo). Per posizione/rotazione usa Layout.' },
+          battery_2_text_color: { label: 'Colore testo batteria 2', helper: 'Override opzionale del colore testo per batteria 2. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
+          battery_3_text_color: { label: 'Colore testo batteria 3', helper: 'Override opzionale del colore testo per batteria 3. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
+          battery_4_text_color: { label: 'Colore testo batteria 4', helper: 'Override opzionale del colore testo per batteria 4. Lascia vuoto per usare il colore testo batteria. Per posizione/rotazione/scala usa Layout.' },
+          battery_2_row_scale: { label: 'Scala batteria 2 (icona+testo)', helper: 'Scala uniforme per la riga batteria 2 (icona + testo). Per posizione/rotazione usa Layout.' },
+          battery_3_row_scale: { label: 'Scala batteria 3 (icona+testo)', helper: 'Scala uniforme per la riga batteria 3 (icona + testo). Per posizione/rotazione usa Layout.' },
+          battery_4_row_scale: { label: 'Scala batteria 4 (icona+testo)', helper: 'Scala uniforme per la riga batteria 4 (icona + testo). Per posizione/rotazione usa Layout.' },
           sensor_car_power: { label: 'Sensore potenza auto 1' },
           sensor_car_soc: { label: 'Sensore SOC auto 1' },
           car_soc: { label: 'SOC Auto', helper: 'Sensore per SOC batteria EV.' },
@@ -18087,30 +18101,30 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car2_label: { label: 'Etichetta Auto 2', helper: 'Testo mostrato vicino ai valori della seconda EV.' },
           show_car_soc: { label: 'Mostra veicolo elettrico 1', helper: 'Attiva per visualizzare i dati della prima EV.' },
           show_car2: { label: 'Mostra veicolo elettrico 2', helper: 'Attiva e fornisci i sensori per visualizzare la seconda EV.' },
-            car1_bidirectional: { label: 'Capacità bidirezionale Auto 1', helper: 'Abilita se l\'Auto 1 ha capacità V2X (può caricare e scaricare come una batteria domestica).' },
-            car2_bidirectional: { label: 'Capacità bidirezionale Auto 2', helper: 'Abilita se l\'Auto 2 ha capacità V2X (può caricare e scaricare come una batteria domestica).' },
-            car1_invert_flow: { label: 'Inverti Flusso Auto 1', helper: 'Inverte la direzione del flusso per l\'Auto 1. Utile se la polarità del sensore è invertita.' },
-            car2_invert_flow: { label: 'Inverti Flusso Auto 2', helper: 'Inverte la direzione del flusso per l\'Auto 2. Utile se la polarità del sensore è invertita.' },
-            array1_invert_flow: { label: 'Inverti Flusso Array 1', helper: 'Inverte la direzione del flusso per l\'Array 1 (PV1). Utile se la polarità del sensore è invertita.' },
-            array2_invert_flow: { label: 'Inverti Flusso Array 2', helper: 'Inverte la direzione del flusso per l\'Array 2 (PV2). Utile se la polarità del sensore è invertita.' },
-            heat_pump_invert_flow: { label: 'Inverti Flusso Pompa di Calore', helper: 'Inverte la direzione del flusso della pompa di calore. Utile se la polarità del sensore è invertita.' },
-            load_invert_flow: { label: 'Inverti Flusso Carico Casa', helper: 'Inverte la direzione del flusso del carico domestico. Utile se la polarità del sensore è invertita.' },
-            pro_debug_grid: { label: 'Abilita griglia di posizionamento (PRO)', helper: 'Mostra una griglia a schermo + coordinate per posizionare i testi con più precisione (tool PRO).' },
-            custom_text_1_rotate: { label: 'Testo 1: Rotazione (°)', helper: 'Angolo di rotazione per Testo 1 (-180..180).' },
-            custom_text_1_skew_x: { label: 'Testo 1: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
-            custom_text_1_skew_y: { label: 'Testo 1: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
-            custom_text_2_rotate: { label: 'Testo 2: Rotazione (°)', helper: 'Angolo di rotazione per Testo 2 (-180..180).' },
-            custom_text_2_skew_x: { label: 'Testo 2: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
-            custom_text_2_skew_y: { label: 'Testo 2: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
-            custom_text_3_rotate: { label: 'Testo 3: Rotazione (°)', helper: 'Angolo di rotazione per Testo 3 (-180..180).' },
-            custom_text_3_skew_x: { label: 'Testo 3: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
-            custom_text_3_skew_y: { label: 'Testo 3: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
-            custom_text_4_rotate: { label: 'Testo 4: Rotazione (°)', helper: 'Angolo di rotazione per Testo 4 (-180..180).' },
-            custom_text_4_skew_x: { label: 'Testo 4: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
-            custom_text_4_skew_y: { label: 'Testo 4: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
-            custom_text_5_rotate: { label: 'Testo 5: Rotazione (°)', helper: 'Angolo di rotazione per Testo 5 (-180..180).' },
-            custom_text_5_skew_x: { label: 'Testo 5: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
-            custom_text_5_skew_y: { label: 'Testo 5: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
+          car1_bidirectional: { label: 'Capacità bidirezionale Auto 1', helper: 'Abilita se l\'Auto 1 ha capacità V2X (può caricare e scaricare come una batteria domestica).' },
+          car2_bidirectional: { label: 'Capacità bidirezionale Auto 2', helper: 'Abilita se l\'Auto 2 ha capacità V2X (può caricare e scaricare come una batteria domestica).' },
+          car1_invert_flow: { label: 'Inverti Flusso Auto 1', helper: 'Inverte la direzione del flusso per l\'Auto 1. Utile se la polarità del sensore è invertita.' },
+          car2_invert_flow: { label: 'Inverti Flusso Auto 2', helper: 'Inverte la direzione del flusso per l\'Auto 2. Utile se la polarità del sensore è invertita.' },
+          array1_invert_flow: { label: 'Inverti Flusso Array 1', helper: 'Inverte la direzione del flusso per l\'Array 1 (PV1). Utile se la polarità del sensore è invertita.' },
+          array2_invert_flow: { label: 'Inverti Flusso Array 2', helper: 'Inverte la direzione del flusso per l\'Array 2 (PV2). Utile se la polarità del sensore è invertita.' },
+          heat_pump_invert_flow: { label: 'Inverti Flusso Pompa di Calore', helper: 'Inverte la direzione del flusso della pompa di calore. Utile se la polarità del sensore è invertita.' },
+          load_invert_flow: { label: 'Inverti Flusso Carico Casa', helper: 'Inverte la direzione del flusso del carico domestico. Utile se la polarità del sensore è invertita.' },
+          pro_debug_grid: { label: 'Abilita griglia di posizionamento (PRO)', helper: 'Mostra una griglia a schermo + coordinate per posizionare i testi con più precisione (tool PRO).' },
+          custom_text_1_rotate: { label: 'Testo 1: Rotazione (°)', helper: 'Angolo di rotazione per Testo 1 (-180..180).' },
+          custom_text_1_skew_x: { label: 'Testo 1: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
+          custom_text_1_skew_y: { label: 'Testo 1: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
+          custom_text_2_rotate: { label: 'Testo 2: Rotazione (°)', helper: 'Angolo di rotazione per Testo 2 (-180..180).' },
+          custom_text_2_skew_x: { label: 'Testo 2: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
+          custom_text_2_skew_y: { label: 'Testo 2: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
+          custom_text_3_rotate: { label: 'Testo 3: Rotazione (°)', helper: 'Angolo di rotazione per Testo 3 (-180..180).' },
+          custom_text_3_skew_x: { label: 'Testo 3: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
+          custom_text_3_skew_y: { label: 'Testo 3: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
+          custom_text_4_rotate: { label: 'Testo 4: Rotazione (°)', helper: 'Angolo di rotazione per Testo 4 (-180..180).' },
+          custom_text_4_skew_x: { label: 'Testo 4: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
+          custom_text_4_skew_y: { label: 'Testo 4: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
+          custom_text_5_rotate: { label: 'Testo 5: Rotazione (°)', helper: 'Angolo di rotazione per Testo 5 (-180..180).' },
+          custom_text_5_skew_x: { label: 'Testo 5: Inclinazione X (°)', helper: 'Angolo di inclinazione (skew) sull’asse X (-60..60).' },
+          custom_text_5_skew_y: { label: 'Testo 5: Inclinazione Y (°)', helper: 'Angolo di inclinazione (skew) sull’asse Y (-60..60).' },
           car_pct_color: { label: 'Colore SOC auto', helper: 'Colore esadecimale per il testo SOC EV (es. #00FFFF).' },
           car2_pct_color: { label: 'Colore SOC Auto 2', helper: 'Colore esadecimale per il testo SOC della seconda EV (usa Car SOC se vuoto).' },
           car1_name_color: { label: 'Colore nome Auto 1', helper: 'Colore applicato all etichetta del nome Auto 1.' },
@@ -18510,15 +18524,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
             { value: 'low', label: 'Basso' }
           ]
         }
-      ,
-      view: {
-        daily: 'PRODUZIONE OGGI',
-        pv_tot: 'PV TOTALE',
-        car1: 'AUTO 1',
-        car2: 'AUTO 2',
-        importing: 'IMPORTAZIONE',
-        exporting: 'ESPORTAZIONE'
-      }
+        ,
+        view: {
+          daily: 'PRODUZIONE OGGI',
+          pv_tot: 'PV TOTALE',
+          car1: 'AUTO 1',
+          car2: 'AUTO 2',
+          importing: 'IMPORTAZIONE',
+          exporting: 'ESPORTAZIONE'
+        }
       },
       de: {
         sections: {
@@ -18718,7 +18732,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           fluid_flow_outer_glow: { label: 'Fluid Flow Outer Glow', helper: 'Aktiviert die zusätzliche äußere Halo/Glühen-Schicht für animation_style: fluid_flow.' },
           flow_stroke_width: { label: 'Fluss Strichbreite (px)', helper: 'Optionale Überschreibung für die animierte Fluss-Strichbreite (keine SVG-Bearbeitung). Leer lassen für SVG-Standardwerte.' },
           fluid_flow_stroke_width: { label: 'Fluid Flow Strichbreite (px)', helper: 'Basis-Strichbreite für animation_style: fluid_flow. Overlay/Mask-Breiten werden daraus abgeleitet (Standard 5).' },
-          
+
           // Flow Path offsets
           pv1_flow_offset_x: { label: 'PV1 Fluss Offset X (px)', helper: 'Horizontaler Offset für PV1 Flusspfad. Positiv = rechts, negativ = links.' },
           pv1_flow_offset_y: { label: 'PV1 Fluss Offset Y (px)', helper: 'Vertikaler Offset für PV1 Flusspfad. Positiv = unten, negativ = oben.' },
@@ -18738,7 +18752,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car2_flow_offset_y: { label: 'Fahrzeug2 Fluss Offset Y (px)', helper: 'Vertikaler Offset für Fahrzeug2 Flusspfad. Positiv = unten, negativ = oben.' },
           heat_pump_flow_offset_x: { label: 'Wärmepumpe Fluss Offset X (px)', helper: 'Horizontaler Offset für Wärmepumpe Flusspfad. Positiv = rechts, negativ = links.' },
           heat_pump_flow_offset_y: { label: 'Wärmepumpe Fluss Offset Y (px)', helper: 'Vertikaler Offset für Wärmepumpe Flusspfad. Positiv = unten, negativ = oben.' },
-          
+
           // Custom Flow Paths (SVG path strings)
           pv1_flow_path: { label: 'PV1 Flusspfad (SVG)', helper: `Benutzerdefinierte SVG-Pfadzeichenfolge für PV1 Flusspfad. Leer lassen, um Standard zu verwenden. Standard: ${FLOW_PATHS.pv1}` },
           pv2_flow_path: { label: 'PV2 Flusspfad (SVG)', helper: `Benutzerdefinierte SVG-Pfadzeichenfolge für PV2 Flusspfad. Leer lassen, um Standard zu verwenden. Standard: ${FLOW_PATHS.pv2}` },
@@ -18749,7 +18763,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car1_flow_path: { label: 'Fahrzeug1 Flusspfad (SVG)', helper: `Benutzerdefinierte SVG-Pfadzeichenfolge für Fahrzeug1 Flusspfad. Leer lassen, um Standard zu verwenden. Standard: ${FLOW_PATHS.car1}` },
           car2_flow_path: { label: 'Fahrzeug2 Flusspfad (SVG)', helper: `Benutzerdefinierte SVG-Pfadzeichenfolge für Fahrzeug2 Flusspfad. Leer lassen, um Standard zu verwenden. Standard: ${FLOW_PATHS.car2}` },
           heat_pump_flow_path: { label: 'Wärmepumpe Flusspfad (SVG)', helper: `Benutzerdefinierte SVG-Pfadzeichenfolge für Wärmepumpe Flusspfad. Leer lassen, um Standard zu verwenden. Standard: ${FLOW_PATHS.heatPump}` },
-          
+
           sensor_pv_total: { label: 'PV Gesamt Sensor', helper: 'Optionaler aggregierter Sensor fuer die kombinierte Linie.' },
           sensor_pv_total_secondary: { label: 'PV Gesamt Sensor (WR 2)', helper: 'Optionaler zweiter Wechselrichter; wird mit dem PV-Gesamtwert addiert.' },
           sensor_pv1: { label: 'PV String 1 (Array 1)', helper: 'Primaerer Solarsensor.' },
@@ -18842,7 +18856,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           invert_grid: { label: 'Netzwerte invertieren', helper: 'Aktivieren, wenn Import/Export vertauscht ist.' },
           enable_echo_alive: { label: 'Echo Alive aktivieren', helper: 'Aktiviert ein unsichtbares iframe, um den Silk-Browser auf Echo Show offen zu halten. Die Schaltfläche wird in einer Ecke der Karte positioniert.' },
           show_clock: { label: 'Holographische Uhr anzeigen', helper: 'Zeigt eine Uhr im Hologramm-Stil mit lokaler Zeit (basierend auf Browser/Zeitzone).' },
-            dev_clock_color: { label: 'Uhrenfarbe', helper: 'Farbe von Uhrtext und Leuchteffekt.' },
+          dev_clock_color: { label: 'Uhrenfarbe', helper: 'Farbe von Uhrtext und Leuchteffekt.' },
           enable_text_toggle_button: { label: 'Text-Umschaltknopf aktivieren', helper: 'Zeigt einen Knopf auf der Karte, um die Text-Sichtbarkeit ein/auszuschalten.' },
           text_toggle_button_x: { label: 'Text-Umschaltknopf X (px)', helper: 'Horizontale Position des Text-Umschaltknopfs. Abstand vom linken Rand in Pixeln. Standard: 10px (unten-links).' },
           text_toggle_button_y: { label: 'Text-Umschaltknopf Y (px)', helper: 'Vertikale Position von oben in Pixeln. Leer lassen, um unten zu positionieren. Standard: unten.' },
@@ -19174,15 +19188,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
             { value: 'low', label: 'Niedrig' }
           ]
         }
-      ,
-      view: {
-        daily: 'TAGESERTRAG',
-        pv_tot: 'PV GESAMT',
-        car1: 'FAHRZEUG 1',
-        car2: 'FAHRZEUG 2',
-        importing: 'IMPORTIEREN',
-        exporting: 'EXPORTIEREN'
-      }
+        ,
+        view: {
+          daily: 'TAGESERTRAG',
+          pv_tot: 'PV GESAMT',
+          car1: 'FAHRZEUG 1',
+          car2: 'FAHRZEUG 2',
+          importing: 'IMPORTIEREN',
+          exporting: 'EXPORTIEREN'
+        }
       },
       fr: {
         sections: {
@@ -19380,7 +19394,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_speed_factor: { label: 'Facteur de vitesse d animation', helper: 'Ajuste le multiplicateur de vitesse d animation (-3x à 3x). Mettre 0 pour pause; les négatifs inversent la direction.' },
           animation_style: { label: 'Style d animation', helper: 'Choisissez le motif d animation des flux (tirets, points, flèches, scintillement). Note : en Mode performance = Low, certains styles lourds peuvent être simplifiés pour garder l’interface réactive.' },
           flow_stroke_width: { label: 'Largeur trait flux (px)', helper: 'Override optionnel pour la largeur du trait animé (pas de modification SVG). Laisser vide pour conserver les valeurs par défaut SVG.' },
-          
+
           // Flow Path offsets
           pv1_flow_offset_x: { label: 'PV1 Décalage Flux X (px)', helper: 'Décalage horizontal pour le chemin de flux PV1. Positif = droite, négatif = gauche.' },
           pv1_flow_offset_y: { label: 'PV1 Décalage Flux Y (px)', helper: 'Décalage vertical pour le chemin de flux PV1. Positif = bas, négatif = haut.' },
@@ -19400,7 +19414,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car2_flow_offset_y: { label: 'Véhicule2 Décalage Flux Y (px)', helper: 'Décalage vertical pour le chemin de flux véhicule2. Positif = bas, négatif = haut.' },
           heat_pump_flow_offset_x: { label: 'Pompe à chaleur Décalage Flux X (px)', helper: 'Décalage horizontal pour le chemin de flux pompe à chaleur. Positif = droite, négatif = gauche.' },
           heat_pump_flow_offset_y: { label: 'Pompe à chaleur Décalage Flux Y (px)', helper: 'Décalage vertical pour le chemin de flux pompe à chaleur. Positif = bas, négatif = haut.' },
-          
+
           // Custom Flow Paths (SVG path strings)
           pv1_flow_path: { label: 'PV1 Chemin de Flux (SVG)', helper: `Chaîne de chemin SVG personnalisée pour le chemin de flux PV1. Laisser vide pour utiliser la valeur par défaut. Par défaut: ${FLOW_PATHS.pv1}` },
           pv2_flow_path: { label: 'PV2 Chemin de Flux (SVG)', helper: `Chaîne de chemin SVG personnalisée pour le chemin de flux PV2. Laisser vide pour utiliser la valeur par défaut. Par défaut: ${FLOW_PATHS.pv2}` },
@@ -19411,7 +19425,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car1_flow_path: { label: 'Véhicule1 Chemin de Flux (SVG)', helper: `Chaîne de chemin SVG personnalisée pour le chemin de flux véhicule1. Laisser vide pour utiliser la valeur par défaut. Par défaut: ${FLOW_PATHS.car1}` },
           car2_flow_path: { label: 'Véhicule2 Chemin de Flux (SVG)', helper: `Chaîne de chemin SVG personnalisée pour le chemin de flux véhicule2. Laisser vide pour utiliser la valeur par défaut. Par défaut: ${FLOW_PATHS.car2}` },
           heat_pump_flow_path: { label: 'Pompe à chaleur Chemin de Flux (SVG)', helper: `Chaîne de chemin SVG personnalisée pour le chemin de flux pompe à chaleur. Laisser vide pour utiliser la valeur par défaut. Par défaut: ${FLOW_PATHS.heatPump}` },
-          
+
           sensor_pv_total: { label: 'Capteur PV total', helper: 'Capteur de production agrégé optionnel affiché comme ligne combinée.' },
           sensor_pv_total_secondary: { label: 'Capteur PV total (Inverseur 2)', helper: 'Second capteur d onduleur optionnel; ajouté au total PV s il est fourni.' },
           sensor_pv1: { label: 'Chaîne PV 1 (Array 1)', helper: 'Capteur principal de production solaire.' },
@@ -19501,7 +19515,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           invert_grid: { label: 'Inverser valeurs réseau', helper: 'Activer si la polarité import/export est inversée.' },
           enable_echo_alive: { label: 'Activer Echo Alive', helper: 'Active un iframe invisible pour garder le navigateur Silk ouvert sur Echo Show. Le bouton sera positionné dans un coin de la carte.' },
           show_clock: { label: 'Afficher horloge holographique', helper: 'Affiche une horloge style holographique avec l\'heure locale (selon le fuseau du navigateur).' },
-            dev_clock_color: { label: 'Couleur horloge', helper: 'Couleur du texte et de la lueur de l\'horloge.' },
+          dev_clock_color: { label: 'Couleur horloge', helper: 'Couleur du texte et de la lueur de l\'horloge.' },
           enable_text_toggle_button: { label: 'Activer Bouton Toggle Texte', helper: 'Affiche un bouton sur la carte pour activer/désactiver la visibilité des textes.' },
           text_toggle_button_x: { label: 'Bouton Toggle Texte X (px)', helper: 'Position horizontale du bouton toggle texte. Distance du bord gauche en pixels. Par défaut: 10px (bas-gauche).' },
           text_toggle_button_y: { label: 'Bouton Toggle Texte Y (px)', helper: 'Position verticale depuis le haut en pixels. Laissez vide pour positionner en bas. Par défaut: bas.' },
@@ -19679,7 +19693,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           sensor_popup_pv_2_font_size: { label: 'Taille police Popup PV 2 (px)', helper: 'Taille de police pour la ligne 2 du popup PV. Par défaut 16' },
           sensor_popup_pv_3_font_size: { label: 'Taille police Popup PV 3 (px)', helper: 'Taille de police pour la ligne 3 du popup PV. Par défaut 16' },
           sensor_popup_pv_4_font_size: { label: 'Taille police Popup PV 4 (px)', helper: 'Taille de police pour la ligne 4 du popup PV. Par défaut 16' },
-                    sensor_popup_pv_5_font_size: { label: 'Taille police Popup PV 5 (px)', helper: 'Taille de police pour la ligne 5 du popup PV. Par défaut 16' },
+          sensor_popup_pv_5_font_size: { label: 'Taille police Popup PV 5 (px)', helper: 'Taille de police pour la ligne 5 du popup PV. Par défaut 16' },
           sensor_popup_pv_6_font_size: { label: 'Taille police Popup PV 6 (px)', helper: 'Taille de police pour la ligne 6 du popup PV. Par défaut 16' },
           sensor_popup_house_1: { label: 'Popup Maison 1', helper: 'Entité pour la ligne 1 du popup maison.' },
           sensor_popup_house_1_name: { label: 'Nom Popup Maison 1', helper: 'Nom personnalisé optionnel pour la ligne 1 du popup maison. Laisser vide pour utiliser le nom de l\'entité.' },
@@ -19837,15 +19851,15 @@ class CarbonEnergyCardEditor extends HTMLElement {
             { value: 'low', label: 'Faible' }
           ]
         }
-      ,
-      view: {
-        daily: 'PRODUCTION DU JOUR',
-        pv_tot: 'PV TOTAL',
-        car1: 'VÉHICULE 1',
-        car2: 'VÉHICULE 2',
-        importing: 'IMPORTATION',
-        exporting: 'EXPORTATION'
-      }
+        ,
+        view: {
+          daily: 'PRODUCTION DU JOUR',
+          pv_tot: 'PV TOTAL',
+          car1: 'VÉHICULE 1',
+          car2: 'VÉHICULE 2',
+          importing: 'IMPORTATION',
+          exporting: 'EXPORTATION'
+        }
       },
       nl: {
         sections: {
@@ -20043,7 +20057,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           animation_speed_factor: { label: 'Animatie snelheid factor', helper: 'Pas de animatie snelheid multiplier aan (-3x tot 3x). Stel in op 0 voor pauze; negatieven keren richting om.' },
           animation_style: { label: 'Animatie stijl', helper: 'Kies het patroon voor flow animaties (strepen, stippen, pijlen, shimmer). Let op: in Performance-modus = Low kunnen zware stijlen vereenvoudigd worden om de UI responsief te houden.' },
           flow_stroke_width: { label: 'Flow lijnbreedte (px)', helper: 'Optionele overschrijving voor de geanimeerde flow lijnbreedte (geen SVG-bewerkingen). Laat leeg om SVG-standaardwaarden te behouden.' },
-          
+
           // Flow Path offsets
           pv1_flow_offset_x: { label: 'PV1 Stroom Offset X (px)', helper: 'Horizontale offset voor PV1 stroompad. Positief = rechts, negatief = links.' },
           pv1_flow_offset_y: { label: 'PV1 Stroom Offset Y (px)', helper: 'Verticale offset voor PV1 stroompad. Positief = omlaag, negatief = omhoog.' },
@@ -20063,7 +20077,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car2_flow_offset_y: { label: 'Voertuig2 Stroom Offset Y (px)', helper: 'Verticale offset voor voertuig2 stroompad. Positief = omlaag, negatief = omhoog.' },
           heat_pump_flow_offset_x: { label: 'Warmtepomp Stroom Offset X (px)', helper: 'Horizontale offset voor warmtepomp stroompad. Positief = rechts, negatief = links.' },
           heat_pump_flow_offset_y: { label: 'Warmtepomp Stroom Offset Y (px)', helper: 'Verticale offset voor warmtepomp stroompad. Positief = omlaag, negatief = omhoog.' },
-          
+
           // Custom Flow Paths (SVG path strings)
           pv1_flow_path: { label: 'PV1 Stroompad (SVG)', helper: `Aangepaste SVG-padstring voor PV1 stroompad. Laat leeg om standaard te gebruiken. Standaard: ${FLOW_PATHS.pv1}` },
           pv2_flow_path: { label: 'PV2 Stroompad (SVG)', helper: `Aangepaste SVG-padstring voor PV2 stroompad. Laat leeg om standaard te gebruiken. Standaard: ${FLOW_PATHS.pv2}` },
@@ -20074,7 +20088,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           car1_flow_path: { label: 'Voertuig1 Stroompad (SVG)', helper: `Aangepaste SVG-padstring voor voertuig1 stroompad. Laat leeg om standaard te gebruiken. Standaard: ${FLOW_PATHS.car1}` },
           car2_flow_path: { label: 'Voertuig2 Stroompad (SVG)', helper: `Aangepaste SVG-padstring voor voertuig2 stroompad. Laat leeg om standaard te gebruiken. Standaard: ${FLOW_PATHS.car2}` },
           heat_pump_flow_path: { label: 'Warmtepomp Stroompad (SVG)', helper: `Aangepaste SVG-padstring voor warmtepomp stroompad. Laat leeg om standaard te gebruiken. Standaard: ${FLOW_PATHS.heatPump}` },
-          
+
           sensor_pv_total: { label: 'Totale PV sensor', helper: 'Optionele geaggregeerde productie sensor weergegeven als gecombineerde lijn.' },
           sensor_pv_total_secondary: { label: 'Totale PV sensor (Inverter 2)', helper: 'Tweede optionele inverter sensor; toegevoegd aan totale PV indien opgegeven.' },
           sensor_pv1: { label: 'PV String 1 (Array 1)', helper: 'Primaire zonne productie sensor.' },
@@ -20164,7 +20178,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
           invert_grid: { label: 'Grid waarden omkeren', helper: 'Inschakelen als import/export polariteit omgekeerd is.' },
           enable_echo_alive: { label: 'Echo Alive inschakelen', helper: 'Schakelt een onzichtbare iframe in om de Silk-browser open te houden op Echo Show. De knop wordt in een hoek van de kaart geplaatst.' },
           show_clock: { label: 'Holografische klok tonen', helper: 'Toont een klok in holografische stijl met lokale tijd (op basis van browser/tijdzone).' },
-            dev_clock_color: { label: 'Klokkleur', helper: 'Kleur van de kloktekst en gloed.' },
+          dev_clock_color: { label: 'Klokkleur', helper: 'Kleur van de kloktekst en gloed.' },
           enable_text_toggle_button: { label: 'Tekst Toggle Knop Inschakelen', helper: 'Toont een knop op de kaart om tekstzichtbaarheid aan/uit te schakelen.' },
           text_toggle_button_x: { label: 'Tekst Toggle Knop X (px)', helper: 'Horizontale positie van de tekst toggle knop. Afstand van de linkerrand in pixels. Standaard: 10px (onder-links).' },
           text_toggle_button_y: { label: 'Tekst Toggle Knop Y (px)', helper: 'Verticale positie vanaf boven in pixels. Laat leeg om onderaan te positioneren. Standaard: onderaan.' },
@@ -21239,7 +21253,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       }
       return result;
     });
-    
+
     // Helper function to generate layout fields for text positioning (sliders + skew/scale)
     const createLayoutFields = (type, label) => {
       const prefix = type === 'heatPump' ? 'heatpump' : type;
@@ -21281,7 +21295,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         }
       ];
     };
-    
+
     // Helper function to generate popup schema fields (eliminates duplication)
     const createPopupSchemaFields = (popupType, maxLines = 6) => {
       const popupFields = [];
@@ -21289,17 +21303,17 @@ class CarbonEnergyCardEditor extends HTMLElement {
         const fieldKey = `sensor_popup_${popupType}_${i}`;
         const nameKey = `sensor_popup_${popupType}_${i}_name`;
         popupFields.push(
-          { 
-            name: fieldKey, 
-            label: (fields[fieldKey] && fields[fieldKey].label) || '', 
-            helper: (fields[fieldKey] && fields[fieldKey].helper) || '', 
-            selector: popupEntitySelector 
+          {
+            name: fieldKey,
+            label: (fields[fieldKey] && fields[fieldKey].label) || '',
+            helper: (fields[fieldKey] && fields[fieldKey].helper) || '',
+            selector: popupEntitySelector
           },
-          { 
-            name: nameKey, 
-            label: (fields[nameKey] && fields[nameKey].label) || '', 
-            helper: (fields[nameKey] && fields[nameKey].helper) || '', 
-            selector: { text: {} } 
+          {
+            name: nameKey,
+            label: (fields[nameKey] && fields[nameKey].label) || '',
+            helper: (fields[nameKey] && fields[nameKey].helper) || '',
+            selector: { text: {} }
           }
         );
       }
@@ -21512,7 +21526,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'night_mode_override', label: (fields.night_mode_override && fields.night_mode_override.label) || 'Force night view', helper: (fields.night_mode_override && fields.night_mode_override.helper) || 'Toggle to show night background immediately (for testing).', selector: { boolean: {} }, default: false },
       ]),
       entities: define([
-        
+
       ]),
       house_management: define([
         ...Array.from({ length: 6 }, (_, i) => ({
@@ -21599,43 +21613,43 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'grid_threshold_critical', label: fields.grid_threshold_critical.label, helper: fields.grid_threshold_critical.helper, selector: buildThresholdSelector(), default: null },
         { name: 'grid_critical_color', label: fields.grid_critical_color.label, helper: fields.grid_critical_color.helper, selector: { color_picker: {} } },
         { name: 'car_pct_color', label: fields.car_pct_color.label, helper: fields.car_pct_color.helper, selector: { color_picker: {} }, default: '#00FFFF' }
-        ,{ name: 'car2_pct_color', label: fields.car2_pct_color.label, helper: fields.car2_pct_color.helper, selector: { color_picker: {} }, default: '#00FFFF' }
-        ,{ name: 'car1_name_color', label: fields.car1_name_color.label, helper: fields.car1_name_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
-        ,{ name: 'car2_name_color', label: fields.car2_name_color.label, helper: fields.car2_name_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
-        ,{ name: 'car1_color', label: fields.car1_color.label, helper: fields.car1_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
-        ,{ name: 'car2_color', label: fields.car2_color.label, helper: fields.car2_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
-        ,{ name: 'heat_pump_flow_color', label: fields.heat_pump_flow_color.label, helper: fields.heat_pump_flow_color.helper, selector: { color_picker: {} }, default: '#FFA500' }
-        ,{ name: 'heat_pump_text_color', label: fields.heat_pump_text_color.label, helper: fields.heat_pump_text_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
-        ,{ name: 'sensor_popup_pv_1_color', label: (fields.sensor_popup_pv_1_color && fields.sensor_popup_pv_1_color.label) || '', helper: (fields.sensor_popup_pv_1_color && fields.sensor_popup_pv_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_pv_2_color', label: (fields.sensor_popup_pv_2_color && fields.sensor_popup_pv_2_color.label) || '', helper: (fields.sensor_popup_pv_2_color && fields.sensor_popup_pv_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_pv_3_color', label: (fields.sensor_popup_pv_3_color && fields.sensor_popup_pv_3_color.label) || '', helper: (fields.sensor_popup_pv_3_color && fields.sensor_popup_pv_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_pv_4_color', label: (fields.sensor_popup_pv_4_color && fields.sensor_popup_pv_4_color.label) || '', helper: (fields.sensor_popup_pv_4_color && fields.sensor_popup_pv_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_pv_5_color', label: (fields.sensor_popup_pv_5_color && fields.sensor_popup_pv_5_color.label) || '', helper: (fields.sensor_popup_pv_5_color && fields.sensor_popup_pv_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_pv_6_color', label: (fields.sensor_popup_pv_6_color && fields.sensor_popup_pv_6_color.label) || '', helper: (fields.sensor_popup_pv_6_color && fields.sensor_popup_pv_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_house_1_color', label: (fields.sensor_popup_house_1_color && fields.sensor_popup_house_1_color.label) || '', helper: (fields.sensor_popup_house_1_color && fields.sensor_popup_house_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_house_2_color', label: (fields.sensor_popup_house_2_color && fields.sensor_popup_house_2_color.label) || '', helper: (fields.sensor_popup_house_2_color && fields.sensor_popup_house_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_house_3_color', label: (fields.sensor_popup_house_3_color && fields.sensor_popup_house_3_color.label) || '', helper: (fields.sensor_popup_house_3_color && fields.sensor_popup_house_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_house_4_color', label: (fields.sensor_popup_house_4_color && fields.sensor_popup_house_4_color.label) || '', helper: (fields.sensor_popup_house_4_color && fields.sensor_popup_house_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_house_5_color', label: (fields.sensor_popup_house_5_color && fields.sensor_popup_house_5_color.label) || '', helper: (fields.sensor_popup_house_5_color && fields.sensor_popup_house_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_house_6_color', label: (fields.sensor_popup_house_6_color && fields.sensor_popup_house_6_color.label) || '', helper: (fields.sensor_popup_house_6_color && fields.sensor_popup_house_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_bat_1_color', label: (fields.sensor_popup_bat_1_color && fields.sensor_popup_bat_1_color.label) || '', helper: (fields.sensor_popup_bat_1_color && fields.sensor_popup_bat_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_bat_2_color', label: (fields.sensor_popup_bat_2_color && fields.sensor_popup_bat_2_color.label) || '', helper: (fields.sensor_popup_bat_2_color && fields.sensor_popup_bat_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_bat_3_color', label: (fields.sensor_popup_bat_3_color && fields.sensor_popup_bat_3_color.label) || '', helper: (fields.sensor_popup_bat_3_color && fields.sensor_popup_bat_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_bat_4_color', label: (fields.sensor_popup_bat_4_color && fields.sensor_popup_bat_4_color.label) || '', helper: (fields.sensor_popup_bat_4_color && fields.sensor_popup_bat_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_bat_5_color', label: (fields.sensor_popup_bat_5_color && fields.sensor_popup_bat_5_color.label) || '', helper: (fields.sensor_popup_bat_5_color && fields.sensor_popup_bat_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_bat_6_color', label: (fields.sensor_popup_bat_6_color && fields.sensor_popup_bat_6_color.label) || '', helper: (fields.sensor_popup_bat_6_color && fields.sensor_popup_bat_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_grid_1_color', label: (fields.sensor_popup_grid_1_color && fields.sensor_popup_grid_1_color.label) || '', helper: (fields.sensor_popup_grid_1_color && fields.sensor_popup_grid_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_grid_2_color', label: (fields.sensor_popup_grid_2_color && fields.sensor_popup_grid_2_color.label) || '', helper: (fields.sensor_popup_grid_2_color && fields.sensor_popup_grid_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_grid_3_color', label: (fields.sensor_popup_grid_3_color && fields.sensor_popup_grid_3_color.label) || '', helper: (fields.sensor_popup_grid_3_color && fields.sensor_popup_grid_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_grid_4_color', label: (fields.sensor_popup_grid_4_color && fields.sensor_popup_grid_4_color.label) || '', helper: (fields.sensor_popup_grid_4_color && fields.sensor_popup_grid_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_grid_5_color', label: (fields.sensor_popup_grid_5_color && fields.sensor_popup_grid_5_color.label) || '', helper: (fields.sensor_popup_grid_5_color && fields.sensor_popup_grid_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_grid_6_color', label: (fields.sensor_popup_grid_6_color && fields.sensor_popup_grid_6_color.label) || '', helper: (fields.sensor_popup_grid_6_color && fields.sensor_popup_grid_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_inverter_1_color', label: (fields.sensor_popup_inverter_1_color && fields.sensor_popup_inverter_1_color.label) || '', helper: (fields.sensor_popup_inverter_1_color && fields.sensor_popup_inverter_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_inverter_2_color', label: (fields.sensor_popup_inverter_2_color && fields.sensor_popup_inverter_2_color.label) || '', helper: (fields.sensor_popup_inverter_2_color && fields.sensor_popup_inverter_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_inverter_3_color', label: (fields.sensor_popup_inverter_3_color && fields.sensor_popup_inverter_3_color.label) || '', helper: (fields.sensor_popup_inverter_3_color && fields.sensor_popup_inverter_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_inverter_4_color', label: (fields.sensor_popup_inverter_4_color && fields.sensor_popup_inverter_4_color.label) || '', helper: (fields.sensor_popup_inverter_4_color && fields.sensor_popup_inverter_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_inverter_5_color', label: (fields.sensor_popup_inverter_5_color && fields.sensor_popup_inverter_5_color.label) || '', helper: (fields.sensor_popup_inverter_5_color && fields.sensor_popup_inverter_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
-        ,{ name: 'sensor_popup_inverter_6_color', label: (fields.sensor_popup_inverter_6_color && fields.sensor_popup_inverter_6_color.label) || '', helper: (fields.sensor_popup_inverter_6_color && fields.sensor_popup_inverter_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'car2_pct_color', label: fields.car2_pct_color.label, helper: fields.car2_pct_color.helper, selector: { color_picker: {} }, default: '#00FFFF' }
+        , { name: 'car1_name_color', label: fields.car1_name_color.label, helper: fields.car1_name_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
+        , { name: 'car2_name_color', label: fields.car2_name_color.label, helper: fields.car2_name_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
+        , { name: 'car1_color', label: fields.car1_color.label, helper: fields.car1_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
+        , { name: 'car2_color', label: fields.car2_color.label, helper: fields.car2_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
+        , { name: 'heat_pump_flow_color', label: fields.heat_pump_flow_color.label, helper: fields.heat_pump_flow_color.helper, selector: { color_picker: {} }, default: '#FFA500' }
+        , { name: 'heat_pump_text_color', label: fields.heat_pump_text_color.label, helper: fields.heat_pump_text_color.helper, selector: { color_picker: {} }, default: '#00f9f9' }
+        , { name: 'sensor_popup_pv_1_color', label: (fields.sensor_popup_pv_1_color && fields.sensor_popup_pv_1_color.label) || '', helper: (fields.sensor_popup_pv_1_color && fields.sensor_popup_pv_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_pv_2_color', label: (fields.sensor_popup_pv_2_color && fields.sensor_popup_pv_2_color.label) || '', helper: (fields.sensor_popup_pv_2_color && fields.sensor_popup_pv_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_pv_3_color', label: (fields.sensor_popup_pv_3_color && fields.sensor_popup_pv_3_color.label) || '', helper: (fields.sensor_popup_pv_3_color && fields.sensor_popup_pv_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_pv_4_color', label: (fields.sensor_popup_pv_4_color && fields.sensor_popup_pv_4_color.label) || '', helper: (fields.sensor_popup_pv_4_color && fields.sensor_popup_pv_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_pv_5_color', label: (fields.sensor_popup_pv_5_color && fields.sensor_popup_pv_5_color.label) || '', helper: (fields.sensor_popup_pv_5_color && fields.sensor_popup_pv_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_pv_6_color', label: (fields.sensor_popup_pv_6_color && fields.sensor_popup_pv_6_color.label) || '', helper: (fields.sensor_popup_pv_6_color && fields.sensor_popup_pv_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_house_1_color', label: (fields.sensor_popup_house_1_color && fields.sensor_popup_house_1_color.label) || '', helper: (fields.sensor_popup_house_1_color && fields.sensor_popup_house_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_house_2_color', label: (fields.sensor_popup_house_2_color && fields.sensor_popup_house_2_color.label) || '', helper: (fields.sensor_popup_house_2_color && fields.sensor_popup_house_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_house_3_color', label: (fields.sensor_popup_house_3_color && fields.sensor_popup_house_3_color.label) || '', helper: (fields.sensor_popup_house_3_color && fields.sensor_popup_house_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_house_4_color', label: (fields.sensor_popup_house_4_color && fields.sensor_popup_house_4_color.label) || '', helper: (fields.sensor_popup_house_4_color && fields.sensor_popup_house_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_house_5_color', label: (fields.sensor_popup_house_5_color && fields.sensor_popup_house_5_color.label) || '', helper: (fields.sensor_popup_house_5_color && fields.sensor_popup_house_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_house_6_color', label: (fields.sensor_popup_house_6_color && fields.sensor_popup_house_6_color.label) || '', helper: (fields.sensor_popup_house_6_color && fields.sensor_popup_house_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_bat_1_color', label: (fields.sensor_popup_bat_1_color && fields.sensor_popup_bat_1_color.label) || '', helper: (fields.sensor_popup_bat_1_color && fields.sensor_popup_bat_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_bat_2_color', label: (fields.sensor_popup_bat_2_color && fields.sensor_popup_bat_2_color.label) || '', helper: (fields.sensor_popup_bat_2_color && fields.sensor_popup_bat_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_bat_3_color', label: (fields.sensor_popup_bat_3_color && fields.sensor_popup_bat_3_color.label) || '', helper: (fields.sensor_popup_bat_3_color && fields.sensor_popup_bat_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_bat_4_color', label: (fields.sensor_popup_bat_4_color && fields.sensor_popup_bat_4_color.label) || '', helper: (fields.sensor_popup_bat_4_color && fields.sensor_popup_bat_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_bat_5_color', label: (fields.sensor_popup_bat_5_color && fields.sensor_popup_bat_5_color.label) || '', helper: (fields.sensor_popup_bat_5_color && fields.sensor_popup_bat_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_bat_6_color', label: (fields.sensor_popup_bat_6_color && fields.sensor_popup_bat_6_color.label) || '', helper: (fields.sensor_popup_bat_6_color && fields.sensor_popup_bat_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_grid_1_color', label: (fields.sensor_popup_grid_1_color && fields.sensor_popup_grid_1_color.label) || '', helper: (fields.sensor_popup_grid_1_color && fields.sensor_popup_grid_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_grid_2_color', label: (fields.sensor_popup_grid_2_color && fields.sensor_popup_grid_2_color.label) || '', helper: (fields.sensor_popup_grid_2_color && fields.sensor_popup_grid_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_grid_3_color', label: (fields.sensor_popup_grid_3_color && fields.sensor_popup_grid_3_color.label) || '', helper: (fields.sensor_popup_grid_3_color && fields.sensor_popup_grid_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_grid_4_color', label: (fields.sensor_popup_grid_4_color && fields.sensor_popup_grid_4_color.label) || '', helper: (fields.sensor_popup_grid_4_color && fields.sensor_popup_grid_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_grid_5_color', label: (fields.sensor_popup_grid_5_color && fields.sensor_popup_grid_5_color.label) || '', helper: (fields.sensor_popup_grid_5_color && fields.sensor_popup_grid_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_grid_6_color', label: (fields.sensor_popup_grid_6_color && fields.sensor_popup_grid_6_color.label) || '', helper: (fields.sensor_popup_grid_6_color && fields.sensor_popup_grid_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_inverter_1_color', label: (fields.sensor_popup_inverter_1_color && fields.sensor_popup_inverter_1_color.label) || '', helper: (fields.sensor_popup_inverter_1_color && fields.sensor_popup_inverter_1_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_inverter_2_color', label: (fields.sensor_popup_inverter_2_color && fields.sensor_popup_inverter_2_color.label) || '', helper: (fields.sensor_popup_inverter_2_color && fields.sensor_popup_inverter_2_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_inverter_3_color', label: (fields.sensor_popup_inverter_3_color && fields.sensor_popup_inverter_3_color.label) || '', helper: (fields.sensor_popup_inverter_3_color && fields.sensor_popup_inverter_3_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_inverter_4_color', label: (fields.sensor_popup_inverter_4_color && fields.sensor_popup_inverter_4_color.label) || '', helper: (fields.sensor_popup_inverter_4_color && fields.sensor_popup_inverter_4_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_inverter_5_color', label: (fields.sensor_popup_inverter_5_color && fields.sensor_popup_inverter_5_color.label) || '', helper: (fields.sensor_popup_inverter_5_color && fields.sensor_popup_inverter_5_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
+        , { name: 'sensor_popup_inverter_6_color', label: (fields.sensor_popup_inverter_6_color && fields.sensor_popup_inverter_6_color.label) || '', helper: (fields.sensor_popup_inverter_6_color && fields.sensor_popup_inverter_6_color.helper) || '', selector: { color_picker: {} }, default: '#80ffff' }
       ]),
       flow_colors: define([
         { name: 'pv_primary_color', label: fields.pv_primary_color.label, helper: fields.pv_primary_color.helper, selector: { color_picker: {} } },
@@ -21730,7 +21744,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'custom_flow_5_direction', label: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.label) || 'Custom Flow 5: Direction', helper: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
         { name: 'custom_flow_5_offset_x', label: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.label) || 'Custom Flow 5: Offset X (px)', helper: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
         { name: 'custom_flow_5_offset_y', label: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.label) || 'Custom Flow 5: Offset Y (px)', helper: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        
+
       ]),
       typography: define([
         { name: 'header_font_size', label: fields.header_font_size.label, helper: fields.header_font_size.helper, selector: { text: { mode: 'blur' } } },
@@ -21765,18 +21779,18 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'sensor_popup_bat_4_font_size', label: (fields.sensor_popup_bat_4_font_size && fields.sensor_popup_bat_4_font_size.label) || '', helper: (fields.sensor_popup_bat_4_font_size && fields.sensor_popup_bat_4_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' },
         { name: 'sensor_popup_bat_5_font_size', label: (fields.sensor_popup_bat_5_font_size && fields.sensor_popup_bat_5_font_size.label) || '', helper: (fields.sensor_popup_bat_5_font_size && fields.sensor_popup_bat_5_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' },
         { name: 'sensor_popup_bat_6_font_size', label: (fields.sensor_popup_bat_6_font_size && fields.sensor_popup_bat_6_font_size.label) || '', helper: (fields.sensor_popup_bat_6_font_size && fields.sensor_popup_bat_6_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_grid_1_font_size', label: (fields.sensor_popup_grid_1_font_size && fields.sensor_popup_grid_1_font_size.label) || '', helper: (fields.sensor_popup_grid_1_font_size && fields.sensor_popup_grid_1_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_grid_2_font_size', label: (fields.sensor_popup_grid_2_font_size && fields.sensor_popup_grid_2_font_size.label) || '', helper: (fields.sensor_popup_grid_2_font_size && fields.sensor_popup_grid_2_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_grid_3_font_size', label: (fields.sensor_popup_grid_3_font_size && fields.sensor_popup_grid_3_font_size.label) || '', helper: (fields.sensor_popup_grid_3_font_size && fields.sensor_popup_grid_3_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_grid_4_font_size', label: (fields.sensor_popup_grid_4_font_size && fields.sensor_popup_grid_4_font_size.label) || '', helper: (fields.sensor_popup_grid_4_font_size && fields.sensor_popup_grid_4_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_grid_5_font_size', label: (fields.sensor_popup_grid_5_font_size && fields.sensor_popup_grid_5_font_size.label) || '', helper: (fields.sensor_popup_grid_5_font_size && fields.sensor_popup_grid_5_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_grid_6_font_size', label: (fields.sensor_popup_grid_6_font_size && fields.sensor_popup_grid_6_font_size.label) || '', helper: (fields.sensor_popup_grid_6_font_size && fields.sensor_popup_grid_6_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_inverter_1_font_size', label: (fields.sensor_popup_inverter_1_font_size && fields.sensor_popup_inverter_1_font_size.label) || '', helper: (fields.sensor_popup_inverter_1_font_size && fields.sensor_popup_inverter_1_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_inverter_2_font_size', label: (fields.sensor_popup_inverter_2_font_size && fields.sensor_popup_inverter_2_font_size.label) || '', helper: (fields.sensor_popup_inverter_2_font_size && fields.sensor_popup_inverter_2_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_inverter_3_font_size', label: (fields.sensor_popup_inverter_3_font_size && fields.sensor_popup_inverter_3_font_size.label) || '', helper: (fields.sensor_popup_inverter_3_font_size && fields.sensor_popup_inverter_3_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_inverter_4_font_size', label: (fields.sensor_popup_inverter_4_font_size && fields.sensor_popup_inverter_4_font_size.label) || '', helper: (fields.sensor_popup_inverter_4_font_size && fields.sensor_popup_inverter_4_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_inverter_5_font_size', label: (fields.sensor_popup_inverter_5_font_size && fields.sensor_popup_inverter_5_font_size.label) || '', helper: (fields.sensor_popup_inverter_5_font_size && fields.sensor_popup_inverter_5_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
-        ,{ name: 'sensor_popup_inverter_6_font_size', label: (fields.sensor_popup_inverter_6_font_size && fields.sensor_popup_inverter_6_font_size.label) || '', helper: (fields.sensor_popup_inverter_6_font_size && fields.sensor_popup_inverter_6_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_grid_1_font_size', label: (fields.sensor_popup_grid_1_font_size && fields.sensor_popup_grid_1_font_size.label) || '', helper: (fields.sensor_popup_grid_1_font_size && fields.sensor_popup_grid_1_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_grid_2_font_size', label: (fields.sensor_popup_grid_2_font_size && fields.sensor_popup_grid_2_font_size.label) || '', helper: (fields.sensor_popup_grid_2_font_size && fields.sensor_popup_grid_2_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_grid_3_font_size', label: (fields.sensor_popup_grid_3_font_size && fields.sensor_popup_grid_3_font_size.label) || '', helper: (fields.sensor_popup_grid_3_font_size && fields.sensor_popup_grid_3_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_grid_4_font_size', label: (fields.sensor_popup_grid_4_font_size && fields.sensor_popup_grid_4_font_size.label) || '', helper: (fields.sensor_popup_grid_4_font_size && fields.sensor_popup_grid_4_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_grid_5_font_size', label: (fields.sensor_popup_grid_5_font_size && fields.sensor_popup_grid_5_font_size.label) || '', helper: (fields.sensor_popup_grid_5_font_size && fields.sensor_popup_grid_5_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_grid_6_font_size', label: (fields.sensor_popup_grid_6_font_size && fields.sensor_popup_grid_6_font_size.label) || '', helper: (fields.sensor_popup_grid_6_font_size && fields.sensor_popup_grid_6_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_inverter_1_font_size', label: (fields.sensor_popup_inverter_1_font_size && fields.sensor_popup_inverter_1_font_size.label) || '', helper: (fields.sensor_popup_inverter_1_font_size && fields.sensor_popup_inverter_1_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_inverter_2_font_size', label: (fields.sensor_popup_inverter_2_font_size && fields.sensor_popup_inverter_2_font_size.label) || '', helper: (fields.sensor_popup_inverter_2_font_size && fields.sensor_popup_inverter_2_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_inverter_3_font_size', label: (fields.sensor_popup_inverter_3_font_size && fields.sensor_popup_inverter_3_font_size.label) || '', helper: (fields.sensor_popup_inverter_3_font_size && fields.sensor_popup_inverter_3_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_inverter_4_font_size', label: (fields.sensor_popup_inverter_4_font_size && fields.sensor_popup_inverter_4_font_size.label) || '', helper: (fields.sensor_popup_inverter_4_font_size && fields.sensor_popup_inverter_4_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_inverter_5_font_size', label: (fields.sensor_popup_inverter_5_font_size && fields.sensor_popup_inverter_5_font_size.label) || '', helper: (fields.sensor_popup_inverter_5_font_size && fields.sensor_popup_inverter_5_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
+        , { name: 'sensor_popup_inverter_6_font_size', label: (fields.sensor_popup_inverter_6_font_size && fields.sensor_popup_inverter_6_font_size.label) || '', helper: (fields.sensor_popup_inverter_6_font_size && fields.sensor_popup_inverter_6_font_size.helper) || '', selector: { text: { mode: 'blur' } }, default: '16' }
       ]),
       pvPopup: define(createPopupSchemaFields('pv', 6)),
       batteryPopup: define(createPopupSchemaFields('bat', 6)),
@@ -21855,230 +21869,230 @@ class CarbonEnergyCardEditor extends HTMLElement {
         { name: 'show_pv_box_line_1', label: 'Show Daily production', helper: 'Show daily production line in PV box.', selector: { boolean: {} }, default: true }
       ]),
       carbon_pro: define([
-      { name: 'text_visibility_sensor', label: fields.text_visibility_sensor.label, helper: fields.text_visibility_sensor.helper, selector: motionSensorSelector },
-      { name: 'pro_debug_grid', label: (fields.pro_debug_grid && fields.pro_debug_grid.label) || 'Enable Positioning Grid (PRO)', helper: (fields.pro_debug_grid && fields.pro_debug_grid.helper) || 'Show an on-screen grid + coordinates to position texts more precisely (PRO tool).', selector: { boolean: {} }, default: false },
+        { name: 'text_visibility_sensor', label: fields.text_visibility_sensor.label, helper: fields.text_visibility_sensor.helper, selector: motionSensorSelector },
+        { name: 'pro_debug_grid', label: (fields.pro_debug_grid && fields.pro_debug_grid.label) || 'Enable Positioning Grid (PRO)', helper: (fields.pro_debug_grid && fields.pro_debug_grid.helper) || 'Show an on-screen grid + coordinates to position texts more precisely (PRO tool).', selector: { boolean: {} }, default: false },
 
-      // Previsioni solari (entity + opzioni)
-      { name: 'solar_forecast_enabled', label: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.label) || 'Enable Solar Forecast', helper: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.helper) || 'Display estimated solar production with sun/rain icon and status.', selector: { boolean: {} }, default: false },
-      { name: 'sensor_solar_forecast', label: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.label) || 'Solar Forecast Sensor', helper: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.helper) || 'Sensor entity for estimated solar production (in W or kW).', selector: entitySelector },
-      { name: 'solar_forecast_max_power', label: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.label) || 'Solar Forecast Max Power (W)', helper: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.helper) || 'Maximum expected power in watts for percentage (default: 10000W).', selector: { number: { min: 1000, max: 50000, step: 100, mode: 'box', unit_of_measurement: 'W' } }, default: 10000 },
-      { name: 'solar_forecast_x', label: (fields.solar_forecast_x && fields.solar_forecast_x.label) || 'Solar Forecast X (px)', helper: (fields.solar_forecast_x && fields.solar_forecast_x.helper) || 'Horizontal position.', selector: { number: { min: 0, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
-      { name: 'solar_forecast_y', label: (fields.solar_forecast_y && fields.solar_forecast_y.label) || 'Solar Forecast Y (px)', helper: (fields.solar_forecast_y && fields.solar_forecast_y.helper) || 'Vertical position.', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
-      { name: 'solar_forecast_color', label: (fields.solar_forecast_color && fields.solar_forecast_color.label) || 'Solar Forecast Color', helper: (fields.solar_forecast_color && fields.solar_forecast_color.helper) || 'Color for icon and text.', selector: { color_picker: {} }, default: '#00FFFF' },
-      { name: 'solar_forecast_size', label: (fields.solar_forecast_size && fields.solar_forecast_size.label) || 'Solar Forecast Font Size (px)', helper: (fields.solar_forecast_size && fields.solar_forecast_size.helper) || 'Font size for the forecast text.', selector: { number: { min: 8, max: 48, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 16 },
-      { name: 'weather_rain_entity', label: (fields.weather_rain_entity && fields.weather_rain_entity.label) || 'Weather entity for rain', helper: (fields.weather_rain_entity && fields.weather_rain_entity.helper) || 'Optional. Weather entity (e.g. Met.no). When state is rainy/pouring/lightning-rainy, the rain animation is shown.', selector: { entity: { domain: ['weather'] } }, default: '' },
+        // Previsioni solari (entity + opzioni)
+        { name: 'solar_forecast_enabled', label: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.label) || 'Enable Solar Forecast', helper: (fields.solar_forecast_enabled && fields.solar_forecast_enabled.helper) || 'Display estimated solar production with sun/rain icon and status.', selector: { boolean: {} }, default: false },
+        { name: 'sensor_solar_forecast', label: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.label) || 'Solar Forecast Sensor', helper: (fields.sensor_solar_forecast && fields.sensor_solar_forecast.helper) || 'Sensor entity for estimated solar production (in W or kW).', selector: entitySelector },
+        { name: 'solar_forecast_max_power', label: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.label) || 'Solar Forecast Max Power (W)', helper: (fields.solar_forecast_max_power && fields.solar_forecast_max_power.helper) || 'Maximum expected power in watts for percentage (default: 10000W).', selector: { number: { min: 1000, max: 50000, step: 100, mode: 'box', unit_of_measurement: 'W' } }, default: 10000 },
+        { name: 'solar_forecast_x', label: (fields.solar_forecast_x && fields.solar_forecast_x.label) || 'Solar Forecast X (px)', helper: (fields.solar_forecast_x && fields.solar_forecast_x.helper) || 'Horizontal position.', selector: { number: { min: 0, max: 800, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
+        { name: 'solar_forecast_y', label: (fields.solar_forecast_y && fields.solar_forecast_y.label) || 'Solar Forecast Y (px)', helper: (fields.solar_forecast_y && fields.solar_forecast_y.helper) || 'Vertical position.', selector: { number: { min: 0, max: 450, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 400 },
+        { name: 'solar_forecast_color', label: (fields.solar_forecast_color && fields.solar_forecast_color.label) || 'Solar Forecast Color', helper: (fields.solar_forecast_color && fields.solar_forecast_color.helper) || 'Color for icon and text.', selector: { color_picker: {} }, default: '#00FFFF' },
+        { name: 'solar_forecast_size', label: (fields.solar_forecast_size && fields.solar_forecast_size.label) || 'Solar Forecast Font Size (px)', helper: (fields.solar_forecast_size && fields.solar_forecast_size.helper) || 'Font size for the forecast text.', selector: { number: { min: 8, max: 48, step: 1, mode: 'slider', unit_of_measurement: 'px' } }, default: 16 },
+        { name: 'weather_rain_entity', label: (fields.weather_rain_entity && fields.weather_rain_entity.label) || 'Weather entity for rain', helper: (fields.weather_rain_entity && fields.weather_rain_entity.helper) || 'Optional. Weather entity (e.g. Met.no). When state is rainy/pouring/lightning-rainy, the rain animation is shown.', selector: { entity: { domain: ['weather'] } }, default: '' },
 
-      // Overlay Image fields
-      { name: 'overlay_image_enabled', label: (fields.overlay_image_enabled && fields.overlay_image_enabled.label) || 'Enable Overlay Image', helper: (fields.overlay_image_enabled && fields.overlay_image_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the overlay image.', selector: { boolean: {} } },
-      { name: 'overlay_image', label: (fields.overlay_image && fields.overlay_image.label) || 'Overlay Image Path', helper: (fields.overlay_image && fields.overlay_image.helper) || 'Path to an overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_x', label: (fields.overlay_image_x && fields.overlay_image_x.label) || 'Overlay Image X Position (px)', helper: (fields.overlay_image_x && fields.overlay_image_x.helper) || 'Horizontal position of the overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_y', label: (fields.overlay_image_y && fields.overlay_image_y.label) || 'Overlay Image Y Position (px)', helper: (fields.overlay_image_y && fields.overlay_image_y.helper) || 'Vertical position of the overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_width', label: (fields.overlay_image_width && fields.overlay_image_width.label) || 'Overlay Image Width (px)', helper: (fields.overlay_image_width && fields.overlay_image_width.helper) || 'Width of the overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_height', label: (fields.overlay_image_height && fields.overlay_image_height.label) || 'Overlay Image Height (px)', helper: (fields.overlay_image_height && fields.overlay_image_height.helper) || 'Height of the overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_opacity', label: (fields.overlay_image_opacity && fields.overlay_image_opacity.label) || 'Overlay Image Opacity', helper: (fields.overlay_image_opacity && fields.overlay_image_opacity.helper) || 'Opacity of the overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
-      { name: 'overlay_image_2_enabled', label: (fields.overlay_image_2_enabled && fields.overlay_image_2_enabled.label) || 'Enable Overlay Image 2', helper: (fields.overlay_image_2_enabled && fields.overlay_image_2_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the second overlay image.', selector: { boolean: {} } },
-      { name: 'overlay_image_2', label: (fields.overlay_image_2 && fields.overlay_image_2.label) || 'Overlay Image 2 Path', helper: (fields.overlay_image_2 && fields.overlay_image_2.helper) || 'Path to a second overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay2.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_2_x', label: (fields.overlay_image_2_x && fields.overlay_image_2_x.label) || 'Overlay Image 2 X Position (px)', helper: (fields.overlay_image_2_x && fields.overlay_image_2_x.helper) || 'Horizontal position of the second overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_2_y', label: (fields.overlay_image_2_y && fields.overlay_image_2_y.label) || 'Overlay Image 2 Y Position (px)', helper: (fields.overlay_image_2_y && fields.overlay_image_2_y.helper) || 'Vertical position of the second overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_2_width', label: (fields.overlay_image_2_width && fields.overlay_image_2_width.label) || 'Overlay Image 2 Width (px)', helper: (fields.overlay_image_2_width && fields.overlay_image_2_width.helper) || 'Width of the second overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_2_height', label: (fields.overlay_image_2_height && fields.overlay_image_2_height.label) || 'Overlay Image 2 Height (px)', helper: (fields.overlay_image_2_height && fields.overlay_image_2_height.helper) || 'Height of the second overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_2_opacity', label: (fields.overlay_image_2_opacity && fields.overlay_image_2_opacity.label) || 'Overlay Image 2 Opacity', helper: (fields.overlay_image_2_opacity && fields.overlay_image_2_opacity.helper) || 'Opacity of the second overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
-      { name: 'overlay_image_3_enabled', label: (fields.overlay_image_3_enabled && fields.overlay_image_3_enabled.label) || 'Enable Overlay Image 3', helper: (fields.overlay_image_3_enabled && fields.overlay_image_3_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the third overlay image.', selector: { boolean: {} } },
-      { name: 'overlay_image_3', label: (fields.overlay_image_3 && fields.overlay_image_3.label) || 'Overlay Image 3 Path', helper: (fields.overlay_image_3 && fields.overlay_image_3.helper) || 'Path to a third overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay3.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_3_x', label: (fields.overlay_image_3_x && fields.overlay_image_3_x.label) || 'Overlay Image 3 X Position (px)', helper: (fields.overlay_image_3_x && fields.overlay_image_3_x.helper) || 'Horizontal position of the third overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_3_y', label: (fields.overlay_image_3_y && fields.overlay_image_3_y.label) || 'Overlay Image 3 Y Position (px)', helper: (fields.overlay_image_3_y && fields.overlay_image_3_y.helper) || 'Vertical position of the third overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_3_width', label: (fields.overlay_image_3_width && fields.overlay_image_3_width.label) || 'Overlay Image 3 Width (px)', helper: (fields.overlay_image_3_width && fields.overlay_image_3_width.helper) || 'Width of the third overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_3_height', label: (fields.overlay_image_3_height && fields.overlay_image_3_height.label) || 'Overlay Image 3 Height (px)', helper: (fields.overlay_image_3_height && fields.overlay_image_3_height.helper) || 'Height of the third overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_3_opacity', label: (fields.overlay_image_3_opacity && fields.overlay_image_3_opacity.label) || 'Overlay Image 3 Opacity', helper: (fields.overlay_image_3_opacity && fields.overlay_image_3_opacity.helper) || 'Opacity of the third overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
-      { name: 'overlay_image_4_enabled', label: (fields.overlay_image_4_enabled && fields.overlay_image_4_enabled.label) || 'Enable Overlay Image 4', helper: (fields.overlay_image_4_enabled && fields.overlay_image_4_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the fourth overlay image.', selector: { boolean: {} } },
-      { name: 'overlay_image_4', label: (fields.overlay_image_4 && fields.overlay_image_4.label) || 'Overlay Image 4 Path', helper: (fields.overlay_image_4 && fields.overlay_image_4.helper) || 'Path to a fourth overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay4.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_4_x', label: (fields.overlay_image_4_x && fields.overlay_image_4_x.label) || 'Overlay Image 4 X Position (px)', helper: (fields.overlay_image_4_x && fields.overlay_image_4_x.helper) || 'Horizontal position of the fourth overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_4_y', label: (fields.overlay_image_4_y && fields.overlay_image_4_y.label) || 'Overlay Image 4 Y Position (px)', helper: (fields.overlay_image_4_y && fields.overlay_image_4_y.helper) || 'Vertical position of the fourth overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_4_width', label: (fields.overlay_image_4_width && fields.overlay_image_4_width.label) || 'Overlay Image 4 Width (px)', helper: (fields.overlay_image_4_width && fields.overlay_image_4_width.helper) || 'Width of the fourth overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_4_height', label: (fields.overlay_image_4_height && fields.overlay_image_4_height.label) || 'Overlay Image 4 Height (px)', helper: (fields.overlay_image_4_height && fields.overlay_image_4_height.helper) || 'Height of the fourth overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_4_opacity', label: (fields.overlay_image_4_opacity && fields.overlay_image_4_opacity.label) || 'Overlay Image 4 Opacity', helper: (fields.overlay_image_4_opacity && fields.overlay_image_4_opacity.helper) || 'Opacity of the fourth overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
-      { name: 'overlay_image_5_enabled', label: (fields.overlay_image_5_enabled && fields.overlay_image_5_enabled.label) || 'Enable Overlay Image 5', helper: (fields.overlay_image_5_enabled && fields.overlay_image_5_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the fifth overlay image.', selector: { boolean: {} } },
-      { name: 'overlay_image_5', label: (fields.overlay_image_5 && fields.overlay_image_5.label) || 'Overlay Image 5 Path', helper: (fields.overlay_image_5 && fields.overlay_image_5.helper) || 'Path to a fifth overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay5.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_5_x', label: (fields.overlay_image_5_x && fields.overlay_image_5_x.label) || 'Overlay Image 5 X Position (px)', helper: (fields.overlay_image_5_x && fields.overlay_image_5_x.helper) || 'Horizontal position of the fifth overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_5_y', label: (fields.overlay_image_5_y && fields.overlay_image_5_y.label) || 'Overlay Image 5 Y Position (px)', helper: (fields.overlay_image_5_y && fields.overlay_image_5_y.helper) || 'Vertical position of the fifth overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_5_width', label: (fields.overlay_image_5_width && fields.overlay_image_5_width.label) || 'Overlay Image 5 Width (px)', helper: (fields.overlay_image_5_width && fields.overlay_image_5_width.helper) || 'Width of the fifth overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_5_height', label: (fields.overlay_image_5_height && fields.overlay_image_5_height.label) || 'Overlay Image 5 Height (px)', helper: (fields.overlay_image_5_height && fields.overlay_image_5_height.helper) || 'Height of the fifth overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-      { name: 'overlay_image_5_opacity', label: (fields.overlay_image_5_opacity && fields.overlay_image_5_opacity.label) || 'Overlay Image 5 Opacity', helper: (fields.overlay_image_5_opacity && fields.overlay_image_5_opacity.helper) || 'Opacity of the fifth overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
-      ...([6, 7, 8, 9, 10].map((i) => [
-        { name: `overlay_image_${i}_enabled`, label: (fields[`overlay_image_${i}_enabled`] && fields[`overlay_image_${i}_enabled`].label) || `Enable Overlay Image ${i}`, helper: (fields[`overlay_image_${i}_enabled`] && fields[`overlay_image_${i}_enabled`].helper) || `Enable or disable overlay image ${i}.`, selector: { boolean: {} } },
-        { name: `overlay_image_${i}`, label: (fields[`overlay_image_${i}`] && fields[`overlay_image_${i}`].label) || `Overlay Image ${i} Path`, helper: (fields[`overlay_image_${i}`] && fields[`overlay_image_${i}`].helper) || `Path to overlay image ${i}.`, selector: { text: { mode: 'blur' } } },
-        { name: `overlay_image_${i}_x`, label: (fields[`overlay_image_${i}_x`] && fields[`overlay_image_${i}_x`].label) || `Overlay ${i} X (px)`, selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-        { name: `overlay_image_${i}_y`, label: (fields[`overlay_image_${i}_y`] && fields[`overlay_image_${i}_y`].label) || `Overlay ${i} Y (px)`, selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-        { name: `overlay_image_${i}_width`, label: (fields[`overlay_image_${i}_width`] && fields[`overlay_image_${i}_width`].label) || `Overlay ${i} Width (px)`, selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-        { name: `overlay_image_${i}_height`, label: (fields[`overlay_image_${i}_height`] && fields[`overlay_image_${i}_height`].label) || `Overlay ${i} Height (px)`, selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
-        { name: `overlay_image_${i}_opacity`, label: (fields[`overlay_image_${i}_opacity`] && fields[`overlay_image_${i}_opacity`].label) || `Overlay ${i} Opacity`, selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } }
-      ]).flat()),
+        // Overlay Image fields
+        { name: 'overlay_image_enabled', label: (fields.overlay_image_enabled && fields.overlay_image_enabled.label) || 'Enable Overlay Image', helper: (fields.overlay_image_enabled && fields.overlay_image_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the overlay image.', selector: { boolean: {} } },
+        { name: 'overlay_image', label: (fields.overlay_image && fields.overlay_image.label) || 'Overlay Image Path', helper: (fields.overlay_image && fields.overlay_image.helper) || 'Path to an overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_x', label: (fields.overlay_image_x && fields.overlay_image_x.label) || 'Overlay Image X Position (px)', helper: (fields.overlay_image_x && fields.overlay_image_x.helper) || 'Horizontal position of the overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_y', label: (fields.overlay_image_y && fields.overlay_image_y.label) || 'Overlay Image Y Position (px)', helper: (fields.overlay_image_y && fields.overlay_image_y.helper) || 'Vertical position of the overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_width', label: (fields.overlay_image_width && fields.overlay_image_width.label) || 'Overlay Image Width (px)', helper: (fields.overlay_image_width && fields.overlay_image_width.helper) || 'Width of the overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_height', label: (fields.overlay_image_height && fields.overlay_image_height.label) || 'Overlay Image Height (px)', helper: (fields.overlay_image_height && fields.overlay_image_height.helper) || 'Height of the overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_opacity', label: (fields.overlay_image_opacity && fields.overlay_image_opacity.label) || 'Overlay Image Opacity', helper: (fields.overlay_image_opacity && fields.overlay_image_opacity.helper) || 'Opacity of the overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
+        { name: 'overlay_image_2_enabled', label: (fields.overlay_image_2_enabled && fields.overlay_image_2_enabled.label) || 'Enable Overlay Image 2', helper: (fields.overlay_image_2_enabled && fields.overlay_image_2_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the second overlay image.', selector: { boolean: {} } },
+        { name: 'overlay_image_2', label: (fields.overlay_image_2 && fields.overlay_image_2.label) || 'Overlay Image 2 Path', helper: (fields.overlay_image_2 && fields.overlay_image_2.helper) || 'Path to a second overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay2.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_2_x', label: (fields.overlay_image_2_x && fields.overlay_image_2_x.label) || 'Overlay Image 2 X Position (px)', helper: (fields.overlay_image_2_x && fields.overlay_image_2_x.helper) || 'Horizontal position of the second overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_2_y', label: (fields.overlay_image_2_y && fields.overlay_image_2_y.label) || 'Overlay Image 2 Y Position (px)', helper: (fields.overlay_image_2_y && fields.overlay_image_2_y.helper) || 'Vertical position of the second overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_2_width', label: (fields.overlay_image_2_width && fields.overlay_image_2_width.label) || 'Overlay Image 2 Width (px)', helper: (fields.overlay_image_2_width && fields.overlay_image_2_width.helper) || 'Width of the second overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_2_height', label: (fields.overlay_image_2_height && fields.overlay_image_2_height.label) || 'Overlay Image 2 Height (px)', helper: (fields.overlay_image_2_height && fields.overlay_image_2_height.helper) || 'Height of the second overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_2_opacity', label: (fields.overlay_image_2_opacity && fields.overlay_image_2_opacity.label) || 'Overlay Image 2 Opacity', helper: (fields.overlay_image_2_opacity && fields.overlay_image_2_opacity.helper) || 'Opacity of the second overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
+        { name: 'overlay_image_3_enabled', label: (fields.overlay_image_3_enabled && fields.overlay_image_3_enabled.label) || 'Enable Overlay Image 3', helper: (fields.overlay_image_3_enabled && fields.overlay_image_3_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the third overlay image.', selector: { boolean: {} } },
+        { name: 'overlay_image_3', label: (fields.overlay_image_3 && fields.overlay_image_3.label) || 'Overlay Image 3 Path', helper: (fields.overlay_image_3 && fields.overlay_image_3.helper) || 'Path to a third overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay3.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_3_x', label: (fields.overlay_image_3_x && fields.overlay_image_3_x.label) || 'Overlay Image 3 X Position (px)', helper: (fields.overlay_image_3_x && fields.overlay_image_3_x.helper) || 'Horizontal position of the third overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_3_y', label: (fields.overlay_image_3_y && fields.overlay_image_3_y.label) || 'Overlay Image 3 Y Position (px)', helper: (fields.overlay_image_3_y && fields.overlay_image_3_y.helper) || 'Vertical position of the third overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_3_width', label: (fields.overlay_image_3_width && fields.overlay_image_3_width.label) || 'Overlay Image 3 Width (px)', helper: (fields.overlay_image_3_width && fields.overlay_image_3_width.helper) || 'Width of the third overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_3_height', label: (fields.overlay_image_3_height && fields.overlay_image_3_height.label) || 'Overlay Image 3 Height (px)', helper: (fields.overlay_image_3_height && fields.overlay_image_3_height.helper) || 'Height of the third overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_3_opacity', label: (fields.overlay_image_3_opacity && fields.overlay_image_3_opacity.label) || 'Overlay Image 3 Opacity', helper: (fields.overlay_image_3_opacity && fields.overlay_image_3_opacity.helper) || 'Opacity of the third overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
+        { name: 'overlay_image_4_enabled', label: (fields.overlay_image_4_enabled && fields.overlay_image_4_enabled.label) || 'Enable Overlay Image 4', helper: (fields.overlay_image_4_enabled && fields.overlay_image_4_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the fourth overlay image.', selector: { boolean: {} } },
+        { name: 'overlay_image_4', label: (fields.overlay_image_4 && fields.overlay_image_4.label) || 'Overlay Image 4 Path', helper: (fields.overlay_image_4 && fields.overlay_image_4.helper) || 'Path to a fourth overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay4.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_4_x', label: (fields.overlay_image_4_x && fields.overlay_image_4_x.label) || 'Overlay Image 4 X Position (px)', helper: (fields.overlay_image_4_x && fields.overlay_image_4_x.helper) || 'Horizontal position of the fourth overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_4_y', label: (fields.overlay_image_4_y && fields.overlay_image_4_y.label) || 'Overlay Image 4 Y Position (px)', helper: (fields.overlay_image_4_y && fields.overlay_image_4_y.helper) || 'Vertical position of the fourth overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_4_width', label: (fields.overlay_image_4_width && fields.overlay_image_4_width.label) || 'Overlay Image 4 Width (px)', helper: (fields.overlay_image_4_width && fields.overlay_image_4_width.helper) || 'Width of the fourth overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_4_height', label: (fields.overlay_image_4_height && fields.overlay_image_4_height.label) || 'Overlay Image 4 Height (px)', helper: (fields.overlay_image_4_height && fields.overlay_image_4_height.helper) || 'Height of the fourth overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_4_opacity', label: (fields.overlay_image_4_opacity && fields.overlay_image_4_opacity.label) || 'Overlay Image 4 Opacity', helper: (fields.overlay_image_4_opacity && fields.overlay_image_4_opacity.helper) || 'Opacity of the fourth overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
+        { name: 'overlay_image_5_enabled', label: (fields.overlay_image_5_enabled && fields.overlay_image_5_enabled.label) || 'Enable Overlay Image 5', helper: (fields.overlay_image_5_enabled && fields.overlay_image_5_enabled.helper) || '⚠️ Requires valid PRO password above. Enable or disable the fifth overlay image.', selector: { boolean: {} } },
+        { name: 'overlay_image_5', label: (fields.overlay_image_5 && fields.overlay_image_5.label) || 'Overlay Image 5 Path', helper: (fields.overlay_image_5 && fields.overlay_image_5.helper) || 'Path to a fifth overlay PNG image to display on top of the background (e.g., /local/community/carbon-energy-card/overlay5.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_5_x', label: (fields.overlay_image_5_x && fields.overlay_image_5_x.label) || 'Overlay Image 5 X Position (px)', helper: (fields.overlay_image_5_x && fields.overlay_image_5_x.helper) || 'Horizontal position of the fifth overlay image. Default: 0.', selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_5_y', label: (fields.overlay_image_5_y && fields.overlay_image_5_y.label) || 'Overlay Image 5 Y Position (px)', helper: (fields.overlay_image_5_y && fields.overlay_image_5_y.helper) || 'Vertical position of the fifth overlay image. Default: 0.', selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_5_width', label: (fields.overlay_image_5_width && fields.overlay_image_5_width.label) || 'Overlay Image 5 Width (px)', helper: (fields.overlay_image_5_width && fields.overlay_image_5_width.helper) || 'Width of the fifth overlay image. Default: 800.', selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_5_height', label: (fields.overlay_image_5_height && fields.overlay_image_5_height.label) || 'Overlay Image 5 Height (px)', helper: (fields.overlay_image_5_height && fields.overlay_image_5_height.helper) || 'Height of the fifth overlay image. Default: 450.', selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+        { name: 'overlay_image_5_opacity', label: (fields.overlay_image_5_opacity && fields.overlay_image_5_opacity.label) || 'Overlay Image 5 Opacity', helper: (fields.overlay_image_5_opacity && fields.overlay_image_5_opacity.helper) || 'Opacity of the fifth overlay image (0.0 to 1.0). Default: 1.0.', selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } },
+        ...([6, 7, 8, 9, 10].map((i) => [
+          { name: `overlay_image_${i}_enabled`, label: (fields[`overlay_image_${i}_enabled`] && fields[`overlay_image_${i}_enabled`].label) || `Enable Overlay Image ${i}`, helper: (fields[`overlay_image_${i}_enabled`] && fields[`overlay_image_${i}_enabled`].helper) || `Enable or disable overlay image ${i}.`, selector: { boolean: {} } },
+          { name: `overlay_image_${i}`, label: (fields[`overlay_image_${i}`] && fields[`overlay_image_${i}`].label) || `Overlay Image ${i} Path`, helper: (fields[`overlay_image_${i}`] && fields[`overlay_image_${i}`].helper) || `Path to overlay image ${i}.`, selector: { text: { mode: 'blur' } } },
+          { name: `overlay_image_${i}_x`, label: (fields[`overlay_image_${i}_x`] && fields[`overlay_image_${i}_x`].label) || `Overlay ${i} X (px)`, selector: { number: { min: -800, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+          { name: `overlay_image_${i}_y`, label: (fields[`overlay_image_${i}_y`] && fields[`overlay_image_${i}_y`].label) || `Overlay ${i} Y (px)`, selector: { number: { min: -450, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+          { name: `overlay_image_${i}_width`, label: (fields[`overlay_image_${i}_width`] && fields[`overlay_image_${i}_width`].label) || `Overlay ${i} Width (px)`, selector: { number: { min: 1, max: 1600, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+          { name: `overlay_image_${i}_height`, label: (fields[`overlay_image_${i}_height`] && fields[`overlay_image_${i}_height`].label) || `Overlay ${i} Height (px)`, selector: { number: { min: 1, max: 900, step: 1, mode: 'slider', unit_of_measurement: 'px' } } },
+          { name: `overlay_image_${i}_opacity`, label: (fields[`overlay_image_${i}_opacity`] && fields[`overlay_image_${i}_opacity`].label) || `Overlay ${i} Opacity`, selector: { number: { min: 0, max: 1, step: 0.1, mode: 'slider' } } }
+        ]).flat()),
 
-      // Custom Flows fields
-      { name: 'custom_flow_1_enabled', label: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.label) || 'Custom Flow 1: Enabled', helper: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.helper) || 'Enable custom flow 1.', selector: { boolean: {} } },
-      { name: 'custom_flow_1_sensor', label: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.label) || 'Custom Flow 1: Sensor', helper: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
-      { name: 'custom_flow_1_path_preset', label: 'Custom Flow 1: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-      { name: 'custom_flow_1_start_x', label: 'Flow 1: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_1_start_y', label: 'Flow 1: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_1_end_x', label: 'Flow 1: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_1_end_y', label: 'Flow 1: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_1_path', label: 'Flow 1: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
-      { name: 'custom_flow_1_color', label: (fields.custom_flow_1_color && fields.custom_flow_1_color.label) || 'Custom Flow 1: Color', helper: (fields.custom_flow_1_color && fields.custom_flow_1_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
-      { name: 'custom_flow_1_threshold', label: (fields.custom_flow_1_threshold && fields.custom_flow_1_threshold.label) || 'Custom Flow 1: Threshold (W)', helper: (fields.custom_flow_1_threshold && fields.custom_flow_1_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-      { name: 'custom_flow_1_direction', label: (fields.custom_flow_1_direction && fields.custom_flow_1_direction.label) || 'Custom Flow 1: Direction', helper: (fields.custom_flow_1_direction && fields.custom_flow_1_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-      { name: 'custom_flow_1_offset_x', label: (fields.custom_flow_1_offset_x && fields.custom_flow_1_offset_x.label) || 'Custom Flow 1: Offset X (px)', helper: (fields.custom_flow_1_offset_x && fields.custom_flow_1_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_1_offset_y', label: (fields.custom_flow_1_offset_y && fields.custom_flow_1_offset_y.label) || 'Custom Flow 1: Offset Y (px)', helper: (fields.custom_flow_1_offset_y && fields.custom_flow_1_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        // Custom Flows fields
+        { name: 'custom_flow_1_enabled', label: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.label) || 'Custom Flow 1: Enabled', helper: (fields.custom_flow_1_enabled && fields.custom_flow_1_enabled.helper) || 'Enable custom flow 1.', selector: { boolean: {} } },
+        { name: 'custom_flow_1_sensor', label: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.label) || 'Custom Flow 1: Sensor', helper: (fields.custom_flow_1_sensor && fields.custom_flow_1_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
+        { name: 'custom_flow_1_path_preset', label: 'Custom Flow 1: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
+        { name: 'custom_flow_1_start_x', label: 'Flow 1: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_1_start_y', label: 'Flow 1: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_1_end_x', label: 'Flow 1: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_1_end_y', label: 'Flow 1: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_1_path', label: 'Flow 1: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
+        { name: 'custom_flow_1_color', label: (fields.custom_flow_1_color && fields.custom_flow_1_color.label) || 'Custom Flow 1: Color', helper: (fields.custom_flow_1_color && fields.custom_flow_1_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
+        { name: 'custom_flow_1_threshold', label: (fields.custom_flow_1_threshold && fields.custom_flow_1_threshold.label) || 'Custom Flow 1: Threshold (W)', helper: (fields.custom_flow_1_threshold && fields.custom_flow_1_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
+        { name: 'custom_flow_1_direction', label: (fields.custom_flow_1_direction && fields.custom_flow_1_direction.label) || 'Custom Flow 1: Direction', helper: (fields.custom_flow_1_direction && fields.custom_flow_1_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
+        { name: 'custom_flow_1_offset_x', label: (fields.custom_flow_1_offset_x && fields.custom_flow_1_offset_x.label) || 'Custom Flow 1: Offset X (px)', helper: (fields.custom_flow_1_offset_x && fields.custom_flow_1_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_1_offset_y', label: (fields.custom_flow_1_offset_y && fields.custom_flow_1_offset_y.label) || 'Custom Flow 1: Offset Y (px)', helper: (fields.custom_flow_1_offset_y && fields.custom_flow_1_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
 
-      { name: 'custom_flow_2_enabled', label: (fields.custom_flow_2_enabled && fields.custom_flow_2_enabled.label) || 'Custom Flow 2: Enabled', helper: (fields.custom_flow_2_enabled && fields.custom_flow_2_enabled.helper) || 'Enable custom flow 2.', selector: { boolean: {} } },
-      { name: 'custom_flow_2_sensor', label: (fields.custom_flow_2_sensor && fields.custom_flow_2_sensor.label) || 'Custom Flow 2: Sensor', helper: (fields.custom_flow_2_sensor && fields.custom_flow_2_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
-      { name: 'custom_flow_2_path_preset', label: 'Custom Flow 2: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-      { name: 'custom_flow_2_start_x', label: 'Flow 2: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_2_start_y', label: 'Flow 2: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_2_end_x', label: 'Flow 2: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_2_end_y', label: 'Flow 2: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_2_path', label: 'Flow 2: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
-      { name: 'custom_flow_2_color', label: (fields.custom_flow_2_color && fields.custom_flow_2_color.label) || 'Custom Flow 2: Color', helper: (fields.custom_flow_2_color && fields.custom_flow_2_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
-      { name: 'custom_flow_2_threshold', label: (fields.custom_flow_2_threshold && fields.custom_flow_2_threshold.label) || 'Custom Flow 2: Threshold (W)', helper: (fields.custom_flow_2_threshold && fields.custom_flow_2_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-      { name: 'custom_flow_2_direction', label: (fields.custom_flow_2_direction && fields.custom_flow_2_direction.label) || 'Custom Flow 2: Direction', helper: (fields.custom_flow_2_direction && fields.custom_flow_2_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-      { name: 'custom_flow_2_offset_x', label: (fields.custom_flow_2_offset_x && fields.custom_flow_2_offset_x.label) || 'Custom Flow 2: Offset X (px)', helper: (fields.custom_flow_2_offset_x && fields.custom_flow_2_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_2_offset_y', label: (fields.custom_flow_2_offset_y && fields.custom_flow_2_offset_y.label) || 'Custom Flow 2: Offset Y (px)', helper: (fields.custom_flow_2_offset_y && fields.custom_flow_2_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_2_enabled', label: (fields.custom_flow_2_enabled && fields.custom_flow_2_enabled.label) || 'Custom Flow 2: Enabled', helper: (fields.custom_flow_2_enabled && fields.custom_flow_2_enabled.helper) || 'Enable custom flow 2.', selector: { boolean: {} } },
+        { name: 'custom_flow_2_sensor', label: (fields.custom_flow_2_sensor && fields.custom_flow_2_sensor.label) || 'Custom Flow 2: Sensor', helper: (fields.custom_flow_2_sensor && fields.custom_flow_2_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
+        { name: 'custom_flow_2_path_preset', label: 'Custom Flow 2: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
+        { name: 'custom_flow_2_start_x', label: 'Flow 2: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_2_start_y', label: 'Flow 2: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_2_end_x', label: 'Flow 2: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_2_end_y', label: 'Flow 2: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_2_path', label: 'Flow 2: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
+        { name: 'custom_flow_2_color', label: (fields.custom_flow_2_color && fields.custom_flow_2_color.label) || 'Custom Flow 2: Color', helper: (fields.custom_flow_2_color && fields.custom_flow_2_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
+        { name: 'custom_flow_2_threshold', label: (fields.custom_flow_2_threshold && fields.custom_flow_2_threshold.label) || 'Custom Flow 2: Threshold (W)', helper: (fields.custom_flow_2_threshold && fields.custom_flow_2_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
+        { name: 'custom_flow_2_direction', label: (fields.custom_flow_2_direction && fields.custom_flow_2_direction.label) || 'Custom Flow 2: Direction', helper: (fields.custom_flow_2_direction && fields.custom_flow_2_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
+        { name: 'custom_flow_2_offset_x', label: (fields.custom_flow_2_offset_x && fields.custom_flow_2_offset_x.label) || 'Custom Flow 2: Offset X (px)', helper: (fields.custom_flow_2_offset_x && fields.custom_flow_2_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_2_offset_y', label: (fields.custom_flow_2_offset_y && fields.custom_flow_2_offset_y.label) || 'Custom Flow 2: Offset Y (px)', helper: (fields.custom_flow_2_offset_y && fields.custom_flow_2_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
 
-      { name: 'custom_flow_3_enabled', label: (fields.custom_flow_3_enabled && fields.custom_flow_3_enabled.label) || 'Custom Flow 3: Enabled', helper: (fields.custom_flow_3_enabled && fields.custom_flow_3_enabled.helper) || 'Enable custom flow 3.', selector: { boolean: {} } },
-      { name: 'custom_flow_3_sensor', label: (fields.custom_flow_3_sensor && fields.custom_flow_3_sensor.label) || 'Custom Flow 3: Sensor', helper: (fields.custom_flow_3_sensor && fields.custom_flow_3_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
-      { name: 'custom_flow_3_path_preset', label: 'Custom Flow 3: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-      { name: 'custom_flow_3_start_x', label: 'Flow 3: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_3_start_y', label: 'Flow 3: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_3_end_x', label: 'Flow 3: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_3_end_y', label: 'Flow 3: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_3_path', label: 'Flow 3: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
-      { name: 'custom_flow_3_color', label: (fields.custom_flow_3_color && fields.custom_flow_3_color.label) || 'Custom Flow 3: Color', helper: (fields.custom_flow_3_color && fields.custom_flow_3_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
-      { name: 'custom_flow_3_threshold', label: (fields.custom_flow_3_threshold && fields.custom_flow_3_threshold.label) || 'Custom Flow 3: Threshold (W)', helper: (fields.custom_flow_3_threshold && fields.custom_flow_3_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-      { name: 'custom_flow_3_direction', label: (fields.custom_flow_3_direction && fields.custom_flow_3_direction.label) || 'Custom Flow 3: Direction', helper: (fields.custom_flow_3_direction && fields.custom_flow_3_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-      { name: 'custom_flow_3_offset_x', label: (fields.custom_flow_3_offset_x && fields.custom_flow_3_offset_x.label) || 'Custom Flow 3: Offset X (px)', helper: (fields.custom_flow_3_offset_x && fields.custom_flow_3_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_3_offset_y', label: (fields.custom_flow_3_offset_y && fields.custom_flow_3_offset_y.label) || 'Custom Flow 3: Offset Y (px)', helper: (fields.custom_flow_3_offset_y && fields.custom_flow_3_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_3_enabled', label: (fields.custom_flow_3_enabled && fields.custom_flow_3_enabled.label) || 'Custom Flow 3: Enabled', helper: (fields.custom_flow_3_enabled && fields.custom_flow_3_enabled.helper) || 'Enable custom flow 3.', selector: { boolean: {} } },
+        { name: 'custom_flow_3_sensor', label: (fields.custom_flow_3_sensor && fields.custom_flow_3_sensor.label) || 'Custom Flow 3: Sensor', helper: (fields.custom_flow_3_sensor && fields.custom_flow_3_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
+        { name: 'custom_flow_3_path_preset', label: 'Custom Flow 3: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
+        { name: 'custom_flow_3_start_x', label: 'Flow 3: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_3_start_y', label: 'Flow 3: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_3_end_x', label: 'Flow 3: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_3_end_y', label: 'Flow 3: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_3_path', label: 'Flow 3: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
+        { name: 'custom_flow_3_color', label: (fields.custom_flow_3_color && fields.custom_flow_3_color.label) || 'Custom Flow 3: Color', helper: (fields.custom_flow_3_color && fields.custom_flow_3_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
+        { name: 'custom_flow_3_threshold', label: (fields.custom_flow_3_threshold && fields.custom_flow_3_threshold.label) || 'Custom Flow 3: Threshold (W)', helper: (fields.custom_flow_3_threshold && fields.custom_flow_3_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
+        { name: 'custom_flow_3_direction', label: (fields.custom_flow_3_direction && fields.custom_flow_3_direction.label) || 'Custom Flow 3: Direction', helper: (fields.custom_flow_3_direction && fields.custom_flow_3_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
+        { name: 'custom_flow_3_offset_x', label: (fields.custom_flow_3_offset_x && fields.custom_flow_3_offset_x.label) || 'Custom Flow 3: Offset X (px)', helper: (fields.custom_flow_3_offset_x && fields.custom_flow_3_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_3_offset_y', label: (fields.custom_flow_3_offset_y && fields.custom_flow_3_offset_y.label) || 'Custom Flow 3: Offset Y (px)', helper: (fields.custom_flow_3_offset_y && fields.custom_flow_3_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
 
-      { name: 'custom_flow_4_enabled', label: (fields.custom_flow_4_enabled && fields.custom_flow_4_enabled.label) || 'Custom Flow 4: Enabled', helper: (fields.custom_flow_4_enabled && fields.custom_flow_4_enabled.helper) || 'Enable custom flow 4.', selector: { boolean: {} } },
-      { name: 'custom_flow_4_sensor', label: (fields.custom_flow_4_sensor && fields.custom_flow_4_sensor.label) || 'Custom Flow 4: Sensor', helper: (fields.custom_flow_4_sensor && fields.custom_flow_4_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
-      { name: 'custom_flow_4_path_preset', label: 'Custom Flow 4: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-      { name: 'custom_flow_4_start_x', label: 'Flow 4: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_4_start_y', label: 'Flow 4: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_4_end_x', label: 'Flow 4: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_4_end_y', label: 'Flow 4: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_4_path', label: 'Flow 4: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
-      { name: 'custom_flow_4_color', label: (fields.custom_flow_4_color && fields.custom_flow_4_color.label) || 'Custom Flow 4: Color', helper: (fields.custom_flow_4_color && fields.custom_flow_4_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
-      { name: 'custom_flow_4_threshold', label: (fields.custom_flow_4_threshold && fields.custom_flow_4_threshold.label) || 'Custom Flow 4: Threshold (W)', helper: (fields.custom_flow_4_threshold && fields.custom_flow_4_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-      { name: 'custom_flow_4_direction', label: (fields.custom_flow_4_direction && fields.custom_flow_4_direction.label) || 'Custom Flow 4: Direction', helper: (fields.custom_flow_4_direction && fields.custom_flow_4_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-      { name: 'custom_flow_4_offset_x', label: (fields.custom_flow_4_offset_x && fields.custom_flow_4_offset_x.label) || 'Custom Flow 4: Offset X (px)', helper: (fields.custom_flow_4_offset_x && fields.custom_flow_4_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_4_offset_y', label: (fields.custom_flow_4_offset_y && fields.custom_flow_4_offset_y.label) || 'Custom Flow 4: Offset Y (px)', helper: (fields.custom_flow_4_offset_y && fields.custom_flow_4_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_4_enabled', label: (fields.custom_flow_4_enabled && fields.custom_flow_4_enabled.label) || 'Custom Flow 4: Enabled', helper: (fields.custom_flow_4_enabled && fields.custom_flow_4_enabled.helper) || 'Enable custom flow 4.', selector: { boolean: {} } },
+        { name: 'custom_flow_4_sensor', label: (fields.custom_flow_4_sensor && fields.custom_flow_4_sensor.label) || 'Custom Flow 4: Sensor', helper: (fields.custom_flow_4_sensor && fields.custom_flow_4_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
+        { name: 'custom_flow_4_path_preset', label: 'Custom Flow 4: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
+        { name: 'custom_flow_4_start_x', label: 'Flow 4: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_4_start_y', label: 'Flow 4: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_4_end_x', label: 'Flow 4: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_4_end_y', label: 'Flow 4: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_4_path', label: 'Flow 4: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
+        { name: 'custom_flow_4_color', label: (fields.custom_flow_4_color && fields.custom_flow_4_color.label) || 'Custom Flow 4: Color', helper: (fields.custom_flow_4_color && fields.custom_flow_4_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
+        { name: 'custom_flow_4_threshold', label: (fields.custom_flow_4_threshold && fields.custom_flow_4_threshold.label) || 'Custom Flow 4: Threshold (W)', helper: (fields.custom_flow_4_threshold && fields.custom_flow_4_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
+        { name: 'custom_flow_4_direction', label: (fields.custom_flow_4_direction && fields.custom_flow_4_direction.label) || 'Custom Flow 4: Direction', helper: (fields.custom_flow_4_direction && fields.custom_flow_4_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
+        { name: 'custom_flow_4_offset_x', label: (fields.custom_flow_4_offset_x && fields.custom_flow_4_offset_x.label) || 'Custom Flow 4: Offset X (px)', helper: (fields.custom_flow_4_offset_x && fields.custom_flow_4_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_4_offset_y', label: (fields.custom_flow_4_offset_y && fields.custom_flow_4_offset_y.label) || 'Custom Flow 4: Offset Y (px)', helper: (fields.custom_flow_4_offset_y && fields.custom_flow_4_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
 
-      { name: 'custom_flow_5_enabled', label: (fields.custom_flow_5_enabled && fields.custom_flow_5_enabled.label) || 'Custom Flow 5: Enabled', helper: (fields.custom_flow_5_enabled && fields.custom_flow_5_enabled.helper) || 'Enable custom flow 5.', selector: { boolean: {} } },
-      { name: 'custom_flow_5_sensor', label: (fields.custom_flow_5_sensor && fields.custom_flow_5_sensor.label) || 'Custom Flow 5: Sensor', helper: (fields.custom_flow_5_sensor && fields.custom_flow_5_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
-      { name: 'custom_flow_5_path_preset', label: 'Custom Flow 5: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-      { name: 'custom_flow_5_start_x', label: 'Flow 5: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_5_start_y', label: 'Flow 5: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_5_end_x', label: 'Flow 5: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_5_end_y', label: 'Flow 5: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_5_path', label: 'Flow 5: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
-      { name: 'custom_flow_5_color', label: (fields.custom_flow_5_color && fields.custom_flow_5_color.label) || 'Custom Flow 5: Color', helper: (fields.custom_flow_5_color && fields.custom_flow_5_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
-      { name: 'custom_flow_5_threshold', label: (fields.custom_flow_5_threshold && fields.custom_flow_5_threshold.label) || 'Custom Flow 5: Threshold (W)', helper: (fields.custom_flow_5_threshold && fields.custom_flow_5_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-      { name: 'custom_flow_5_direction', label: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.label) || 'Custom Flow 5: Direction', helper: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-      { name: 'custom_flow_5_offset_x', label: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.label) || 'Custom Flow 5: Offset X (px)', helper: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      { name: 'custom_flow_5_offset_y', label: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.label) || 'Custom Flow 5: Offset Y (px)', helper: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-      ...([6, 7, 8, 9, 10].map((i) => [
-        { name: `custom_flow_${i}_enabled`, label: (fields[`custom_flow_${i}_enabled`] && fields[`custom_flow_${i}_enabled`].label) || `Custom Flow ${i}: Enabled`, helper: (fields[`custom_flow_${i}_enabled`] && fields[`custom_flow_${i}_enabled`].helper) || `Enable custom flow ${i}.`, selector: { boolean: {} } },
-        { name: `custom_flow_${i}_sensor`, label: (fields[`custom_flow_${i}_sensor`] && fields[`custom_flow_${i}_sensor`].label) || `Custom Flow ${i}: Sensor`, helper: (fields[`custom_flow_${i}_sensor`] && fields[`custom_flow_${i}_sensor`].helper) || 'Sensor entity that controls this flow (power sensor).', selector: entitySelector },
-        { name: `custom_flow_${i}_path_preset`, label: `Custom Flow ${i}: Path Type`, helper: 'Choose a preset path shape or Custom.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
-        { name: `custom_flow_${i}_start_x`, label: `Flow ${i}: Start X`, selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: `custom_flow_${i}_start_y`, label: `Flow ${i}: Start Y`, selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: `custom_flow_${i}_end_x`, label: `Flow ${i}: End X`, selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: `custom_flow_${i}_end_y`, label: `Flow ${i}: End Y`, selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: `custom_flow_${i}_path`, label: `Flow ${i}: SVG Path (Advanced)`, selector: { text: { multiline: true } } },
-        { name: `custom_flow_${i}_color`, label: (fields[`custom_flow_${i}_color`] && fields[`custom_flow_${i}_color`].label) || `Custom Flow ${i}: Color`, selector: { color_picker: {} } },
-        { name: `custom_flow_${i}_threshold`, label: (fields[`custom_flow_${i}_threshold`] && fields[`custom_flow_${i}_threshold`].label) || `Custom Flow ${i}: Threshold (W)`, selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
-        { name: `custom_flow_${i}_direction`, label: (fields[`custom_flow_${i}_direction`] && fields[`custom_flow_${i}_direction`].label) || `Custom Flow ${i}: Direction`, selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
-        { name: `custom_flow_${i}_offset_x`, label: (fields[`custom_flow_${i}_offset_x`] && fields[`custom_flow_${i}_offset_x`].label) || `Custom Flow ${i}: Offset X (px)`, selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
-        { name: `custom_flow_${i}_offset_y`, label: (fields[`custom_flow_${i}_offset_y`] && fields[`custom_flow_${i}_offset_y`].label) || `Custom Flow ${i}: Offset Y (px)`, selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } }
-      ]).flat()),
+        { name: 'custom_flow_5_enabled', label: (fields.custom_flow_5_enabled && fields.custom_flow_5_enabled.label) || 'Custom Flow 5: Enabled', helper: (fields.custom_flow_5_enabled && fields.custom_flow_5_enabled.helper) || 'Enable custom flow 5.', selector: { boolean: {} } },
+        { name: 'custom_flow_5_sensor', label: (fields.custom_flow_5_sensor && fields.custom_flow_5_sensor.label) || 'Custom Flow 5: Sensor', helper: (fields.custom_flow_5_sensor && fields.custom_flow_5_sensor.helper) || 'Sensor entity that controls this flow (power sensor). Flow direction is based on sensor value sign.', selector: entitySelector },
+        { name: 'custom_flow_5_path_preset', label: 'Custom Flow 5: Path Type', helper: 'Choose a preset path shape or Custom to use Start/End coordinates below.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
+        { name: 'custom_flow_5_start_x', label: 'Flow 5: Start X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_5_start_y', label: 'Flow 5: Start Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_5_end_x', label: 'Flow 5: End X', selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_5_end_y', label: 'Flow 5: End Y', selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_5_path', label: 'Flow 5: SVG Path (Advanced)', helper: 'Manual SVG path (overrides preset if filled).', selector: { text: { multiline: true } } },
+        { name: 'custom_flow_5_color', label: (fields.custom_flow_5_color && fields.custom_flow_5_color.label) || 'Custom Flow 5: Color', helper: (fields.custom_flow_5_color && fields.custom_flow_5_color.helper) || 'Color of the flow.', selector: { color_picker: {} } },
+        { name: 'custom_flow_5_threshold', label: (fields.custom_flow_5_threshold && fields.custom_flow_5_threshold.label) || 'Custom Flow 5: Threshold (W)', helper: (fields.custom_flow_5_threshold && fields.custom_flow_5_threshold.helper) || 'Minimum power value (in watts) to activate the flow.', selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
+        { name: 'custom_flow_5_direction', label: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.label) || 'Custom Flow 5: Direction', helper: (fields.custom_flow_5_direction && fields.custom_flow_5_direction.helper) || 'Flow direction: forward (always positive), reverse (always negative), or auto (based on sensor value sign).', selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
+        { name: 'custom_flow_5_offset_x', label: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.label) || 'Custom Flow 5: Offset X (px)', helper: (fields.custom_flow_5_offset_x && fields.custom_flow_5_offset_x.helper) || 'Horizontal offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        { name: 'custom_flow_5_offset_y', label: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.label) || 'Custom Flow 5: Offset Y (px)', helper: (fields.custom_flow_5_offset_y && fields.custom_flow_5_offset_y.helper) || 'Vertical offset for the flow path.', selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+        ...([6, 7, 8, 9, 10].map((i) => [
+          { name: `custom_flow_${i}_enabled`, label: (fields[`custom_flow_${i}_enabled`] && fields[`custom_flow_${i}_enabled`].label) || `Custom Flow ${i}: Enabled`, helper: (fields[`custom_flow_${i}_enabled`] && fields[`custom_flow_${i}_enabled`].helper) || `Enable custom flow ${i}.`, selector: { boolean: {} } },
+          { name: `custom_flow_${i}_sensor`, label: (fields[`custom_flow_${i}_sensor`] && fields[`custom_flow_${i}_sensor`].label) || `Custom Flow ${i}: Sensor`, helper: (fields[`custom_flow_${i}_sensor`] && fields[`custom_flow_${i}_sensor`].helper) || 'Sensor entity that controls this flow (power sensor).', selector: entitySelector },
+          { name: `custom_flow_${i}_path_preset`, label: `Custom Flow ${i}: Path Type`, helper: 'Choose a preset path shape or Custom.', selector: { select: { options: pathPresetOptions } }, default: 'custom' },
+          { name: `custom_flow_${i}_start_x`, label: `Flow ${i}: Start X`, selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+          { name: `custom_flow_${i}_start_y`, label: `Flow ${i}: Start Y`, selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+          { name: `custom_flow_${i}_end_x`, label: `Flow ${i}: End X`, selector: { number: { min: 0, max: 800, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+          { name: `custom_flow_${i}_end_y`, label: `Flow ${i}: End Y`, selector: { number: { min: 0, max: 450, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+          { name: `custom_flow_${i}_path`, label: `Flow ${i}: SVG Path (Advanced)`, selector: { text: { multiline: true } } },
+          { name: `custom_flow_${i}_color`, label: (fields[`custom_flow_${i}_color`] && fields[`custom_flow_${i}_color`].label) || `Custom Flow ${i}: Color`, selector: { color_picker: {} } },
+          { name: `custom_flow_${i}_threshold`, label: (fields[`custom_flow_${i}_threshold`] && fields[`custom_flow_${i}_threshold`].label) || `Custom Flow ${i}: Threshold (W)`, selector: { number: { min: 0, max: 10000, step: 10, mode: 'box', unit_of_measurement: 'W' } } },
+          { name: `custom_flow_${i}_direction`, label: (fields[`custom_flow_${i}_direction`] && fields[`custom_flow_${i}_direction`].label) || `Custom Flow ${i}: Direction`, selector: { select: { options: [['forward', 'Forward'], ['reverse', 'Reverse'], ['auto', 'Auto']] } } },
+          { name: `custom_flow_${i}_offset_x`, label: (fields[`custom_flow_${i}_offset_x`] && fields[`custom_flow_${i}_offset_x`].label) || `Custom Flow ${i}: Offset X (px)`, selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } },
+          { name: `custom_flow_${i}_offset_y`, label: (fields[`custom_flow_${i}_offset_y`] && fields[`custom_flow_${i}_offset_y`].label) || `Custom Flow ${i}: Offset Y (px)`, selector: { number: { min: -200, max: 200, step: 1, mode: 'box', unit_of_measurement: 'px' } } }
+        ]).flat()),
 
-      // Custom Text fields
-      { name: 'custom_text_1_enabled', label: `Custom Text 1: Enabled`, selector: { boolean: {} } },
-      { name: 'custom_text_1_text', label: `Text 1: Label/Prefix`, selector: { text: {} } },
-      { name: 'custom_text_1_sensor', label: `Text 1: Sensor`, selector: entitySelector },
-      { name: 'custom_text_1_x', label: `Text 1: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_1_y', label: `Text 1: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_1_rotate', label: (fields.custom_text_1_rotate && fields.custom_text_1_rotate.label) || `Text 1: Rotation (°)`, helper: (fields.custom_text_1_rotate && fields.custom_text_1_rotate.helper) || 'Rotation angle for Text 1 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_1_skew_x', label: (fields.custom_text_1_skew_x && fields.custom_text_1_skew_x.label) || `Text 1: Skew X (°)`, helper: (fields.custom_text_1_skew_x && fields.custom_text_1_skew_x.helper) || 'Skew angle for Text 1 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_1_skew_y', label: (fields.custom_text_1_skew_y && fields.custom_text_1_skew_y.label) || `Text 1: Skew Y (°)`, helper: (fields.custom_text_1_skew_y && fields.custom_text_1_skew_y.helper) || 'Skew angle for Text 1 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_1_color', label: `Text 1: Color`, selector: { color_picker: {} } },
-      { name: 'custom_text_1_size', label: `Text 1: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
+        // Custom Text fields
+        { name: 'custom_text_1_enabled', label: `Custom Text 1: Enabled`, selector: { boolean: {} } },
+        { name: 'custom_text_1_text', label: `Text 1: Label/Prefix`, selector: { text: {} } },
+        { name: 'custom_text_1_sensor', label: `Text 1: Sensor`, selector: entitySelector },
+        { name: 'custom_text_1_x', label: `Text 1: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_1_y', label: `Text 1: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_1_rotate', label: (fields.custom_text_1_rotate && fields.custom_text_1_rotate.label) || `Text 1: Rotation (°)`, helper: (fields.custom_text_1_rotate && fields.custom_text_1_rotate.helper) || 'Rotation angle for Text 1 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_1_skew_x', label: (fields.custom_text_1_skew_x && fields.custom_text_1_skew_x.label) || `Text 1: Skew X (°)`, helper: (fields.custom_text_1_skew_x && fields.custom_text_1_skew_x.helper) || 'Skew angle for Text 1 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_1_skew_y', label: (fields.custom_text_1_skew_y && fields.custom_text_1_skew_y.label) || `Text 1: Skew Y (°)`, helper: (fields.custom_text_1_skew_y && fields.custom_text_1_skew_y.helper) || 'Skew angle for Text 1 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_1_color', label: `Text 1: Color`, selector: { color_picker: {} } },
+        { name: 'custom_text_1_size', label: `Text 1: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
 
-      { name: 'custom_text_2_enabled', label: `Custom Text 2: Enabled`, selector: { boolean: {} } },
-      { name: 'custom_text_2_text', label: `Text 2: Label/Prefix`, selector: { text: {} } },
-      { name: 'custom_text_2_sensor', label: `Text 2: Sensor`, selector: entitySelector },
-      { name: 'custom_text_2_x', label: `Text 2: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_2_y', label: `Text 2: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_2_rotate', label: (fields.custom_text_2_rotate && fields.custom_text_2_rotate.label) || `Text 2: Rotation (°)`, helper: (fields.custom_text_2_rotate && fields.custom_text_2_rotate.helper) || 'Rotation angle for Text 2 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_2_skew_x', label: (fields.custom_text_2_skew_x && fields.custom_text_2_skew_x.label) || `Text 2: Skew X (°)`, helper: (fields.custom_text_2_skew_x && fields.custom_text_2_skew_x.helper) || 'Skew angle for Text 2 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_2_skew_y', label: (fields.custom_text_2_skew_y && fields.custom_text_2_skew_y.label) || `Text 2: Skew Y (°)`, helper: (fields.custom_text_2_skew_y && fields.custom_text_2_skew_y.helper) || 'Skew angle for Text 2 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_2_color', label: `Text 2: Color`, selector: { color_picker: {} } },
-      { name: 'custom_text_2_size', label: `Text 2: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_2_enabled', label: `Custom Text 2: Enabled`, selector: { boolean: {} } },
+        { name: 'custom_text_2_text', label: `Text 2: Label/Prefix`, selector: { text: {} } },
+        { name: 'custom_text_2_sensor', label: `Text 2: Sensor`, selector: entitySelector },
+        { name: 'custom_text_2_x', label: `Text 2: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_2_y', label: `Text 2: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_2_rotate', label: (fields.custom_text_2_rotate && fields.custom_text_2_rotate.label) || `Text 2: Rotation (°)`, helper: (fields.custom_text_2_rotate && fields.custom_text_2_rotate.helper) || 'Rotation angle for Text 2 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_2_skew_x', label: (fields.custom_text_2_skew_x && fields.custom_text_2_skew_x.label) || `Text 2: Skew X (°)`, helper: (fields.custom_text_2_skew_x && fields.custom_text_2_skew_x.helper) || 'Skew angle for Text 2 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_2_skew_y', label: (fields.custom_text_2_skew_y && fields.custom_text_2_skew_y.label) || `Text 2: Skew Y (°)`, helper: (fields.custom_text_2_skew_y && fields.custom_text_2_skew_y.helper) || 'Skew angle for Text 2 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_2_color', label: `Text 2: Color`, selector: { color_picker: {} } },
+        { name: 'custom_text_2_size', label: `Text 2: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
 
-      { name: 'custom_text_3_enabled', label: `Custom Text 3: Enabled`, selector: { boolean: {} } },
-      { name: 'custom_text_3_text', label: `Text 3: Label/Prefix`, selector: { text: {} } },
-      { name: 'custom_text_3_sensor', label: `Text 3: Sensor`, selector: entitySelector },
-      { name: 'custom_text_3_x', label: `Text 3: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_3_y', label: `Text 3: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_3_rotate', label: (fields.custom_text_3_rotate && fields.custom_text_3_rotate.label) || `Text 3: Rotation (°)`, helper: (fields.custom_text_3_rotate && fields.custom_text_3_rotate.helper) || 'Rotation angle for Text 3 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_3_skew_x', label: (fields.custom_text_3_skew_x && fields.custom_text_3_skew_x.label) || `Text 3: Skew X (°)`, helper: (fields.custom_text_3_skew_x && fields.custom_text_3_skew_x.helper) || 'Skew angle for Text 3 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_3_skew_y', label: (fields.custom_text_3_skew_y && fields.custom_text_3_skew_y.label) || `Text 3: Skew Y (°)`, helper: (fields.custom_text_3_skew_y && fields.custom_text_3_skew_y.helper) || 'Skew angle for Text 3 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_3_color', label: `Text 3: Color`, selector: { color_picker: {} } },
-      { name: 'custom_text_3_size', label: `Text 3: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_3_enabled', label: `Custom Text 3: Enabled`, selector: { boolean: {} } },
+        { name: 'custom_text_3_text', label: `Text 3: Label/Prefix`, selector: { text: {} } },
+        { name: 'custom_text_3_sensor', label: `Text 3: Sensor`, selector: entitySelector },
+        { name: 'custom_text_3_x', label: `Text 3: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_3_y', label: `Text 3: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_3_rotate', label: (fields.custom_text_3_rotate && fields.custom_text_3_rotate.label) || `Text 3: Rotation (°)`, helper: (fields.custom_text_3_rotate && fields.custom_text_3_rotate.helper) || 'Rotation angle for Text 3 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_3_skew_x', label: (fields.custom_text_3_skew_x && fields.custom_text_3_skew_x.label) || `Text 3: Skew X (°)`, helper: (fields.custom_text_3_skew_x && fields.custom_text_3_skew_x.helper) || 'Skew angle for Text 3 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_3_skew_y', label: (fields.custom_text_3_skew_y && fields.custom_text_3_skew_y.label) || `Text 3: Skew Y (°)`, helper: (fields.custom_text_3_skew_y && fields.custom_text_3_skew_y.helper) || 'Skew angle for Text 3 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_3_color', label: `Text 3: Color`, selector: { color_picker: {} } },
+        { name: 'custom_text_3_size', label: `Text 3: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
 
-      { name: 'custom_text_4_enabled', label: `Custom Text 4: Enabled`, selector: { boolean: {} } },
-      { name: 'custom_text_4_text', label: `Text 4: Label/Prefix`, selector: { text: {} } },
-      { name: 'custom_text_4_sensor', label: `Text 4: Sensor`, selector: entitySelector },
-      { name: 'custom_text_4_x', label: `Text 4: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_4_y', label: `Text 4: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_4_rotate', label: (fields.custom_text_4_rotate && fields.custom_text_4_rotate.label) || `Text 4: Rotation (°)`, helper: (fields.custom_text_4_rotate && fields.custom_text_4_rotate.helper) || 'Rotation angle for Text 4 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_4_skew_x', label: (fields.custom_text_4_skew_x && fields.custom_text_4_skew_x.label) || `Text 4: Skew X (°)`, helper: (fields.custom_text_4_skew_x && fields.custom_text_4_skew_x.helper) || 'Skew angle for Text 4 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_4_skew_y', label: (fields.custom_text_4_skew_y && fields.custom_text_4_skew_y.label) || `Text 4: Skew Y (°)`, helper: (fields.custom_text_4_skew_y && fields.custom_text_4_skew_y.helper) || 'Skew angle for Text 4 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_4_color', label: `Text 4: Color`, selector: { color_picker: {} } },
-      { name: 'custom_text_4_size', label: `Text 4: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_4_enabled', label: `Custom Text 4: Enabled`, selector: { boolean: {} } },
+        { name: 'custom_text_4_text', label: `Text 4: Label/Prefix`, selector: { text: {} } },
+        { name: 'custom_text_4_sensor', label: `Text 4: Sensor`, selector: entitySelector },
+        { name: 'custom_text_4_x', label: `Text 4: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_4_y', label: `Text 4: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_4_rotate', label: (fields.custom_text_4_rotate && fields.custom_text_4_rotate.label) || `Text 4: Rotation (°)`, helper: (fields.custom_text_4_rotate && fields.custom_text_4_rotate.helper) || 'Rotation angle for Text 4 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_4_skew_x', label: (fields.custom_text_4_skew_x && fields.custom_text_4_skew_x.label) || `Text 4: Skew X (°)`, helper: (fields.custom_text_4_skew_x && fields.custom_text_4_skew_x.helper) || 'Skew angle for Text 4 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_4_skew_y', label: (fields.custom_text_4_skew_y && fields.custom_text_4_skew_y.label) || `Text 4: Skew Y (°)`, helper: (fields.custom_text_4_skew_y && fields.custom_text_4_skew_y.helper) || 'Skew angle for Text 4 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_4_color', label: `Text 4: Color`, selector: { color_picker: {} } },
+        { name: 'custom_text_4_size', label: `Text 4: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
 
-      { name: 'custom_text_5_enabled', label: `Custom Text 5: Enabled`, selector: { boolean: {} } },
-      { name: 'custom_text_5_text', label: `Text 5: Label/Prefix`, selector: { text: {} } },
-      { name: 'custom_text_5_sensor', label: `Text 5: Sensor`, selector: entitySelector },
-      { name: 'custom_text_5_x', label: `Text 5: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_5_y', label: `Text 5: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
-      { name: 'custom_text_5_rotate', label: (fields.custom_text_5_rotate && fields.custom_text_5_rotate.label) || `Text 5: Rotation (°)`, helper: (fields.custom_text_5_rotate && fields.custom_text_5_rotate.helper) || 'Rotation angle for Text 5 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_5_skew_x', label: (fields.custom_text_5_skew_x && fields.custom_text_5_skew_x.label) || `Text 5: Skew X (°)`, helper: (fields.custom_text_5_skew_x && fields.custom_text_5_skew_x.helper) || 'Skew angle for Text 5 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_5_skew_y', label: (fields.custom_text_5_skew_y && fields.custom_text_5_skew_y.label) || `Text 5: Skew Y (°)`, helper: (fields.custom_text_5_skew_y && fields.custom_text_5_skew_y.helper) || 'Skew angle for Text 5 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-      { name: 'custom_text_5_color', label: `Text 5: Color`, selector: { color_picker: {} } },
-      { name: 'custom_text_5_size', label: `Text 5: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
-      ...([6, 7, 8, 9, 10].map((i) => [
-        { name: `custom_text_${i}_enabled`, label: `Custom Text ${i}: Enabled`, selector: { boolean: {} } },
-        { name: `custom_text_${i}_text`, label: `Text ${i}: Label/Prefix`, selector: { text: {} } },
-        { name: `custom_text_${i}_sensor`, label: `Text ${i}: Sensor`, selector: entitySelector },
-        { name: `custom_text_${i}_x`, label: `Text ${i}: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
-        { name: `custom_text_${i}_y`, label: `Text ${i}: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
-        { name: `custom_text_${i}_rotate`, label: (fields[`custom_text_${i}_rotate`] && fields[`custom_text_${i}_rotate`].label) || `Text ${i}: Rotation (°)`, selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-        { name: `custom_text_${i}_skew_x`, label: (fields[`custom_text_${i}_skew_x`] && fields[`custom_text_${i}_skew_x`].label) || `Text ${i}: Skew X (°)`, selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-        { name: `custom_text_${i}_skew_y`, label: (fields[`custom_text_${i}_skew_y`] && fields[`custom_text_${i}_skew_y`].label) || `Text ${i}: Skew Y (°)`, selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
-        { name: `custom_text_${i}_color`, label: `Text ${i}: Color`, selector: { color_picker: {} } },
-        { name: `custom_text_${i}_size`, label: `Text ${i}: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } }
-      ]).flat()),
+        { name: 'custom_text_5_enabled', label: `Custom Text 5: Enabled`, selector: { boolean: {} } },
+        { name: 'custom_text_5_text', label: `Text 5: Label/Prefix`, selector: { text: {} } },
+        { name: 'custom_text_5_sensor', label: `Text 5: Sensor`, selector: entitySelector },
+        { name: 'custom_text_5_x', label: `Text 5: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_5_y', label: `Text 5: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
+        { name: 'custom_text_5_rotate', label: (fields.custom_text_5_rotate && fields.custom_text_5_rotate.label) || `Text 5: Rotation (°)`, helper: (fields.custom_text_5_rotate && fields.custom_text_5_rotate.helper) || 'Rotation angle for Text 5 (-180..180).', selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_5_skew_x', label: (fields.custom_text_5_skew_x && fields.custom_text_5_skew_x.label) || `Text 5: Skew X (°)`, helper: (fields.custom_text_5_skew_x && fields.custom_text_5_skew_x.helper) || 'Skew angle for Text 5 on X axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_5_skew_y', label: (fields.custom_text_5_skew_y && fields.custom_text_5_skew_y.label) || `Text 5: Skew Y (°)`, helper: (fields.custom_text_5_skew_y && fields.custom_text_5_skew_y.helper) || 'Skew angle for Text 5 on Y axis (-60..60).', selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+        { name: 'custom_text_5_color', label: `Text 5: Color`, selector: { color_picker: {} } },
+        { name: 'custom_text_5_size', label: `Text 5: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } },
+        ...([6, 7, 8, 9, 10].map((i) => [
+          { name: `custom_text_${i}_enabled`, label: `Custom Text ${i}: Enabled`, selector: { boolean: {} } },
+          { name: `custom_text_${i}_text`, label: `Text ${i}: Label/Prefix`, selector: { text: {} } },
+          { name: `custom_text_${i}_sensor`, label: `Text ${i}: Sensor`, selector: entitySelector },
+          { name: `custom_text_${i}_x`, label: `Text ${i}: X Position`, selector: { number: { min: 0, max: 800, step: 1, mode: 'slider' } } },
+          { name: `custom_text_${i}_y`, label: `Text ${i}: Y Position`, selector: { number: { min: 0, max: 450, step: 1, mode: 'slider' } } },
+          { name: `custom_text_${i}_rotate`, label: (fields[`custom_text_${i}_rotate`] && fields[`custom_text_${i}_rotate`].label) || `Text ${i}: Rotation (°)`, selector: { number: { min: -180, max: 180, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+          { name: `custom_text_${i}_skew_x`, label: (fields[`custom_text_${i}_skew_x`] && fields[`custom_text_${i}_skew_x`].label) || `Text ${i}: Skew X (°)`, selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+          { name: `custom_text_${i}_skew_y`, label: (fields[`custom_text_${i}_skew_y`] && fields[`custom_text_${i}_skew_y`].label) || `Text ${i}: Skew Y (°)`, selector: { number: { min: -60, max: 60, step: 1, mode: 'slider', unit_of_measurement: '°' } }, default: 0 },
+          { name: `custom_text_${i}_color`, label: `Text ${i}: Color`, selector: { color_picker: {} } },
+          { name: `custom_text_${i}_size`, label: `Text ${i}: Font Size`, selector: { number: { min: 8, max: 48, step: 1, mode: 'slider' } } }
+        ]).flat()),
 
-      // Overlay Image Pro fields (5 images)
-      { name: 'overlay_image_pro_1', label: (fields.overlay_image_pro_1 && fields.overlay_image_pro_1.label) || 'Overlay Image Pro 1', helper: (fields.overlay_image_pro_1 && fields.overlay_image_pro_1.helper) || 'Path to overlay image pro 1 (e.g., /local/community/carbon-energy-card/overlay_pro_1.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_pro_2', label: (fields.overlay_image_pro_2 && fields.overlay_image_pro_2.label) || 'Overlay Image Pro 2', helper: (fields.overlay_image_pro_2 && fields.overlay_image_pro_2.helper) || 'Path to overlay image pro 2 (e.g., /local/community/carbon-energy-card/overlay_pro_2.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_pro_3', label: (fields.overlay_image_pro_3 && fields.overlay_image_pro_3.label) || 'Overlay Image Pro 3', helper: (fields.overlay_image_pro_3 && fields.overlay_image_pro_3.helper) || 'Path to overlay image pro 3 (e.g., /local/community/carbon-energy-card/overlay_pro_3.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_pro_4', label: (fields.overlay_image_pro_4 && fields.overlay_image_pro_4.label) || 'Overlay Image Pro 4', helper: (fields.overlay_image_pro_4 && fields.overlay_image_pro_4.helper) || 'Path to overlay image pro 4 (e.g., /local/community/carbon-energy-card/overlay_pro_4.png).', selector: { text: { mode: 'blur' } } },
-      { name: 'overlay_image_pro_5', label: (fields.overlay_image_pro_5 && fields.overlay_image_pro_5.label) || 'Overlay Image Pro 5', helper: (fields.overlay_image_pro_5 && fields.overlay_image_pro_5.helper) || 'Path to overlay image pro 5 (e.g., /local/community/carbon-energy-card/overlay_pro_5.png).', selector: { text: { mode: 'blur' } } }
-    ])
+        // Overlay Image Pro fields (5 images)
+        { name: 'overlay_image_pro_1', label: (fields.overlay_image_pro_1 && fields.overlay_image_pro_1.label) || 'Overlay Image Pro 1', helper: (fields.overlay_image_pro_1 && fields.overlay_image_pro_1.helper) || 'Path to overlay image pro 1 (e.g., /local/community/carbon-energy-card/overlay_pro_1.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_pro_2', label: (fields.overlay_image_pro_2 && fields.overlay_image_pro_2.label) || 'Overlay Image Pro 2', helper: (fields.overlay_image_pro_2 && fields.overlay_image_pro_2.helper) || 'Path to overlay image pro 2 (e.g., /local/community/carbon-energy-card/overlay_pro_2.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_pro_3', label: (fields.overlay_image_pro_3 && fields.overlay_image_pro_3.label) || 'Overlay Image Pro 3', helper: (fields.overlay_image_pro_3 && fields.overlay_image_pro_3.helper) || 'Path to overlay image pro 3 (e.g., /local/community/carbon-energy-card/overlay_pro_3.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_pro_4', label: (fields.overlay_image_pro_4 && fields.overlay_image_pro_4.label) || 'Overlay Image Pro 4', helper: (fields.overlay_image_pro_4 && fields.overlay_image_pro_4.helper) || 'Path to overlay image pro 4 (e.g., /local/community/carbon-energy-card/overlay_pro_4.png).', selector: { text: { mode: 'blur' } } },
+        { name: 'overlay_image_pro_5', label: (fields.overlay_image_pro_5 && fields.overlay_image_pro_5.label) || 'Overlay Image Pro 5', helper: (fields.overlay_image_pro_5 && fields.overlay_image_pro_5.helper) || 'Path to overlay image pro 5 (e.g., /local/community/carbon-energy-card/overlay_pro_5.png).', selector: { text: { mode: 'blur' } } }
+      ])
+    }
   }
-}
 
-_createUpdatesContent_() {
+  _createUpdatesContent_() {
     const container = document.createElement('div');
     container.style.cssText = 'padding: 6px 0;';
 
@@ -22145,29 +22159,33 @@ _createUpdatesContent_() {
     return container;
   }
 
-_createSectionDefs(localeStrings, schemaDefs) {
+  _createSectionDefs(localeStrings, schemaDefs) {
     const sections = localeStrings.sections;
     return [
-      { id: 'carbon_pro', title: sections.carbon_pro.title, helper: sections.carbon_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
-        try {
-          const proSchema = Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : [];
-          const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
-          const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
-          return this._createCarbonProSection([...customFields, ...proSchema]);
-        } catch (e) {
-          return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : []);
+      {
+        id: 'carbon_pro', title: sections.carbon_pro.title, helper: sections.carbon_pro.helper, schema: null, defaultOpen: false, renderContent: () => {
+          try {
+            const proSchema = Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : [];
+            const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
+            const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
+            return this._createCarbonProSection([...customFields, ...proSchema]);
+          } catch (e) {
+            return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.carbon_pro) ? schemaDefs.carbon_pro : []);
+          }
         }
-      } },
+      },
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
       { id: 'language', title: sections.language.title, helper: sections.language.helper, schema: schemaDefs.language, defaultOpen: true },
       { id: 'installation_type', title: sections.installation_type.title, helper: sections.installation_type.helper, renderContent: () => this._createInstallationTypeSection(), defaultOpen: true },
       { id: 'performance_mode', title: (sections.performance_mode && sections.performance_mode.title) || 'Performance Mode', helper: (sections.performance_mode && sections.performance_mode.helper) || 'Choose how heavy the animations are. Low keeps the UI responsive by simplifying heavy styles (shimmer/arrows/fluid_flow -> dots).', schema: schemaDefs.performance_mode, defaultOpen: true },
       { id: 'array1', title: sections.array1.title, helper: sections.array1.helper, schema: schemaDefs.array1, defaultOpen: false },
-      { id: 'array2', title: sections.array2.title, helper: sections.array2.helper, renderContent: () => {
-        const wrapper = document.createElement('div');
-        wrapper.appendChild(this._createForm(schemaDefs.array2));
-        return wrapper;
-      }, defaultOpen: false },
+      {
+        id: 'array2', title: sections.array2.title, helper: sections.array2.helper, renderContent: () => {
+          const wrapper = document.createElement('div');
+          wrapper.appendChild(this._createForm(schemaDefs.array2));
+          return wrapper;
+        }, defaultOpen: false
+      },
       { id: 'battery', title: sections.battery.title, helper: sections.battery.helper, schema: schemaDefs.battery, defaultOpen: false },
       { id: 'grid', title: sections.grid.title, helper: sections.grid.helper, schema: schemaDefs.grid, defaultOpen: false },
       { id: 'car', title: sections.car.title, helper: sections.car.helper, schema: schemaDefs.car, defaultOpen: false },
@@ -22308,9 +22326,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const { id, title, helper, schema, defaultOpen, renderContent } = sectionDef;
     const section = document.createElement('details');
     section.className = 'section';
-    if (id === 'carbon_pro') {
-      section.classList.add('carbon-pro-section');
-    }
+
+    // if (id === 'carbon_pro') {
+    section.classList.add('carbon-pro-section');
+    // }
+
     const storedState = id && Object.prototype.hasOwnProperty.call(this._sectionOpenState, id)
       ? this._sectionOpenState[id]
       : undefined;
@@ -22331,11 +22351,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const helperEl = document.createElement('div');
       helperEl.className = 'section-helper';
       const plainText = (helper.replace(/<[^>]+>/g, '')).trim() || helper;
-      if (id === 'carbon_pro') {
-        helperEl.innerHTML = '<strong style="font-weight:bold;color:#ffffff !important;">' + String(plainText).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</strong>';
-      } else {
-        helperEl.textContent = plainText;
-      }
+
+      // if (id === 'carbon_pro') {
+      helperEl.innerHTML = '<strong style="font-weight:bold;color:#ffffff !important;">' + String(plainText).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</strong>';
+      // } else {
+      //   helperEl.textContent = plainText;
+      // }
       content.appendChild(helperEl);
     }
 
@@ -22353,97 +22374,60 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
       content.appendChild(this._createForm(filteredSchema));
       // Export/Import flows in carbon PRO section: always visible (also with predefined background) so user can load flows
-      if (id === 'carbon_pro') {
-        const localeStrings = this._getLocaleStrings();
-        const exportLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows) || 'Export flows';
-        const importLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows) || 'Import flows';
-        const row = document.createElement('div');
-        row.style.cssText = 'display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap;';
-        const exportBtn = document.createElement('button');
-        exportBtn.type = 'button';
-        exportBtn.textContent = exportLabel;
-        exportBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows_helper) || 'Download custom flow paths and options as JSON. Use on another background.';
-        exportBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(0,200,150,0.2); color: #00c896; border: 1px solid rgba(0,200,150,0.5); cursor: pointer;';
-        exportBtn.addEventListener('click', () => {
+      //if (id === 'carbon_pro') {
+      const localeStrings = this._getLocaleStrings();
+      const exportLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows) || 'Export flows';
+      const importLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows) || 'Import flows';
+      const row = document.createElement('div');
+      row.style.cssText = 'display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap;';
+      const exportBtn = document.createElement('button');
+      exportBtn.type = 'button';
+      exportBtn.textContent = exportLabel;
+      exportBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_flows_helper) || 'Download custom flow paths and options as JSON. Use on another background.';
+      exportBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(0,200,150,0.2); color: #00c896; border: 1px solid rgba(0,200,150,0.5); cursor: pointer;';
+      exportBtn.addEventListener('click', () => {
+        try {
+          const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
+          const flowKeys = [];
+          for (let i = 1; i <= 10; i++) {
+            flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
+          }
+          const data = { _carbon_flows_export: true, version: 1 };
+          flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
+          const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+          const a = document.createElement('a');
+          a.href = URL.createObjectURL(blob);
+          a.download = 'carbon-custom-flows.json';
+          a.click();
+          URL.revokeObjectURL(a.href);
+        } catch (e) { /* ignore */ }
+      });
+
+      const importBtn = document.createElement('button');
+      importBtn.type = 'button';
+      importBtn.textContent = importLabel;
+      importBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows_helper) || 'Load flows from a previously exported JSON file.';
+      importBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(0,180,255,0.2); color: #00b4ff; border: 1px solid rgba(0,180,255,0.5); cursor: pointer;';
+      const importInput = document.createElement('input');
+      importInput.type = 'file';
+      importInput.accept = 'application/json,.json';
+      importInput.style.display = 'none';
+      importInput.addEventListener('change', () => {
+        const file = importInput.files && importInput.files[0];
+        importInput.value = '';
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = () => {
           try {
-            const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
-            const flowKeys = [];
-            for (let i = 1; i <= 10; i++) {
-              flowKeys.push(`custom_flow_${i}_enabled`, `custom_flow_${i}_path`, `custom_flow_${i}_path_preset`, `custom_flow_${i}_direction`, `custom_flow_${i}_offset_x`, `custom_flow_${i}_offset_y`, `custom_flow_${i}_sensor`, `custom_flow_${i}_color`, `custom_flow_${i}_threshold`, `custom_flow_${i}_start_x`, `custom_flow_${i}_start_y`, `custom_flow_${i}_end_x`, `custom_flow_${i}_end_y`);
-            }
-            const data = { _carbon_flows_export: true, version: 1 };
-            flowKeys.forEach((k) => { if (cfg[k] !== undefined) data[k] = cfg[k]; });
-            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-            const a = document.createElement('a');
-            a.href = URL.createObjectURL(blob);
-            a.download = 'carbon-custom-flows.json';
-            a.click();
-            URL.revokeObjectURL(a.href);
-          } catch (e) { /* ignore */ }
-        });
-        const importBtn = document.createElement('button');
-        importBtn.type = 'button';
-        importBtn.textContent = importLabel;
-        importBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_flows_helper) || 'Load flows from a previously exported JSON file.';
-        importBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(0,180,255,0.2); color: #00b4ff; border: 1px solid rgba(0,180,255,0.5); cursor: pointer;';
-        const importInput = document.createElement('input');
-        importInput.type = 'file';
-        importInput.accept = 'application/json,.json';
-        importInput.style.display = 'none';
-        importInput.addEventListener('change', () => {
-          const file = importInput.files && importInput.files[0];
-          importInput.value = '';
-          if (!file) return;
-          const reader = new FileReader();
-          reader.onload = () => {
-            try {
-              const raw = reader.result;
-              if (typeof raw !== 'string') return;
-              const data = JSON.parse(raw);
-              if (!data || data._carbon_flows_export !== true) return;
-              const newConfig = { ...(this._config || {}) };
-              Object.keys(data).forEach((k) => {
-                if (k === '_carbon_flows_export' || k === 'version') return;
-                if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
-              });
-              this._config = newConfig;
-              const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
-              if (forms && forms.length) {
-                const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
-                forms.forEach((f) => { if (f) f.data = full; });
-              }
-              this._debouncedConfigChanged(newConfig, true);
-              if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
-              setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
-            } catch (e) { /* ignore */ }
-          };
-          reader.readAsText(file);
-        });
-        importBtn.addEventListener('click', () => { importInput.click(); });
-        const resetLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows) || 'Reset flows';
-        const resetBtn = document.createElement('button');
-        resetBtn.type = 'button';
-        resetBtn.textContent = resetLabel;
-        resetBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows_helper) || 'Clear all custom flow paths and options.';
-        resetBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(255,100,80,0.2); color: #ff6450; border: 1px solid rgba(255,100,80,0.5); cursor: pointer;';
-        resetBtn.addEventListener('click', () => {
-          try {
+            const raw = reader.result;
+            if (typeof raw !== 'string') return;
+            const data = JSON.parse(raw);
+            if (!data || data._carbon_flows_export !== true) return;
             const newConfig = { ...(this._config || {}) };
-            for (let i = 1; i <= 10; i++) {
-              newConfig[`custom_flow_${i}_enabled`] = false;
-              newConfig[`custom_flow_${i}_path`] = null;
-              newConfig[`custom_flow_${i}_path_preset`] = 'custom';
-              newConfig[`custom_flow_${i}_direction`] = 'auto';
-              newConfig[`custom_flow_${i}_offset_x`] = 0;
-              newConfig[`custom_flow_${i}_offset_y`] = 0;
-              newConfig[`custom_flow_${i}_sensor`] = null;
-              newConfig[`custom_flow_${i}_color`] = '#00FFFF';
-              newConfig[`custom_flow_${i}_threshold`] = 10;
-              newConfig[`custom_flow_${i}_start_x`] = 100;
-              newConfig[`custom_flow_${i}_start_y`] = 200;
-              newConfig[`custom_flow_${i}_end_x`] = 600;
-              newConfig[`custom_flow_${i}_end_y`] = 250;
-            }
+            Object.keys(data).forEach((k) => {
+              if (k === '_carbon_flows_export' || k === 'version') return;
+              if (k.startsWith('custom_flow_') && k !== 'custom_flows_parallel' && !k.endsWith('_parallel')) newConfig[k] = data[k];
+            });
             this._config = newConfig;
             const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
             if (forms && forms.length) {
@@ -22454,91 +22438,131 @@ _createSectionDefs(localeStrings, schemaDefs) {
             if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
             setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
           } catch (e) { /* ignore */ }
-        });
-        const exportConfigLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config) || 'Export config';
-        const importConfigLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config) || 'Import config';
-        const exportConfigBtnPro = document.createElement('button');
-        exportConfigBtnPro.type = 'button';
-        exportConfigBtnPro.textContent = exportConfigLabelPro;
-        exportConfigBtnPro.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.';
-        exportConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
-        exportConfigBtnPro.addEventListener('click', () => {
+        };
+        reader.readAsText(file);
+      });
+      importBtn.addEventListener('click', () => { importInput.click(); });
+      const resetLabel = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows) || 'Reset flows';
+      const resetBtn = document.createElement('button');
+      resetBtn.type = 'button';
+      resetBtn.textContent = resetLabel;
+      resetBtn.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_reset_flows_helper) || 'Clear all custom flow paths and options.';
+      resetBtn.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(255,100,80,0.2); color: #ff6450; border: 1px solid rgba(255,100,80,0.5); cursor: pointer;';
+      resetBtn.addEventListener('click', () => {
+        try {
+          const newConfig = { ...(this._config || {}) };
+          for (let i = 1; i <= 10; i++) {
+            newConfig[`custom_flow_${i}_enabled`] = false;
+            newConfig[`custom_flow_${i}_path`] = null;
+            newConfig[`custom_flow_${i}_path_preset`] = 'custom';
+            newConfig[`custom_flow_${i}_direction`] = 'auto';
+            newConfig[`custom_flow_${i}_offset_x`] = 0;
+            newConfig[`custom_flow_${i}_offset_y`] = 0;
+            newConfig[`custom_flow_${i}_sensor`] = null;
+            newConfig[`custom_flow_${i}_color`] = '#00FFFF';
+            newConfig[`custom_flow_${i}_threshold`] = 10;
+            newConfig[`custom_flow_${i}_start_x`] = 100;
+            newConfig[`custom_flow_${i}_start_y`] = 200;
+            newConfig[`custom_flow_${i}_end_x`] = 600;
+            newConfig[`custom_flow_${i}_end_y`] = 250;
+          }
+          this._config = newConfig;
+          const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+          if (forms && forms.length) {
+            const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+            forms.forEach((f) => { if (f) f.data = full; });
+          }
+          this._debouncedConfigChanged(newConfig, true);
+          if (typeof this._updatePreviewCfInvertUi_ === 'function') this._updatePreviewCfInvertUi_();
+          setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 0);
+        } catch (e) { /* ignore */ }
+      });
+      const exportConfigLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config) || 'Export config';
+      const importConfigLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config) || 'Import config';
+      const exportConfigBtnPro = document.createElement('button');
+      exportConfigBtnPro.type = 'button';
+      exportConfigBtnPro.textContent = exportConfigLabelPro;
+      exportConfigBtnPro.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_export_config_helper) || 'Backup full card config (background, overlays, sensors, flows) as JSON. Use before updating to restore later.';
+      exportConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
+      exportConfigBtnPro.addEventListener('click', () => {
+        try {
+          const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
+          const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
+          const data = { _carbon_config_export: true, version: 1 };
+          Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
+          const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+          const a = document.createElement('a');
+          a.href = URL.createObjectURL(blob);
+          a.download = 'carbon-config-backup.json';
+          a.click();
+          URL.revokeObjectURL(a.href);
+        } catch (e) { /* ignore */ }
+      });
+      const importConfigBtnPro = document.createElement('button');
+      importConfigBtnPro.type = 'button';
+      importConfigBtnPro.textContent = importConfigLabelPro;
+      importConfigBtnPro.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a previously exported JSON backup. Merges with current config.';
+      importConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,220,120,0.2); color: #b4dc78; border: 1px solid rgba(180,220,120,0.5); cursor: pointer;';
+      const importConfigInputPro = document.createElement('input');
+      importConfigInputPro.type = 'file';
+      importConfigInputPro.accept = 'application/json,.json';
+      importConfigInputPro.style.display = 'none';
+      importConfigInputPro.addEventListener('change', () => {
+        const file = importConfigInputPro.files && importConfigInputPro.files[0];
+        importConfigInputPro.value = '';
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = () => {
           try {
-            const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
-            const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
-            const data = { _carbon_config_export: true, version: 1 };
-            Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
-            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-            const a = document.createElement('a');
-            a.href = URL.createObjectURL(blob);
-            a.download = 'carbon-config-backup.json';
-            a.click();
-            URL.revokeObjectURL(a.href);
+            const raw = reader.result;
+            if (typeof raw !== 'string') return;
+            const data = JSON.parse(raw);
+            if (!data || data._carbon_config_export !== true) return;
+            const newConfig = { ...(this._config || {}) };
+            Object.keys(data).forEach((k) => {
+              if (k === '_carbon_config_export' || k === 'version') return;
+              if (k && !k.startsWith('_')) newConfig[k] = data[k];
+            });
+            this._config = newConfig;
+            const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
+            if (forms && forms.length) {
+              const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
+              forms.forEach((f) => { if (f) f.data = full; });
+            }
+            this._debouncedConfigChanged(newConfig, true);
+            this._rendered = false;
+            this.render();
+            setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
           } catch (e) { /* ignore */ }
-        });
-        const importConfigBtnPro = document.createElement('button');
-        importConfigBtnPro.type = 'button';
-        importConfigBtnPro.textContent = importConfigLabelPro;
-        importConfigBtnPro.title = (localeStrings && localeStrings.fields && localeStrings.fields.editor_import_config_helper) || 'Restore config from a previously exported JSON backup. Merges with current config.';
-        importConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,220,120,0.2); color: #b4dc78; border: 1px solid rgba(180,220,120,0.5); cursor: pointer;';
-        const importConfigInputPro = document.createElement('input');
-        importConfigInputPro.type = 'file';
-        importConfigInputPro.accept = 'application/json,.json';
-        importConfigInputPro.style.display = 'none';
-        importConfigInputPro.addEventListener('change', () => {
-          const file = importConfigInputPro.files && importConfigInputPro.files[0];
-          importConfigInputPro.value = '';
-          if (!file) return;
-          const reader = new FileReader();
-          reader.onload = () => {
-            try {
-              const raw = reader.result;
-              if (typeof raw !== 'string') return;
-              const data = JSON.parse(raw);
-              if (!data || data._carbon_config_export !== true) return;
-              const newConfig = { ...(this._config || {}) };
-              Object.keys(data).forEach((k) => {
-                if (k === '_carbon_config_export' || k === 'version') return;
-                if (k && !k.startsWith('_')) newConfig[k] = data[k];
-              });
-              this._config = newConfig;
-              const forms = this.shadowRoot ? this.shadowRoot.querySelectorAll('ha-form') : [];
-              if (forms && forms.length) {
-                const full = this._configWithDefaults ? this._configWithDefaults() : newConfig;
-                forms.forEach((f) => { if (f) f.data = full; });
-              }
-              this._debouncedConfigChanged(newConfig, true);
-              this._rendered = false;
-              this.render();
-              setTimeout(() => { try { this._syncEditorPreviewCard_(); } catch (e) { /* ignore */ } }, 50);
-            } catch (e) { /* ignore */ }
-          };
-          reader.readAsText(file);
-        });
-        importConfigBtnPro.addEventListener('click', () => { importConfigInputPro.click(); });
-        const browseGalleryLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_browse_gallery) || 'Browse gallery';
-        const shareGalleryLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_share_gallery) || 'Share to gallery';
-        const browseGalleryBtnPro = document.createElement('button');
-        browseGalleryBtnPro.type = 'button';
-        browseGalleryBtnPro.textContent = browseGalleryLabelPro;
-        browseGalleryBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(100,180,220,0.2); color: #64b4dc; border: 1px solid rgba(100,180,220,0.5); cursor: pointer;';
-        browseGalleryBtnPro.addEventListener('click', () => { this._openGalleryModal_(); });
-        const shareGalleryBtnPro = document.createElement('button');
-        shareGalleryBtnPro.type = 'button';
-        shareGalleryBtnPro.textContent = shareGalleryLabelPro;
-        shareGalleryBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(120,180,120,0.2); color: #78b478; border: 1px solid rgba(120,180,120,0.5); cursor: pointer;';
-        shareGalleryBtnPro.addEventListener('click', () => { this._shareToGallery_(); });
-        row.appendChild(exportBtn);
-        row.appendChild(importBtn);
-        row.appendChild(resetBtn);
-        row.appendChild(exportConfigBtnPro);
-        row.appendChild(importConfigBtnPro);
-        row.appendChild(browseGalleryBtnPro);
-        row.appendChild(shareGalleryBtnPro);
-        row.appendChild(importInput);
-        row.appendChild(importConfigInputPro);
-        content.appendChild(row);
-      }
+        };
+        reader.readAsText(file);
+      });
+      importConfigBtnPro.addEventListener('click', () => { importConfigInputPro.click(); });
+      const browseGalleryLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_browse_gallery) || 'Browse gallery';
+      const shareGalleryLabelPro = (localeStrings && localeStrings.fields && localeStrings.fields.editor_share_gallery) || 'Share to gallery';
+      const browseGalleryBtnPro = document.createElement('button');
+      browseGalleryBtnPro.type = 'button';
+      browseGalleryBtnPro.textContent = browseGalleryLabelPro;
+      browseGalleryBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(100,180,220,0.2); color: #64b4dc; border: 1px solid rgba(100,180,220,0.5); cursor: pointer;';
+      browseGalleryBtnPro.addEventListener('click', () => { this._openGalleryModal_(); });
+      const shareGalleryBtnPro = document.createElement('button');
+      shareGalleryBtnPro.type = 'button';
+      shareGalleryBtnPro.textContent = shareGalleryLabelPro;
+      shareGalleryBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(120,180,120,0.2); color: #78b478; border: 1px solid rgba(120,180,120,0.5); cursor: pointer;';
+      shareGalleryBtnPro.addEventListener('click', () => { this._shareToGallery_(); });
+      row.appendChild(exportBtn);
+      row.appendChild(importBtn);
+      row.appendChild(resetBtn);
+      row.appendChild(exportConfigBtnPro);
+      row.appendChild(importConfigBtnPro);
+      row.appendChild(browseGalleryBtnPro);
+      row.appendChild(shareGalleryBtnPro);
+      row.appendChild(importInput);
+      row.appendChild(importConfigInputPro);
+      content.appendChild(row);
+      //}
+
+
     } else if (typeof renderContent === 'function') {
       const custom = renderContent();
       if (custom) {
@@ -22646,10 +22670,10 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const json = await res.json();
       const errMsg = (json.error && typeof json.error === 'string') ? json.error
         : (json.error && json.error.message) ? json.error.message
-        : (typeof json.message === 'string') ? json.message
-        : (json.estimated_time != null) ? 'Model loading, retry in ' + Math.ceil(Number(json.estimated_time) || 0) + 's'
-        : (res.status === 502 || res.status === 503) ? 'Hugging Face temporaneamente non disponibile. Riprova tra poco.'
-        : 'Risposta non valida dal server. Riprova tra poco.';
+          : (typeof json.message === 'string') ? json.message
+            : (json.estimated_time != null) ? 'Model loading, retry in ' + Math.ceil(Number(json.estimated_time) || 0) + 's'
+              : (res.status === 502 || res.status === 503) ? 'Hugging Face temporaneamente non disponibile. Riprova tra poco.'
+                : 'Risposta non valida dal server. Riprova tra poco.';
       throw new Error(errMsg);
     }
     if (!res.ok) throw new Error(res.status + ' ' + (res.statusText || 'Request failed'));
@@ -22743,12 +22767,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
   _createInstallationTypeSection() {
     const container = document.createElement('div');
     container.className = 'installation-type-content';
-    
+
     const config = this._configWithDefaults();
     const currentType = config.installation_type || '1';
     const currentStyle = (config.image_style === 'real' ? 'real' : 'holographic');
     const lang = (config.language || 'en').toLowerCase();
-    
+
     const styleLabels = {
       en: ['Holographic image', 'Real image'],
       it: ['Immagine olografica', 'Immagine reale'],
@@ -22791,7 +22815,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const aiChooseImageLabels = { en: 'Choose image to modify', it: 'Scegli immagine da modificare', de: 'Bild zum Ändern wählen', fr: 'Choisir l\'image à modifier', nl: 'Afbeelding kiezen om te bewerken', sk: 'Vybrať obrázok na úpravu' };
     const sl = styleLabels[lang] || styleLabels.en;
     const tl = typeLabels[lang] || typeLabels.en;
-    
+
     const styleOptions = [
       { value: 'holographic', label: sl[0] },
       { value: 'real', label: sl[1] }
@@ -22801,7 +22825,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       { value: '2', label: tl[1] },
       { value: '3', label: tl[2] }
     ];
-    
+
     const addRadioRow = (opts, name, current, onChange) => {
       opts.forEach((opt) => {
         const label = document.createElement('label');
@@ -22823,17 +22847,17 @@ _createSectionDefs(localeStrings, schemaDefs) {
         container.appendChild(label);
       });
     };
-    
+
     addRadioRow(styleOptions, 'image_style', currentStyle, (v) => this._handleImageStyleChange(v));
-    
+
     const sep = document.createElement('div');
     sep.style.marginTop = '16px';
     sep.style.marginBottom = '8px';
     container.appendChild(sep);
-    
+
     const radioType = (currentType === '4') ? '' : currentType;
     addRadioRow(typeOptions, 'installation_type', radioType, (v) => this._handleInstallationTypeChange(v));
-    
+
     const personalWrap = document.createElement('div');
     personalWrap.className = 'installation-type-personal-upload';
     personalWrap.style.cssText = 'margin-top: 10px; padding: 12px; border: 1px solid rgba(0,229,255,0.5); border-radius: 8px; background: rgba(0,30,40,0.3); display: ' + (currentType === '4' ? 'block' : 'none') + ';';
@@ -23136,7 +23160,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     }
 
     this._personalBackgroundEl = personalWrap;
-    
+
     return container;
   }
 
@@ -23181,7 +23205,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       config.background_image = paths.background_image;
       config.background_image_heat_pump = paths.background_image_heat_pump;
     }
-    
+
     if (type === '2' || type === '3') {
       config.show_car_soc = false;
       config.show_car2 = false;
@@ -23190,7 +23214,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         config.show_car_soc = false;
       }
     }
-    
+
     this._config = { ...config };
     this._debouncedConfigChanged(config, true);
     this._rendered = false;
@@ -23210,7 +23234,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     sections.forEach((section) => {
       const sectionId = section.dataset.sectionId;
       if (!sectionId) return;
-      
+
       if (type === '3') {
         // Only show: general, grid (for sensor_home_load, sensor_house_temperature), housePopup
         // Hide all sections related to PV and battery
@@ -23388,7 +23412,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const v1Match = !!(CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(h1));
         if (v3Match || v1Match) {
           isAuthorized = true;
-          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
+          if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) { } }
         }
       } else {
         const h1 = CARBON_SHA256(trimmedPw);
@@ -23399,7 +23423,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         if (!isAuthorized && CARBON_AUTH_LIST_V2 && h2 && CARBON_AUTH_LIST_V2.includes(h2)) isAuthorized = true;
         if (!isAuthorized && h3 && CARBON_AUTH_LIST_V3 && CARBON_AUTH_LIST_V3.includes(h3)) {
           isAuthorized = true;
-          if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
+          if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) { } }
         }
       }
     }
@@ -23411,7 +23435,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       '&business=' + encodeURIComponent(PAYPAL_EMAIL) +
       '&currency_code=EUR' +
       '&amount=5';
-    
+
     const linkRow = document.createElement('div');
     linkRow.className = 'paypal-links-row';
 
@@ -23450,7 +23474,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       </svg>
       <span>${isAuthorized ? 'PRO Active - Support Project' : ghLabel}</span>
     `;
-    
+
     const note = document.createElement('div');
     note.className = 'paypal-instruction-note';
     note.textContent = localeStrings.fields.paypal_note;
@@ -23467,7 +23491,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       wrapper.appendChild(disabledNote);
     }
     wrapper.appendChild(note);
-    
+
     return wrapper;
   }
 
@@ -23584,7 +23608,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         if (h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3)) {
           isLicenseActive = true;
           isAlreadyV3 = true;
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) { }
         }
       } else {
         const h1 = CARBON_SHA256(trimmedPw);
@@ -23593,12 +23617,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
         const isV3Match = !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
         if ((Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-            (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-            isV3Match) {
+          (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
+          isV3Match) {
           isLicenseActive = true;
           if (isV3Match) isAlreadyV3 = true;
           if (isV3Match && haUserIdPro && typeof localStorage !== 'undefined') {
-            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
+            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) { }
           }
         }
       }
@@ -23721,13 +23745,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
             }
           }
           if (ok && pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
-            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
+            try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) { }
           }
         }
         if (!ok) {
         } else {
           const urlProVerify = `${CARBON_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
-          CARBON_JSONP(urlProVerify, 8000).catch(() => {});
+          CARBON_JSONP(urlProVerify, 8000).catch(() => { });
         }
       } catch (e) {
         ok = false;
@@ -23848,17 +23872,16 @@ _createSectionDefs(localeStrings, schemaDefs) {
         ${(labels.pro_license_auto_note && String(labels.pro_license_auto_note).trim()) ? ('<span style="display:block;margin-top:8px;color:#ffa500;font-weight:900;">' + labels.pro_license_auto_note + '</span>') : ''}
       </div>
       <div style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap;">
-        ${
-          isCollettaDisabled
-            ? `<div aria-disabled="true"
+        ${isCollettaDisabled
+        ? `<div aria-disabled="true"
                  style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#0070ba;color:#fff;text-decoration:none;font-weight:900; opacity:0.55; cursor:not-allowed; pointer-events:none;">
                  <span>${collettaLabel}</span>
                </div>`
-            : `<a href="${PAYPAL_POOL_URL}" target="_blank" rel="noopener noreferrer"
+        : `<a href="${PAYPAL_POOL_URL}" target="_blank" rel="noopener noreferrer"
                  style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#0070ba;color:#fff;text-decoration:none;font-weight:900;">
                  <span>${collettaLabel}</span>
                </a>`
-        }
+      }
         
         <a href="${GITHUB_SPONSORS_URL}" target="_blank" rel="noopener noreferrer"
            style="display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:10px 14px;border-radius:10px;background:#24292f;color:#fff;text-decoration:none;font-weight:900;">
@@ -23902,7 +23925,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         const deleteNow = !!(opts && opts.deleteNow);
         // Avoid "ReferenceError: <cb> is not defined" if the JSONP script loads late.
         if (!deleteNow) {
-          try { window[cb] = () => {}; } catch (e0) { /* ignore */ }
+          try { window[cb] = () => { }; } catch (e0) { /* ignore */ }
           try { setTimeout(() => { try { delete window[cb]; } catch (e1) { /* ignore */ } }, 2 * 60 * 1000); } catch (e2) { /* ignore */ }
         } else {
           try { delete window[cb]; } catch (e3) { try { window[cb] = undefined; } catch (e4) { /* ignore */ } }
@@ -24081,115 +24104,115 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
       // Migration section (existing users)
       const migrationBox = document.createElement('div');
-    migrationBox.style.cssText = 'margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,0.18);';
+      migrationBox.style.cssText = 'margin-top: 18px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,0.18);';
 
-    const migTitle = document.createElement('div');
-    migTitle.textContent = '🔄 ' + labels.existing_user_title;
-    migTitle.style.cssText = 'font-size: 14px; font-weight: bold; color: #ffa500; margin-bottom: 10px;';
-    migrationBox.appendChild(migTitle);
+      const migTitle = document.createElement('div');
+      migTitle.textContent = '🔄 ' + labels.existing_user_title;
+      migTitle.style.cssText = 'font-size: 14px; font-weight: bold; color: #ffa500; margin-bottom: 10px;';
+      migrationBox.appendChild(migTitle);
 
-    const migDesc = document.createElement('div');
-    migDesc.textContent = labels.existing_user_desc;
-    migDesc.style.cssText = 'font-size: 12px; color: #888; line-height: 1.5; margin-bottom: 12px;';
-    migrationBox.appendChild(migDesc);
+      const migDesc = document.createElement('div');
+      migDesc.textContent = labels.existing_user_desc;
+      migDesc.style.cssText = 'font-size: 12px; color: #888; line-height: 1.5; margin-bottom: 12px;';
+      migrationBox.appendChild(migDesc);
 
-    const migSupport = document.createElement('div');
-    migSupport.textContent = labels.support_contact;
-    migSupport.style.cssText = 'font-size: 12px; color: var(--secondary-text-color, #ccc); line-height: 1.5; margin-bottom: 12px;';
-    migrationBox.appendChild(migSupport);
+      const migSupport = document.createElement('div');
+      migSupport.textContent = labels.support_contact;
+      migSupport.style.cssText = 'font-size: 12px; color: var(--secondary-text-color, #ccc); line-height: 1.5; margin-bottom: 12px;';
+      migrationBox.appendChild(migSupport);
 
-    const migStatus = document.createElement('div');
-    migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: none;';
+      const migStatus = document.createElement('div');
+      migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: none;';
 
-    const migEmailInput = makeInput('email', labels.your_email_placeholder, 'rgba(255,165,0,0.35)');
-    const migPaymentEmailInput = makeInput('email', labels.paypal_payment_email_placeholder, 'rgba(255,165,0,0.35)');
-    const migTxnInput = makeInput('text', labels.paypal_transaction_id_placeholder, 'rgba(255,165,0,0.35)');
+      const migEmailInput = makeInput('email', labels.your_email_placeholder, 'rgba(255,165,0,0.35)');
+      const migPaymentEmailInput = makeInput('email', labels.paypal_payment_email_placeholder, 'rgba(255,165,0,0.35)');
+      const migTxnInput = makeInput('text', labels.paypal_transaction_id_placeholder, 'rgba(255,165,0,0.35)');
 
-    migrationBox.appendChild(makeField(labels.your_email, migEmailInput));
-    migrationBox.appendChild(makeField(labels.paypal_payment_email, migPaymentEmailInput));
-    migrationBox.appendChild(makeField(labels.paypal_transaction_id, migTxnInput));
-    const CARBON_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/carbonprivacy/';
-    const migPrivacyRow = document.createElement('div');
-    migPrivacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
-    const migPrivacyLabel = document.createElement('label');
-    migPrivacyLabel.style.cssText = 'display: flex; align-items: flex-start; gap: 8px; cursor: pointer; font-size: 12px; color: var(--secondary-text-color, #aaa); line-height: 1.4;';
-    const migPrivacyCheckbox = document.createElement('input');
-    migPrivacyCheckbox.type = 'checkbox';
-    migPrivacyCheckbox.checked = false;
-    migPrivacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
-    migPrivacyLabel.appendChild(migPrivacyCheckbox);
-    const migPrivacyText = document.createElement('span');
-    migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + CARBON_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
-    migPrivacyLabel.appendChild(migPrivacyText);
-    migPrivacyRow.appendChild(migPrivacyLabel);
-    migrationBox.appendChild(migPrivacyRow);
-    migrationBox.appendChild(migStatus);
+      migrationBox.appendChild(makeField(labels.your_email, migEmailInput));
+      migrationBox.appendChild(makeField(labels.paypal_payment_email, migPaymentEmailInput));
+      migrationBox.appendChild(makeField(labels.paypal_transaction_id, migTxnInput));
+      const CARBON_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/carbonprivacy/';
+      const migPrivacyRow = document.createElement('div');
+      migPrivacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
+      const migPrivacyLabel = document.createElement('label');
+      migPrivacyLabel.style.cssText = 'display: flex; align-items: flex-start; gap: 8px; cursor: pointer; font-size: 12px; color: var(--secondary-text-color, #aaa); line-height: 1.4;';
+      const migPrivacyCheckbox = document.createElement('input');
+      migPrivacyCheckbox.type = 'checkbox';
+      migPrivacyCheckbox.checked = false;
+      migPrivacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
+      migPrivacyLabel.appendChild(migPrivacyCheckbox);
+      const migPrivacyText = document.createElement('span');
+      migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + CARBON_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
+      migPrivacyLabel.appendChild(migPrivacyText);
+      migPrivacyRow.appendChild(migPrivacyLabel);
+      migrationBox.appendChild(migPrivacyRow);
+      migrationBox.appendChild(migStatus);
 
-    const migBtn = document.createElement('button');
-    migBtn.textContent = labels.request_migration;
-    migBtn.style.cssText = 'width: 100%; padding: 12px; background: #ffa500; color: #000; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 13px;';
-    migBtn.addEventListener('click', async () => {
-      const email = migEmailInput.value.trim();
-      const payEmail = migPaymentEmailInput.value.trim();
-      const txn = migTxnInput.value.trim();
+      const migBtn = document.createElement('button');
+      migBtn.textContent = labels.request_migration;
+      migBtn.style.cssText = 'width: 100%; padding: 12px; background: #ffa500; color: #000; border: none; border-radius: 6px; cursor: pointer; font-weight: bold; font-size: 13px;';
+      migBtn.addEventListener('click', async () => {
+        const email = migEmailInput.value.trim();
+        const payEmail = migPaymentEmailInput.value.trim();
+        const txn = migTxnInput.value.trim();
 
-      if (!email || !payEmail || !txn || email.indexOf('@') === -1 || payEmail.indexOf('@') === -1) {
-        migStatus.textContent = labels.fill_all_fields;
-        migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
-        return;
-      }
-      if (!migPrivacyCheckbox.checked) {
-        migStatus.textContent = labels.privacy_required || 'Devi accettare la Privacy Policy per procedere. / You must accept the Privacy Policy to continue.';
-        migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
-        return;
-      }
-      let migHaUserId = '';
-      try { migHaUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id).trim() : ''; } catch (e0) { migHaUserId = ''; }
-      if (!migHaUserId) {
-        migStatus.textContent = labels.ha_user_id_required || 'Devi essere loggato in Home Assistant. Ricarica la pagina (F5) e riprova. / You must be logged in to Home Assistant. Refresh the page (F5) and try again.';
-        migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,165,0,0.25); color: #ffa500;';
-        return;
-      }
-
-      migBtn.disabled = true;
-      migBtn.textContent = labels.sending_request || 'Invio in corso…';
-      await new Promise(r => requestAnimationFrame(r));
-      try {
-        const p = CARBON_PACK({ u: uid, h: migHaUserId || '' });
-        if (!p) throw new Error('pack_failed');
-        const migPrivacyTs = String(Date.now());
-        const url =
-          `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_MIG)}` +
-          `&email=${encodeURIComponent(email)}` +
-          `&payment_email=${encodeURIComponent(payEmail)}` +
-          `&p=${encodeURIComponent(p)}` +
-          `&transaction_id=${encodeURIComponent(txn)}` +
-          `&privacy_accepted=1&privacy_ts=${encodeURIComponent(migPrivacyTs)}`;
-        const data = await jsonp(url, 35000);
-        if (!data || !data.success) {
-          let msg = (data && data.message) ? data.message : ((data && data.error) ? data.error : 'Request failed');
-          if (data && data.error === 'missing_fields' && Array.isArray(data.missing) && data.missing.length) {
-            msg = 'missing_fields: ' + data.missing.join(', ');
-          }
-          throw new Error(msg);
+        if (!email || !payEmail || !txn || email.indexOf('@') === -1 || payEmail.indexOf('@') === -1) {
+          migStatus.textContent = labels.fill_all_fields;
+          migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
+          return;
         }
-        migStatus.textContent = (data && data.message) ? data.message : labels.migration_sent;
-        migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(0,204,0,0.2); color: #00cc00;';
-        migEmailInput.value = '';
-        migPaymentEmailInput.value = '';
-        migTxnInput.value = '';
-      } catch (e) {
-        const errMsg = (e && e.message) ? e.message : String(e);
-        const displayErr = (errMsg === 'Script load error' || errMsg === 'load script error') ? (labels.network_error || 'Could not reach server. Check your connection and try again.') : (errMsg === 'Timeout' ? (labels.request_error + ' (Tempo scaduto. Riprova. / Request timed out. Try again.)') : (labels.request_error + ' (' + errMsg + ')'));
-        migStatus.textContent = displayErr;
-        migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
-      } finally {
-        migBtn.disabled = false;
-        migBtn.textContent = labels.request_migration;
-      }
-    });
-    migrationBox.appendChild(migBtn);
-    licenseContent.appendChild(migrationBox);
+        if (!migPrivacyCheckbox.checked) {
+          migStatus.textContent = labels.privacy_required || 'Devi accettare la Privacy Policy per procedere. / You must accept the Privacy Policy to continue.';
+          migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
+          return;
+        }
+        let migHaUserId = '';
+        try { migHaUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id).trim() : ''; } catch (e0) { migHaUserId = ''; }
+        if (!migHaUserId) {
+          migStatus.textContent = labels.ha_user_id_required || 'Devi essere loggato in Home Assistant. Ricarica la pagina (F5) e riprova. / You must be logged in to Home Assistant. Refresh the page (F5) and try again.';
+          migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,165,0,0.25); color: #ffa500;';
+          return;
+        }
+
+        migBtn.disabled = true;
+        migBtn.textContent = labels.sending_request || 'Invio in corso…';
+        await new Promise(r => requestAnimationFrame(r));
+        try {
+          const p = CARBON_PACK({ u: uid, h: migHaUserId || '' });
+          if (!p) throw new Error('pack_failed');
+          const migPrivacyTs = String(Date.now());
+          const url =
+            `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_MIG)}` +
+            `&email=${encodeURIComponent(email)}` +
+            `&payment_email=${encodeURIComponent(payEmail)}` +
+            `&p=${encodeURIComponent(p)}` +
+            `&transaction_id=${encodeURIComponent(txn)}` +
+            `&privacy_accepted=1&privacy_ts=${encodeURIComponent(migPrivacyTs)}`;
+          const data = await jsonp(url, 35000);
+          if (!data || !data.success) {
+            let msg = (data && data.message) ? data.message : ((data && data.error) ? data.error : 'Request failed');
+            if (data && data.error === 'missing_fields' && Array.isArray(data.missing) && data.missing.length) {
+              msg = 'missing_fields: ' + data.missing.join(', ');
+            }
+            throw new Error(msg);
+          }
+          migStatus.textContent = (data && data.message) ? data.message : labels.migration_sent;
+          migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(0,204,0,0.2); color: #00cc00;';
+          migEmailInput.value = '';
+          migPaymentEmailInput.value = '';
+          migTxnInput.value = '';
+        } catch (e) {
+          const errMsg = (e && e.message) ? e.message : String(e);
+          const displayErr = (errMsg === 'Script load error' || errMsg === 'load script error') ? (labels.network_error || 'Could not reach server. Check your connection and try again.') : (errMsg === 'Timeout' ? (labels.request_error + ' (Tempo scaduto. Riprova. / Request timed out. Try again.)') : (labels.request_error + ' (' + errMsg + ')'));
+          migStatus.textContent = displayErr;
+          migStatus.style.cssText = 'margin-bottom: 12px; padding: 8px; border-radius: 4px; display: block; background: rgba(255,68,68,0.2); color: #ff4444;';
+        } finally {
+          migBtn.disabled = false;
+          migBtn.textContent = labels.request_migration;
+        }
+      });
+      migrationBox.appendChild(migBtn);
+      licenseContent.appendChild(migrationBox);
     }
 
     // Footer: Sponsors + social + fundraiser + note
@@ -24316,11 +24339,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const hasColorFields = schema.some(field => field.selector && field.selector.color_picker);
     // Force custom rendering when language is present so we can use a native dropdown
     const hasLanguageField = schema.some(field => field.name === 'language');
-    
+
     if (hasColorFields || hasLanguageField) {
       return this._createCustomForm(schema);
     }
-    
+
     const form = document.createElement('ha-form');
     form.hass = this._hass;
     form.data = this._configWithDefaults();
@@ -24541,7 +24564,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     document.body.appendChild(tempDiv);
     const computed = window.getComputedStyle(tempDiv).color;
     document.body.removeChild(tempDiv);
-    
+
     const match = computed.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/);
     if (match) {
       const r = parseInt(match[1]).toString(16).padStart(2, '0');
@@ -24607,13 +24630,13 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const proPassword = newConfig.pro_password;
     const overlayEnabledChanged = (this._config.overlay_image_enabled !== newConfig.overlay_image_enabled);
     const batteryOverlayEnabledChanged = (prevBatteryOverlayEnabled !== Boolean(newConfig.battery_overlay_enabled));
-    
+
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmed = proPassword.trim();
       const haUserIdOv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
       const hashHexV3 = haUserIdOv ? CARBON_SHA256(trimmed + haUserIdOv) : '';
       const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdOv);
-      
+
       // Use remote list for verification (v3 lock: once v3 used on this device, only v3 accepted)
       let isValid = false;
       if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
@@ -24637,7 +24660,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
             (hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
         }
         if (isValid && hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) {}
+          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) { }
         }
         // Force re-render if authorization state just changed to update PayPal button size
         const wasAuthorized = this._isAuthorized;
@@ -24648,7 +24671,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
           setTimeout(() => this.render(), 10);
         }
       }
-      
+
       if (!isValid && CARBON_AUTH_LIST_V1 !== null) {
         // Disable overlay if password is not valid (and list is loaded)
         if (newConfig.overlay_image_enabled) {
@@ -25173,7 +25196,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     // Update section visibility based on installation type
     const config = this._configWithDefaults();
     const installationType = config.installation_type || '1';
-    
+
     const style = document.createElement('style');
     style.textContent = `
       .card-config {
@@ -26260,7 +26283,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     this.shadowRoot.appendChild(this._buildConfigContent());
     // Apply HA preview visibility after we render (independent from carbon preview toggle)
     try { this._applyHaPreviewVisibility_(); } catch (e) { /* ignore */ }
-    
+
     // Update section visibility after rendering
     setTimeout(() => {
       this._updateSectionVisibility(installationType);
@@ -26291,7 +26314,7 @@ window.customCards.push({
  */
 
 /** Create an overlay panel inside this editor's shadowRoot (works in HA shadow DOM) */
-CarbonEnergyCardEditor.prototype._createCarbonOverlay_ = function(panelCss) {
+CarbonEnergyCardEditor.prototype._createCarbonOverlay_ = function (panelCss) {
   const root = this.shadowRoot || this;
   /* Remove any previous overlay */
   const prev = root.querySelector('[data-carbon-overlay]');
@@ -26314,7 +26337,7 @@ CarbonEnergyCardEditor.prototype._createCarbonOverlay_ = function(panelCss) {
 };
 
 /** Get sensor label from i18n fields or generate a readable label from the key */
-CarbonEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
+CarbonEnergyCardEditor.prototype._sensorKeyToLabel_ = function (key, fields) {
   if (fields && fields[key]) {
     const f = fields[key];
     return (typeof f === 'string') ? f : (f.label || key);
@@ -26322,7 +26345,7 @@ CarbonEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
   return key.replace(/^sensor_/, '').replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 };
 
-CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
+CarbonEnergyCardEditor.prototype._openGalleryModal_ = function () {
   const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
   const fields = (localeStrings && localeStrings.fields) || {};
   const galleryBase = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? String(CARBON_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
@@ -26382,7 +26405,7 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
   listEl.appendChild(loadingDiv);
   panel.appendChild(listEl);
 
-  const likeUid = (() => { try { if (this._hass && this._hass.user && this._hass.user.id) return String(this._hass.user.id); } catch(_){} return 'anon_' + Math.random().toString(36).slice(2,10); })();
+  const likeUid = (() => { try { if (this._hass && this._hass.user && this._hass.user.id) return String(this._hass.user.id); } catch (_) { } return 'anon_' + Math.random().toString(36).slice(2, 10); })();
 
   function buildCard(item, isFeatured) {
     const card = document.createElement('div');
@@ -26592,7 +26615,7 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
         if (winnerItem) {
           var winnerData = { id: winnerItem.id, name: winnerItem.name || winnerItem.id, authorName: winnerItem.authorName || '', authorEmail: winnerItem.authorEmail || winnerItem.email || '', date: now };
           winners.push(winnerData);
-          fetch(galleryBase + '/gallery/notify-winner', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(winnerData) }).catch(function() {});
+          fetch(galleryBase + '/gallery/notify-winner', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(winnerData) }).catch(function () { });
         }
       }
       lastWinnerShowDate = now;
@@ -26624,7 +26647,7 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
       topEverSub.style.cssText = 'font-size:clamp(11px,2.5vw,12px);color:#80a0b0;margin-bottom:12px;line-height:1.4;';
       const topEverGrid = document.createElement('div');
       topEverGrid.style.cssText = 'display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,160px),1fr));gap:10px;';
-      winners.forEach(function(w) { topEverGrid.appendChild(buildWinnerCard.call(this, w, false)); }, this);
+      winners.forEach(function (w) { topEverGrid.appendChild(buildWinnerCard.call(this, w, false)); }, this);
       topEverWrap.appendChild(topEverTitle);
       topEverWrap.appendChild(topEverSub);
       topEverWrap.appendChild(topEverGrid);
@@ -26686,7 +26709,7 @@ CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
 };
 
 /** Sensor mapping wizard shown after selecting a gallery template */
-CarbonEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L, fields) {
+CarbonEnergyCardEditor.prototype._openSensorWizard_ = function (importedConfig, L, fields) {
   const sensorKeys = Object.keys(importedConfig).filter((k) => k.startsWith('sensor_') && importedConfig[k] && typeof importedConfig[k] === 'string' && importedConfig[k].trim());
   const cfKeys = Object.keys(importedConfig).filter((k) => /^custom_flow_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
   const ctKeys = Object.keys(importedConfig).filter((k) => /^custom_text_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
@@ -26815,7 +26838,7 @@ CarbonEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L
 };
 
 /** Apply a gallery config to the editor */
-CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig) {
+CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function (importedConfig) {
   const allDefaults = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
   const currentConfig = this._config || {};
   const newConfig = { ...currentConfig };
@@ -26851,7 +26874,7 @@ CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig)
   // If template uses predefined background (type 1/2/3), don't store huge base64 images so saveConfig doesn't fail
   const instType = newConfig.installation_type;
   if (instType === '1' || instType === '2' || instType === '3') {
-    const trimIfHuge = function(val) {
+    const trimIfHuge = function (val) {
       if (!val || typeof val !== 'string') return val;
       if (val.indexOf('data:image/') === 0 && val.length > 5000) return '';
       return val;
@@ -26873,7 +26896,7 @@ CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig)
 };
 
 /** Get preview image base64 from config's background_image (full resolution) */
-CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
+CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function () {
   return new Promise((resolve) => {
     try {
       const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
@@ -26887,9 +26910,9 @@ CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
       }
       if (bgImage && (bgImage.startsWith('/local/') || bgImage.startsWith('/api/') || bgImage.startsWith('http'))) {
         /* Try fetch first (works for same-origin /local/ without CORS issues) */
-        fetch(bgImage).then(function(r) { return r.blob(); }).then(function(blob) {
+        fetch(bgImage).then(function (r) { return r.blob(); }).then(function (blob) {
           var reader = new FileReader();
-          reader.onload = function() {
+          reader.onload = function () {
             try {
               var dataUrl = reader.result;
               if (dataUrl && typeof dataUrl === 'string' && dataUrl.indexOf(',') > 0) {
@@ -26897,12 +26920,12 @@ CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
               } else { resolve(null); }
             } catch (_) { resolve(null); }
           };
-          reader.onerror = function() { resolve(null); };
+          reader.onerror = function () { resolve(null); };
           reader.readAsDataURL(blob);
-        }).catch(function() {
+        }).catch(function () {
           /* Fallback: Image element (no crossOrigin for same-origin) */
           var img = new Image();
-          img.onload = function() {
+          img.onload = function () {
             try {
               var w = img.naturalWidth || img.width;
               var h = img.naturalHeight || img.height;
@@ -26915,7 +26938,7 @@ CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
               resolve(out && out.indexOf(',') >= 0 ? out.split(',')[1] : null);
             } catch (_) { resolve(null); }
           };
-          img.onerror = function() { resolve(null); };
+          img.onerror = function () { resolve(null); };
           img.src = bgImage;
         });
         return;
@@ -26925,7 +26948,7 @@ CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
   });
 };
 
-CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
+CarbonEnergyCardEditor.prototype._shareToGallery_ = function () {
   const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
   const fields = (localeStrings && localeStrings.fields) || {};
   const galleryBase = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? String(CARBON_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
@@ -27194,7 +27217,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
             canvas.width = w; canvas.height = h;
             const ctx = canvas.getContext('2d');
             if (ctx) { ctx.drawImage(img, 0, 0, w, h); config.background_image = canvas.toDataURL('image/png'); }
-          } catch (_) {}
+          } catch (_) { }
           resolve();
         };
         img.onerror = () => resolve();
@@ -27239,7 +27262,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
  * Build order: sec + main + gallery + giornonotte
  */
 
-(function() {
+(function () {
   'use strict';
 
   const DEFAULT_DAY_BG = '/local/community/carbon-energy-card/carbon_background1.png';
@@ -27251,7 +27274,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
    * @param {Object} hass - Home Assistant object
    * @returns {string} URL for background image
    */
-  CarbonEnergyCard.prototype._getResolvedDayNightBackground_ = function(config, hass) {
+  CarbonEnergyCard.prototype._getResolvedDayNightBackground_ = function (config, hass) {
     var enabled = config && config.night_mode_enabled === true;
     var overrideNight = config && config.night_mode_override === true;
     var nightUrl = (config && config.background_image_night && String(config.background_image_night).trim()) || '';
@@ -27276,7 +27299,7 @@ CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
   /**
    * Base day background URL (same logic as main.js before day/night).
    */
-  CarbonEnergyCard.prototype._getDayBackgroundUrl_ = function(config) {
+  CarbonEnergyCard.prototype._getDayBackgroundUrl_ = function (config) {
     var defaultBg = DEFAULT_DAY_BG;
     if (config && config.installation_type === '4') {
       return (config.background_image && String(config.background_image).trim()) || '';
