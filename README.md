@@ -240,6 +240,10 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 
 Carbon Energy Card je vlastná karta Lovelace pre Home Assistant, ktorá zobrazuje animované toky energie (PV, batéria, sieť, záťaž, tepelné čerpadlo, EV), agreguje PV stringy a batérie a podporuje voliteľné metriky nabíjania EV a tepelného čerpadla. Obsahuje **Správu domácnosti** (kamery, svetlá, teplota, vlhkosť, bezpečnostná klávesnica), **interaktívne vyskakovacie okná** s prepínačmi, okrúhle tlačidlá (Echo Alive, Prepínač textu, DOMOV), **PRO** funkcie (viditeľnosť textového zobrazenia na základe pohybu, obrázky prekrytia, vlastné toky), **Import a export** pre zálohu konfigurácie a najnovšie vylepšenia.
 
+### Čo je nové vo verzii 1.0.2
+
+- **SK:** Doplnena Slovenska mutacia
+
 ### Čo je nové vo verzii 1.0.1
 
 - **Galéria:** Zdieľajte svoje šablóny dashboardov s komunitou a prehliadajte si tie od iných. Z editora použite **"Share to gallery"** na odoslanie šablóny (názov, popis, autor, email, pravidlá). Jedno zdieľanie na používateľa mesačne. **"Top"** ukazuje najobľúbenejšie šablóny; 30-dňový časovač sa resetuje a upozorní víťaza.
