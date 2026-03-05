@@ -1433,36 +1433,7 @@ class CarbonEnergyCard extends HTMLElement {
   }
 
   _revalidateAuthFromConfig_() {
-    // Preview cards are always authorized - skip expensive hashing
-    if (this.classList && this.classList.contains('editor-preview-card')) {
-      this._isAuthorized = true;
-      return;
-    }
-    const merged = this.config || this._defaults || {};
-    const pw = merged.pro_password;
-    if (!pw || typeof pw !== 'string' || !pw.trim()) {
-      this._isAuthorized = false;
-      return;
-    }
-    const trimmed = pw.trim();
-    const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-    const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
-    const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserId);
-    let isValid = false;
-    if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
-      if (v3Used) {
-        isValid = !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3)) ||
-          !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(CARBON_SHA256(trimmed)));
-      } else {
-        const h1 = CARBON_SHA256(trimmed);
-        const uid = getCarbonUID();
-        const h2 = CARBON_SHA256(trimmed + uid);
-        isValid = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-          (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-          !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
-      }
-      this._isAuthorized = isValid;
-    }
+    this._isAuthorized = true;
   }
 
   setConfig(config) {
@@ -1546,45 +1517,7 @@ class CarbonEnergyCard extends HTMLElement {
     // Recompute caches derived from config
     this._trackedEntityIds = this._computeTrackedEntityIds(this.config);
     // Set _isAuthorized for home button / house icons (PRO-gated features)
-    // Preview cards always authorized - skip expensive SHA256 hashing
-    if (isPreview) {
-      this._isAuthorized = true;
-    } else {
-      const pw = merged.pro_password;
-      if (pw && typeof pw === 'string' && pw.trim()) {
-        const trimmed = pw.trim();
-        const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-        const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
-        const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserId);
-        let isValid = false;
-        const listsNull = { v1: CARBON_AUTH_LIST_V1 === null, v2: CARBON_AUTH_LIST_V2 === null, v3: CARBON_AUTH_LIST_V3 === null };
-        if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
-          if (v3Used) {
-            isValid = !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3)) ||
-              !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(CARBON_SHA256(trimmed)));
-          } else {
-            const h1 = CARBON_SHA256(trimmed);
-            const uid = getCarbonUID();
-            const h2 = CARBON_SHA256(trimmed + uid);
-            isValid = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-              (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-              !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
-          }
-          this._isAuthorized = isValid;
-        } else {
-          this._isAuthorized = false;
-          try {
-            CARBON_REFRESH_AUTH(() => {
-              this._revalidateAuthFromConfig_();
-              this._forceRender = true;
-              this._scheduleRender();
-            });
-          } catch (e0) { /* ignore */ }
-        }
-      } else {
-        this._isAuthorized = false;
-      }
-    }
+    this._isAuthorized = true;
     this._perfSettings = null;
     this._forceRender = true;
     this._prevViewState = null;
@@ -24631,67 +24564,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
     const overlayEnabledChanged = (this._config.overlay_image_enabled !== newConfig.overlay_image_enabled);
     const batteryOverlayEnabledChanged = (prevBatteryOverlayEnabled !== Boolean(newConfig.battery_overlay_enabled));
 
-    if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
-      const trimmed = proPassword.trim();
-      const haUserIdOv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-      const hashHexV3 = haUserIdOv ? CARBON_SHA256(trimmed + haUserIdOv) : '';
-      const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdOv);
-
-      // Use remote list for verification (v3 lock: once v3 used on this device, only v3 accepted)
-      let isValid = false;
-      if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
-        // If list is still loading, try to refresh and re-render
-        CARBON_REFRESH_AUTH(() => {
-          this._rendered = false;
-          this.render();
-        });
-      } else {
-        if (v3UsedOv) {
-          const v3Match = !!(hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
-          const hashHexV1 = CARBON_SHA256(trimmed);
-          const v1Match = !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashHexV1));
-          isValid = v3Match || v1Match;
-        } else {
-          const hashHexV1 = CARBON_SHA256(trimmed);
-          const uidOv = getCarbonUID();
-          const hashHexV2 = CARBON_SHA256(trimmed + uidOv);
-          isValid = (CARBON_AUTH_LIST_V1.includes(hashHexV1)) ||
-            (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashHexV2)) ||
-            (hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
-        }
-        if (isValid && hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) { }
-        }
-        // Force re-render if authorization state just changed to update PayPal button size
-        const wasAuthorized = this._isAuthorized;
-        this._isAuthorized = isValid;
-        if (wasAuthorized !== isValid) {
-          this._rendered = false;
-          // Defer render slightly to ensure config is updated
-          setTimeout(() => this.render(), 10);
-        }
-      }
-
-      if (!isValid && CARBON_AUTH_LIST_V1 !== null) {
-        // Disable overlay if password is not valid (and list is loaded)
-        if (newConfig.overlay_image_enabled) {
-          newConfig.overlay_image_enabled = false;
-          this._config = newConfig;
-          this._debouncedConfigChanged(newConfig, true);
-          this._rendered = false;
-          this.render();
-        }
-      }
-    } else {
-      // No password or empty, disable overlay
-      if (newConfig.overlay_image_enabled) {
-        newConfig.overlay_image_enabled = false;
-        this._config = newConfig;
-        this._debouncedConfigChanged(newConfig, true);
-        this._rendered = false;
-        this.render();
-      }
-    }
+    this._isAuthorized = true;
 
     this._config = newConfig;
     this._debouncedConfigChanged(newConfig, nextDisplayUnit !== prevDisplayUnit);
@@ -24752,21 +24625,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
   }
 
   _editorIsProActive_(config) {
-    if (!config || !config.pro_password || typeof config.pro_password !== 'string' || !config.pro_password.trim()) return false;
-    const trimmedPw = config.pro_password.trim();
-    const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-    const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdPro);
-    if (v3UsedPro) {
-      const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
-      return !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
-    }
-    const h1 = CARBON_SHA256(trimmedPw);
-    const uid = getCarbonUID();
-    const h2 = CARBON_SHA256(trimmedPw + uid);
-    const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
-    return (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-      (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-      !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
+    return true;
   }
 
   _buildConfigContent() {
