@@ -40,11 +40,11 @@ const __URL_GOOGLE_FONTS = __b64(__s(
   'c3BsYXk9c3dhcA=='
 ));
 const __URL_GH_REPO = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjYv',
-  'bHVtaW5hLWVuZXJneS1jYXJk'
+  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0s=',
+  'Y2FyYm9uLWVuZXJneS1jYXJk'
 ));
 const __URL_GH_PROFILE = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjY='
+  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0s='
 ));
 const __URL_PAYPAL_DONATE = __b64(__s(
   'aHR0cHM6Ly93d3cucGF5cGFsLmNvbS9jZ2ktYmluL3dl',
@@ -6339,36 +6339,8 @@ class LuminaEnergyCard extends HTMLElement {
     // Remote update check (non-blocking). Runs rarely unless debug enabled.
     try { this._maybeCheckRemoteUpdate_(); } catch (e0) { /* ignore */ }
 
-    // Full card block (remote, per-UID). Best-effort only.
-    try {
-      const info = (this._remoteUpdateInfo && typeof this._remoteUpdateInfo === 'object') ? this._remoteUpdateInfo : null;
-      const blocked = Boolean(info && info.ui_blocked);
-      if (blocked) {
-        const msg = (info && info.ui_block_message) ? String(info.ui_block_message) : 'This card has been disabled by the administrator.';
-        const uid = (info && info.uid) ? String(info.uid) : '';
-        const safeUid = (uid && uid.indexOf('LEC-') === 0) ? uid : '';
-        this.shadowRoot.innerHTML = `
-          <style>
-            .blocked-wrap{padding:16px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif}
-            .blocked-box{border-radius:14px;padding:14px 16px;border:1px solid rgba(255,68,68,0.35);background:rgba(255,68,68,0.10)}
-            .blocked-title{font-weight:900;color:#ff4444;margin-bottom:8px}
-            .blocked-msg{white-space:pre-wrap;line-height:1.45;color:var(--primary-text-color)}
-            .blocked-uid{margin-top:10px;font-size:12px;opacity:.75;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
-          </style>
-          <div class="blocked-wrap">
-            <div class="blocked-box">
-              <div class="blocked-title">⚠️ Card disabled</div>
-              <div class="blocked-msg"></div>
-              ${safeUid ? `<div class="blocked-uid">UID: ${safeUid}</div>` : ``}
-            </div>
-          </div>
-        `;
-        const msgEl = this.shadowRoot.querySelector('.blocked-msg');
-        if (msgEl) msgEl.textContent = msg;
-        this._lastRender = Date.now();
-        return;
-      }
-    } catch (eB) { /* ignore */ }
+    // Card block removed
+
 
     if (!this._hass && hasDeveloperValues) {
       this._hass = { states: {} };
@@ -6428,38 +6400,7 @@ class LuminaEnergyCard extends HTMLElement {
     // Define early to ensure it's available throughout the render method
     const haUserIdForAuth = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
     const verifyFeatureAuth = (inputValue) => {
-      if (!inputValue || typeof inputValue !== 'string') return false;
-      try {
-        const trimmed = inputValue.trim();
-        if (!trimmed) return false;
-        if (haUserIdForAuth && typeof localStorage !== 'undefined') {
-          try {
-            if (localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdForAuth)) {
-              const hashV3Only = CARBON_SHA256(trimmed + haUserIdForAuth);
-              const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
-              return !!okV3Only;
-            }
-          } catch (e) {}
-        }
-        const hashV1 = CARBON_SHA256(trimmed);
-        const uid = getLuminaUID();
-        const hashV2 = CARBON_SHA256(trimmed + uid);
-        const hashV3 = haUserIdForAuth ? CARBON_SHA256(trimmed + haUserIdForAuth) : '';
-        const okV1 = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashV1));
-        const okV2 = (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashV2));
-        const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
-        const ok = okV1 || okV2 || okV3;
-        if (ok && okV3 && haUserIdForAuth && typeof localStorage !== 'undefined') {
-          try { localStorage.setItem('carbon_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
-        }
-        const shouldRefresh =
-          (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) ||
-          ((Array.isArray(CARBON_AUTH_LIST_V1) && Array.isArray(CARBON_AUTH_LIST_V2) && Array.isArray(CARBON_AUTH_LIST_V3) && !CARBON_AUTH_LIST_V1.length && !CARBON_AUTH_LIST_V2.length && !CARBON_AUTH_LIST_V3.length && CARBON_AUTH_META.lastErr));
-        if (shouldRefresh) {
-          CARBON_REFRESH_AUTH({ force: true, reason: 'verifyFeatureAuth', callback: () => { this._forceRender = true; this._scheduleRender(); } });
-        }
-        return ok;
-      } catch (e) { return false; }
+      return true;
     };
 
     this._lastRender = Date.now();
@@ -6611,11 +6552,10 @@ class LuminaEnergyCard extends HTMLElement {
     const isPreviewCardRender = !!(this.classList && this.classList.contains('editor-preview-card'));
     // Preview card may temporarily lose hass.user.id during HA lifecycle; treat PRO as enabled
     // so custom texts/flows/overlays remain visible while the user is configuring them.
-    const authVerified = verifyFeatureAuth(authInput);
-    const authListsLoading = (typeof CARBON_AUTH_LIST_V1 === 'undefined' || CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null);
-    const hasPwTrimmed = !!(authInput && typeof authInput === 'string' && authInput.trim());
-    // While auth lists are loading, if user has password set, show PRO features (avoid hiding custom texts on first paint)
-    const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
+    const authVerified = true;
+    const authListsLoading = false;
+    const hasPwTrimmed = true;
+    const isProEnabled = true;
     showDebugGrid = isProEnabled && Boolean(config.pro_debug_grid);
     this._debugGridEnabled = showDebugGrid;
 
@@ -13351,7 +13291,7 @@ class LuminaEnergyCard extends HTMLElement {
     };
     const authInput = config.pro_password;
     const isPreviewCardUpd = !!(this.classList && this.classList.contains('editor-preview-card'));
-    const isProEnabled = verifyFeatureAuth(authInput) || isPreviewCardUpd;
+    const isProEnabled = true;
     const hasTextVisibilitySensor = isProEnabled && textVisibilitySensorId && this._hass && this._hass.states && this._hass.states[textVisibilitySensorId];
     
     let motionDetected = false;
@@ -23336,7 +23276,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     saliernLink.href = __URL_GH_PROFILE;
     saliernLink.target = '_blank';
     saliernLink.rel = 'noopener noreferrer';
-    saliernLink.textContent = 'Saliern Giorgio';
+    saliernLink.textContent = 'PROGNET';
 
     devs.appendChild(saliernLink);
 
@@ -24716,21 +24656,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
   }
 
   _editorIsProActive_(config) {
-    if (!config || !config.pro_password || typeof config.pro_password !== 'string' || !config.pro_password.trim()) return false;
-    const trimmedPw = config.pro_password.trim();
-    const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-    const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('carbon_energy_card:v3_used:' + haUserIdPro);
-    if (v3UsedPro) {
-      const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
-      return !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
-    }
-    const h1 = CARBON_SHA256(trimmedPw);
-    const uid = getLuminaUID();
-    const h2 = CARBON_SHA256(trimmedPw + uid);
-    const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
-    return (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
-      (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
-      !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
+    return true;
   }
 
   _buildConfigContent() {
