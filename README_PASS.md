@@ -1,6 +1,6 @@
 # Dokumentácia k PRO hesle (Carbon Energy Card)
 
-Tento dokument popisuje princíp overovania PRO licencií v tomto repozitári a spôsob, akým bol do kódu pridaný náš vlastný univerzálny prístup, aby sme obišli platené licencie pôvodného autora (Lumina).
+Tento dokument popisuje princíp overovania PRO licencií v tomto repozitári a spôsob, akým bol do kódu pridaný náš vlastný univerzálny prístup, aby sme obišli platené licencie pôvodného autora (Carbon).
 
 ## Aktuálne heslo
 - **Univerzálne heslo pre PRO funkcie:** `prognet`
