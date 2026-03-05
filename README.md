@@ -29,48 +29,9 @@ Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
 Carbon Energy Card is a Home Assistant custom Lovelace card that displays animated energy flows (PV, battery, grid, load, heat pump, EV), aggregates PV strings and batteries, and supports optional EV charging and heat pump metrics. It includes **House Management** (cameras, lights, temperature, humidity, security keypad), **interactive popups** with toggles, round buttons (Echo Alive, Text toggle, HOME), **PRO** features (motion-based text visibility, overlay images, custom flows), **Import & Export** for config backup, and recent enhancements.
 
-### What's new in 3.3.3
+### What's new in 1.0.1
 
 - **Gallery:** Share your dashboard templates to the community and browse templates shared by others. From the editor, use **"Share to gallery"** to submit a template (name, description, author, email, rules). One share per user per month. **"Top"** shows the most popular templates; a 30-day timer resets and notifies the winner.
-- **Bug fix – Text button:** The text toggle button no longer disappears when the HOME button is off.
-- **Clock color:** You can now change the color of the digital clock from the editor.
-- **Bug fix – Inverter ↔ House flow:** Corrected the energy flow display between inverter and house.
-- **Bug fix – Solar forecast SVG:** The solar forecast icon (sun/rain) is now always visible when solar forecast is enabled, even when "Hide texts" is on.
-- **PV Box and Grid Box:** You can now disable PV Box and Grid Box directly from their respective sections in the editor.
-
-### What's new in 3.1.2
-
-- **🛡️ Never Lose Your Config Again:** Import & Export buttons let you save your setup locally and restore it instantly. Your data is finally safe.
-- **Expanded string support:** Up to 9 strings for complex setups.
-- **Smart flow visibility:** Flow line automatically disappears when wattage drops below threshold, keeping the dashboard clean.
-- **Drag & Drop interface:** PV Box and Grid Box sections are now fully drag-and-drop — move and arrange them exactly where you like.
-- **Customizable Array 2:** You can now modify the text within Array 2.
-- **Bug fixes:** Fixed #212, #208.
-
-### What's new in 3.0
-
-- **Security keypad (PIN):** In House Management → Security you can assign a **keypad** entity. The keypad shows a PIN pad with **colors that change by state** (e.g. armed, disarmed, pending).
-- **Camera fullscreen on motion:** When motion is detected (e.g. via your motion sensor), the **camera popup can expand to fullscreen** so you see the feed on the whole screen.
-- **Custom thresholds:** In **Colori Flussi** (Flow colors) you can set **flow visibility threshold**, **PV animation threshold** (disable PV animation below a power value in W), and **grid animation threshold**.
-- **Counter animation: house or inverter:** You can choose whether the **animated counter** shows **house consumption** or **inverter** (e.g. total PV) — configurable in the editor.
-- **10 custom flow slots:** PRO section now supports **10 custom energy flows** (was 5), each with sensor, path, color, direction, and threshold.
-- **Overlay and flows in PRO and Preview:** **Overlay images** and **custom flows** can be edited both in the **PRO** section and in the **Preview carbon (drag)** — drag to position overlays and flows in the preview.
-- **Custom background:** You can use **your own background** by **uploading an image** (URL or local path), or **generate one with IA** using tokens (PRO). No need to use only the built-in backgrounds.
-- **Editable array text:** The **text shown next to each PV/array** can be **customized** (e.g. “Stringa 1”, “Array 2”) from the editor.
-- **Box Grid and Box PV – choose what to show:** **Grid box** and **PV box** now let you **choose what to display** (e.g. power, daily, or custom sensors) so you can show exactly what you need.
-- **Home temperature sensor:** A **house temperature sensor** can be displayed on the card (e.g. living room temperature).
-- **Digital clock:** An **optional digital clock** shows the current time on the card (style and position configurable).
-- **All texts drag-and-drop:** **Every text label** on the card (PV, battery, grid, load, etc.) is **draggable** in the editor preview so you can place them exactly where you want.
-- **Russian and Portuguese:** The card and editor are fully translated into **Russian** and **Portuguese** (in addition to EN, IT, DE, FR, NL, SK).
-- **Fix #188 (GitHub):** Resolved the issue reported in [GitHub #188](https://github.com/PROGNET-SK/carbon-energy-card/issues/188).
-
-### Performance note (important for Raspberry Pi / low-power kiosks)
-
-- **Where performance is measured**: the card runs in the **browser** (frontend). If you use a Raspberry Pi as a kiosk (Chromium), performance/INP depends on the Pi’s browser.
-- **`performance_mode: low`**: some heavy animation styles are **automatically simplified** to keep the UI responsive (better INP).  
-  In particular, **`shimmer` / `arrows` / `fluid_flow`** will fall back to **`dots`** in low mode.
-- **`performance_mode: auto`**: default is “balanced”, but on low-power clients it can **auto-downgrade to low** for responsiveness.
-- **Want all styles anyway?** Set **`performance_mode: high`** (more CPU/GPU usage).
 
 ### Installation
 
