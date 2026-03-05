@@ -10,9 +10,6 @@ Repository: [https://github.com/PROGNET-SK/carbon-energy-card](https://github.co
 This project is licensed under the **PolyForm Noncommercial License 1.0.0** (`LICENSE`).
 Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
-Support: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/giorgiosalierno) · [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-PROGNET-SK-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/PROGNET-SK)  
-*Send as donation; other payment methods will be refunded.*
-
 ![Carbon Energy Card](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/Images/screen.jpg)
 
 *Carbon Energy Card – main view with energy flows, PV, battery, grid, and house*
