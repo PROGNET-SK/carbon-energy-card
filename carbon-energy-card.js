@@ -26190,7 +26190,7 @@ if (!customElements.get('carbon-energy-card-editor')) {
 window.customCards = window.customCards || [];
 window.customCards.push({
   type: 'carbon-energy-card',
-  name: 'carbon Energy Card',
+  name: 'CARBON Energy Card',
   description: 'Advanced energy flow visualization card with support for multiple PV strings and batteries',
   preview: true,
   documentationURL: __URL_GH_REPO

@@ -42,7 +42,7 @@ Carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 4. Click **Add** → the card appears in the list → click **Download**.
 5. **Dashboard → Edit → Add card → Carbon Energy Card**.
 
-**Manual (no HACS):** Download `carbon-energy-card.js` from the [dist folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist), place it (and optionally `carbon_background1.png`) in `/config/www/community/carbon-energy-card/`, add the Lovelace resource, restart Home Assistant.
+**Manual (no HACS):** Download `carbon-energy-card.js` from the root of the repository, place it (and optionally `carbon_background1.png`) in `/config/www/community/carbon-energy-card/`, add the Lovelace resource, restart Home Assistant.
 
 ### Minimal configuration
 
@@ -230,7 +230,7 @@ PRO features require a **PRO password** (`pro_password`), unlocked via the edito
 - **Values at zero:** Check entity IDs and that entities exist and are available.
 - **Cameras 403 / not loading:** Cameras must expose `access_token` (most HA camera integrations do). Use **■ Stop** before closing the camera popup.
 - **Editor slow:** Increase **`update_interval`** or reduce dashboard refresh frequency.
-- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the [**dist** folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist) (e.g. `carbon_background.png`, `carbon_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [carbon_background.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/carbon_background.png), [carbon_background1.png](https://github.com/PROGNET-SK/carbon-energy-card/raw/main/dist/carbon_background1.png).
+- **Images not downloaded with HACS:** HACS installs only the JavaScript file (`.js`). To use the default backgrounds, download the images from the root folder (e.g. `carbon_background.png`, `carbon_background1.png`), place them in `/config/www/community/carbon-energy-card/`, then reload the dashboard. Links: [carbon_background.png](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/carbon_background.png), [carbon_background1.png](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/carbon_background1.png).
 
 ---
 
