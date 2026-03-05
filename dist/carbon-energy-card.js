@@ -1,4 +1,4 @@
-function _0x3ff6(_0x466405,_0x3a51bd){_0x466405=_0x466405-0x17d;const _0x43e626=_0x43e6();let _0x3ff61a=_0x43e626[_0x466405];if(_0x3ff6['UxuGsj']===undefined){var _0x215501=function(_0x478595){const _0x29dc2c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2329d5='',_0x5646b7='';for(let _0x27b7aa=0x0,_0x3d7be0,_0x5c5890,_0xa22d36=0x0;_0x5c5890=_0x478595['charAt'](_0xa22d36++);~_0x5c5890&&(_0x3d7be0=_0x27b7aa%0x4?_0x3d7be0*0x40+_0x5c5890:_0x5c5890,_0x27b7aa++%0x4)?_0x2329d5+=String['fromCharCode'](0xff&_0x3d7be0>>(-0x2*_0x27b7aa&0x6)):0x0){_0x5c5890=_0x29dc2c['indexOf'](_0x5c5890);}for(let _0x33342c=0x0,_0x308f67=_0x2329d5['length'];_0x33342c<_0x308f67;_0x33342c++){_0x5646b7+='%'+('00'+_0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5646b7);};_0x3ff6['fwkZWt']=_0x215501,_0x3ff6['LwuXOL']={},_0x3ff6['UxuGsj']=!![];}const _0x52447e=_0x43e626[0x0],_0x15534f=_0x466405+_0x52447e,_0x42816b=_0x3ff6['LwuXOL'][_0x15534f];return!_0x42816b?(_0x3ff61a=_0x3ff6['fwkZWt'](_0x3ff61a),_0x3ff6['LwuXOL'][_0x15534f]=_0x3ff61a):_0x3ff61a=_0x42816b,_0x3ff61a;}const _0x3e9f0c=_0x3ff6;(function(_0x576f66,_0x5de548){const _0x4166b4=_0x3ff6,_0x1ce152=_0x576f66();while(!![]){try{const _0x49ae49=-parseInt(_0x4166b4(0x1af))/0x1*(-parseInt(_0x4166b4(0x19f))/0x2)+parseInt(_0x4166b4(0x182))/0x3+parseInt(_0x4166b4(0x1db))/0x4*(parseInt(_0x4166b4(0x191))/0x5)+parseInt(_0x4166b4(0x1bd))/0x6*(parseInt(_0x4166b4(0x1f7))/0x7)+-parseInt(_0x4166b4(0x19c))/0x8*(-parseInt(_0x4166b4(0x1a0))/0x9)+-parseInt(_0x4166b4(0x189))/0xa*(parseInt(_0x4166b4(0x1e4))/0xb)+parseInt(_0x4166b4(0x1ed))/0xc*(-parseInt(_0x4166b4(0x1fb))/0xd);if(_0x49ae49===_0x5de548)break;else _0x1ce152['push'](_0x1ce152['shift']());}catch(_0x440ffd){_0x1ce152['push'](_0x1ce152['shift']());}}}(_0x43e6,0x386c9));function _0x43e6(){const _0x41a43c=['u2nYAxb0igW','zw1LBNq','CMvHC29U','t0rzmKWYrM0','ohHyBMjjrW','zM9YrwfJAa','tNPnD01hvMO','odqWnZu4EKXYqKPy','nJq2nZqWy01iDK14','CMfUzg9T','yvC5EvOYBhy','q29Kzq','C2nYAxb0','z2v0sxrLBq','AxngAw5PDgu','BhvTAw5HlwW','thK5BMfytJa','Dg9mB3DLCKm','wdjwDvPysM4','yM9VBgvHBG','C3rYAw5N','odLHyMnKzwy','ztq0yZLMzti','mvLgq2zTtq','Aef0','lMrLDG','BgfZDenVDw4','BgfZDevYCG','AxnbCNjHEq','m2u1ngjHzwi','BgvUz3rO','yJi1mfPxnta','BhvTAw5Hx2q','yM9KEq','zg9JDw1LBNq','tevdlq','mJbLzdfIyJy','ndiWnZi2uKjoy0je','DhjPBq','C29UCf8','y3jLyxrLrwW','wdnwCfPbpt0','BwvZC2fNzq','B2jQzwn0','BNvTyMvY','Ahr0Chm6lY8','yuHsmgnitty','zvy5ALLysMS','zee9pq','Aw5KzxHpzG','BhvTAw5Hx2O','ww5wELPysMO','BwfW','mwq4mdaWzgm','ChvZAa','wM1nmLPQstu','wLy5mK13pt0','yLDSBMnTrJa','zgqWmMrKmgu','BgfZDezLDgm','jNq9','wKrKA1KYrMO','yxbWzw5Kq2G','C3bSAxq','zfCXCgjTrMy','CMLUDdG2mty','C3rYAw5NAwy','mte3odbMtxzfDeW','Bwf0y2G','wti5A1Prpt0','yvC5Dq','txPNEe56ute','BM93','zMXVB3i','tg1KCgrhAde','tdnkAgr5oxm','mJC1DffHq1zR','CgfYzw50tM8','y21wEgrxvNO','zNvUy3rPB24','zNjVBunOyxi','C3rHCNrZv2K','B2fKigvYCM8','mgrMotGWoty','zw5Zzq','mtq0sNz5tKvv','p3q9','C3rHDhvZ','zwj1z191Cgq','C3jJ','tvrjnu1etMG','y2fSBgjHy2S','zwj1z19SAwm','AwnLBNnLlxa','zfHcA1LyuMW','n0LPuMXOvG','yvC1Bwj3pt0','CMvWBgfJzq','Dgv4Da','oti2mZGWBNrvDgTN','rwXLBwvUDa','C2XPy2u','y2HHCKf0','Aw5JBhvKzxm','CM94Es4Zzha','vgLTzw91Da','ote0ota0CePQtg1H','mJe3yJi2yMi','lNDVCMTLCNm','zM9Yy2u','yxnL','Dg9vChbLCKm','tg1oDMjtouG','ndy3mZbHuvvkCwi','y2HHCKnVzgu','AwXK','yxrL','yJy0owjKmJi','B25LCNjVCG','BgfZDfn0yxq','mdeYmZq1nJC','ntCWBwHuB1L1','zgvSzxrLtM8','Dg9tDhjPBMC','CMvTB3zLq2G','C2v0sxrLBq','yKHwDgfxnwG','BgfZDe9Rqxq'];_0x43e6=function(){return _0x41a43c;};return _0x43e6();}const LUMINA_SHA256=_0x2329d5=>{const _0x4ee1ac=_0x3ff6,_0x5646b7=(_0x1b7ac1,_0x500829)=>{const _0xa91838=(0xffff&_0x1b7ac1)+(0xffff&_0x500829);return(_0x1b7ac1>>0x10)+(_0x500829>>0x10)+(_0xa91838>>0x10)<<0x10|0xffff&_0xa91838;},_0x27b7aa=(_0x492e98,_0x5af8a1)=>_0x492e98>>>_0x5af8a1|_0x492e98<<0x20-_0x5af8a1,_0x3d7be0=(_0x241535,_0x4ea8aa)=>_0x241535>>>_0x4ea8aa,_0x5c5890=(_0x199205,_0x2de4e0,_0x229222)=>_0x199205&_0x2de4e0^~_0x199205&_0x229222,_0xa22d36=(_0x2806c6,_0x251267,_0x48a6a2)=>_0x2806c6&_0x251267^_0x2806c6&_0x48a6a2^_0x251267&_0x48a6a2,_0x33342c=_0x2d3fb9=>_0x27b7aa(_0x2d3fb9,0x2)^_0x27b7aa(_0x2d3fb9,0xd)^_0x27b7aa(_0x2d3fb9,0x16),_0x308f67=_0x5ba148=>_0x27b7aa(_0x5ba148,0x6)^_0x27b7aa(_0x5ba148,0xb)^_0x27b7aa(_0x5ba148,0x19),_0x5d2d9b=_0x3b1ffd=>_0x27b7aa(_0x3b1ffd,0x7)^_0x27b7aa(_0x3b1ffd,0x12)^_0x3d7be0(_0x3b1ffd,0x3),_0x20f8d8=_0x50b736=>_0x27b7aa(_0x50b736,0x11)^_0x27b7aa(_0x50b736,0x13)^_0x3d7be0(_0x50b736,0xa),_0x1a00d7=(_0x353995=>{const _0x5a18ee=_0x3ff6;_0x353995=_0x353995[_0x5a18ee(0x1f9)](/\r\n/g,'\x0a');let _0x2c3128='';for(let _0x127dd2=0x0;_0x127dd2<_0x353995[_0x5a18ee(0x1b6)];_0x127dd2++){const _0x262237=_0x353995[_0x5a18ee(0x18a)+'At'](_0x127dd2);_0x262237<0x80?_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237):_0x262237>0x7f&&_0x262237<0x800?(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6|0xc0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80)):(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0xc|0xe0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6&0x3f|0x80),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80));}return _0x2c3128;})(_0x2329d5);return(_0x330f5e=>{const _0xdf4e43=_0x3ff6;let _0x57885c='';for(let _0x1d9e85=0x0;_0x1d9e85<0x4*_0x330f5e[_0xdf4e43(0x1b6)];_0x1d9e85++)_0x57885c+=(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)+0x4&0xf)+(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)&0xf);return _0x57885c;})(((_0x10c921,_0x5b870f)=>{const _0x1d2e8c=_0x3ff6,_0x2faf33=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x65c1ad=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x4077fa=new Array(0x40);let _0x5091c4,_0x2d47bb,_0x5df66e,_0x592961,_0x389325,_0x2124fb,_0x146ff4,_0x3ac10c,_0x459f37,_0x257abe,_0xf3f096,_0x495a70;for(_0x10c921[_0x5b870f>>0x5]|=0x80<<0x18-_0x5b870f%0x20,_0x10c921[0xf+(_0x5b870f+0x40>>0x9<<0x4)]=_0x5b870f,_0x459f37=0x0;_0x459f37<_0x10c921[_0x1d2e8c(0x1b6)];_0x459f37+=0x10){for(_0x5091c4=_0x65c1ad[0x0],_0x2d47bb=_0x65c1ad[0x1],_0x5df66e=_0x65c1ad[0x2],_0x592961=_0x65c1ad[0x3],_0x389325=_0x65c1ad[0x4],_0x2124fb=_0x65c1ad[0x5],_0x146ff4=_0x65c1ad[0x6],_0x3ac10c=_0x65c1ad[0x7],_0x257abe=0x0;_0x257abe<0x40;_0x257abe++)_0x4077fa[_0x257abe]=_0x257abe<0x10?_0x10c921[_0x257abe+_0x459f37]:_0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe-0x2]),_0x4077fa[_0x257abe-0x7]),_0x5d2d9b(_0x4077fa[_0x257abe-0xf])),_0x4077fa[_0x257abe-0x10]),_0xf3f096=_0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c,_0x308f67(_0x389325)),_0x5c5890(_0x389325,_0x2124fb,_0x146ff4)),_0x2faf33[_0x257abe]),_0x4077fa[_0x257abe]),_0x495a70=_0x5646b7(_0x33342c(_0x5091c4),_0xa22d36(_0x5091c4,_0x2d47bb,_0x5df66e)),_0x3ac10c=_0x146ff4,_0x146ff4=_0x2124fb,_0x2124fb=_0x389325,_0x389325=_0x5646b7(_0x592961,_0xf3f096),_0x592961=_0x5df66e,_0x5df66e=_0x2d47bb,_0x2d47bb=_0x5091c4,_0x5091c4=_0x5646b7(_0xf3f096,_0x495a70);_0x65c1ad[0x0]=_0x5646b7(_0x5091c4,_0x65c1ad[0x0]),_0x65c1ad[0x1]=_0x5646b7(_0x2d47bb,_0x65c1ad[0x1]),_0x65c1ad[0x2]=_0x5646b7(_0x5df66e,_0x65c1ad[0x2]),_0x65c1ad[0x3]=_0x5646b7(_0x592961,_0x65c1ad[0x3]),_0x65c1ad[0x4]=_0x5646b7(_0x389325,_0x65c1ad[0x4]),_0x65c1ad[0x5]=_0x5646b7(_0x2124fb,_0x65c1ad[0x5]),_0x65c1ad[0x6]=_0x5646b7(_0x146ff4,_0x65c1ad[0x6]),_0x65c1ad[0x7]=_0x5646b7(_0x3ac10c,_0x65c1ad[0x7]);}return _0x65c1ad;})((_0x1afcfd=>{const _0x13b720=_0x3ff6,_0x4d7c10=[];for(let _0xab8363=0x0;_0xab8363<0x8*_0x1afcfd[_0x13b720(0x1b6)];_0xab8363+=0x8)_0x4d7c10[_0xab8363>>0x5]|=(0xff&_0x1afcfd[_0x13b720(0x18a)+'At'](_0xab8363/0x8))<<0x18-_0xab8363%0x20;return _0x4d7c10;})(_0x1a00d7),0x8*_0x1a00d7[_0x4ee1ac(0x1b6)]));},LUMINA_REMOTE_URL=atob(_0x3e9f0c(0x1c6)+_0x3e9f0c(0x1a8)+_0x3e9f0c(0x1e2)+_0x3e9f0c(0x1cb)+_0x3e9f0c(0x1b7)+_0x3e9f0c(0x188)+_0x3e9f0c(0x1a2)+_0x3e9f0c(0x19b)+_0x3e9f0c(0x1cf)+_0x3e9f0c(0x1d5)+_0x3e9f0c(0x1df)+_0x3e9f0c(0x1f2)+_0x3e9f0c(0x19e)+_0x3e9f0c(0x1e3)+_0x3e9f0c(0x1d8)+_0x3e9f0c(0x1dd));let LUMINA_AUTH_LIST_V1=null,LUMINA_AUTH_LIST_V2=null,LUMINA_AUTH_LIST_V3=null,LUMINA_FETCHING=!0x1,LUMINA_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const LUMINA_UNLOCK_V1_IDS=[_0x3e9f0c(0x1ae)+_0x3e9f0c(0x1d2)+_0x3e9f0c(0x1b5)+_0x3e9f0c(0x1eb)+_0x3e9f0c(0x18d)+_0x3e9f0c(0x183)+_0x3e9f0c(0x1bc)+_0x3e9f0c(0x1cd)],LUMINA_UNLOCK_V3_IDS=[],LUMINA_DEBUG_LICENSE=((()=>{const _0x2b8df3=_0x3e9f0c;try{return'1'===localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8)+_0x2b8df3(0x1f4)+_0x2b8df3(0x1ec));}catch(_0x168e0f){return!0x1;}})()),LUMINA_UID_KEY=atob(_0x3e9f0c(0x196)+_0x3e9f0c(0x1aa)+_0x3e9f0c(0x1c7)+_0x3e9f0c(0x1c1)),getLuminaUID=()=>{const _0x14462e=_0x3e9f0c;try{const _0x58f772=localStorage[_0x14462e(0x1a5)](LUMINA_UID_KEY);if(_0x58f772&&_0x14462e(0x1ac)==typeof _0x58f772&&_0x58f772[_0x14462e(0x1e9)+'th'](_0x14462e(0x1bb)))return _0x58f772;const _0xa7361f=(Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2)+Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187)+_0x14462e(0x186)](),_0x344187=_0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0xa7361f[_0x14462e(0x17d)](0x0,0x10);return localStorage[_0x14462e(0x195)](LUMINA_UID_KEY,_0x344187),_0x344187;}catch(_0x975837){const _0x1e4830=Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2,0xa)[_0x14462e(0x187)+_0x14462e(0x186)]();return _0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0x1e4830;}},LUMINA_LICENSE_ENDPOINT=_0x3e9f0c(0x1c5)+_0x3e9f0c(0x1a7)+_0x3e9f0c(0x1f5)+_0x3e9f0c(0x180)+_0x3e9f0c(0x1d9)+_0x3e9f0c(0x184)+_0x3e9f0c(0x1b1),LUMINA_ACT_REQ=atob(_0x3e9f0c(0x1e6)+_0x3e9f0c(0x1c8)),LUMINA_ACT_MIG=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1de)),LUMINA_ACT_UPDATEINFO=atob(_0x3e9f0c(0x1f6)+_0x3e9f0c(0x1f8)),LUMINA_ACT_MIGRATE_V3=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1d0)),LUMINA_DEBUG_UPDATE=((()=>{const _0x30882d=_0x3e9f0c;try{return'1'===localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8)+_0x30882d(0x1f0)+_0x30882d(0x18c));}catch(_0x523e5b){return!0x1;}})()),LUMINA_JSONP=(_0x378b52,_0x286958=0x3a98)=>new Promise((_0x4d81af,_0x55a97b)=>{const _0x47ef16=_0x3e9f0c;try{const _0x2f4fdd=_0x47ef16(0x1ca)+_0x47ef16(0x1bf)+Date[_0x47ef16(0x1e0)]()+'_'+Math[_0x47ef16(0x1e1)](0x3b9aca00*Math[_0x47ef16(0x1a1)]()),_0x2901f1=document[_0x47ef16(0x1c0)+_0x47ef16(0x199)](_0x47ef16(0x1a4));let _0x3f40c8=!0x1;const _0x318fb4=_0x458dfe=>{const _0xd5e569=_0x47ef16;if(!_0x3f40c8){if(_0x3f40c8=!0x0,_0x458dfe&&_0x458dfe[_0xd5e569(0x192)+'w'])try{delete window[_0x2f4fdd];}catch(_0x295bb3){try{window[_0x2f4fdd]=void 0x0;}catch(_0x51ce4d){}}else{try{window[_0x2f4fdd]=()=>{};}catch(_0xbf63a9){}try{setTimeout(()=>{try{delete window[_0x2f4fdd];}catch(_0xc35372){}},0x1d4c0);}catch(_0x2f0972){}}try{_0x2901f1&&_0x2901f1[_0xd5e569(0x1e5)+'de']&&_0x2901f1[_0xd5e569(0x1e5)+'de'][_0xd5e569(0x194)+_0xd5e569(0x18b)](_0x2901f1);}catch(_0xebe0ff){}}},_0x15812d=setTimeout(()=>{const _0x563f64=_0x47ef16;_0x318fb4({'deleteNow':!0x1}),_0x55a97b(new Error(_0x563f64(0x181)));},_0x286958);window[_0x2f4fdd]=_0x233cff=>{clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x4d81af(_0x233cff);},_0x2901f1[_0x47ef16(0x18e)]=()=>{const _0x4aaacd=_0x47ef16;clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x55a97b(new Error(_0x4aaacd(0x198)+_0x4aaacd(0x1ea)+'r'));},_0x2901f1[_0x47ef16(0x1f1)]=_0x378b52+(_0x378b52[_0x47ef16(0x1c9)]('?')>=0x0?'&':'?')+(_0x47ef16(0x1f3)+'=')+_0x2f4fdd+_0x47ef16(0x1d4)+Date[_0x47ef16(0x1e0)](),(document[_0x47ef16(0x1b9)]||document[_0x47ef16(0x1ba)+_0x47ef16(0x1fc)])[_0x47ef16(0x1d6)+_0x47ef16(0x18b)](_0x2901f1);}catch(_0x15b782){_0x55a97b(_0x15b782);}}),LUMINA_PACK=_0x236507=>{const _0x5592ba=_0x3e9f0c;try{const _0x269bee=JSON[_0x5592ba(0x1da)+'y'](_0x236507||{});return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g,'-')[_0x5592ba(0x1f9)](/\//g,'_')[_0x5592ba(0x1f9)](/=+$/g,'');}catch(_0x2a1fcc){return'';}},LUMINA_VERSION_CMP=(_0x435c11,_0x33032a)=>{const _0x3ad0b1=_0x3e9f0c,_0x2d951=String(_0x435c11||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470=>parseInt(_0x176470,0xa)),_0x5c17b5=String(_0x33032a||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145=>parseInt(_0x5d4145,0xa));for(let _0x1feeba=0x0;_0x1feeba<0x3;_0x1feeba++){const _0x33b552=Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba])?_0x2d951[_0x1feeba]:0x0,_0x5bca8f=Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba])?_0x5c17b5[_0x1feeba]:0x0;if(_0x33b552<_0x5bca8f)return-0x1;if(_0x33b552>_0x5bca8f)return 0x1;}return 0x0;},LUMINA_REFRESH_AUTH=async _0x289813=>{const _0x12d4ea=_0x3e9f0c;let _0x184478=null,_0x43a88a=!0x1,_0x37661f='';if(_0x12d4ea(0x1e7)==typeof _0x289813?_0x184478=_0x289813:_0x12d4ea(0x1ab)==typeof _0x289813?_0x43a88a=_0x289813:_0x289813&&_0x12d4ea(0x1c3)==typeof _0x289813&&(_0x184478=_0x12d4ea(0x1e7)==typeof _0x289813[_0x12d4ea(0x1f3)]?_0x289813[_0x12d4ea(0x1f3)]:null,_0x43a88a=!!_0x289813[_0x12d4ea(0x185)],_0x289813[_0x12d4ea(0x19a)]?String(_0x289813[_0x12d4ea(0x19a)]):''),!_0x43a88a&&null!==LUMINA_AUTH_LIST_V1&&null!==LUMINA_AUTH_LIST_V2&&null!==LUMINA_AUTH_LIST_V3)return LUMINA_AUTH_LIST_V1;if(LUMINA_FETCHING)return null;LUMINA_FETCHING=!0x0,LUMINA_AUTH_META[_0x12d4ea(0x1d3)+_0x12d4ea(0x1b0)]=Date[_0x12d4ea(0x1e0)](),LUMINA_AUTH_META[_0x12d4ea(0x1b3)]='';try{const _0x18f471=LUMINA_REMOTE_URL+_0x12d4ea(0x1ee)+Date[_0x12d4ea(0x1e0)](),_0x7a65c6=await fetch(_0x18f471);try{LUMINA_AUTH_META[_0x12d4ea(0x18f)+'us']=_0x7a65c6&&_0x12d4ea(0x1c4)==typeof _0x7a65c6[_0x12d4ea(0x1ef)]?_0x7a65c6[_0x12d4ea(0x1ef)]:0x0;}catch(_0x4635f0){LUMINA_AUTH_META[_0x12d4ea(0x18f)+'us']=0x0;}const _0x44c726=(await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/);LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[];for(let _0x570264=0x0;_0x570264<_0x44c726[_0x12d4ea(0x1b6)];_0x570264++){const _0x186db5=_0x44c726[_0x570264][_0x12d4ea(0x1be)](),_0x7ac088=_0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/);_0x7ac088&&_0x7ac088[0x1]&&LUMINA_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x25d3c7=_0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/);_0x25d3c7&&_0x25d3c7[0x1]&&LUMINA_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x518d5c=_0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/);_0x518d5c&&_0x518d5c[0x1]&&LUMINA_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());}Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb=>{const _0x13f0ac=_0x12d4ea;if(_0x2e98cb&&_0x13f0ac(0x1ac)==typeof _0x2e98cb&&0x40===_0x2e98cb[_0x13f0ac(0x1b6)]){const _0x24d746=_0x2e98cb[_0x13f0ac(0x1a9)+_0x13f0ac(0x186)]();LUMINA_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746)||LUMINA_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746);}}),Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d=>{const _0x13e08b=_0x12d4ea;if(_0x2f030d&&_0x13e08b(0x1ac)==typeof _0x2f030d&&0x40===_0x2f030d[_0x13e08b(0x1b6)]){const _0x21c23f=_0x2f030d[_0x13e08b(0x1a9)+_0x13e08b(0x186)]();LUMINA_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f)||LUMINA_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f);}}),LUMINA_AUTH_META[_0x12d4ea(0x197)]=Date[_0x12d4ea(0x1e0)]();const _0x3bdbe7=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V1)?LUMINA_AUTH_LIST_V1[_0x12d4ea(0x1b6)]:0x0,_0x465ea1=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V2)?LUMINA_AUTH_LIST_V2[_0x12d4ea(0x1b6)]:0x0,_0x3c8215=Array[_0x12d4ea(0x1b4)](LUMINA_AUTH_LIST_V3)?LUMINA_AUTH_LIST_V3[_0x12d4ea(0x1b6)]:0x0;LUMINA_AUTH_META[_0x12d4ea(0x1b2)+'t']=_0x3bdbe7+_0x465ea1+_0x3c8215,_0x184478&&_0x184478();}catch(_0x40103b){LUMINA_AUTH_META[_0x12d4ea(0x1b3)]=_0x40103b&&_0x40103b[_0x12d4ea(0x1c2)]?String(_0x40103b[_0x12d4ea(0x1c2)]):String(_0x40103b),LUMINA_AUTH_LIST_V1=[],LUMINA_AUTH_LIST_V2=[],LUMINA_AUTH_LIST_V3=[],Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V1_IDS)&&LUMINA_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4=>{const _0x4d6420=_0x12d4ea;if(_0x38bab4&&_0x4d6420(0x1ac)==typeof _0x38bab4&&0x40===_0x38bab4[_0x4d6420(0x1b6)]){const _0x5ac55d=_0x38bab4[_0x4d6420(0x1a9)+_0x4d6420(0x186)]();LUMINA_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d)||LUMINA_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d);}}),Array[_0x12d4ea(0x1b4)](LUMINA_UNLOCK_V3_IDS)&&LUMINA_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80=>{const _0x43ac38=_0x12d4ea;if(_0x4d2b80&&_0x43ac38(0x1ac)==typeof _0x4d2b80&&0x40===_0x4d2b80[_0x43ac38(0x1b6)]){const _0x5473d8=_0x4d2b80[_0x43ac38(0x1a9)+_0x43ac38(0x186)]();LUMINA_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8)||LUMINA_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8);}}),_0x184478&&_0x184478();}finally{LUMINA_FETCHING=!0x1;}return LUMINA_AUTH_LIST_V1;};const __s = (...a) => a.join('');
+function _0x3ff6(_0x466405,_0x3a51bd){_0x466405=_0x466405-0x17d;const _0x43e626=_0x43e6();let _0x3ff61a=_0x43e626[_0x466405];if(_0x3ff6['UxuGsj']===undefined){var _0x215501=function(_0x478595){const _0x29dc2c='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x2329d5='',_0x5646b7='';for(let _0x27b7aa=0x0,_0x3d7be0,_0x5c5890,_0xa22d36=0x0;_0x5c5890=_0x478595['charAt'](_0xa22d36++);~_0x5c5890&&(_0x3d7be0=_0x27b7aa%0x4?_0x3d7be0*0x40+_0x5c5890:_0x5c5890,_0x27b7aa++%0x4)?_0x2329d5+=String['fromCharCode'](0xff&_0x3d7be0>>(-0x2*_0x27b7aa&0x6)):0x0){_0x5c5890=_0x29dc2c['indexOf'](_0x5c5890);}for(let _0x33342c=0x0,_0x308f67=_0x2329d5['length'];_0x33342c<_0x308f67;_0x33342c++){_0x5646b7+='%'+('00'+_0x2329d5['charCodeAt'](_0x33342c)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x5646b7);};_0x3ff6['fwkZWt']=_0x215501,_0x3ff6['LwuXOL']={},_0x3ff6['UxuGsj']=!![];}const _0x52447e=_0x43e626[0x0],_0x15534f=_0x466405+_0x52447e,_0x42816b=_0x3ff6['LwuXOL'][_0x15534f];return!_0x42816b?(_0x3ff61a=_0x3ff6['fwkZWt'](_0x3ff61a),_0x3ff6['LwuXOL'][_0x15534f]=_0x3ff61a):_0x3ff61a=_0x42816b,_0x3ff61a;}const _0x3e9f0c=_0x3ff6;(function(_0x576f66,_0x5de548){const _0x4166b4=_0x3ff6,_0x1ce152=_0x576f66();while(!![]){try{const _0x49ae49=-parseInt(_0x4166b4(0x1af))/0x1*(-parseInt(_0x4166b4(0x19f))/0x2)+parseInt(_0x4166b4(0x182))/0x3+parseInt(_0x4166b4(0x1db))/0x4*(parseInt(_0x4166b4(0x191))/0x5)+parseInt(_0x4166b4(0x1bd))/0x6*(parseInt(_0x4166b4(0x1f7))/0x7)+-parseInt(_0x4166b4(0x19c))/0x8*(-parseInt(_0x4166b4(0x1a0))/0x9)+-parseInt(_0x4166b4(0x189))/0xa*(parseInt(_0x4166b4(0x1e4))/0xb)+parseInt(_0x4166b4(0x1ed))/0xc*(-parseInt(_0x4166b4(0x1fb))/0xd);if(_0x49ae49===_0x5de548)break;else _0x1ce152['push'](_0x1ce152['shift']());}catch(_0x440ffd){_0x1ce152['push'](_0x1ce152['shift']());}}}(_0x43e6,0x386c9));function _0x43e6(){const _0x41a43c=['u2nYAxb0igW','zw1LBNq','CMvHC29U','t0rzmKWYrM0','ohHyBMjjrW','zM9YrwfJAa','tNPnD01hvMO','odqWnZu4EKXYqKPy','nJq2nZqWy01iDK14','CMfUzg9T','yvC5EvOYBhy','q29Kzq','C2nYAxb0','z2v0sxrLBq','AxngAw5PDgu','BhvTAw5HlwW','thK5BMfytJa','Dg9mB3DLCKm','wdjwDvPysM4','yM9VBgvHBG','C3rYAw5N','odLHyMnKzwy','ztq0yZLMzti','mvLgq2zTtq','Aef0','lMrLDG','BgfZDenVDw4','BgfZDevYCG','AxnbCNjHEq','m2u1ngjHzwi','BgvUz3rO','yJi1mfPxnta','BhvTAw5Hx2q','yM9KEq','zg9JDw1LBNq','tevdlq','mJbLzdfIyJy','ndiWnZi2uKjoy0je','DhjPBq','C29UCf8','y3jLyxrLrwW','wdnwCfPbpt0','BwvZC2fNzq','B2jQzwn0','BNvTyMvY','Ahr0Chm6lY8','yuHsmgnitty','zvy5ALLysMS','zee9pq','Aw5KzxHpzG','BhvTAw5Hx2O','ww5wELPysMO','BwfW','mwq4mdaWzgm','ChvZAa','wM1nmLPQstu','wLy5mK13pt0','yLDSBMnTrJa','zgqWmMrKmgu','BgfZDezLDgm','jNq9','wKrKA1KYrMO','yxbWzw5Kq2G','C3bSAxq','zfCXCgjTrMy','CMLUDdG2mty','C3rYAw5NAwy','mte3odbMtxzfDeW','Bwf0y2G','wti5A1Prpt0','yvC5Dq','txPNEe56ute','BM93','zMXVB3i','tg1KCgrhAde','tdnkAgr5oxm','mJC1DffHq1zR','CgfYzw50tM8','y21wEgrxvNO','zNvUy3rPB24','zNjVBunOyxi','C3rHCNrZv2K','B2fKigvYCM8','mgrMotGWoty','zw5Zzq','mtq0sNz5tKvv','p3q9','C3rHDhvZ','zwj1z191Cgq','C3jJ','tvrjnu1etMG','y2fSBgjHy2S','zwj1z19SAwm','AwnLBNnLlxa','zfHcA1LyuMW','n0LPuMXOvG','yvC1Bwj3pt0','CMvWBgfJzq','Dgv4Da','oti2mZGWBNrvDgTN','rwXLBwvUDa','C2XPy2u','y2HHCKf0','Aw5JBhvKzxm','CM94Es4Zzha','vgLTzw91Da','ote0ota0CePQtg1H','mJe3yJi2yMi','lNDVCMTLCNm','zM9Yy2u','yxnL','Dg9vChbLCKm','tg1oDMjtouG','ndy3mZbHuvvkCwi','y2HHCKnVzgu','AwXK','yxrL','yJy0owjKmJi','B25LCNjVCG','BgfZDfn0yxq','mdeYmZq1nJC','ntCWBwHuB1L1','zgvSzxrLtM8','Dg9tDhjPBMC','CMvTB3zLq2G','C2v0sxrLBq','yKHwDgfxnwG','BgfZDe9Rqxq'];_0x43e6=function(){return _0x41a43c;};return _0x43e6();}const CARBON_SHA256=_0x2329d5=>{const _0x4ee1ac=_0x3ff6,_0x5646b7=(_0x1b7ac1,_0x500829)=>{const _0xa91838=(0xffff&_0x1b7ac1)+(0xffff&_0x500829);return(_0x1b7ac1>>0x10)+(_0x500829>>0x10)+(_0xa91838>>0x10)<<0x10|0xffff&_0xa91838;},_0x27b7aa=(_0x492e98,_0x5af8a1)=>_0x492e98>>>_0x5af8a1|_0x492e98<<0x20-_0x5af8a1,_0x3d7be0=(_0x241535,_0x4ea8aa)=>_0x241535>>>_0x4ea8aa,_0x5c5890=(_0x199205,_0x2de4e0,_0x229222)=>_0x199205&_0x2de4e0^~_0x199205&_0x229222,_0xa22d36=(_0x2806c6,_0x251267,_0x48a6a2)=>_0x2806c6&_0x251267^_0x2806c6&_0x48a6a2^_0x251267&_0x48a6a2,_0x33342c=_0x2d3fb9=>_0x27b7aa(_0x2d3fb9,0x2)^_0x27b7aa(_0x2d3fb9,0xd)^_0x27b7aa(_0x2d3fb9,0x16),_0x308f67=_0x5ba148=>_0x27b7aa(_0x5ba148,0x6)^_0x27b7aa(_0x5ba148,0xb)^_0x27b7aa(_0x5ba148,0x19),_0x5d2d9b=_0x3b1ffd=>_0x27b7aa(_0x3b1ffd,0x7)^_0x27b7aa(_0x3b1ffd,0x12)^_0x3d7be0(_0x3b1ffd,0x3),_0x20f8d8=_0x50b736=>_0x27b7aa(_0x50b736,0x11)^_0x27b7aa(_0x50b736,0x13)^_0x3d7be0(_0x50b736,0xa),_0x1a00d7=(_0x353995=>{const _0x5a18ee=_0x3ff6;_0x353995=_0x353995[_0x5a18ee(0x1f9)](/\r\n/g,'\x0a');let _0x2c3128='';for(let _0x127dd2=0x0;_0x127dd2<_0x353995[_0x5a18ee(0x1b6)];_0x127dd2++){const _0x262237=_0x353995[_0x5a18ee(0x18a)+'At'](_0x127dd2);_0x262237<0x80?_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237):_0x262237>0x7f&&_0x262237<0x800?(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6|0xc0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80)):(_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0xc|0xe0),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](_0x262237>>0x6&0x3f|0x80),_0x2c3128+=String[_0x5a18ee(0x1e8)+_0x5a18ee(0x1a3)](0x3f&_0x262237|0x80));}return _0x2c3128;})(_0x2329d5);return(_0x330f5e=>{const _0xdf4e43=_0x3ff6;let _0x57885c='';for(let _0x1d9e85=0x0;_0x1d9e85<0x4*_0x330f5e[_0xdf4e43(0x1b6)];_0x1d9e85++)_0x57885c+=(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)+0x4&0xf)+(_0xdf4e43(0x190)+_0xdf4e43(0x1ad))[_0xdf4e43(0x17e)](_0x330f5e[_0x1d9e85>>0x2]>>0x8*(0x3-_0x1d9e85%0x4)&0xf);return _0x57885c;})(((_0x10c921,_0x5b870f)=>{const _0x1d2e8c=_0x3ff6,_0x2faf33=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x65c1ad=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19],_0x4077fa=new Array(0x40);let _0x5091c4,_0x2d47bb,_0x5df66e,_0x592961,_0x389325,_0x2124fb,_0x146ff4,_0x3ac10c,_0x459f37,_0x257abe,_0xf3f096,_0x495a70;for(_0x10c921[_0x5b870f>>0x5]|=0x80<<0x18-_0x5b870f%0x20,_0x10c921[0xf+(_0x5b870f+0x40>>0x9<<0x4)]=_0x5b870f,_0x459f37=0x0;_0x459f37<_0x10c921[_0x1d2e8c(0x1b6)];_0x459f37+=0x10){for(_0x5091c4=_0x65c1ad[0x0],_0x2d47bb=_0x65c1ad[0x1],_0x5df66e=_0x65c1ad[0x2],_0x592961=_0x65c1ad[0x3],_0x389325=_0x65c1ad[0x4],_0x2124fb=_0x65c1ad[0x5],_0x146ff4=_0x65c1ad[0x6],_0x3ac10c=_0x65c1ad[0x7],_0x257abe=0x0;_0x257abe<0x40;_0x257abe++)_0x4077fa[_0x257abe]=_0x257abe<0x10?_0x10c921[_0x257abe+_0x459f37]:_0x5646b7(_0x5646b7(_0x5646b7(_0x20f8d8(_0x4077fa[_0x257abe-0x2]),_0x4077fa[_0x257abe-0x7]),_0x5d2d9b(_0x4077fa[_0x257abe-0xf])),_0x4077fa[_0x257abe-0x10]),_0xf3f096=_0x5646b7(_0x5646b7(_0x5646b7(_0x5646b7(_0x3ac10c,_0x308f67(_0x389325)),_0x5c5890(_0x389325,_0x2124fb,_0x146ff4)),_0x2faf33[_0x257abe]),_0x4077fa[_0x257abe]),_0x495a70=_0x5646b7(_0x33342c(_0x5091c4),_0xa22d36(_0x5091c4,_0x2d47bb,_0x5df66e)),_0x3ac10c=_0x146ff4,_0x146ff4=_0x2124fb,_0x2124fb=_0x389325,_0x389325=_0x5646b7(_0x592961,_0xf3f096),_0x592961=_0x5df66e,_0x5df66e=_0x2d47bb,_0x2d47bb=_0x5091c4,_0x5091c4=_0x5646b7(_0xf3f096,_0x495a70);_0x65c1ad[0x0]=_0x5646b7(_0x5091c4,_0x65c1ad[0x0]),_0x65c1ad[0x1]=_0x5646b7(_0x2d47bb,_0x65c1ad[0x1]),_0x65c1ad[0x2]=_0x5646b7(_0x5df66e,_0x65c1ad[0x2]),_0x65c1ad[0x3]=_0x5646b7(_0x592961,_0x65c1ad[0x3]),_0x65c1ad[0x4]=_0x5646b7(_0x389325,_0x65c1ad[0x4]),_0x65c1ad[0x5]=_0x5646b7(_0x2124fb,_0x65c1ad[0x5]),_0x65c1ad[0x6]=_0x5646b7(_0x146ff4,_0x65c1ad[0x6]),_0x65c1ad[0x7]=_0x5646b7(_0x3ac10c,_0x65c1ad[0x7]);}return _0x65c1ad;})((_0x1afcfd=>{const _0x13b720=_0x3ff6,_0x4d7c10=[];for(let _0xab8363=0x0;_0xab8363<0x8*_0x1afcfd[_0x13b720(0x1b6)];_0xab8363+=0x8)_0x4d7c10[_0xab8363>>0x5]|=(0xff&_0x1afcfd[_0x13b720(0x18a)+'At'](_0xab8363/0x8))<<0x18-_0xab8363%0x20;return _0x4d7c10;})(_0x1a00d7),0x8*_0x1a00d7[_0x4ee1ac(0x1b6)]));},CARBON_REMOTE_URL=atob(_0x3e9f0c(0x1c6)+_0x3e9f0c(0x1a8)+_0x3e9f0c(0x1e2)+_0x3e9f0c(0x1cb)+_0x3e9f0c(0x1b7)+_0x3e9f0c(0x188)+_0x3e9f0c(0x1a2)+_0x3e9f0c(0x19b)+_0x3e9f0c(0x1cf)+_0x3e9f0c(0x1d5)+_0x3e9f0c(0x1df)+_0x3e9f0c(0x1f2)+_0x3e9f0c(0x19e)+_0x3e9f0c(0x1e3)+_0x3e9f0c(0x1d8)+_0x3e9f0c(0x1dd));let CARBON_AUTH_LIST_V1=null,CARBON_AUTH_LIST_V2=null,CARBON_AUTH_LIST_V3=null,CARBON_FETCHING=!0x1,CARBON_AUTH_META={'lastFetchAt':0x0,'lastOkAt':0x0,'lastErr':'','lastCount':0x0,'lastStatus':0x0};const CARBON_UNLOCK_V1_IDS=[_0x3e9f0c(0x1ae)+_0x3e9f0c(0x1d2)+_0x3e9f0c(0x1b5)+_0x3e9f0c(0x1eb)+_0x3e9f0c(0x18d)+_0x3e9f0c(0x183)+_0x3e9f0c(0x1bc)+_0x3e9f0c(0x1cd)],CARBON_UNLOCK_V3_IDS=[],CARBON_DEBUG_LICENSE=((()=>{const _0x2b8df3=_0x3e9f0c;try{return'1'===localStorage[_0x2b8df3(0x1a5)](_0x2b8df3(0x1b8)+_0x2b8df3(0x1f4)+_0x2b8df3(0x1ec));}catch(_0x168e0f){return!0x1;}})()),CARBON_UID_KEY=atob(_0x3e9f0c(0x196)+_0x3e9f0c(0x1aa)+_0x3e9f0c(0x1c7)+_0x3e9f0c(0x1c1)),getCarbonUID=()=>{const _0x14462e=_0x3e9f0c;try{const _0x58f772=localStorage[_0x14462e(0x1a5)](CARBON_UID_KEY);if(_0x58f772&&_0x14462e(0x1ac)==typeof _0x58f772&&_0x58f772[_0x14462e(0x1e9)+'th'](_0x14462e(0x1bb)))return _0x58f772;const _0xa7361f=(Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2)+Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2))[_0x14462e(0x187)+_0x14462e(0x186)](),_0x344187=_0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0xa7361f[_0x14462e(0x17d)](0x0,0x10);return localStorage[_0x14462e(0x195)](CARBON_UID_KEY,_0x344187),_0x344187;}catch(_0x975837){const _0x1e4830=Math[_0x14462e(0x1a1)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x17d)](0x2,0xa)[_0x14462e(0x187)+_0x14462e(0x186)]();return _0x14462e(0x1bb)+Date[_0x14462e(0x1e0)]()[_0x14462e(0x193)](0x10)[_0x14462e(0x187)+_0x14462e(0x186)]()+'-'+_0x1e4830;}},CARBON_LICENSE_ENDPOINT=_0x3e9f0c(0x1c5)+_0x3e9f0c(0x1a7)+_0x3e9f0c(0x1f5)+_0x3e9f0c(0x180)+_0x3e9f0c(0x1d9)+_0x3e9f0c(0x184)+_0x3e9f0c(0x1b1),CARBON_ACT_REQ=atob(_0x3e9f0c(0x1e6)+_0x3e9f0c(0x1c8)),CARBON_ACT_MIG=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1de)),CARBON_ACT_UPDATEINFO=atob(_0x3e9f0c(0x1f6)+_0x3e9f0c(0x1f8)),CARBON_ACT_MIGRATE_V3=atob(_0x3e9f0c(0x1d1)+_0x3e9f0c(0x1d0)),CARBON_DEBUG_UPDATE=((()=>{const _0x30882d=_0x3e9f0c;try{return'1'===localStorage[_0x30882d(0x1a5)](_0x30882d(0x1b8)+_0x30882d(0x1f0)+_0x30882d(0x18c));}catch(_0x523e5b){return!0x1;}})()),CARBON_JSONP=(_0x378b52,_0x286958=0x3a98)=>new Promise((_0x4d81af,_0x55a97b)=>{const _0x47ef16=_0x3e9f0c;try{const _0x2f4fdd=_0x47ef16(0x1ca)+_0x47ef16(0x1bf)+Date[_0x47ef16(0x1e0)]()+'_'+Math[_0x47ef16(0x1e1)](0x3b9aca00*Math[_0x47ef16(0x1a1)]()),_0x2901f1=document[_0x47ef16(0x1c0)+_0x47ef16(0x199)](_0x47ef16(0x1a4));let _0x3f40c8=!0x1;const _0x318fb4=_0x458dfe=>{const _0xd5e569=_0x47ef16;if(!_0x3f40c8){if(_0x3f40c8=!0x0,_0x458dfe&&_0x458dfe[_0xd5e569(0x192)+'w'])try{delete window[_0x2f4fdd];}catch(_0x295bb3){try{window[_0x2f4fdd]=void 0x0;}catch(_0x51ce4d){}}else{try{window[_0x2f4fdd]=()=>{};}catch(_0xbf63a9){}try{setTimeout(()=>{try{delete window[_0x2f4fdd];}catch(_0xc35372){}},0x1d4c0);}catch(_0x2f0972){}}try{_0x2901f1&&_0x2901f1[_0xd5e569(0x1e5)+'de']&&_0x2901f1[_0xd5e569(0x1e5)+'de'][_0xd5e569(0x194)+_0xd5e569(0x18b)](_0x2901f1);}catch(_0xebe0ff){}}},_0x15812d=setTimeout(()=>{const _0x563f64=_0x47ef16;_0x318fb4({'deleteNow':!0x1}),_0x55a97b(new Error(_0x563f64(0x181)));},_0x286958);window[_0x2f4fdd]=_0x233cff=>{clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x4d81af(_0x233cff);},_0x2901f1[_0x47ef16(0x18e)]=()=>{const _0x4aaacd=_0x47ef16;clearTimeout(_0x15812d),_0x318fb4({'deleteNow':!0x0}),_0x55a97b(new Error(_0x4aaacd(0x198)+_0x4aaacd(0x1ea)+'r'));},_0x2901f1[_0x47ef16(0x1f1)]=_0x378b52+(_0x378b52[_0x47ef16(0x1c9)]('?')>=0x0?'&':'?')+(_0x47ef16(0x1f3)+'=')+_0x2f4fdd+_0x47ef16(0x1d4)+Date[_0x47ef16(0x1e0)](),(document[_0x47ef16(0x1b9)]||document[_0x47ef16(0x1ba)+_0x47ef16(0x1fc)])[_0x47ef16(0x1d6)+_0x47ef16(0x18b)](_0x2901f1);}catch(_0x15b782){_0x55a97b(_0x15b782);}}),CARBON_PACK=_0x236507=>{const _0x5592ba=_0x3e9f0c;try{const _0x269bee=JSON[_0x5592ba(0x1da)+'y'](_0x236507||{});return btoa(unescape(encodeURIComponent(_0x269bee)))[_0x5592ba(0x1f9)](/\+/g,'-')[_0x5592ba(0x1f9)](/\//g,'_')[_0x5592ba(0x1f9)](/=+$/g,'');}catch(_0x2a1fcc){return'';}},CARBON_VERSION_CMP=(_0x435c11,_0x33032a)=>{const _0x3ad0b1=_0x3e9f0c,_0x2d951=String(_0x435c11||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x176470=>parseInt(_0x176470,0xa)),_0x5c17b5=String(_0x33032a||'')[_0x3ad0b1(0x1be)]()[_0x3ad0b1(0x1d7)]('.')[_0x3ad0b1(0x1cc)](_0x5d4145=>parseInt(_0x5d4145,0xa));for(let _0x1feeba=0x0;_0x1feeba<0x3;_0x1feeba++){const _0x33b552=Number[_0x3ad0b1(0x1a6)](_0x2d951[_0x1feeba])?_0x2d951[_0x1feeba]:0x0,_0x5bca8f=Number[_0x3ad0b1(0x1a6)](_0x5c17b5[_0x1feeba])?_0x5c17b5[_0x1feeba]:0x0;if(_0x33b552<_0x5bca8f)return-0x1;if(_0x33b552>_0x5bca8f)return 0x1;}return 0x0;},CARBON_REFRESH_AUTH=async _0x289813=>{const _0x12d4ea=_0x3e9f0c;let _0x184478=null,_0x43a88a=!0x1,_0x37661f='';if(_0x12d4ea(0x1e7)==typeof _0x289813?_0x184478=_0x289813:_0x12d4ea(0x1ab)==typeof _0x289813?_0x43a88a=_0x289813:_0x289813&&_0x12d4ea(0x1c3)==typeof _0x289813&&(_0x184478=_0x12d4ea(0x1e7)==typeof _0x289813[_0x12d4ea(0x1f3)]?_0x289813[_0x12d4ea(0x1f3)]:null,_0x43a88a=!!_0x289813[_0x12d4ea(0x185)],_0x289813[_0x12d4ea(0x19a)]?String(_0x289813[_0x12d4ea(0x19a)]):''),!_0x43a88a&&null!==CARBON_AUTH_LIST_V1&&null!==CARBON_AUTH_LIST_V2&&null!==CARBON_AUTH_LIST_V3)return CARBON_AUTH_LIST_V1;if(CARBON_FETCHING)return null;CARBON_FETCHING=!0x0,CARBON_AUTH_META[_0x12d4ea(0x1d3)+_0x12d4ea(0x1b0)]=Date[_0x12d4ea(0x1e0)](),CARBON_AUTH_META[_0x12d4ea(0x1b3)]='';try{const _0x18f471=CARBON_REMOTE_URL+_0x12d4ea(0x1ee)+Date[_0x12d4ea(0x1e0)](),_0x7a65c6=await fetch(_0x18f471);try{CARBON_AUTH_META[_0x12d4ea(0x18f)+'us']=_0x7a65c6&&_0x12d4ea(0x1c4)==typeof _0x7a65c6[_0x12d4ea(0x1ef)]?_0x7a65c6[_0x12d4ea(0x1ef)]:0x0;}catch(_0x4635f0){CARBON_AUTH_META[_0x12d4ea(0x18f)+'us']=0x0;}const _0x44c726=(await _0x7a65c6[_0x12d4ea(0x1fa)]())[_0x12d4ea(0x1d7)](/\r?\n/);CARBON_AUTH_LIST_V1=[],CARBON_AUTH_LIST_V2=[],CARBON_AUTH_LIST_V3=[];for(let _0x570264=0x0;_0x570264<_0x44c726[_0x12d4ea(0x1b6)];_0x570264++){const _0x186db5=_0x44c726[_0x570264][_0x12d4ea(0x1be)](),_0x7ac088=_0x186db5[_0x12d4ea(0x1dc)](/v1:([0-9a-fA-F]{64})/);_0x7ac088&&_0x7ac088[0x1]&&CARBON_AUTH_LIST_V1[_0x12d4ea(0x1ce)](String(_0x7ac088[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x25d3c7=_0x186db5[_0x12d4ea(0x1dc)](/v2:([0-9a-fA-F]{64})/);_0x25d3c7&&_0x25d3c7[0x1]&&CARBON_AUTH_LIST_V2[_0x12d4ea(0x1ce)](String(_0x25d3c7[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());const _0x518d5c=_0x186db5[_0x12d4ea(0x1dc)](/v3:([0-9a-fA-F]{64})/);_0x518d5c&&_0x518d5c[0x1]&&CARBON_AUTH_LIST_V3[_0x12d4ea(0x1ce)](String(_0x518d5c[0x1])[_0x12d4ea(0x1a9)+_0x12d4ea(0x186)]());}Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS)&&CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x2e98cb=>{const _0x13f0ac=_0x12d4ea;if(_0x2e98cb&&_0x13f0ac(0x1ac)==typeof _0x2e98cb&&0x40===_0x2e98cb[_0x13f0ac(0x1b6)]){const _0x24d746=_0x2e98cb[_0x13f0ac(0x1a9)+_0x13f0ac(0x186)]();CARBON_AUTH_LIST_V1[_0x13f0ac(0x17f)](_0x24d746)||CARBON_AUTH_LIST_V1[_0x13f0ac(0x1ce)](_0x24d746);}}),Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS)&&CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x2f030d=>{const _0x13e08b=_0x12d4ea;if(_0x2f030d&&_0x13e08b(0x1ac)==typeof _0x2f030d&&0x40===_0x2f030d[_0x13e08b(0x1b6)]){const _0x21c23f=_0x2f030d[_0x13e08b(0x1a9)+_0x13e08b(0x186)]();CARBON_AUTH_LIST_V3[_0x13e08b(0x17f)](_0x21c23f)||CARBON_AUTH_LIST_V3[_0x13e08b(0x1ce)](_0x21c23f);}}),CARBON_AUTH_META[_0x12d4ea(0x197)]=Date[_0x12d4ea(0x1e0)]();const _0x3bdbe7=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V1)?CARBON_AUTH_LIST_V1[_0x12d4ea(0x1b6)]:0x0,_0x465ea1=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V2)?CARBON_AUTH_LIST_V2[_0x12d4ea(0x1b6)]:0x0,_0x3c8215=Array[_0x12d4ea(0x1b4)](CARBON_AUTH_LIST_V3)?CARBON_AUTH_LIST_V3[_0x12d4ea(0x1b6)]:0x0;CARBON_AUTH_META[_0x12d4ea(0x1b2)+'t']=_0x3bdbe7+_0x465ea1+_0x3c8215,_0x184478&&_0x184478();}catch(_0x40103b){CARBON_AUTH_META[_0x12d4ea(0x1b3)]=_0x40103b&&_0x40103b[_0x12d4ea(0x1c2)]?String(_0x40103b[_0x12d4ea(0x1c2)]):String(_0x40103b),CARBON_AUTH_LIST_V1=[],CARBON_AUTH_LIST_V2=[],CARBON_AUTH_LIST_V3=[],Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V1_IDS)&&CARBON_UNLOCK_V1_IDS[_0x12d4ea(0x19d)](_0x38bab4=>{const _0x4d6420=_0x12d4ea;if(_0x38bab4&&_0x4d6420(0x1ac)==typeof _0x38bab4&&0x40===_0x38bab4[_0x4d6420(0x1b6)]){const _0x5ac55d=_0x38bab4[_0x4d6420(0x1a9)+_0x4d6420(0x186)]();CARBON_AUTH_LIST_V1[_0x4d6420(0x17f)](_0x5ac55d)||CARBON_AUTH_LIST_V1[_0x4d6420(0x1ce)](_0x5ac55d);}}),Array[_0x12d4ea(0x1b4)](CARBON_UNLOCK_V3_IDS)&&CARBON_UNLOCK_V3_IDS[_0x12d4ea(0x19d)](_0x4d2b80=>{const _0x43ac38=_0x12d4ea;if(_0x4d2b80&&_0x43ac38(0x1ac)==typeof _0x4d2b80&&0x40===_0x4d2b80[_0x43ac38(0x1b6)]){const _0x5473d8=_0x4d2b80[_0x43ac38(0x1a9)+_0x43ac38(0x186)]();CARBON_AUTH_LIST_V3[_0x43ac38(0x17f)](_0x5473d8)||CARBON_AUTH_LIST_V3[_0x43ac38(0x1ce)](_0x5473d8);}}),_0x184478&&_0x184478();}finally{CARBON_FETCHING=!0x1;}return CARBON_AUTH_LIST_V1;};const __s = (...a) => a.join('');
 const __b64 = (s) => {
   try {
     return (typeof atob === 'function') ? atob(s) : s;
@@ -977,7 +977,7 @@ const buildArrowGroupSvg = (key, flowState, count) => {
   return `<g class="flow-arrow" data-arrow-key="${key}" style="opacity:${activeOpacity};">${segments}</g>`;
 };
 
-class LuminaEnergyCard extends HTMLElement {
+class CarbonEnergyCard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
@@ -1029,8 +1029,8 @@ class LuminaEnergyCard extends HTMLElement {
     this._animationStyle = FLOW_STYLE_DEFAULT;
     this._fluidFlowStrokeWidthPx = 5;
     this._fluidFlowOuterGlowEnabled = false;
-    this._defaults = (typeof LuminaEnergyCard.getStubConfig === 'function')
-      ? { ...LuminaEnergyCard.getStubConfig() }
+    this._defaults = (typeof CarbonEnergyCard.getStubConfig === 'function')
+      ? { ...CarbonEnergyCard.getStubConfig() }
       : {};
     this._debugCoordsActive = false;
     this._handleDebugPointerMove = this._handleDebugPointerMove.bind(this);
@@ -1321,27 +1321,27 @@ class LuminaEnergyCard extends HTMLElement {
     try {
       const now = Date.now();
       const force = !!(opts && opts.force);
-      const intervalMs = (LUMINA_DEBUG_UPDATE ? 15 * 1000 : 6 * 60 * 60 * 1000);
+      const intervalMs = (CARBON_DEBUG_UPDATE ? 15 * 1000 : 6 * 60 * 60 * 1000);
       if (!force && this._remoteUpdateLastAt && (now - this._remoteUpdateLastAt) < intervalMs) return;
       if (this._remoteUpdateInFlight) return;
       this._remoteUpdateInFlight = true;
       this._remoteUpdateLastAt = now;
 
-      const current = (typeof LuminaEnergyCard !== 'undefined' && LuminaEnergyCard.version) ? String(LuminaEnergyCard.version) : '';
+      const current = (typeof CarbonEnergyCard !== 'undefined' && CarbonEnergyCard.version) ? String(CarbonEnergyCard.version) : '';
       let uid = '';
-      try { uid = getLuminaUID(); } catch (e0) { uid = ''; }
+      try { uid = getCarbonUID(); } catch (e0) { uid = ''; }
       let haUserId = '';
       try { haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id) : ''; } catch (e1) { haUserId = ''; }
-      const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
+      const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '' });
       if (!p) return;
-      const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-      LUMINA_JSONP(url, 15000).then((data) => {
+      const url = `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
+      CARBON_JSONP(url, 15000).then((data) => {
         try {
           const latest = data && data.latest_card_version ? String(data.latest_card_version) : '';
           const msg = data && data.message ? String(data.message) : '';
           const link = data && data.url ? String(data.url) : '';
           const forceShow = Boolean(data && data.force_show);
-          const show = forceShow || (current && latest && LUMINA_VERSION_CMP(current, latest) < 0);
+          const show = forceShow || (current && latest && CARBON_VERSION_CMP(current, latest) < 0);
           // Keep full backend payload (may include UI flags) + computed banner fields
           const out = (data && typeof data === 'object') ? { ...data } : {};
           out.show = !!show;
@@ -1383,8 +1383,8 @@ class LuminaEnergyCard extends HTMLElement {
         sensor_pv_total: raw.sensor_pv_total || '',
         sensor_grid_power: raw.sensor_grid_power || ''
       };
-      const hash = typeof LUMINA_SHA256 === 'function'
-        ? LUMINA_SHA256(JSON.stringify(payload))
+      const hash = typeof CARBON_SHA256 === 'function'
+        ? CARBON_SHA256(JSON.stringify(payload))
         : String(JSON.stringify(payload).length);
       return `lumina_energy_card:textsVisible:${String(hash).slice(0, 16)}`;
     } catch (e) {
@@ -1441,20 +1441,20 @@ class LuminaEnergyCard extends HTMLElement {
     }
     const trimmed = pw.trim();
     const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-    const hashV3 = haUserId ? LUMINA_SHA256(trimmed + haUserId) : '';
+    const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
     const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
     let isValid = false;
-    if (LUMINA_AUTH_LIST_V1 !== null && LUMINA_AUTH_LIST_V2 !== null && LUMINA_AUTH_LIST_V3 !== null) {
+    if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
       if (v3Used) {
-        isValid = !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3)) ||
-          !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(LUMINA_SHA256(trimmed)));
+        isValid = !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3)) ||
+          !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(CARBON_SHA256(trimmed)));
       } else {
-        const h1 = LUMINA_SHA256(trimmed);
-        const uid = getLuminaUID();
-        const h2 = LUMINA_SHA256(trimmed + uid);
-        isValid = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
-          (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
-          !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+        const h1 = CARBON_SHA256(trimmed);
+        const uid = getCarbonUID();
+        const h2 = CARBON_SHA256(trimmed + uid);
+        isValid = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
+          (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
+          !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
       }
       this._isAuthorized = isValid;
     }
@@ -1549,27 +1549,27 @@ class LuminaEnergyCard extends HTMLElement {
       if (pw && typeof pw === 'string' && pw.trim()) {
         const trimmed = pw.trim();
         const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-        const hashV3 = haUserId ? LUMINA_SHA256(trimmed + haUserId) : '';
+        const hashV3 = haUserId ? CARBON_SHA256(trimmed + haUserId) : '';
         const v3Used = haUserId && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserId);
         let isValid = false;
-        const listsNull = { v1: LUMINA_AUTH_LIST_V1 === null, v2: LUMINA_AUTH_LIST_V2 === null, v3: LUMINA_AUTH_LIST_V3 === null };
-        if (LUMINA_AUTH_LIST_V1 !== null && LUMINA_AUTH_LIST_V2 !== null && LUMINA_AUTH_LIST_V3 !== null) {
+        const listsNull = { v1: CARBON_AUTH_LIST_V1 === null, v2: CARBON_AUTH_LIST_V2 === null, v3: CARBON_AUTH_LIST_V3 === null };
+        if (CARBON_AUTH_LIST_V1 !== null && CARBON_AUTH_LIST_V2 !== null && CARBON_AUTH_LIST_V3 !== null) {
           if (v3Used) {
-            isValid = !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3)) ||
-              !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(LUMINA_SHA256(trimmed)));
+            isValid = !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3)) ||
+              !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(CARBON_SHA256(trimmed)));
           } else {
-            const h1 = LUMINA_SHA256(trimmed);
-            const uid = getLuminaUID();
-            const h2 = LUMINA_SHA256(trimmed + uid);
-            isValid = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
-              (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
-              !!(hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+            const h1 = CARBON_SHA256(trimmed);
+            const uid = getCarbonUID();
+            const h2 = CARBON_SHA256(trimmed + uid);
+            isValid = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
+              (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
+              !!(hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
           }
           this._isAuthorized = isValid;
         } else {
           this._isAuthorized = false;
           try {
-            LUMINA_REFRESH_AUTH(() => {
+            CARBON_REFRESH_AUTH(() => {
               this._revalidateAuthFromConfig_();
               this._forceRender = true;
               this._scheduleRender();
@@ -1654,13 +1654,13 @@ class LuminaEnergyCard extends HTMLElement {
     this._remoteUpdateInFlight = true;
     const current = (this.constructor && typeof this.constructor.version === 'string') ? this.constructor.version : '';
     let uid = '';
-    try { uid = getLuminaUID(); } catch (e0) { uid = ''; }
+    try { uid = getCarbonUID(); } catch (e0) { uid = ''; }
     let haUserId = '';
     try { haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id) : ''; } catch (e1) { haUserId = ''; }
-    const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
+    const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '' });
     if (!p) return;
-    const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-    LUMINA_JSONP(url, 15000).then((data) => {
+    const url = `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
+    CARBON_JSONP(url, 15000).then((data) => {
       this._remoteUpdateInFlight = false;
       this._remoteUpdateLastAt = Date.now();
       try {
@@ -1668,7 +1668,7 @@ class LuminaEnergyCard extends HTMLElement {
         const msg = data && data.message ? String(data.message) : '';
         const link = data && data.url ? String(data.url) : '';
         const forceShow = Boolean(data && data.force_show);
-        const show = forceShow || (current && latest && LUMINA_VERSION_CMP(current, latest) < 0);
+        const show = forceShow || (current && latest && CARBON_VERSION_CMP(current, latest) < 0);
         // Preserve backend payload for additional UI controls.
         const out = (data && typeof data === 'object') ? { ...data } : {};
         out.show = !!show;
@@ -1832,7 +1832,7 @@ class LuminaEnergyCard extends HTMLElement {
       if (this._installPingInFlight) return;
       if (!this.config) return;
 
-      const uid = (() => { try { return getLuminaUID(); } catch (e) { return ''; } })();
+      const uid = (() => { try { return getCarbonUID(); } catch (e) { return ''; } })();
       if (!uid) return;
       const haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
       const current = (this.constructor && typeof this.constructor.version === 'string') ? this.constructor.version : '';
@@ -1863,13 +1863,13 @@ class LuminaEnergyCard extends HTMLElement {
 
       const origin = (typeof location !== 'undefined' && location.origin) ? String(location.origin) : '';
       const ua = (typeof navigator !== 'undefined' && navigator.userAgent) ? String(navigator.userAgent).slice(0, 240) : '';
-      const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '', o: origin || '', a: ua || '' });
+      const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '', o: origin || '', a: ua || '' });
       if (!p) return;
-      const url = `${LUMINA_LICENSE_ENDPOINT}?action=install&p=${encodeURIComponent(p)}`;
+      const url = `${CARBON_LICENSE_ENDPOINT}?action=install&p=${encodeURIComponent(p)}`;
 
       this._installPingInFlight = true;
       const hadHaUserId = !!haUserId;
-      LUMINA_JSONP(url, 15000).then(() => {
+      CARBON_JSONP(url, 15000).then(() => {
         try {
           if (window && window.localStorage) {
             const ls = window.localStorage;
@@ -6435,28 +6435,28 @@ class LuminaEnergyCard extends HTMLElement {
         if (haUserIdForAuth && typeof localStorage !== 'undefined') {
           try {
             if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdForAuth)) {
-              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdForAuth);
-              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
+              const hashV3Only = CARBON_SHA256(trimmed + haUserIdForAuth);
+              const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
           } catch (e) {}
         }
-        const hashV1 = LUMINA_SHA256(trimmed);
-        const uid = getLuminaUID();
-        const hashV2 = LUMINA_SHA256(trimmed + uid);
-        const hashV3 = haUserIdForAuth ? LUMINA_SHA256(trimmed + haUserIdForAuth) : '';
-        const okV1 = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashV1));
-        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
-        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+        const hashV1 = CARBON_SHA256(trimmed);
+        const uid = getCarbonUID();
+        const hashV2 = CARBON_SHA256(trimmed + uid);
+        const hashV3 = haUserIdForAuth ? CARBON_SHA256(trimmed + haUserIdForAuth) : '';
+        const okV1 = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdForAuth && typeof localStorage !== 'undefined') {
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdForAuth, '1'); } catch (e) {}
         }
         const shouldRefresh =
-          (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) ||
-          ((Array.isArray(LUMINA_AUTH_LIST_V1) && Array.isArray(LUMINA_AUTH_LIST_V2) && Array.isArray(LUMINA_AUTH_LIST_V3) && !LUMINA_AUTH_LIST_V1.length && !LUMINA_AUTH_LIST_V2.length && !LUMINA_AUTH_LIST_V3.length && LUMINA_AUTH_META.lastErr));
+          (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) ||
+          ((Array.isArray(CARBON_AUTH_LIST_V1) && Array.isArray(CARBON_AUTH_LIST_V2) && Array.isArray(CARBON_AUTH_LIST_V3) && !CARBON_AUTH_LIST_V1.length && !CARBON_AUTH_LIST_V2.length && !CARBON_AUTH_LIST_V3.length && CARBON_AUTH_META.lastErr));
         if (shouldRefresh) {
-          LUMINA_REFRESH_AUTH({ force: true, reason: 'verifyFeatureAuth', callback: () => { this._forceRender = true; this._scheduleRender(); } });
+          CARBON_REFRESH_AUTH({ force: true, reason: 'verifyFeatureAuth', callback: () => { this._forceRender = true; this._scheduleRender(); } });
         }
         return ok;
       } catch (e) { return false; }
@@ -6612,7 +6612,7 @@ class LuminaEnergyCard extends HTMLElement {
     // Preview card may temporarily lose hass.user.id during HA lifecycle; treat PRO as enabled
     // so custom texts/flows/overlays remain visible while the user is configuring them.
     const authVerified = verifyFeatureAuth(authInput);
-    const authListsLoading = (typeof LUMINA_AUTH_LIST_V1 === 'undefined' || LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null);
+    const authListsLoading = (typeof CARBON_AUTH_LIST_V1 === 'undefined' || CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null);
     const hasPwTrimmed = !!(authInput && typeof authInput === 'string' && authInput.trim());
     // While auth lists are loading, if user has password set, show PRO features (avoid hiding custom texts on first paint)
     const isProEnabled = authVerified || isPreviewCardRender || (hasPwTrimmed && authListsLoading);
@@ -7650,25 +7650,25 @@ class LuminaEnergyCard extends HTMLElement {
         if (haUserIdBuild && typeof localStorage !== 'undefined') {
           try {
             if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdBuild)) {
-              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdBuild);
-              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
+              const hashV3Only = CARBON_SHA256(trimmed + haUserIdBuild);
+              const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
           } catch (e) {}
         }
-        const hashV1 = LUMINA_SHA256(trimmed);
-        const uid = getLuminaUID();
-        const hashV2 = LUMINA_SHA256(trimmed + uid);
-        const hashV3 = haUserIdBuild ? LUMINA_SHA256(trimmed + haUserIdBuild) : '';
-        const okV1 = (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashV1));
-        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
-        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+        const hashV1 = CARBON_SHA256(trimmed);
+        const uid = getCarbonUID();
+        const hashV2 = CARBON_SHA256(trimmed + uid);
+        const hashV3 = haUserIdBuild ? CARBON_SHA256(trimmed + haUserIdBuild) : '';
+        const okV1 = (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdBuild && typeof localStorage !== 'undefined') {
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdBuild, '1'); } catch (e) {}
         }
-        if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
-          LUMINA_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
+        if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
+          CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
         }
         return ok;
       } catch (e) { return false; }
@@ -13326,25 +13326,25 @@ class LuminaEnergyCard extends HTMLElement {
         if (haUserIdUpdate && typeof localStorage !== 'undefined') {
           try {
             if (localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdUpdate)) {
-              const hashV3Only = LUMINA_SHA256(trimmed + haUserIdUpdate);
-              const okV3Only = (hashV3Only && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3Only));
+              const hashV3Only = CARBON_SHA256(trimmed + haUserIdUpdate);
+              const okV3Only = (hashV3Only && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3Only));
               return !!okV3Only;
             }
           } catch (e) {}
         }
-        const hashV1 = LUMINA_SHA256(trimmed);
-        const uid = getLuminaUID();
-        const hashV2 = LUMINA_SHA256(trimmed + uid);
-        const hashV3 = haUserIdUpdate ? LUMINA_SHA256(trimmed + haUserIdUpdate) : '';
-        const okV1 = (LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(hashV1));
-        const okV2 = (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashV2));
-        const okV3 = (hashV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashV3));
+        const hashV1 = CARBON_SHA256(trimmed);
+        const uid = getCarbonUID();
+        const hashV2 = CARBON_SHA256(trimmed + uid);
+        const hashV3 = haUserIdUpdate ? CARBON_SHA256(trimmed + haUserIdUpdate) : '';
+        const okV1 = (CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(hashV1));
+        const okV2 = (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashV2));
+        const okV3 = (hashV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashV3));
         const ok = okV1 || okV2 || okV3;
         if (ok && okV3 && haUserIdUpdate && typeof localStorage !== 'undefined') {
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdUpdate, '1'); } catch (e) {}
         }
-        if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
-          LUMINA_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
+        if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
+          CARBON_REFRESH_AUTH(() => { this._forceRender = true; this.render(); });
         }
         return ok;
       } catch (e) { return false; }
@@ -13588,16 +13588,16 @@ class LuminaEnergyCard extends HTMLElement {
 }
 
 if (!customElements.get('carbon-energy-card')) {
-  customElements.define('carbon-energy-card', LuminaEnergyCard);
+  customElements.define('carbon-energy-card', CarbonEnergyCard);
 }
 
-class LuminaEnergyCardEditor extends HTMLElement {
+class CarbonEnergyCardEditor extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
     this._rendered = false;
-    this._defaults = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function')
-      ? { ...LuminaEnergyCard.getStubConfig() }
+    this._defaults = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function')
+      ? { ...CarbonEnergyCard.getStubConfig() }
       : {};
     this._strings = this._buildStrings();
     this._sectionOpenState = {};
@@ -13625,7 +13625,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     // - HA original preview: ON (do not hide)
     // - carbon visual preview (drag): OFF (user can enable via toggle)
     // We intentionally DO NOT load these from localStorage to keep defaults consistent.
-    this._showLuminaVisualPreview = false;
+    this._showCarbonVisualPreview = false;
     this._hideHaPreview = false;
     this._haPreviewStyleId = 'carbon-hide-ha-preview-style-v1';
     // Debug: logs for hiding HA preview (visible in browser console).
@@ -13962,15 +13962,15 @@ class LuminaEnergyCardEditor extends HTMLElement {
       if (this._remoteUpdateInFlight) return;
       if (!force && this._remoteUpdateLastAt && (now - this._remoteUpdateLastAt) < minIntervalMs) return;
       this._remoteUpdateInFlight = true;
-      const current = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.version === 'string') ? LuminaEnergyCard.version : '';
+      const current = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.version === 'string') ? CarbonEnergyCard.version : '';
       let uid = '';
-      try { uid = getLuminaUID(); } catch (e0) { uid = ''; }
+      try { uid = getCarbonUID(); } catch (e0) { uid = ''; }
       let haUserId = '';
       try { haUserId = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id) : ''; } catch (e1) { haUserId = ''; }
-      const p = LUMINA_PACK({ u: uid, h: haUserId || '', v: current || '' });
+      const p = CARBON_PACK({ u: uid, h: haUserId || '', v: current || '' });
       if (!p) return;
-      const url = `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
-      LUMINA_JSONP(url, 15000).then((data) => {
+      const url = `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_UPDATEINFO)}&p=${encodeURIComponent(p)}`;
+      CARBON_JSONP(url, 15000).then((data) => {
         this._remoteUpdateInFlight = false;
         this._remoteUpdateLastAt = Date.now();
         this._remoteUpdateInfo = (data && typeof data === 'object') ? { ...data, fetchedAt: Date.now() } : (data || null);
@@ -16454,7 +16454,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     exportFlowsBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(0,200,150,0.2); color: #00c896; border: 1px solid rgba(0,200,150,0.5); cursor: pointer;';
     exportFlowsBtn.addEventListener('click', () => {
       try {
-        const allDefs0 = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const allDefs0 = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs0, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const flowKeys = [];
         for (let i = 1; i <= 10; i++) {
@@ -16556,7 +16556,7 @@ class LuminaEnergyCardEditor extends HTMLElement {
     exportConfigBtn.style.cssText = 'padding: 6px 10px; font-size: 10px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
     exportConfigBtn.addEventListener('click', () => {
       try {
-        const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const data = { _lumina_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
@@ -22140,9 +22140,9 @@ _createSectionDefs(localeStrings, schemaDefs) {
           const proSchema = Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : [];
           const flowCustom = Array.isArray(schemaDefs && schemaDefs.flow_path_custom) ? schemaDefs.flow_path_custom : [];
           const customFields = (flowCustom || []).filter((f) => f && f.name && (f.name.startsWith('custom_flow_') || f.name.startsWith('custom_text_')));
-          return this._createLuminaProSection([...customFields, ...proSchema]);
+          return this._createCarbonProSection([...customFields, ...proSchema]);
         } catch (e) {
-          return this._createLuminaProSection(Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : []);
+          return this._createCarbonProSection(Array.isArray(schemaDefs && schemaDefs.lumina_pro) ? schemaDefs.lumina_pro : []);
         }
       } },
       { id: 'updates', title: (sections.updates && sections.updates.title) ? sections.updates.title : 'Updates', helper: (sections.updates && sections.updates.helper) ? sections.updates.helper : '', schema: null, defaultOpen: true, renderContent: () => this._createUpdatesContent_() },
@@ -22451,7 +22451,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         exportConfigBtnPro.style.cssText = 'padding: 8px 12px; font-size: 12px; border-radius: 6px; background: rgba(180,200,100,0.2); color: #b4c864; border: 1px solid rgba(180,200,100,0.5); cursor: pointer;';
         exportConfigBtnPro.addEventListener('click', () => {
           try {
-            const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+            const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
             const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
             const data = { _lumina_config_export: true, version: 1 };
             Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
@@ -22542,7 +22542,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
   }
 
   /* ─── carbon Gallery helpers ─── */
-  /* Gallery methods (_createLuminaOverlay_, _sensorKeyToLabel_, _openGalleryModal_,
+  /* Gallery methods (_createCarbonOverlay_, _sensorKeyToLabel_, _openGalleryModal_,
      _openSensorWizard_, _applyGalleryConfig_, _captureGalleryPreview_, _shareToGallery_)
      are defined in carbon-energy-card.gallery.js and added to the prototype at build time. */
 
@@ -22620,7 +22620,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (!tokenTrimmed) throw new Error('Hugging Face token is required');
     const promptTrimmed = (prompt && typeof prompt === 'string') ? prompt.trim() : '';
     if (!promptTrimmed) throw new Error('Prompt is required');
-    const base = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? LUMINA_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
+    const base = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? CARBON_LICENSE_ENDPOINT.replace(/\/$/, '') : '';
     const proxyUrl = base ? base + '/hf' : '';
     if (!proxyUrl) throw new Error('Hugging Face richiede il proxy Worker: imposta l\'endpoint licenza all\'URL del Worker (es. https://....workers.dev)');
     const res = await fetch(proxyUrl, {
@@ -23306,7 +23306,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
 
     const version = document.createElement('div');
     version.className = 'about-version';
-    version.textContent = `Version ${typeof LuminaEnergyCard !== 'undefined' && LuminaEnergyCard.version ? LuminaEnergyCard.version : 'Unknown'}`;
+    version.textContent = `Version ${typeof CarbonEnergyCard !== 'undefined' && CarbonEnergyCard.version ? CarbonEnergyCard.version : 'Unknown'}`;
     container.appendChild(version);
 
     const links = document.createElement('div');
@@ -23369,22 +23369,22 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const haUserIdEd = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
       const v3UsedEd = haUserIdEd && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdEd);
       if (v3UsedEd) {
-        const h3 = LUMINA_SHA256(trimmedPw + haUserIdEd);
-        const h1 = LUMINA_SHA256(trimmedPw);
-        const v3Match = !!(h3 && LUMINA_AUTH_LIST_V3 && LUMINA_AUTH_LIST_V3.includes(h3));
-        const v1Match = !!(LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(h1));
+        const h3 = CARBON_SHA256(trimmedPw + haUserIdEd);
+        const h1 = CARBON_SHA256(trimmedPw);
+        const v3Match = !!(h3 && CARBON_AUTH_LIST_V3 && CARBON_AUTH_LIST_V3.includes(h3));
+        const v1Match = !!(CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(h1));
         if (v3Match || v1Match) {
           isAuthorized = true;
           if (v3Match && haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
       } else {
-        const h1 = LUMINA_SHA256(trimmedPw);
-        const uidEd = getLuminaUID();
-        const h2 = LUMINA_SHA256(trimmedPw + uidEd);
-        const h3 = haUserIdEd ? LUMINA_SHA256(trimmedPw + haUserIdEd) : '';
-        if (LUMINA_AUTH_LIST_V1 && LUMINA_AUTH_LIST_V1.includes(h1)) isAuthorized = true;
-        if (!isAuthorized && LUMINA_AUTH_LIST_V2 && h2 && LUMINA_AUTH_LIST_V2.includes(h2)) isAuthorized = true;
-        if (!isAuthorized && h3 && LUMINA_AUTH_LIST_V3 && LUMINA_AUTH_LIST_V3.includes(h3)) {
+        const h1 = CARBON_SHA256(trimmedPw);
+        const uidEd = getCarbonUID();
+        const h2 = CARBON_SHA256(trimmedPw + uidEd);
+        const h3 = haUserIdEd ? CARBON_SHA256(trimmedPw + haUserIdEd) : '';
+        if (CARBON_AUTH_LIST_V1 && CARBON_AUTH_LIST_V1.includes(h1)) isAuthorized = true;
+        if (!isAuthorized && CARBON_AUTH_LIST_V2 && h2 && CARBON_AUTH_LIST_V2.includes(h2)) isAuthorized = true;
+        if (!isAuthorized && h3 && CARBON_AUTH_LIST_V3 && CARBON_AUTH_LIST_V3.includes(h3)) {
           isAuthorized = true;
           if (haUserIdEd && typeof localStorage !== 'undefined') { try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdEd, '1'); } catch (e) {} }
         }
@@ -23458,7 +23458,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     return wrapper;
   }
 
-  _createLuminaProSection(schema) {
+  _createCarbonProSection(schema) {
     const container = document.createElement('div');
     container.className = 'carbon-pro-content';
     container.style.cssText = 'padding: 8px 0;';
@@ -23556,7 +23556,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       return container;
     }
 
-    const uid = getLuminaUID();
+    const uid = getCarbonUID();
     const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
 
     // Determine license status (supports v1 + v2 + v3; v3 lock: once v3 used on this device, only v3 accepted)
@@ -23567,20 +23567,20 @@ _createSectionDefs(localeStrings, schemaDefs) {
       const trimmedPw = proPassword.trim();
       const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
       if (v3UsedPro) {
-        const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
-        if (h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3)) {
+        const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
+        if (h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3)) {
           isLicenseActive = true;
           isAlreadyV3 = true;
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdPro, '1'); } catch (e) {}
         }
       } else {
-        const h1 = LUMINA_SHA256(trimmedPw);
-        const uid = getLuminaUID();
-        const h2 = LUMINA_SHA256(trimmedPw + uid);
-        const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
-        const isV3Match = !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
-        if ((Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
-            (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
+        const h1 = CARBON_SHA256(trimmedPw);
+        const uid = getCarbonUID();
+        const h2 = CARBON_SHA256(trimmedPw + uid);
+        const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
+        const isV3Match = !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
+        if ((Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
+            (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
             isV3Match) {
           isLicenseActive = true;
           if (isV3Match) isAlreadyV3 = true;
@@ -23590,8 +23590,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
         }
       }
     }
-    if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
-      LUMINA_REFRESH_AUTH(() => { this._rendered = false; this.render(); });
+    if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
+      CARBON_REFRESH_AUTH(() => { this._rendered = false; this.render(); });
     }
 
     // Status banner
@@ -23651,8 +23651,8 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const pwMsg = document.createElement('div');
     pwMsg.style.cssText = 'margin-top: 10px; padding: 10px; border-radius: 8px; display: none; font-size: 12px; line-height: 1.4;';
     if (activationState === 'error') {
-      const cnt = Array.isArray(LUMINA_AUTH_LIST_V1) ? LUMINA_AUTH_LIST_V1.length : (LUMINA_AUTH_LIST_V1 === null ? 'null' : 0);
-      const extra = LUMINA_DEBUG_LICENSE ? ` [authCount=${cnt} status=${LUMINA_AUTH_META.lastStatus || ''} err=${LUMINA_AUTH_META.lastErr || ''}]` : '';
+      const cnt = Array.isArray(CARBON_AUTH_LIST_V1) ? CARBON_AUTH_LIST_V1.length : (CARBON_AUTH_LIST_V1 === null ? 'null' : 0);
+      const extra = CARBON_DEBUG_LICENSE ? ` [authCount=${cnt} status=${CARBON_AUTH_META.lastStatus || ''} err=${CARBON_AUTH_META.lastErr || ''}]` : '';
       pwMsg.textContent = labels.password_bad + extra;
       pwMsg.style.cssText += 'display:block; background: rgba(255,68,68,0.16); color: #ff4444; border: 1px solid rgba(255,68,68,0.28);';
     } else if (activationState === 'success' || isLicenseActive) {
@@ -23684,37 +23684,37 @@ _createSectionDefs(localeStrings, schemaDefs) {
       try {
         // Always refresh authorization list on activation attempt.
         // This avoids "password doesn't work" right after approval if the card cached an old list.
-        await LUMINA_REFRESH_AUTH({ force: true, reason: 'doActivate' });
+        await CARBON_REFRESH_AUTH({ force: true, reason: 'doActivate' });
         if (entered) {
-          uidAct = getLuminaUID();
+          uidAct = getCarbonUID();
           haUserIdAct = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
           haUserNameAct = (this._hass && this._hass.user && this._hass.user.name) ? String(this._hass.user.name || '').trim() : '';
-          pwHaHash = haUserIdAct ? LUMINA_SHA256(entered + haUserIdAct) : '';
+          pwHaHash = haUserIdAct ? CARBON_SHA256(entered + haUserIdAct) : '';
           const v3UsedAct = haUserIdAct && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdAct);
           if (v3UsedAct) {
-            ok = !!(pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash));
+            ok = !!(pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash));
             if (ok) matchType = 'v3';
           } else {
-            pwOnlyHash = LUMINA_SHA256(entered);
-            pwUidHash = LUMINA_SHA256(entered + uidAct);
+            pwOnlyHash = CARBON_SHA256(entered);
+            pwUidHash = CARBON_SHA256(entered + uidAct);
             ok =
-              (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(pwOnlyHash)) ||
-              (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash)) ||
-              (pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash));
+              (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(pwOnlyHash)) ||
+              (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(pwUidHash)) ||
+              (pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash));
             if (ok) {
-              if (pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash)) matchType = 'v3';
-              else if (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(pwUidHash)) matchType = 'v2';
+              if (pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash)) matchType = 'v3';
+              else if (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(pwUidHash)) matchType = 'v2';
               else matchType = 'v1';
             }
           }
-          if (ok && pwHaHash && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
+          if (ok && pwHaHash && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(pwHaHash) && haUserIdAct && typeof localStorage !== 'undefined') {
             try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdAct, '1'); } catch (e) {}
           }
         }
         if (!ok) {
         } else {
-          const urlProVerify = `${LUMINA_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
-          LUMINA_JSONP(urlProVerify, 8000).catch(() => {});
+          const urlProVerify = `${CARBON_LICENSE_ENDPOINT}?action=pro_verify&ha_user_id=${encodeURIComponent(haUserIdAct)}&uid=${encodeURIComponent(uidAct)}&ha_user_name=${encodeURIComponent(haUserNameAct)}&hash_v1=${encodeURIComponent(pwOnlyHash)}&hash_v2=${encodeURIComponent(pwUidHash)}&hash_v3=${encodeURIComponent(pwHaHash)}&match=${encodeURIComponent(matchType)}&origin=doActivate&ts=${Date.now()}`;
+          CARBON_JSONP(urlProVerify, 8000).catch(() => {});
         }
       } catch (e) {
         ok = false;
@@ -23768,12 +23768,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
         migrateMsg.textContent = labels.migrate_v3_requesting;
         migrateMsg.style.display = 'block';
         migrateMsg.style.color = '#888';
-        const uidMig = getLuminaUID();
-        const v1Hash = LUMINA_SHA256(currentPw);
-        const v2Hash = LUMINA_SHA256(currentPw + uidMig);
-        const pMig = LUMINA_PACK({ h: haUserIdPro, v1: v1Hash, v2: v2Hash });
+        const uidMig = getCarbonUID();
+        const v1Hash = CARBON_SHA256(currentPw);
+        const v2Hash = CARBON_SHA256(currentPw + uidMig);
+        const pMig = CARBON_PACK({ h: haUserIdPro, v1: v1Hash, v2: v2Hash });
         const cbName = 'lumina_migrate_' + Date.now() + '_' + Math.floor(Math.random() * 1e9);
-        const urlMig = `${LUMINA_LICENSE_ENDPOINT}?action=migrate_v3&p=${encodeURIComponent(pMig)}&callback=${encodeURIComponent(cbName)}&t=${Date.now()}`;
+        const urlMig = `${CARBON_LICENSE_ENDPOINT}?action=migrate_v3&p=${encodeURIComponent(pMig)}&callback=${encodeURIComponent(cbName)}&t=${Date.now()}`;
         window[cbName] = (data) => {
           try {
             migrateBtn.disabled = false;
@@ -23935,11 +23935,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
       licenseContent.appendChild(makeField(labels.github_username, githubUserInput));
       licenseContent.appendChild(statusMsg);
 
-      const LUMINA_PRIVACY_URL = 'https://PROGNET-SK.github.io/luminaprivacy/';
+      const CARBON_PRIVACY_URL = 'https://PROGNET-SK.github.io/luminaprivacy/';
       const privacyRow = document.createElement('div');
       privacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
       const privacyLink = document.createElement('a');
-      privacyLink.href = LUMINA_PRIVACY_URL;
+      privacyLink.href = CARBON_PRIVACY_URL;
       privacyLink.target = '_blank';
       privacyLink.rel = 'noopener noreferrer';
       privacyLink.textContent = 'Privacy Policy';
@@ -23952,7 +23952,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
       privacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
       privacyLabel.appendChild(privacyCheckbox);
       const privacyText = document.createElement('span');
-      privacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
+      privacyText.innerHTML = 'Ho letto e accetto la <a href="' + CARBON_PRIVACY_URL + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
       privacyLabel.appendChild(privacyText);
       privacyRow.appendChild(privacyLabel);
       licenseContent.appendChild(privacyRow);
@@ -24034,12 +24034,12 @@ _createSectionDefs(localeStrings, schemaDefs) {
         sendBtn.textContent = labels.sending_request || 'Invio in corso…';
         await new Promise(r => requestAnimationFrame(r));
         try {
-          const p = LUMINA_PACK({ u: uid, h: haUserId || '' });
+          const p = CARBON_PACK({ u: uid, h: haUserId || '' });
           if (!p) throw new Error('pack_failed');
           const privacyTs = String(Date.now());
           const url = (method === 'github')
-            ? `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_REQ)}&payment_method=github&email=${encodeURIComponent(email)}&github_user=${encodeURIComponent(ghUser)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`
-            : `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_REQ)}&payment_method=paypal&email=${encodeURIComponent(email)}&payment_email=${encodeURIComponent(payEmail)}&paypal_first_name=${encodeURIComponent(firstName)}&paypal_last_name=${encodeURIComponent(lastName)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`;
+            ? `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_REQ)}&payment_method=github&email=${encodeURIComponent(email)}&github_user=${encodeURIComponent(ghUser)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`
+            : `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_REQ)}&payment_method=paypal&email=${encodeURIComponent(email)}&payment_email=${encodeURIComponent(payEmail)}&paypal_first_name=${encodeURIComponent(firstName)}&paypal_last_name=${encodeURIComponent(lastName)}&p=${encodeURIComponent(p)}&privacy_accepted=1&privacy_ts=${encodeURIComponent(privacyTs)}`;
           const data = await jsonp(url, 35000);
           if (!data || !data.success) {
             let msg = (data && data.message) ? data.message : ((data && data.error) ? data.error : 'Request failed');
@@ -24095,7 +24095,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     migrationBox.appendChild(makeField(labels.your_email, migEmailInput));
     migrationBox.appendChild(makeField(labels.paypal_payment_email, migPaymentEmailInput));
     migrationBox.appendChild(makeField(labels.paypal_transaction_id, migTxnInput));
-    const LUMINA_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/luminaprivacy/';
+    const CARBON_PRIVACY_URL_MIG = 'https://PROGNET-SK.github.io/luminaprivacy/';
     const migPrivacyRow = document.createElement('div');
     migPrivacyRow.style.cssText = 'margin-bottom: 14px; padding: 10px 12px; border-radius: 6px; background: rgba(0,0,0,0.15); border: 1px solid rgba(255,255,255,0.12);';
     const migPrivacyLabel = document.createElement('label');
@@ -24106,7 +24106,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     migPrivacyCheckbox.style.cssText = 'margin-top: 2px; flex-shrink: 0;';
     migPrivacyLabel.appendChild(migPrivacyCheckbox);
     const migPrivacyText = document.createElement('span');
-    migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + LUMINA_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
+    migPrivacyText.innerHTML = 'Ho letto e accetto la <a href="' + CARBON_PRIVACY_URL_MIG + '" target="_blank" rel="noopener noreferrer" style="color:#00f9f9;font-weight:bold;">Privacy Policy</a> / I have read and accept the Privacy Policy.';
     migPrivacyLabel.appendChild(migPrivacyText);
     migPrivacyRow.appendChild(migPrivacyLabel);
     migrationBox.appendChild(migPrivacyRow);
@@ -24142,11 +24142,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
       migBtn.textContent = labels.sending_request || 'Invio in corso…';
       await new Promise(r => requestAnimationFrame(r));
       try {
-        const p = LUMINA_PACK({ u: uid, h: migHaUserId || '' });
+        const p = CARBON_PACK({ u: uid, h: migHaUserId || '' });
         if (!p) throw new Error('pack_failed');
         const migPrivacyTs = String(Date.now());
         const url =
-          `${LUMINA_LICENSE_ENDPOINT}?action=${encodeURIComponent(LUMINA_ACT_MIG)}` +
+          `${CARBON_LICENSE_ENDPOINT}?action=${encodeURIComponent(CARBON_ACT_MIG)}` +
           `&email=${encodeURIComponent(email)}` +
           `&payment_email=${encodeURIComponent(payEmail)}` +
           `&p=${encodeURIComponent(p)}` +
@@ -24598,32 +24598,32 @@ _createSectionDefs(localeStrings, schemaDefs) {
     if (proPassword && typeof proPassword === 'string' && proPassword.trim()) {
       const trimmed = proPassword.trim();
       const haUserIdOv = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
-      const hashHexV3 = haUserIdOv ? LUMINA_SHA256(trimmed + haUserIdOv) : '';
+      const hashHexV3 = haUserIdOv ? CARBON_SHA256(trimmed + haUserIdOv) : '';
       const v3UsedOv = haUserIdOv && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdOv);
       
       // Use remote list for verification (v3 lock: once v3 used on this device, only v3 accepted)
       let isValid = false;
-      if (LUMINA_AUTH_LIST_V1 === null || LUMINA_AUTH_LIST_V2 === null || LUMINA_AUTH_LIST_V3 === null) {
+      if (CARBON_AUTH_LIST_V1 === null || CARBON_AUTH_LIST_V2 === null || CARBON_AUTH_LIST_V3 === null) {
         // If list is still loading, try to refresh and re-render
-        LUMINA_REFRESH_AUTH(() => {
+        CARBON_REFRESH_AUTH(() => {
           this._rendered = false;
           this.render();
         });
       } else {
         if (v3UsedOv) {
-          const v3Match = !!(hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3));
-          const hashHexV1 = LUMINA_SHA256(trimmed);
-          const v1Match = !!(Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(hashHexV1));
+          const v3Match = !!(hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
+          const hashHexV1 = CARBON_SHA256(trimmed);
+          const v1Match = !!(Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(hashHexV1));
           isValid = v3Match || v1Match;
         } else {
-          const hashHexV1 = LUMINA_SHA256(trimmed);
-          const uidOv = getLuminaUID();
-          const hashHexV2 = LUMINA_SHA256(trimmed + uidOv);
-          isValid = (LUMINA_AUTH_LIST_V1.includes(hashHexV1)) ||
-            (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(hashHexV2)) ||
-            (hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3));
+          const hashHexV1 = CARBON_SHA256(trimmed);
+          const uidOv = getCarbonUID();
+          const hashHexV2 = CARBON_SHA256(trimmed + uidOv);
+          isValid = (CARBON_AUTH_LIST_V1.includes(hashHexV1)) ||
+            (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(hashHexV2)) ||
+            (hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3));
         }
-        if (isValid && hashHexV3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
+        if (isValid && hashHexV3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(hashHexV3) && haUserIdOv && typeof localStorage !== 'undefined') {
           try { localStorage.setItem('lumina_energy_card:v3_used:' + haUserIdOv, '1'); } catch (e) {}
         }
         // Force re-render if authorization state just changed to update PayPal button size
@@ -24636,7 +24636,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         }
       }
       
-      if (!isValid && LUMINA_AUTH_LIST_V1 !== null) {
+      if (!isValid && CARBON_AUTH_LIST_V1 !== null) {
         // Disable overlay if password is not valid (and list is loaded)
         if (newConfig.overlay_image_enabled) {
           newConfig.overlay_image_enabled = false;
@@ -24721,16 +24721,16 @@ _createSectionDefs(localeStrings, schemaDefs) {
     const haUserIdPro = (this._hass && this._hass.user && this._hass.user.id) ? String(this._hass.user.id || '').trim() : '';
     const v3UsedPro = haUserIdPro && typeof localStorage !== 'undefined' && localStorage.getItem('lumina_energy_card:v3_used:' + haUserIdPro);
     if (v3UsedPro) {
-      const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
-      return !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
+      const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
+      return !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
     }
-    const h1 = LUMINA_SHA256(trimmedPw);
-    const uid = getLuminaUID();
-    const h2 = LUMINA_SHA256(trimmedPw + uid);
-    const h3 = haUserIdPro ? LUMINA_SHA256(trimmedPw + haUserIdPro) : '';
-    return (Array.isArray(LUMINA_AUTH_LIST_V1) && LUMINA_AUTH_LIST_V1.includes(h1)) ||
-      (Array.isArray(LUMINA_AUTH_LIST_V2) && LUMINA_AUTH_LIST_V2.includes(h2)) ||
-      !!(h3 && Array.isArray(LUMINA_AUTH_LIST_V3) && LUMINA_AUTH_LIST_V3.includes(h3));
+    const h1 = CARBON_SHA256(trimmedPw);
+    const uid = getCarbonUID();
+    const h2 = CARBON_SHA256(trimmedPw + uid);
+    const h3 = haUserIdPro ? CARBON_SHA256(trimmedPw + haUserIdPro) : '';
+    return (Array.isArray(CARBON_AUTH_LIST_V1) && CARBON_AUTH_LIST_V1.includes(h1)) ||
+      (Array.isArray(CARBON_AUTH_LIST_V2) && CARBON_AUTH_LIST_V2.includes(h2)) ||
+      !!(h3 && Array.isArray(CARBON_AUTH_LIST_V3) && CARBON_AUTH_LIST_V3.includes(h3));
   }
 
   _buildConfigContent() {
@@ -24774,15 +24774,15 @@ _createSectionDefs(localeStrings, schemaDefs) {
     };
 
     // Preview carbon (drag) – only clickable when PRO is active; if not PRO, show message on click
-    const previewLuminaWrap = document.createElement('label');
-    previewLuminaWrap.className = 'editor-toggle';
-    const previewLuminaCb = document.createElement('input');
-    previewLuminaCb.type = 'checkbox';
-    previewLuminaCb.checked = Boolean(this._showLuminaVisualPreview);
-    previewLuminaCb.disabled = !isProForPreview;
-    previewLuminaCb.addEventListener('change', (ev) => {
+    const previewCarbonWrap = document.createElement('label');
+    previewCarbonWrap.className = 'editor-toggle';
+    const previewCarbonCb = document.createElement('input');
+    previewCarbonCb.type = 'checkbox';
+    previewCarbonCb.checked = Boolean(this._showCarbonVisualPreview);
+    previewCarbonCb.disabled = !isProForPreview;
+    previewCarbonCb.addEventListener('change', (ev) => {
       const on = Boolean(ev && ev.target && ev.target.checked);
-      this._showLuminaVisualPreview = on;
+      this._showCarbonVisualPreview = on;
       if (on) {
         this._hideHaPreview = true;
         this._applyHaPreviewVisibility_();
@@ -24790,11 +24790,11 @@ _createSectionDefs(localeStrings, schemaDefs) {
       this._rendered = false;
       this.render();
     });
-    const previewLuminaSpan = document.createElement('span');
-    previewLuminaSpan.textContent = fieldText('editor_toggle_show_lumina_preview', 'Preview carbon (drag) sotto preview HA');
-    previewLuminaWrap.appendChild(previewLuminaCb);
-    previewLuminaWrap.appendChild(previewLuminaSpan);
-    previewLuminaWrap.addEventListener('click', (ev) => {
+    const previewCarbonSpan = document.createElement('span');
+    previewCarbonSpan.textContent = fieldText('editor_toggle_show_lumina_preview', 'Preview carbon (drag) sotto preview HA');
+    previewCarbonWrap.appendChild(previewCarbonCb);
+    previewCarbonWrap.appendChild(previewCarbonSpan);
+    previewCarbonWrap.addEventListener('click', (ev) => {
       if (!this._editorIsProActive_(this._configWithDefaults())) {
         ev.preventDefault();
         ev.stopPropagation();
@@ -24803,7 +24803,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
         if (typeof alert === 'function') alert(msg);
       }
     });
-    toggleRow.appendChild(previewLuminaWrap);
+    toggleRow.appendChild(previewCarbonWrap);
 
     container.appendChild(toggleRow);
 
@@ -24822,7 +24822,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     exportConfigBtn2.addEventListener('mouseleave', () => { exportConfigBtn2.style.background = 'rgba(180,200,100,0.15)'; });
     exportConfigBtn2.addEventListener('click', () => {
       try {
-        const allDefs = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const allDefs = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const data = { _lumina_config_export: true, version: 1 };
         Object.keys(cfg).forEach((k) => { if (k && !k.startsWith('_') && cfg[k] !== undefined) data[k] = cfg[k]; });
@@ -24952,7 +24952,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     exportFlowsBtn.addEventListener('mouseleave', () => { exportFlowsBtn.style.background = 'rgba(0,200,150,0.15)'; });
     exportFlowsBtn.addEventListener('click', () => {
       try {
-        const allDefs1 = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+        const allDefs1 = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
         const cfg = { ...allDefs1, ...(this._configWithDefaults ? this._configWithDefaults() : (this._config || {})) };
         const flowKeys = [];
         for (let i = 1; i <= 10; i++) {
@@ -25123,7 +25123,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
     container.appendChild(ultraCard);
 
     // Pannello Preview carbon (drag) quando abilitato
-    if (this._showLuminaVisualPreview) {
+    if (this._showCarbonVisualPreview) {
       try {
         container.appendChild(this._createEditorPreviewPanel_());
       } catch (e) {
@@ -26258,7 +26258,7 @@ _createSectionDefs(localeStrings, schemaDefs) {
 }
 
 if (!customElements.get('carbon-energy-card-editor')) {
-  customElements.define('carbon-energy-card-editor', LuminaEnergyCardEditor);
+  customElements.define('carbon-energy-card-editor', CarbonEnergyCardEditor);
 }
 
 window.customCards = window.customCards || [];
@@ -26272,13 +26272,13 @@ window.customCards.push({
 
 /* ─── carbon Gallery Module ───
  * Gallery browse, sensor wizard, apply, share, preview capture.
- * These methods are added to LuminaEnergyCardEditor.prototype
+ * These methods are added to CarbonEnergyCardEditor.prototype
  * so they work as regular class methods via `this`.
  * Build order: sec + main + gallery
  */
 
 /** Create an overlay panel inside this editor's shadowRoot (works in HA shadow DOM) */
-LuminaEnergyCardEditor.prototype._createLuminaOverlay_ = function(panelCss) {
+CarbonEnergyCardEditor.prototype._createCarbonOverlay_ = function(panelCss) {
   const root = this.shadowRoot || this;
   /* Remove any previous overlay */
   const prev = root.querySelector('[data-carbon-overlay]');
@@ -26301,7 +26301,7 @@ LuminaEnergyCardEditor.prototype._createLuminaOverlay_ = function(panelCss) {
 };
 
 /** Get sensor label from i18n fields or generate a readable label from the key */
-LuminaEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
+CarbonEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
   if (fields && fields[key]) {
     const f = fields[key];
     return (typeof f === 'string') ? f : (f.label || key);
@@ -26309,10 +26309,10 @@ LuminaEnergyCardEditor.prototype._sensorKeyToLabel_ = function(key, fields) {
   return key.replace(/^sensor_/, '').replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 };
 
-LuminaEnergyCardEditor.prototype._openGalleryModal_ = function() {
+CarbonEnergyCardEditor.prototype._openGalleryModal_ = function() {
   const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
   const fields = (localeStrings && localeStrings.fields) || {};
-  const galleryBase = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? String(LUMINA_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
+  const galleryBase = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? String(CARBON_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
   const L = {
     title: fields.editor_gallery_title || 'Gallery',
     useThis: fields.editor_use_this_template || 'Use this',
@@ -26337,7 +26337,7 @@ LuminaEnergyCardEditor.prototype._openGalleryModal_ = function() {
   };
   if (!galleryBase) { alert(L.noEndpoint); return; }
 
-  const ov = this._createLuminaOverlay_('width:min(720px,100%);min-width:0;');
+  const ov = this._createCarbonOverlay_('width:min(720px,100%);min-width:0;');
   const panel = ov._panel;
   const closeOverlay = ov._close;
 
@@ -26673,7 +26673,7 @@ LuminaEnergyCardEditor.prototype._openGalleryModal_ = function() {
 };
 
 /** Sensor mapping wizard shown after selecting a gallery template */
-LuminaEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L, fields) {
+CarbonEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L, fields) {
   const sensorKeys = Object.keys(importedConfig).filter((k) => k.startsWith('sensor_') && importedConfig[k] && typeof importedConfig[k] === 'string' && importedConfig[k].trim());
   const cfKeys = Object.keys(importedConfig).filter((k) => /^custom_flow_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
   const ctKeys = Object.keys(importedConfig).filter((k) => /^custom_text_\d+_sensor$/.test(k) && importedConfig[k] && typeof importedConfig[k] === 'string');
@@ -26687,7 +26687,7 @@ LuminaEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L
     return;
   }
 
-  const ov = this._createLuminaOverlay_('width:min(560px,92vw);');
+  const ov = this._createCarbonOverlay_('width:min(560px,92vw);');
   const panel = ov._panel;
   const closeOverlay = ov._close;
 
@@ -26802,8 +26802,8 @@ LuminaEnergyCardEditor.prototype._openSensorWizard_ = function(importedConfig, L
 };
 
 /** Apply a gallery config to the editor */
-LuminaEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig) {
-  const allDefaults = (typeof LuminaEnergyCard !== 'undefined' && typeof LuminaEnergyCard.getStubConfig === 'function') ? LuminaEnergyCard.getStubConfig() : {};
+CarbonEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig) {
+  const allDefaults = (typeof CarbonEnergyCard !== 'undefined' && typeof CarbonEnergyCard.getStubConfig === 'function') ? CarbonEnergyCard.getStubConfig() : {};
   const currentConfig = this._config || {};
   const newConfig = { ...currentConfig };
 
@@ -26860,7 +26860,7 @@ LuminaEnergyCardEditor.prototype._applyGalleryConfig_ = function(importedConfig)
 };
 
 /** Get preview image base64 from config's background_image (full resolution) */
-LuminaEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
+CarbonEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
   return new Promise((resolve) => {
     try {
       const cfg = this._configWithDefaults ? this._configWithDefaults() : (this._config || {});
@@ -26912,10 +26912,10 @@ LuminaEnergyCardEditor.prototype._captureGalleryPreview_ = function() {
   });
 };
 
-LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
+CarbonEnergyCardEditor.prototype._shareToGallery_ = function() {
   const localeStrings = (typeof this._getLocaleStrings === 'function') ? this._getLocaleStrings() : null;
   const fields = (localeStrings && localeStrings.fields) || {};
-  const galleryBase = (typeof LUMINA_LICENSE_ENDPOINT === 'string' && LUMINA_LICENSE_ENDPOINT) ? String(LUMINA_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
+  const galleryBase = (typeof CARBON_LICENSE_ENDPOINT === 'string' && CARBON_LICENSE_ENDPOINT) ? String(CARBON_LICENSE_ENDPOINT).replace(/\/$/, '') : '';
   const L = {
     noEndpoint: fields.editor_gallery_no_endpoint || 'Set license Worker URL to use gallery',
     shareSuccess: fields.editor_gallery_share_success || 'Shared successfully',
@@ -26937,7 +26937,7 @@ LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
   };
   if (!galleryBase) { alert(L.noEndpoint); return; }
 
-  const ov = this._createLuminaOverlay_('width:min(440px,90vw);min-height:min(400px,60vh);');
+  const ov = this._createCarbonOverlay_('width:min(440px,90vw);min-height:min(400px,60vh);');
   const panel = ov._panel;
   const closeOverlay = ov._close;
 
@@ -27238,7 +27238,7 @@ LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
    * @param {Object} hass - Home Assistant object
    * @returns {string} URL for background image
    */
-  LuminaEnergyCard.prototype._getResolvedDayNightBackground_ = function(config, hass) {
+  CarbonEnergyCard.prototype._getResolvedDayNightBackground_ = function(config, hass) {
     var enabled = config && config.night_mode_enabled === true;
     var overrideNight = config && config.night_mode_override === true;
     var nightUrl = (config && config.background_image_night && String(config.background_image_night).trim()) || '';
@@ -27263,7 +27263,7 @@ LuminaEnergyCardEditor.prototype._shareToGallery_ = function() {
   /**
    * Base day background URL (same logic as main.js before day/night).
    */
-  LuminaEnergyCard.prototype._getDayBackgroundUrl_ = function(config) {
+  CarbonEnergyCard.prototype._getDayBackgroundUrl_ = function(config) {
     var defaultBg = DEFAULT_DAY_BG;
     if (config && config.installation_type === '4') {
       return (config.background_image && String(config.background_image).trim()) || '';
