@@ -20879,7 +20879,7 @@ class CarbonEnergyCardEditor extends HTMLElement {
       },
       sk: {
         sections: {
-          updates: { title: 'Aktualizácie', helper: 'Dôležité informácie od vývojára (vzdialené).' },
+          //updates: { title: 'Aktualizácie', helper: 'Dôležité informácie od vývojára (vzdialené).' },
           language: { title: 'Jazyk', helper: 'Vyberte jazyk editora.' },
           installation_type: { title: 'Typ inštalácie', helper: 'Vyberte typ inštalácie pre správnu konfiguráciu karty.' },
           performance_mode: { title: 'Výkonnostný režim', helper: 'Nastavte úrovneň animácií. Režim Low zjednoduší náročné štýly na slabších zariadeniach.' },
