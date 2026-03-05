@@ -34,7 +34,10 @@ const __URL_GSAP_UMD_2 = __b64(__s(
 ));
 const __NS_SVG = __b64(__s('aHR0cDovL3d3dy53My5vcmcvMjAwMC', '9zdmc='));
 const __NS_XLINK = __b64(__s('aHR0cDovL3d3dy53My5vcmcvMTk5OS', '94bGluaw=='));
-const __URL_ECHO_ALIVE = __b64(__s(  'aHR0cHM6Ly9HaW9yZ2lvODY2LmdpdGh1Yi5pby9BbGl2','ZS1lY2hvLz92PTY='));
+
+//const __URL_ECHO_ALIVE = __b64(__s(  'aHR0cHM6Ly9HaW9yZ2lvODY2LmdpdGh1Yi5pby9BbGl2','ZS1lY2hvLz92PTY='));
+const __URL_ECHO_ALIVE = __b64(__s(  '',''));
+
 const __URL_GOOGLE_FONTS = __b64(__s(
   'aHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3My',
   'P2ZhbWlseT1FeG8rMjp3Z2h0QDQwMDs2MDA7NzAwJmZh',
@@ -42,11 +45,11 @@ const __URL_GOOGLE_FONTS = __b64(__s(
   'c3BsYXk9c3dhcA=='
 ));
 const __URL_GH_REPO = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjYv',
-  'bHVtaW5hLWVuZXJneS1jYXJk'
+  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0sv',
+  'Y2FyYm9uLWVuZXJneS1jYXJk'
 ));
 const __URL_GH_PROFILE = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjY='
+  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0s='
 ));
 const __URL_PAYPAL_DONATE = __b64(__s(
   'aHR0cHM6Ly93d3cucGF5cGFsLmNvbS9jZ2ktYmluL3dl',
