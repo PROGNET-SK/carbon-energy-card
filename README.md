@@ -1,7 +1,7 @@
 # Carbon Energy Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
-![Version](https://img.shields.io/badge/version-3.3.5-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 
 Repository: [https://github.com/PROGNET-SK/carbon-energy-card](https://github.com/PROGNET-SK/carbon-energy-card)
 
@@ -10,12 +10,8 @@ Repository: [https://github.com/PROGNET-SK/carbon-energy-card](https://github.co
 This project is licensed under the **PolyForm Noncommercial License 1.0.0** (`LICENSE`).
 Commercial use / resale requires a separate agreement (`COMMERCIAL-LICENSE.md`).
 
-**[Install directly (HACS)][install]** · Support: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/giorgiosalierno) · [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-PROGNET-SK-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/PROGNET-SK)  
+Support: [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/giorgiosalierno) · [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-PROGNET-SK-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/PROGNET-SK)  
 *Send as donation; other payment methods will be refunded.*
-
-[install]: https://my.home-assistant.io/redirect/hacs_repository/?owner=PROGNET-SK&repository=carbon-energy-card&category=frontend
-
-[![Open your Home Assistant instance and add this repository to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)][install]
 
 ![Carbon Energy Card](https://raw.githubusercontent.com/PROGNET-SK/carbon-energy-card/main/Images/screen.jpg)
 
@@ -35,16 +31,18 @@ Carbon Energy Card is a Home Assistant custom Lovelace card that displays animat
 
 ### Installation
 
-**One-click install (HACS):**  
-[![Open your Home Assistant instance and add this repository to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)][install]  
-Click the badge → your Home Assistant opens → the repo is added to HACS. Then go to **HACS → Frontend**, search **Carbon Energy Card**, and install. Finally: **Dashboard → Edit → Add card → Carbon Energy Card**.
+**Install via HACS (recommended):**
 
-**HACS (manual):**
-1. HACS → Frontend → Custom repositories → Add `https://github.com/PROGNET-SK/carbon-energy-card` (category: Dashboard).
-2. Search **Carbon Energy Card**, install it.
-3. Dashboard → Edit → Add card → **Carbon Energy Card**.
+> ⚠️ This repository is a **custom repository** and is not yet listed in the HACS default store.  
+> Use the manual HACS steps below to add it.
 
-**Manual (no HACS):** Place `carbon-energy-card.js` and `lumina_background.png` in `/config/www/community/carbon-energy-card/`, add the Lovelace resource, restart Home Assistant.
+1. In Home Assistant open **HACS → Frontend**.
+2. Click the **⋮ menu** (top right) → **Custom repositories**.
+3. Paste `https://github.com/PROGNET-SK/carbon-energy-card` and select category **Dashboard**.
+4. Click **Add** → the card appears in the list → click **Download**.
+5. **Dashboard → Edit → Add card → Carbon Energy Card**.
+
+**Manual (no HACS):** Download `carbon-energy-card.js` from the [dist folder](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist), place it (and optionally `carbon_background1.png`) in `/config/www/community/carbon-energy-card/`, add the Lovelace resource, restart Home Assistant.
 
 ### Minimal configuration
 
@@ -280,13 +278,18 @@ Carbon Energy Card je vlastná karta Lovelace pre Home Assistant, ktorá zobrazu
 
 ### Inštalácia
 
-**Inštalácia jedným kliknutím (HACS):**  
-Vo vašom Home Assistant inštalácií prejdite do HACS, pridajte repozitár a nainštalujte **Carbon Energy Card**. Pridajte kartu na Dashboard.
+**Inštalácia cez HACS (odporúčané):**
 
-**HACS (manuálne):**
-1. HACS → Frontend → Vlastné repozitáre → Pridať `https://github.com/PROGNET-SK/carbon-energy-card` (kategória: Dashboard).
-2. Vyhľadajte **Carbon Energy Card** a nainštalujte ju.
-3. Dashboard → Upraviť → Pridať kartu → **Carbon Energy Card**.
+> ⚠️ Tento repozitár je **vlastný (custom) repozitár** a nie je zatiaľ zaradený do predvoleného zoznamu HACS.  
+> Pridajte ho manuálne podľa krokov nižšie.
+
+1. V Home Assistant otvorte **HACS → Frontend**.
+2. Kliknite na **⋮ menu** (vpravo hore) → **Vlastné repozitáre**.
+3. Vložte `https://github.com/PROGNET-SK/carbon-energy-card` a vyberte kategóriu **Dashboard**.
+4. Kliknite **Pridať** → karta sa zobrazí v zozname → kliknite **Stiahnuť**.
+5. **Dashboard → Upraviť → Pridať kartu → Carbon Energy Card**.
+
+**Manuálne (bez HACS):** Stiahnite `carbon-energy-card.js` zo [priečinka dist](https://github.com/PROGNET-SK/carbon-energy-card/tree/main/dist), umiestnite ho do `/config/www/community/carbon-energy-card/`, pridajte Lovelace resource a reštartujte Home Assistant.
 
 ### Minimálna konfigurácia
 

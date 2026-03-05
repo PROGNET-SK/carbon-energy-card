@@ -1,5 +1,8 @@
 {
   "name": "Carbon Energy Card",
-  "render_readme": true,
-  "content_in_root": false
+  "content_in_root": true,
+  "country": "all",
+  "homeassistant": "2022.12.0",
+  "iot_class": "local_polling",
+  "zip_release": true
 }
