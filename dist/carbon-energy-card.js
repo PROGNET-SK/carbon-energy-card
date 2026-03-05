@@ -9,8 +9,8 @@ const __b64 = (s) => {
 
 /*
 const __URL_GH_RELEASES_LATEST = __b64(__s(
-  'aHR0cHM6Ly9naXRodWIuY29tL0dpb3JnaW84NjYv',
-  'bHVtaW5hLWVuZXJneS1jYXJkL3JlbGVhc2VzL2xhdGVzdA=='
+  'aHR0cHM6Ly9naXRodWIuY29tL1BST0dORVQtU0s=',
+  'Y2FyYm9uLWVuZXJneS1jYXJkL3JlbGVhc2VzL2xhdGVzdA=='
 ));
 */
 
@@ -7965,7 +7965,7 @@ class CarbonEnergyCard extends HTMLElement {
     const textButtonBlock = showTextButton
       ? roundBtn(activeTextLabel, 'active-text-button-container', `<text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${activeTextLabel}</text>`)
       : '';
-    const echoAliveLabel = 'ECHO';
+    const echoAliveLabel = 'ECHO[]';
     const echoAliveButtonBlock = (enableEchoAlive && !isEditorActive) ? `<div class="carbon-round-btn echo-alive-container" data-role="echo-alive-container" style="width: ${btnSizePx}px; height: ${btnSizePx}px; flex-shrink: 0; position: relative; overflow: hidden; cursor: pointer; pointer-events: auto; border-radius: 50%;"><iframe class="echo-alive-iframe" src="${__URL_ECHO_ALIVE}" title="Echo Alive" data-role="echo-alive-iframe"></iframe><svg class="carbon-round-btn-svg" viewBox="0 0 ${roundSize} ${roundSize}" preserveAspectRatio="xMidYMid meet" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%; display: block; pointer-events: none;"><circle cx="${roundSize/2}" cy="${roundSize/2}" r="${roundSize/2 - 1}" class="alive-box carbon-round-bg" /><text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${echoAliveLabel}</text></svg></div>` : '';
     const showButtonsRow = showTextButton || showHomeButton || (enableEchoAlive && !isEditorActive);
     const homeButtonBlock = showHomeButton ? `${roundBtn(homeLabel, 'home-button-container', `<text x="${roundSize/2}" y="${roundSize/2 + 0.3}" class="alive-text" font-size="${roundFontSize}" font-weight="bold" text-anchor="middle" dominant-baseline="central" style="pointer-events: none;">${homeLabel}</text>`)}
